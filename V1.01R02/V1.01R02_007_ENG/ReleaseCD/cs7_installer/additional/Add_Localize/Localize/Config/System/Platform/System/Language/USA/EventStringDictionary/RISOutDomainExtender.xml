@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="RISOutDomainExtender0001">
+      <Title>Ping Status</Title>
+      <Message>Connected successfully.</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0002">
+      <Title>Ping Status</Title>
+      <Message>Failed to connect.</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0003">
+      <Title />
+      <Message>Is it OK to delete the selected queue?</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0004">
+      <Title>Attention</Title>
+      <Message>Please select queue(s) that is to be deleted.</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0005">
+      <Title>Confirmation</Title>
+      <Message>Is it OK to delete the selected queue?</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0006">
+      <Title>Information</Title>
+      <Message>Successfully deleted the select queue(s)</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0007">
+      <Title>Error</Title>
+      <Message>Error in queue deletion.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

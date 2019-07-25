@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ApolloDomainExtender0001">
+      <Title>Ping 狀態</Title>
+      <Message>連接成功。</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0002">
+      <Title>Ping 狀態</Title>
+      <Message>連接失敗。</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0003">
+      <Title>確認</Title>
+      <Message>確定要取消登錄嗎？</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0004">
+      <Title>錯誤</Title>
+      <Message>裝置取消失敗。</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0005">
+      <Title>錯誤</Title>
+      <Message>由於未選擇裝置，所以無法處理要求</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0006">
+      <Title>資訊</Title>
+      <Message>無線</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0007">
+      <Title>資訊</Title>
+      <Message>有線</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

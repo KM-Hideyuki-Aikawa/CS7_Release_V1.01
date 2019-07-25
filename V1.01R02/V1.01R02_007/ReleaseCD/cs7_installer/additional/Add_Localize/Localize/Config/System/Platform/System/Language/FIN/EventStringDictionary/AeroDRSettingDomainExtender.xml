@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="AeroDRSettingDomainExtender0003">
+      <Title>Virhe</Title>
+      <Message>Virheelliset korjaustiedot valittu.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0004">
+      <Title>Vahvistus</Title>
+      <Message>Korjaustiedot ovat jo olemassa. Haluatko varmasti korvata ne?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0005">
+      <Title>Virhe</Title>
+      <Message>AeroDR-paneelin lisäys epäonnistui.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0006">
+      <Title>Virhe</Title>
+      <Message>AeroDR/paneelin tietoja ei saatu.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0007">
+      <Title>Virhe</Title>
+      <Message>AeroDR/paneelin määritys epäonnistui.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0008">
+      <Title>Virhe</Title>
+      <Message>XG BOXin lisäys epäonnistui.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0009">
+      <Title>Virhe</Title>
+      <Message>XG BOXin hakeminen epäonnistui.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0010">
+      <Title>Virhe</Title>
+      <Message>XG BOXin määrittäminen epäonnistui.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0011">
+      <Title>Virhe</Title>
+      <Message>AeroDR-paneelin poistaminen epäonnistui.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0012">
+      <Title>Vahvistus</Title>
+      <Message>Haluatko varmasti poistaa AeroDR-paneelin rekisteröinnin?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0013">
+      <Title>Vahvistus</Title>
+      <Message>AeroDR-paneelin konfiguraatiota ei ole ladattu. Haluatko varmasti poistaa AeroDR-paneelin rekisteröinnin?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0014">
+      <Title>Vahvistus</Title>
+      <Message>Kaikkien AeroDR-paneelien tai XG BOXien konfiguraatiota ei ole lähetetty. Haluatko varmasti tallentaa konfiguraation?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0015">
+      <Title>Huomio</Title>
+      <Message>Muutoksia ei voi peruuttaa. AeroDR-paneelin tai XG BOXin konfiguraatio on jo lähetetty.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0016">
+      <Title>Virhe</Title>
+      <Message>Virheellisiä tietoja. Tarkista syötteet.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0017">
+      <Title>Virhe</Title>
+      <Message>Muuta AeroDR-paneelin konfiguraatiota.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0018">
+      <Title>Vahvistus</Title>
+      <Message>Haluatko varmasti lähettää asetuksen palvelimelle?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0019">
+      <Title>Virhe</Title>
+      <Message>Asetuksen siirrossa tapahtui virhe. Tarkista verkkoyhteys ja yritä uudelleen.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>SystemInformation</Key>
+      <Value>معلومات النظام</Value>
+      <Comment>SystemInformation</Comment>
+      <Link />
+      <FontSize>14</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Console</Key>
+      <Value>اسم وحدة التحكم</Value>
+      <Comment>ConsoleName</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SerialNo</Key>
+      <Value>رقم مسلسل</Value>
+      <Comment>SerialNumber</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Versionid</Key>
+      <Value>الإصدار</Value>
+      <Comment>Version</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HospitalID</Key>
+      <Value>مُعرف المستشفى</Value>
+      <Comment>HospitalID</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HDD</Key>
+      <Value>HDD</Value>
+      <Comment>HDD</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Drive</Key>
+      <Value>محرك الأقراص</Value>
+      <Comment>Drive</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UsageRatio</Key>
+      <Value>نسبة الاستخدام(%)</Value>
+      <Comment>Usage Ratio(%)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Noofimage</Key>
+      <Value>صورة محمية</Value>
+      <Comment>Number of Guard Images</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CpuMemory</Key>
+      <Value>معالج/ذاكرة</Value>
+      <Comment>CPU/Memory</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CPU</Key>
+      <Value>وحدة المعالجة المركزية</Value>
+      <Comment>CPU</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Memory</Key>
+      <Value>الذاكرة</Value>
+      <Comment>Memory</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Process</Key>
+      <Value>عملية</Value>
+      <Comment>Process</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Name</Key>
+      <Value>الاسم</Value>
+      <Comment>Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Status</Key>
+      <Value>الحالة</Value>
+      <Comment>Status</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MemoryMB</Key>
+      <Value>ذاكرة(ميغابايت)</Value>
+      <Comment>Memory(MB)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Service</Key>
+      <Value>خدمة</Value>
+      <Comment>Service</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ServiceName</Key>
+      <Value>اسم الخدمة</Value>
+      <Comment>Service Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkInfo</Key>
+      <Value>معلومات الشبكة</Value>
+      <Comment>NetworkInfo</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IPAddress</Key>
+      <Value>عنوان IP</Value>
+      <Comment>IPAddress</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Subnet</Key>
+      <Value>قناع الشبكة الفرعية</Value>
+      <Comment>SubnetMask</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Return</Key>
+      <Value>رجوع</Value>
+      <Comment>Return</Comment>
+      <Link />
+      <FontSize>16</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HDDUsageCaption</Key>
+      <Value>HDD</Value>
+      <Comment>HDDUsageCaption</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SystemUsage</Key>
+      <Value>استخدام المعالج / الذاكرة</Value>
+      <Comment>SystemUsage</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CDriveUsageCaption</Key>
+      <Value>C:\</Value>
+      <Comment>CDriveUsageCaption</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DDriveUsageCaption</Key>
+      <Value />
+      <Comment>DDriveUsageCaption</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

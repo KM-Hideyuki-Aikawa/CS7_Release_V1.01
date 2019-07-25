@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title>Attenzione</Title>
+      <Message>Inserire un valore numerico.</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title>Attenzione</Title>
+      <Message>Inserire i dati validi</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title>Errore</Title>
+      <Message>Ottenere errore avvio calibrazione</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title>Errore</Title>
+      <Message>Sfalsamento errore avvio calibrazione</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title>Conferma</Title>
+      <Message>Si desidera annullare il processo di guadagno calibrazione?</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title>Conferma</Title>
+      <Message>Si desidera annullare il processo di guadagno calibrazione??</Message>
+    </EventString>
+    <EventString Key="0107">
+      <Title>Conferma</Title>
+      <Message>Si desidera annullare il processo di guadagno calibrazione?</Message>
+    </EventString>
+    <EventString Key="0108">
+      <Title>Conferma</Title>
+      <Message>Guadagno calibrazione completato con successo.</Message>
+    </EventString>
+    <EventString Key="0109">
+      <Title>Conferma</Title>
+      <Message>Sfasamento calibrazione completato con successo.</Message>
+    </EventString>
+    <EventString Key="0110">
+      <Title>Errore</Title>
+      <Message>Guadagno calibrazione fallito</Message>
+    </EventString>
+    <EventString Key="0111">
+      <Title>Errore</Title>
+      <Message>Sfalsamento calibrazione fallito</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

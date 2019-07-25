@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="MediaOutputDomainExtender0000">
+      <Title />
+      <Message>输入的年度无效</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0001">
+      <Title />
+      <Message>输入的月份无效</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0002">
+      <Title />
+      <Message>输入的日期无效</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0003">
+      <Title />
+      <Message>数值超出范围</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0004">
+      <Title />
+      <Message>长度大于最大长度</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0005">
+      <Title />
+      <Message>长度小于最小长度</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0006">
+      <Title />
+      <Message>输入的不是数值</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0007">
+      <Title />
+      <Message>输入值无效</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0008">
+      <Title />
+      <Message>只许用字母</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0009">
+      <Title />
+      <Message>只许用日文假名</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0010">
+      <Title />
+      <Message>无效值。此处不能使用“\\”、“^”、“=”</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0011">
+      <Title />
+      <Message>不得使用双字节文字</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0012">
+      <Title />
+      <Message>输入的字符无效</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0013">
+      <Title />
+      <Message>媒体写入错误</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0014">
+      <Title />
+      <Message>未插入媒体</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0015">
+      <Title />
+      <Message>数据已经提交</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0016">
+      <Title />
+      <Message>空间不足</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0017">
+      <Title />
+      <Message>指定的文件夹名称无效。</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0018">
+      <Title />
+      <Message>下列字符不能用于文件夹名称。  
+.\/:*?"&amp;lt;&amp;gt;|</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0019">
+      <Title />
+      <Message>存在相同的文件夹名称，  改写吗？</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0020">
+      <Title />
+      <Message>正在取消，  请稍候。</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0021">
+      <Title />
+      <Message>该项目不能使用“\”、“=”。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PrinterDomainExtender0001">
+      <Title>Ping Durumu</Title>
+      <Message>Başarıyla bağlandı.</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0002">
+      <Title>Ping Durumu</Title>
+      <Message>Bağlanamadı.</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0003">
+      <Title />
+      <Message>Ping(C-ECHO) hangi servis için çalıştırılmalı？</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0004">
+      <Title>Onay</Title>
+      <Message>Seçilen kuyruk silinsin mi?</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0005">
+      <Title>Dikkat</Title>
+      <Message>Lütfen silinecek kuyruğu (kuyrukları) seçin.</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0006">
+      <Title>Bilgi</Title>
+      <Message>Seçilen kuyruk(lar) başarıyla silinir</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0007">
+      <Title>Hata</Title>
+      <Message>Kuyruk silmede hata.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

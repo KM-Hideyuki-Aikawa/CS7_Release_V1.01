@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ExpSetKeyListDomainExtender0000">
+      <Title />
+      <Message>Va bene modificare i parametri di elaborazione immagine?</Message>
+    </EventString>
+    <EventString Key="ExpSetKeyListDomainExtender0001">
+      <Title />
+      <Message>Va bene cancellare il codice a barre della cassetta registrato?</Message>
+    </EventString>
+    <EventString Key="ExpSetKeyListDomainExtender0002">
+      <Title />
+      <Message>Impossibile registrare più di {MaxSize} immagini.</Message>
+    </EventString>
+    <EventString Key="ExpSetKeyListDomainExtender0003">
+      <Title />
+      <Message>Un codice a barre è registrato a questa chiave di condizione catturazione. Si vuole cambiare la registrazione?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

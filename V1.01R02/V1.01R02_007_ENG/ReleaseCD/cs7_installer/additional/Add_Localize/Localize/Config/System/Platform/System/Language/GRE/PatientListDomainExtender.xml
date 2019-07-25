@@ -1,0 +1,1436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>FA_StudyDate</Key>
+      <Value>Ημερομηνία μελέτης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FA_PatientID</Key>
+      <Value>Αναγνωριστικό ασθενούς</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FA_RequestingService</Key>
+      <Value>Τμήμα</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FA_PatientResidence</Key>
+      <Value>Πτέρυγα</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FA_PerformedStationNameAE</Key>
+      <Value>Οντότητα εφαρμογής σταθμού</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FA_PerformedLocation</Key>
+      <Value>Τοποθεσία</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FA_PatientNameRomaji</Key>
+      <Value>Όνομα ασθενούς</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FA_PatientNameKanji</Key>
+      <Value>Όνομα ασθενούς</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FA_PatientNameKana</Key>
+      <Value>Όνομα ασθενούς</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FA_AccessionNumber</Key>
+      <Value>Αριθμός εισαγωγής</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OrderLid</Key>
+      <Value>Αρ. εντολής</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientID</Key>
+      <Value>Αναγνωριστικό ασθενούς</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientNameRomaji</Key>
+      <Value>Όνομα ασθενούς</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientNameKanji</Key>
+      <Value>Όνομα ασθενούς</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientNameKana</Key>
+      <Value>Όνομα ασθενούς</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PrinterStatus</Key>
+      <Value>Κατάσταση εκτυπωτή</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HostStatus</Key>
+      <Value>Κατάσταση κεντρικού υπολογιστή</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Sex</Key>
+      <Value>Φύλο</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BirthDate</Key>
+      <Value>Ημερομηνία γέννησης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyDate</Key>
+      <Value>Ημερομηνία μελέτης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyTime</Key>
+      <Value>Ώρα μελέτης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientComments</Key>
+      <Value>Σχόλια ασθενούς</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestedProcedureDescription</Key>
+      <Value>Αιτούμενη περιγραφή</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestingService</Key>
+      <Value>Αίτημα σέρβις</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientResidence</Key>
+      <Value>Διαμονή ασθενούς</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OrderImgSize</Key>
+      <Value>Μέτρηση</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CreateDateTime</Key>
+      <Value>Ημερομηνία και ώρα δημιουργίας</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InnerOrderSize</Key>
+      <Value>Μέτρηση</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DetetedProtectFlag</Key>
+      <Value>Προστασία</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresetName</Key>
+      <Value>Προκαθορισμένο όνομα</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OrderList</Key>
+      <Value>Λίστα σειράς</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CompletedStudies</Key>
+      <Value>Ολοκληρώθηκαν</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Suspend</Key>
+      <Value>Αναστολή</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Portable</Key>
+      <Value>Φορητό</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AllData</Key>
+      <Value>Όλες</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BUTTON_DELETE</Key>
+      <Value>Διαγραφή</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BUTTON_EDIT</Key>
+      <Value>Τροποποίηση</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BUTTON_REFER</Key>
+      <Value>Ιστορικό</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BUTTON_APPEND</Key>
+      <Value>Προσάρτηση</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BUTTON_GAURD</Key>
+      <Value>Προστασία</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BUTTON_REFRESH</Key>
+      <Value>Ανανέωση</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BUTTON_TESTBUTTON</Key>
+      <Value>Κουμπί δοκιμής</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamRoom1</Key>
+      <Value>Δωμάτιο εξέτασης 1</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamRoom2</Key>
+      <Value>Δωμάτιο εξέτασης 2</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamRoom3</Key>
+      <Value>Δωμάτιο εξέτασης 3</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Ward1</Key>
+      <Value>Πτέρυγα 1</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Ward2</Key>
+      <Value>Πτέρυγα 2</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Ward3</Key>
+      <Value>Πτέρυγα 3</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Operator1</Key>
+      <Value>Χειριστής 1</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Operator2</Key>
+      <Value>Χειριστής 2</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Operator3</Key>
+      <Value>Χειριστής 3</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>STUDY_NOT_EXPOSED</Key>
+      <Value>Μη εκτεθειμένο</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>STUDY_COMPLETED</Key>
+      <Value>Ολοκληρώθηκαν</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>STUDY_SUSPENDED</Key>
+      <Value>Αναστολή</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>STUDY_INPROGRESS</Key>
+      <Value>Σε εξέλιξη</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>STUDY_QAWAITING</Key>
+      <Value>ΑΝΑΜΟΝΗ ΓΙΑ ΕΛΕΓΧΟ ΠΟΙΟΤΗΤΑΣ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>STUDY_INTERRUPTED</Key>
+      <Value>Διακοπή</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>STUDY_DELETED</Key>
+      <Value>Del</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Year</Key>
+      <Value>/</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Month</Key>
+      <Value>/</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Week</Key>
+      <Value>/</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AgeMonth</Key>
+      <Value>M</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Day</Key>
+      <Value>/</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Gaurd</Key>
+      <Value>G</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Smoker</Key>
+      <Value>Καπνιστής</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NonSmoker</Key>
+      <Value>Μη καπνιστής</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Unknown</Key>
+      <Value>Άγνωστο</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Male</Key>
+      <Value>Άντρας</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Female</Key>
+      <Value>Γυναίκα</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Unidentified</Key>
+      <Value>Απροσδιόριστο</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>None</Key>
+      <Value>Όχι εγκυμοσύνη</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Possible</Key>
+      <Value>Δυνατό</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Pregnent</Key>
+      <Value>Εγκυμοσύνη</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Standard</Key>
+      <Value>ΑΜΕΣΩΣ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>High</Key>
+      <Value>ΥΨΗΛΟ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Routine</Key>
+      <Value>ΡΟΥΤΙΝΑ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Medium</Key>
+      <Value>ΜΕΤΡΙΟ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Low</Key>
+      <Value>ΧΑΜΗΛΟ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ClearString</Key>
+      <Value>Απαλοιφή</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SearchString</Key>
+      <Value>Φίλτρο</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageCount</Key>
+      <Value>Μέτρηση εικόνας</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AgeYear</Key>
+      <Value>Ε</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SPS_INPROGRESS</Key>
+      <Value>Σε εξέλιξη</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SPS_PENDING</Key>
+      <Value>Σε εκκρεμότητα</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Hour</Key>
+      <Value>h</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Minute</Key>
+      <Value>m</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Second</Key>
+      <Value>s</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamTag</Key>
+      <Value>Ετικέτα εξέτασης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OtherStudyStatus</Key>
+      <Value>Άλλη κατάσταση μελέτης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PhysicianNameRomaji</Key>
+      <Value>Όνομα παραπέμποντος ιατρού</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PhysicianNameKanji</Key>
+      <Value>Όνομα παραπέμποντος ιατρού (πολλαπλά byte)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PhysicianNameKana</Key>
+      <Value>Όνομα παραπέμποντος ιατρού (Φωνητικά)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Height</Key>
+      <Value>Ύψος [μ.]</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Weight</Key>
+      <Value>Βάρος [κιλά]</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Occupation</Key>
+      <Value>Επάγγελμα</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestedPriority</Key>
+      <Value>Αιτούμενη προτεραιότητα</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestedContrastAgent</Key>
+      <Value>Αιτούμενο μέσο σκίασης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PreMedication</Key>
+      <Value>Προ-φάρμακο</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestingPhysicianNameRomaji</Key>
+      <Value>Όνομα αιτούντος ιατρού</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestingPhysicianNameKanji</Key>
+      <Value>Όνομα αιτούντος ιατρού (πολλαπλά byte)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestingPhysicianNameKana</Key>
+      <Value>Όνομα αιτούντος ιατρού (Φωνητικά)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScheduledPerformingPhysicianNameRomaji</Key>
+      <Value>Προγραμματισμένος υπεύθυνος ιατρός</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScheduledPerformingPhysicianNameKanji</Key>
+      <Value>Προγραμματισμένος υπεύθυνος ιατρός</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScheduledPerformingPhysicianNameKana</Key>
+      <Value>Προγραμματισμένος υπεύθυνος ιατρός</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OtherPatientID</Key>
+      <Value>Άλλο αναγνωριστικό ασθενούς</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OtherPatientNameRomaji</Key>
+      <Value>Άλλο όνομα ασθενούς</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OtherPatientNameKanji</Key>
+      <Value>Άλλο όνομα ασθενούς (πολλαπλά byte)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OtherPatientNameKana</Key>
+      <Value>Άλλο όνομα ασθενούς (Φωνητικά)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Nationality</Key>
+      <Value>Εθνοτική ομάδα</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientBirthNameRomaji</Key>
+      <Value>Επώνυμο ασθενούς</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientBirthNameKanji</Key>
+      <Value>Επώνυμο ασθενούς (πολλαπλά byte)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientBirthNameKana</Key>
+      <Value>Επώνυμο ασθενούς (Φωνητικά)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientMotherNameRomaji</Key>
+      <Value>Πατρικό επώνυμο</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientMotherNameKanji</Key>
+      <Value>Πατρικό επώνυμο</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientMotherNameKana</Key>
+      <Value>Πατρικό επώνυμο</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RecordLocator</Key>
+      <Value>Εντοπισμός ιατρικού ιστορικού</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MediaOutputStatus</Key>
+      <Value>Κατάσταση εξαγωγής σε μέσο</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AccessionNumber</Key>
+      <Value>Αριθμός εισαγωγής</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PerformedNo</Key>
+      <Value>Αρ. εκτέλεσης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PerformedStationNameAE</Key>
+      <Value>Τίτλος οντότητας εφαρμογής (AE) σταθμού εκτέλεσης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PerformedStationName</Key>
+      <Value>Όνομα σταθμού εκτέλεσης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PerformedLocation</Key>
+      <Value>Τοποθεσία εκτέλεσης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PpsStartDate</Key>
+      <Value>Ημερομηνία έναρξης βήματος εκτελεσμένης διαδικασίας</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PpsStartTime</Key>
+      <Value>Ώρα έναρξης PPS</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PpsDescription</Key>
+      <Value>Περιγραφή μελέτης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientAge</Key>
+      <Value>Ηλικία ασθενούς</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyDescription</Key>
+      <Value>Σχόλια μελέτης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DIAGdescription</Key>
+      <Value>Περιγραφή μελέτης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RMStudyStatus</Key>
+      <Value>Κατάσταση μελέτης σε άλλη κονσόλα</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyID</Key>
+      <Value>Αναγνωριστικό μελέτης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RegisteredDateTime</Key>
+      <Value>Ημερομηνία και ώρα καταχώρισης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AlertFlag</Key>
+      <Value>Σήμανση ειδοποίησης (!)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyStatus</Key>
+      <Value>Κατάσταση μελέτης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Guard</Key>
+      <Value>Προστασία</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiscontinuationReason</Key>
+      <Value>Λόγος ακύρωσης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReadImageCount</Key>
+      <Value>Ανάγνωση μέτρησης εικόνας</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReadingImageCount</Key>
+      <Value>Ανάγνωση μέτρησης εικόνας</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OkCertifedImageCount</Key>
+      <Value>Εξαγωγή μέτρησης εικόνας</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HospitalDepartment</Key>
+      <Value>Αίτημα σέρβις</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScheduledStartDate</Key>
+      <Value>Ημερομηνία έναρξης προγραμματισμένης μελέτης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScheduledStartTime</Key>
+      <Value>Ώρα έναρξης προγραμματισμένης μελέτης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionResidence</Key>
+      <Value>Τόπος διαμονής εντός του νοσοκομείου</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AdmissionID</Key>
+      <Value>Αναγνωστικό εισαγωγής</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SexNeutralisation</Key>
+      <Value>Ουδέτερο φύλλο ασθενούς</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MedicalAlerts</Key>
+      <Value>Ιατρικές ειδοποιήσεις</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Allergies</Key>
+      <Value>Αλλεργίες στο μέσο σκίασης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Smoking</Key>
+      <Value>Κατάσταση καπνίσματος</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AdditionalHistory</Key>
+      <Value>Επιπρόσθετο ιστορικό ασθενούς</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Pregnancy</Key>
+      <Value>Κατάσταση εγκυμοσύνης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LastMenstrual</Key>
+      <Value>Ημερομηνία τελευταίας περιόδου</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SpecialNeeds</Key>
+      <Value>Ειδικές ανάγκες</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientState</Key>
+      <Value>Κατάσταση ασθενούς</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientsConfidentiality</Key>
+      <Value>Περιορισμός εμπιστευτικότητας σε περιγραφή δεδομένων ασθενούς</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientLocation</Key>
+      <Value>Τόπος διαμονής ασθενούς εντός του νοσοκομείου</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NGReasonComments</Key>
+      <Value>Σχόλια αιτίας NG (Ανεπιθύμητη)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PerformedPhysicianNameRomaji</Key>
+      <Value>Όνομα υπεύθυνου ιατρού</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PerformedPhysicianNameKana</Key>
+      <Value>Όνομα υπεύθυνου ιατρού (πολλαπλά byte)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PerformedPhysicianNameKanji</Key>
+      <Value>Όνομα υπεύθυνου ιατρού (Φωνητικά)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BirthTime</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>0</FontSize>
+      <FontName />
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

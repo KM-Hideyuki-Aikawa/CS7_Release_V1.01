@@ -1,0 +1,1637 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="MES04001">
+      <Title>CR klaida </Title>
+      <Message>HP1 jutiklis NG (transportavimo mazgas)</Message>
+    </EventString>
+    <EventString Key="MES04002">
+      <Title>CR klaida</Title>
+      <Message>HP1 jutiklis NG (transportavimo mazgas) </Message>
+    </EventString>
+    <EventString Key="MES04011">
+      <Title>CR klaida</Title>
+      <Message>HP2 jutiklis NG (transportavimo mazgas) </Message>
+    </EventString>
+    <EventString Key="MES04012">
+      <Title>CR klaida</Title>
+      <Message>HP2 jutiklis NG (transportavimo mazgas) </Message>
+    </EventString>
+    <EventString Key="MES04013">
+      <Title>CR klaida</Title>
+      <Message>HP2 jutiklis NG (transportavimo mazgas) </Message>
+    </EventString>
+    <EventString Key="MES04014">
+      <Title>CR klaida</Title>
+      <Message>HP2 jutiklis NG (transportavimo mazgas) </Message>
+    </EventString>
+    <EventString Key="MES04015">
+      <Title>CR klaida</Title>
+      <Message>HP2 jutiklis NG (transportavimo mazgas) </Message>
+    </EventString>
+    <EventString Key="MES04020">
+      <Title>CR klaida</Title>
+      <Message>Lygiuotės jutiklis NG (pradžia) </Message>
+    </EventString>
+    <EventString Key="MES04021">
+      <Title>CR klaida</Title>
+      <Message>Lygiuotės jutiklis NG (tiektuvas) </Message>
+    </EventString>
+    <EventString Key="MES04022">
+      <Title>CR klaida</Title>
+      <Message>Lygiuotės jutiklis NG (sukibimas) </Message>
+    </EventString>
+    <EventString Key="MES04023">
+      <Title>CR klaida</Title>
+      <Message>Lygiuotės jutiklis NG (priedanga) </Message>
+    </EventString>
+    <EventString Key="MES04024">
+      <Title>CR klaida</Title>
+      <Message>Lygiuotės jutiklis NG (iškrova) </Message>
+    </EventString>
+    <EventString Key="MES04025">
+      <Title>CR klaida</Title>
+      <Message>Lygiuotės jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04026">
+      <Title>CR klaida</Title>
+      <Message>Kairiašonis lygiuotės jutiklis NG (paleidimas) </Message>
+    </EventString>
+    <EventString Key="MES04027">
+      <Title>CR klaida</Title>
+      <Message>Dešiniašonis lygiuotės jutiklis NG (paleidimas) </Message>
+    </EventString>
+    <EventString Key="MES04030">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo aptikimo jutiklis NG (pradžia) </Message>
+    </EventString>
+    <EventString Key="MES04031">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo aptikimo jutiklis NG (tiektuvas) </Message>
+    </EventString>
+    <EventString Key="MES04032">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo aptikimo jutiklis NG (sukibimas) </Message>
+    </EventString>
+    <EventString Key="MES04033">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo aptikimo jutiklis NG (priedanga) </Message>
+    </EventString>
+    <EventString Key="MES04034">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo aptikimo jutiklis NG (prieš keliant) </Message>
+    </EventString>
+    <EventString Key="MES04035">
+      <Title>CR klaida</Title>
+      <Message>Užrakinimo HP jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04036">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo HP jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04037">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo aptikimo jutiklis NG (pakėlus) </Message>
+    </EventString>
+    <EventString Key="MES04041">
+      <Title>CR klaida</Title>
+      <Message>Tiektuvo sklendės atvėrimo jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04042">
+      <Title>CR klaida</Title>
+      <Message>Tiektuvo sklendės užvėrimo jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04043">
+      <Title>CR klaida</Title>
+      <Message>Tiektuvo sklendės atvėrimo jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04044">
+      <Title>CR klaida</Title>
+      <Message>Tiektuvo sklendės užvėrimo jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04045">
+      <Title>CR klaida</Title>
+      <Message>Kasetės užpakalinio skydelio jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04046">
+      <Title>CR klaida</Title>
+      <Message>Užpakalinės plokštės deformacijos aptikimo jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04047">
+      <Title>CR klaida</Title>
+      <Message>Užpakalinės plokštės sukibimo aptikimo jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04048">
+      <Title>CR klaida</Title>
+      <Message>Išmetimo sklendės užvėrimo jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04051">
+      <Title>CR klaida</Title>
+      <Message>Iškroviklio durelių užvėrimo jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04061">
+      <Title>CR klaida</Title>
+      <Message>Lėto skenavimo HP jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04062">
+      <Title>CR klaida</Title>
+      <Message>Užpakalinės plokštės sukibimo aptikimo jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04063">
+      <Title>CR klaida</Title>
+      <Message>Užpakalinės plokštės deformacijos aptikimo jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04064">
+      <Title>CR klaida</Title>
+      <Message>„V-Sync“ jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04065">
+      <Title>CR klaida</Title>
+      <Message>Užpakalinės plokštės sukibimo aptikimo jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04066">
+      <Title>CR klaida</Title>
+      <Message>Užpakalinės plokštės sukibimo aptikimo jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04067">
+      <Title>CR klaida</Title>
+      <Message>Užpakalinės plokštės sukibimo aptikimo jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04068">
+      <Title>CR klaida</Title>
+      <Message>Užpakalinės plokštės sukibimo aptikimo jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04069">
+      <Title>CR klaida</Title>
+      <Message>Užpakalinės plokštės sukibimo aptikimo jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04070">
+      <Title>CR klaida</Title>
+      <Message>Užpakalinės plokštės sukibimo aptikimo jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04071">
+      <Title>CR klaida</Title>
+      <Message>Tiektuvo centrinis aptikimo jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04072">
+      <Title>CR klaida</Title>
+      <Message>Tiektuvo kairysis aptikimo jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04073">
+      <Title>CR klaida</Title>
+      <Message>Kasetės užpakalinio skydelio jutiklis NG (paleidimas) </Message>
+    </EventString>
+    <EventString Key="MES04074">
+      <Title>CR klaida</Title>
+      <Message>Užpakalinės plokštės deformacijos aptikimo jutiklis NG (paleidimas) </Message>
+    </EventString>
+    <EventString Key="MES04075">
+      <Title>CR klaida</Title>
+      <Message>Užpakalinės plokštės sukibimo aptikimo jutiklis NG (paleidimas) </Message>
+    </EventString>
+    <EventString Key="MES04076">
+      <Title>CR klaida</Title>
+      <Message>24 V galia NG (paprastai) </Message>
+    </EventString>
+    <EventString Key="MES04077">
+      <Title>CR klaida</Title>
+      <Message>24 V galia NG (durelės užvertos) </Message>
+    </EventString>
+    <EventString Key="MES04081">
+      <Title>CR klaida</Title>
+      <Message>Trinamosios lemputės srovės aptikimo jutiklis 1 NG </Message>
+    </EventString>
+    <EventString Key="MES04082">
+      <Title>CR klaida</Title>
+      <Message>Trinamosios lemputės srovės aptikimo jutiklis 2 NG </Message>
+    </EventString>
+    <EventString Key="MES04091">
+      <Title>CR klaida</Title>
+      <Message>Priekinių durelių atvėrimo jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES04101">
+      <Title>CR klaida</Title>
+      <Message>Lėto skenavimo variklis NG </Message>
+    </EventString>
+    <EventString Key="MES04102">
+      <Title>CR klaida</Title>
+      <Message>Transportavimo mazgo variklis NG </Message>
+    </EventString>
+    <EventString Key="MES04103">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklis NG </Message>
+    </EventString>
+    <EventString Key="MES04104">
+      <Title>CR klaida</Title>
+      <Message>Lygiuotės variklis NG </Message>
+    </EventString>
+    <EventString Key="MES04105">
+      <Title>CR klaida</Title>
+      <Message>Tiektuvo sklendės atvėrimo ir užvėrimo laikas baigėsi </Message>
+    </EventString>
+    <EventString Key="MES04106">
+      <Title>CR klaida</Title>
+      <Message>Užrakinimo laikas baigėsi </Message>
+    </EventString>
+    <EventString Key="MES04107">
+      <Title>CR klaida</Title>
+      <Message>Pakrovos variklis NG </Message>
+    </EventString>
+    <EventString Key="MES04150">
+      <Title>CR klaida</Title>
+      <Message>Užrakinimo pirminis procesas </Message>
+    </EventString>
+    <EventString Key="MES04151">
+      <Title>CR klaida</Title>
+      <Message>Tiektuvo sklendės pirminis procesas </Message>
+    </EventString>
+    <EventString Key="MES04152">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo pirminis procesas </Message>
+    </EventString>
+    <EventString Key="MES04153">
+      <Title>CR klaida</Title>
+      <Message>Lygiuotės pirminis procesas </Message>
+    </EventString>
+    <EventString Key="MES04154">
+      <Title>CR klaida</Title>
+      <Message>Transportavimo mazgo pirminis procesas </Message>
+    </EventString>
+    <EventString Key="MES04155">
+      <Title>CR klaida</Title>
+      <Message>Lėto skenavimo pirminis procesas </Message>
+    </EventString>
+    <EventString Key="MES04156">
+      <Title>CR klaida</Title>
+      <Message>Perdavimo veiksmo 1 pradžia NG </Message>
+    </EventString>
+    <EventString Key="MES04157">
+      <Title>CR klaida</Title>
+      <Message>Perdavimo veiksmo 2 pradžia NG </Message>
+    </EventString>
+    <EventString Key="MES04158">
+      <Title>CR klaida</Title>
+      <Message>Tiektuvo iškrovos veiksmo pradžia NG </Message>
+    </EventString>
+    <EventString Key="MES04159">
+      <Title>CR klaida</Title>
+      <Message>Iškrovos veiksmo pradžia NG </Message>
+    </EventString>
+    <EventString Key="MES04160">
+      <Title>CR klaida</Title>
+      <Message>Tiektuvo sklendės atvėrimas NG </Message>
+    </EventString>
+    <EventString Key="MES04161">
+      <Title>CR klaida</Title>
+      <Message>Tiektuvo sklendės užvėrimas NG </Message>
+    </EventString>
+    <EventString Key="MES04162">
+      <Title>CR klaida</Title>
+      <Message>Užrakinimo pradžia NG </Message>
+    </EventString>
+    <EventString Key="MES04163">
+      <Title>CR klaida</Title>
+      <Message>Kasetės kryčio aptikimo laikas NG </Message>
+    </EventString>
+    <EventString Key="MES04164">
+      <Title>CR klaida</Title>
+      <Message>Jokios leidimo žinutės įjungus (ON) trinamąją lemputę </Message>
+    </EventString>
+    <EventString Key="MES04165">
+      <Title>CR klaida</Title>
+      <Message>Jokios leidimo žinutės išjungus (OFF) trinamąją lemputę </Message>
+    </EventString>
+    <EventString Key="MES04167">
+      <Title>CR klaida</Title>
+      <Message>Pakrovos variklio pirminis procesas </Message>
+    </EventString>
+    <EventString Key="MES04200">
+      <Title>CR klaida</Title>
+      <Message>„GetStatus“ gavimo laikas baigėsi (paleidimas) </Message>
+    </EventString>
+    <EventString Key="MES04201">
+      <Title>CR klaida</Title>
+      <Message>„GetStatus“ gavimo laikas baigėsi (pasirengtis) </Message>
+    </EventString>
+    <EventString Key="MES04202">
+      <Title>CR klaida</Title>
+      <Message>„GetStatus“ gavimo laikas baigėsi (brūkšninio kodo aptikimas) </Message>
+    </EventString>
+    <EventString Key="MES04203">
+      <Title>CR klaida</Title>
+      <Message>„GetStatus“ gavimo laikas baigėsi (įjungta (ON) aukšta įtampa) </Message>
+    </EventString>
+    <EventString Key="MES04204">
+      <Title>CR klaida</Title>
+      <Message>„GetStatus“ gavimo laikas baigėsi (įjungtas (ON) lazeris) </Message>
+    </EventString>
+    <EventString Key="MES04205">
+      <Title>CR klaida</Title>
+      <Message>„GetStatus“ gavimo laikas baigėsi (brūkšninio kodo pašalinimas) </Message>
+    </EventString>
+    <EventString Key="MES04206">
+      <Title>CR klaida</Title>
+      <Message>„GetStatus“ gavimo laikas baigėsi (apdorojimas) </Message>
+    </EventString>
+    <EventString Key="MES04207">
+      <Title>CR klaida</Title>
+      <Message>„GetStatus“ gavimo laikas baigėsi (pristabdymas) </Message>
+    </EventString>
+    <EventString Key="MES04208">
+      <Title>CR klaida</Title>
+      <Message>„GetStatus“ gavimo laikas baigėsi (priekinių durelių atvėrimas) </Message>
+    </EventString>
+    <EventString Key="MES04209">
+      <Title>CR klaida</Title>
+      <Message>„GetStatus“ gavimo laikas baigėsi (priekinių durelių užvėrimas) </Message>
+    </EventString>
+    <EventString Key="MES04210">
+      <Title>CR klaida</Title>
+      <Message>„GetStatus“ gavimo laikas baigėsi (klaida) </Message>
+    </EventString>
+    <EventString Key="MES04211">
+      <Title>CR klaida</Title>
+      <Message>„GetStatus“ gavimo laikas baigėsi (budėjimas) </Message>
+    </EventString>
+    <EventString Key="MES04212">
+      <Title>CR klaida</Title>
+      <Message>„GetStatus“ gavimo laikas baigėsi (trynimo režimo perkėlimas) </Message>
+    </EventString>
+    <EventString Key="MES04213">
+      <Title>CR klaida</Title>
+      <Message>„GetStatus“ gavimo laikas baigėsi (maitinimo išjungimas pasirengus) </Message>
+    </EventString>
+    <EventString Key="MES04214">
+      <Title>CR klaida</Title>
+      <Message>Registravimo patvirtinimo laikas baigėsi </Message>
+    </EventString>
+    <EventString Key="MES04215">
+      <Title>CR klaida</Title>
+      <Message>„GetStatus“ gavimo klaida (įjungtas (ON) lazeris) </Message>
+    </EventString>
+    <EventString Key="MES04216">
+      <Title>CR klaida</Title>
+      <Message>„GoBackward“ gavimo laikas baigėsi </Message>
+    </EventString>
+    <EventString Key="MES04217">
+      <Title>CR klaida</Title>
+      <Message>Lazeris įjungtas (ON), nenurodant įjungti (ON) aukštą įtampą (1) </Message>
+    </EventString>
+    <EventString Key="MES04218">
+      <Title>CR klaida</Title>
+      <Message>Lazeris įjungtas (ON), nenurodant įjungti (ON) aukštą įtampą (2) </Message>
+    </EventString>
+    <EventString Key="MES04219">
+      <Title>CR klaida</Title>
+      <Message>Komanda negalioja </Message>
+    </EventString>
+    <EventString Key="MES04221">
+      <Title>CR klaida</Title>
+      <Message>„StartSubScan“ gavimo laikas baigėsi </Message>
+    </EventString>
+    <EventString Key="MES04900">
+      <Title>CR klaida</Title>
+      <Message>Kasetė yra (keltuvas) </Message>
+    </EventString>
+    <EventString Key="MES04901">
+      <Title>CR klaida</Title>
+      <Message>Kasetė yra (lygiuotė) </Message>
+    </EventString>
+    <EventString Key="MES04902">
+      <Title>CR klaida</Title>
+      <Message>Kasetė yra (Iškrovos durelės atvertos) </Message>
+    </EventString>
+    <EventString Key="MES04903">
+      <Title>CR klaida</Title>
+      <Message>Kasetė yra (Užpakalinės plokštės sukibimas) </Message>
+    </EventString>
+    <EventString Key="MES04904">
+      <Title>CR klaida</Title>
+      <Message>Išjungti trinamąsias lemputes (2) </Message>
+    </EventString>
+    <EventString Key="MES04905">
+      <Title>CR klaida</Title>
+      <Message>SCB ryšio klaida </Message>
+    </EventString>
+    <EventString Key="MES04906">
+      <Title>CR klaida</Title>
+      <Message>Deformuota kasetė [%s] </Message>
+    </EventString>
+    <EventString Key="MES04907">
+      <Title>CR klaida</Title>
+      <Message>Kasetės atidarymo klaida [%s] </Message>
+    </EventString>
+    <EventString Key="MES04908">
+      <Title>CR klaida</Title>
+      <Message>Kasetės krytis [%s] </Message>
+    </EventString>
+    <EventString Key="MES04909">
+      <Title>CR klaida</Title>
+      <Message>Kasetės spragų aptikimas (užpakalinio skydelio magnetinimas) </Message>
+    </EventString>
+    <EventString Key="MES04910">
+      <Title>CR klaida</Title>
+      <Message>Kasetės spragų aptikimas (kasetės pleišėjimas) </Message>
+    </EventString>
+    <EventString Key="MES04914">
+      <Title>CR klaida</Title>
+      <Message>Ištraukimo atvėrimas (paleidimas) </Message>
+    </EventString>
+    <EventString Key="MES04917">
+      <Title>CR klaida</Title>
+      <Message>Tiektuvo sklendės atvėrimas NG (atrakinimas) </Message>
+    </EventString>
+    <EventString Key="MES04918">
+      <Title>CR klaida</Title>
+      <Message>VENTILIATORIAUS (FAN) atjungimas NG 1 </Message>
+    </EventString>
+    <EventString Key="MES04920">
+      <Title>CR klaida</Title>
+      <Message>VENTILIATORIAUS (FAN) atjungimas NG 3 </Message>
+    </EventString>
+    <EventString Key="MES04921">
+      <Title>CR klaida</Title>
+      <Message>Trinamoji lemputė NG </Message>
+    </EventString>
+    <EventString Key="MES06000">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo HP jutiklis NG (perkėlimas į HP) </Message>
+    </EventString>
+    <EventString Key="MES06001">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo variklio kontrolė NG (perkėlimas į HP) </Message>
+    </EventString>
+    <EventString Key="MES06002">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo HP jutiklis NG (fiksuota kasetės padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06003">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo variklio kontrolė NG (fiksuota kasetės padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06004">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo variklio kontrolė NG (palaikomoji kasetės padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06005">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo variklio kontrolė NG (fiksuota kasetės padėtis -2) </Message>
+    </EventString>
+    <EventString Key="MES06006">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo HP jutiklis NG (perkėlimas į HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06007">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo variklio kontrolė NG (perkėlimas į HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06008">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo HP jutiklis NG (perkėlimas į HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06009">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo variklio kontrolė NG (perkėlimas į HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06010">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo HP jutiklis NG (palaikomoji kasetės padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06011">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo variklio kontrolė NG (palaikomoji kasetės padėtis -2) </Message>
+    </EventString>
+    <EventString Key="MES06015">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo HP jutiklis NG (perkėlimas į HP) </Message>
+    </EventString>
+    <EventString Key="MES06016">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo variklio kontrolė NG (perkėlimas į HP) </Message>
+    </EventString>
+    <EventString Key="MES06017">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo HP jutiklis NG (fiksuota kasetės padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06018">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo variklio kontrolė NG (fiksuota kasetės padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06019">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo variklio kontrolė NG (palaikomoji kasetės padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06020">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo variklio kontrolė NG (fiksuota kasetės padėtis -2) </Message>
+    </EventString>
+    <EventString Key="MES06021">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo HP jutiklis NG (perkėlimas į HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06022">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo variklio kontrolė NG (perkėlimas į HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06023">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo HP jutiklis NG (perkėlimas į HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06024">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo variklio kontrolė NG (perkėlimas į HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06025">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo HP jutiklis NG (palaikomoji kasetės padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06026">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo variklio kontrolė NG (palaikomoji kasetės padėtis -2) </Message>
+    </EventString>
+    <EventString Key="MES06030">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo HP jutiklis NG (perkėlimas į HP) </Message>
+    </EventString>
+    <EventString Key="MES06031">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo variklio kontrolė NG (perkėlimas į HP) </Message>
+    </EventString>
+    <EventString Key="MES06032">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo HP jutiklis NG (fiksuota kasetės padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06033">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo variklio kontrolė NG (fiksuota kasetės padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06034">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo variklio kontrolė NG (palaikomoji kasetės padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06035">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo variklio kontrolė NG (fiksuota kasetės padėtis -2) </Message>
+    </EventString>
+    <EventString Key="MES06036">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo HP jutiklis NG (perkėlimas į HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06037">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo variklio kontrolė NG (perkėlimas į HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06038">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo HP jutiklis NG (perkėlimas į HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06039">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo variklio kontrolė NG (perkėlimas į HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06040">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo HP jutiklis NG (palaikomoji kasetės padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06041">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo variklio kontrolė NG (palaikomoji kasetės padėtis -2) </Message>
+    </EventString>
+    <EventString Key="MES06050">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio HP jutiklis NG (perkėlimas į HP) </Message>
+    </EventString>
+    <EventString Key="MES06051">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklio kontrolė NG (perkėlimas į HP) </Message>
+    </EventString>
+    <EventString Key="MES06052">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio HP jutiklis NG (padėtis 1) </Message>
+    </EventString>
+    <EventString Key="MES06053">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklio kontrolė NG (padėtis 1) </Message>
+    </EventString>
+    <EventString Key="MES06054">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklio kontrolė NG (padėtis 2) </Message>
+    </EventString>
+    <EventString Key="MES06055">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklio kontrolė NG (nedidelis mažėjimas padėtyje 2) </Message>
+    </EventString>
+    <EventString Key="MES06056">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklio kontrolė NG (padėtis 1 -2) </Message>
+    </EventString>
+    <EventString Key="MES06057">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio HP jutiklis NG (perkėlimas į HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06058">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklio kontrolė NG (perkėlimas į HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06059">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio HP jutiklis NG (perkėlimas į HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06060">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklio kontrolė NG (perkėlimas į HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06061">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio HP jutiklis NG (perkėlimas į padėtį 2) </Message>
+    </EventString>
+    <EventString Key="MES06062">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklio kontrolė NG (padėtis 2 -2) </Message>
+    </EventString>
+    <EventString Key="MES06065">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio HP jutiklis NG (perkėlimas į HP) </Message>
+    </EventString>
+    <EventString Key="MES06066">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklio kontrolė NG (perkėlimas į HP) </Message>
+    </EventString>
+    <EventString Key="MES06067">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio HP jutiklis NG (padėtis 1) </Message>
+    </EventString>
+    <EventString Key="MES06068">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklio kontrolė NG (padėtis 1) </Message>
+    </EventString>
+    <EventString Key="MES06069">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklio kontrolė NG (padėtis 2) </Message>
+    </EventString>
+    <EventString Key="MES06070">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklio kontrolė NG (nedidelis mažėjimas padėtyje 2) </Message>
+    </EventString>
+    <EventString Key="MES06071">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklio kontrolė NG (padėtis 1 -2) </Message>
+    </EventString>
+    <EventString Key="MES06072">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio HP jutiklis NG (perkėlimas į HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06073">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklio kontrolė NG (perkėlimas į HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06074">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio HP jutiklis NG (perkėlimas į HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06075">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklio kontrolė NG (perkėlimas į HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06076">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio HP jutiklis NG (padėtis 2) </Message>
+    </EventString>
+    <EventString Key="MES06077">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklio kontrolė NG (padėtis 2 -2) </Message>
+    </EventString>
+    <EventString Key="MES06080">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio HP jutiklis NG (perkėlimas į HP) </Message>
+    </EventString>
+    <EventString Key="MES06081">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklio kontrolė NG (perkėlimas į HP) </Message>
+    </EventString>
+    <EventString Key="MES06082">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio HP jutiklis NG (padėtis 1) </Message>
+    </EventString>
+    <EventString Key="MES06083">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklio kontrolė NG (padėtis 1) </Message>
+    </EventString>
+    <EventString Key="MES06084">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklio kontrolė NG (padėtis 2) </Message>
+    </EventString>
+    <EventString Key="MES06085">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklio kontrolė NG (nedidelis mažėjimas padėtyje 2) </Message>
+    </EventString>
+    <EventString Key="MES06086">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklio kontrolė NG (padėtis 1 -2) </Message>
+    </EventString>
+    <EventString Key="MES06087">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio HP jutiklis NG (perkėlimas į HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06088">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklio kontrolė NG (perkėlimas į HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06089">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio HP jutiklis NG (perkėlimas į HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06090">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklio kontrolė NG (perkėlimas į HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06091">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio HP jutiklis NG (padėtis 2) </Message>
+    </EventString>
+    <EventString Key="MES06092">
+      <Title>CR klaida</Title>
+      <Message>Keltuvo variklio kontrolė NG (padėtis 2 -2) </Message>
+    </EventString>
+    <EventString Key="MES06100">
+      <Title>CR klaida</Title>
+      <Message>Transporterio jutiklis NG (skaitymo padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06101">
+      <Title>CR klaida</Title>
+      <Message>Transporterio variklio kontrolė NG (skaitymo padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06102">
+      <Title>CR klaida</Title>
+      <Message>Transporterio jutiklis NG (perkėlimas į HP) </Message>
+    </EventString>
+    <EventString Key="MES06103">
+      <Title>CR klaida</Title>
+      <Message>Transporterio HP jutiklis NG (perkėlimas į HP) </Message>
+    </EventString>
+    <EventString Key="MES06104">
+      <Title>CR klaida</Title>
+      <Message>Transporterio variklio kontrolė NG (perkėlimas į HP) </Message>
+    </EventString>
+    <EventString Key="MES06105">
+      <Title>CR klaida</Title>
+      <Message>Transporterio HP jutiklis NG (spaudimo padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06106">
+      <Title>CR klaida</Title>
+      <Message>Transporterio variklio kontrolė NG (spaudimo padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06107">
+      <Title>CR klaida</Title>
+      <Message>Transporterio jutiklis NG (skaitymo padėtis 2) </Message>
+    </EventString>
+    <EventString Key="MES06108">
+      <Title>CR klaida</Title>
+      <Message>Transporterio variklio kontrolė NG (skaitymo padėtis 2) </Message>
+    </EventString>
+    <EventString Key="MES06109">
+      <Title>CR klaida</Title>
+      <Message>Transporterio jutiklis NG (spaudimo padėtis 2) </Message>
+    </EventString>
+    <EventString Key="MES06110">
+      <Title>CR klaida</Title>
+      <Message>Transporterio variklio kontrolė NG (spaudimo padėtis 2) </Message>
+    </EventString>
+    <EventString Key="MES06111">
+      <Title>CR klaida</Title>
+      <Message>Transporterio variklio kontrolė NG (HP perėjimo padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06112">
+      <Title>CR klaida</Title>
+      <Message>Transporterio HP jutiklis NG (perkėlimas į HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06113">
+      <Title>CR klaida</Title>
+      <Message>Transporterio variklio kontrolė NG (perkėlimas į HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06115">
+      <Title>CR klaida</Title>
+      <Message>Transporterio jutiklis NG (skaitymo padėtis </Message>
+    </EventString>
+    <EventString Key="MES06116">
+      <Title>CR klaida</Title>
+      <Message>Transporterio variklio kontrolė NG (skaitymo padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06117">
+      <Title>CR klaida</Title>
+      <Message>Transporterio jutiklis NG (perkėlimas į HP) </Message>
+    </EventString>
+    <EventString Key="MES06118">
+      <Title>CR klaida</Title>
+      <Message>Transporterio HP jutiklis NG (perkėlimas į HP) </Message>
+    </EventString>
+    <EventString Key="MES06119">
+      <Title>CR klaida</Title>
+      <Message>Transporterio variklio kontrolė NG (perkėlimas į HP) </Message>
+    </EventString>
+    <EventString Key="MES06120">
+      <Title>CR klaida</Title>
+      <Message>Transporterio HP jutiklis NG (spaudimo padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06121">
+      <Title>CR klaida</Title>
+      <Message>Transporterio variklio kontrolė NG (spaudimo padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06122">
+      <Title>CR klaida</Title>
+      <Message>Transporterio jutiklis NG (skaitymo padėtis -2) </Message>
+    </EventString>
+    <EventString Key="MES06123">
+      <Title>CR klaida</Title>
+      <Message>Transporterio variklio kontrolė NG (skaitymo padėtis -2) </Message>
+    </EventString>
+    <EventString Key="MES06124">
+      <Title>CR klaida</Title>
+      <Message>Transporterio jutiklis NG (spaudimo padėtis -2) </Message>
+    </EventString>
+    <EventString Key="MES06125">
+      <Title>CR klaida</Title>
+      <Message>Transporterio variklio kontrolė NG (spaudimo padėtis -2) </Message>
+    </EventString>
+    <EventString Key="MES06126">
+      <Title>CR klaida</Title>
+      <Message>Transporterio variklio kontrolė NG (HP perėjimo padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06127">
+      <Title>CR klaida</Title>
+      <Message>Transporterio HP jutiklis NG (perkėlimas į HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06128">
+      <Title>CR klaida</Title>
+      <Message>Transporterio variklio kontrolė NG (perkėlimas į HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06130">
+      <Title>CR klaida</Title>
+      <Message>Transporterio jutiklis NG (skaitymo padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06131">
+      <Title>CR klaida</Title>
+      <Message>Transporterio variklio kontrolė NG (skaitymo padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06132">
+      <Title>CR klaida</Title>
+      <Message>Transporterio jutiklis NG (perkėlimas į HP) </Message>
+    </EventString>
+    <EventString Key="MES06133">
+      <Title>CR klaida</Title>
+      <Message>Transporterio HP jutiklis NG (perkėlimas į HP) </Message>
+    </EventString>
+    <EventString Key="MES06134">
+      <Title>CR klaida</Title>
+      <Message>Transporterio variklio kontrolė NG (perkėlimas į HP) </Message>
+    </EventString>
+    <EventString Key="MES06135">
+      <Title>CR klaida</Title>
+      <Message>Transporterio HP jutiklis NG (spaudimo padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06136">
+      <Title>CR klaida</Title>
+      <Message>Transporterio variklio kontrolė NG (spaudimo padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06137">
+      <Title>CR klaida</Title>
+      <Message>Transporterio jutiklis NG (skaitymo padėtis -2) </Message>
+    </EventString>
+    <EventString Key="MES06138">
+      <Title>CR klaida</Title>
+      <Message>Transporterio variklio kontrolė NG (skaitymo padėtis -2) </Message>
+    </EventString>
+    <EventString Key="MES06139">
+      <Title>CR klaida</Title>
+      <Message>Transporterio jutiklis NG (spaudimo padėtis -2) </Message>
+    </EventString>
+    <EventString Key="MES06140">
+      <Title>CR klaida</Title>
+      <Message>Transporterio variklio kontrolė NG (spaudimo padėtis -2) </Message>
+    </EventString>
+    <EventString Key="MES06141">
+      <Title>CR klaida</Title>
+      <Message>Transporterio variklio kontrolė NG (HP perėjimo padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06142">
+      <Title>CR klaida</Title>
+      <Message>Transporterio HP jutiklis NG (perkėlimas į HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06143">
+      <Title>CR klaida</Title>
+      <Message>Transporterio variklio kontrolė NG (perkėlimas į HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06150">
+      <Title>CR klaida</Title>
+      <Message>Kodavimo paleidimas NG </Message>
+    </EventString>
+    <EventString Key="MES06151">
+      <Title>CR klaida</Title>
+      <Message>Subskenavimo variklio kontrolė NG (mechaninis HP) </Message>
+    </EventString>
+    <EventString Key="MES06152">
+      <Title>CR klaida</Title>
+      <Message>Subskenavimo variklio kontrolė NG (skaitymo baigties padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06153">
+      <Title>CR klaida</Title>
+      <Message>Subskenavimo variklio kontrolė NG (mechaninis HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06165">
+      <Title>CR klaida</Title>
+      <Message>Kodavimo paleidimas NG </Message>
+    </EventString>
+    <EventString Key="MES06166">
+      <Title>CR klaida</Title>
+      <Message>Subskenavimo variklio kontrolė NG (mechaninis HP) </Message>
+    </EventString>
+    <EventString Key="MES06167">
+      <Title>CR klaida</Title>
+      <Message>Subskenavimo variklio kontrolė NG (skaitymo baigties padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06168">
+      <Title>CR klaida</Title>
+      <Message>Subskenavimo variklio kontrolė NG (mechaninis HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06180">
+      <Title>CR klaida</Title>
+      <Message>Kodavimo paleidimas NG </Message>
+    </EventString>
+    <EventString Key="MES06181">
+      <Title>CR klaida</Title>
+      <Message>Subskenavimo variklio kontrolė NG (mechaninis HP) </Message>
+    </EventString>
+    <EventString Key="MES06182">
+      <Title>CR klaida</Title>
+      <Message>Subskenavimo variklio kontrolė NG (skaitymo baigties padėtis) </Message>
+    </EventString>
+    <EventString Key="MES06183">
+      <Title>CR klaida</Title>
+      <Message>Subskenavimo variklio kontrolė NG (mechaninis HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06200">
+      <Title>CR klaida</Title>
+      <Message>Atverti įdėjimo sklendę NG </Message>
+    </EventString>
+    <EventString Key="MES06201">
+      <Title>CR klaida</Title>
+      <Message>Užtverti įdėjimo sklendę NG </Message>
+    </EventString>
+    <EventString Key="MES06215">
+      <Title>CR klaida</Title>
+      <Message>Atverti įdėjimo sklendę NG </Message>
+    </EventString>
+    <EventString Key="MES06216">
+      <Title>CR klaida</Title>
+      <Message>Užtverti įdėjimo sklendę NG </Message>
+    </EventString>
+    <EventString Key="MES06230">
+      <Title>CR klaida</Title>
+      <Message>Atverti įdėjimo sklendę NG </Message>
+    </EventString>
+    <EventString Key="MES06231">
+      <Title>CR klaida</Title>
+      <Message>Užtverti įdėjimo sklendę NG </Message>
+    </EventString>
+    <EventString Key="MES06250">
+      <Title>CR klaida</Title>
+      <Message>Variklio užrakto paleidimas NG (paleidimas) </Message>
+    </EventString>
+    <EventString Key="MES06251">
+      <Title>CR klaida</Title>
+      <Message>Variklio užrakto paleidimas NG (užrakinimas) </Message>
+    </EventString>
+    <EventString Key="MES06252">
+      <Title>CR klaida</Title>
+      <Message>Variklio užrakto paleidimas NG (paleidimas) </Message>
+    </EventString>
+    <EventString Key="MES06265">
+      <Title>CR klaida</Title>
+      <Message>Variklio užrakto paleidimas NG (paleidimas) </Message>
+    </EventString>
+    <EventString Key="MES06266">
+      <Title>CR klaida</Title>
+      <Message>Variklio užrakto paleidimas NG (užrakinimas) </Message>
+    </EventString>
+    <EventString Key="MES06267">
+      <Title>CR klaida</Title>
+      <Message>Variklio užrakto paleidimas NG (paleidimas) </Message>
+    </EventString>
+    <EventString Key="MES06280">
+      <Title>CR klaida</Title>
+      <Message>Variklio užrakto paleidimas NG (paleidimas) </Message>
+    </EventString>
+    <EventString Key="MES06281">
+      <Title>CR klaida</Title>
+      <Message>Variklio užrakto paleidimas NG (užrakinimas) </Message>
+    </EventString>
+    <EventString Key="MES06282">
+      <Title>CR klaida</Title>
+      <Message>Variklio užrakto paleidimas NG (paleidimas) </Message>
+    </EventString>
+    <EventString Key="MES06300">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo jutiklis NG (fiksuotas veiksmas) </Message>
+    </EventString>
+    <EventString Key="MES06301">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo jutiklis NG (fiksuotas) </Message>
+    </EventString>
+    <EventString Key="MES06302">
+      <Title>CR klaida</Title>
+      <Message>Kasetė yra (jutiklių derintuvas) </Message>
+    </EventString>
+    <EventString Key="MES06303">
+      <Title>CR klaida</Title>
+      <Message>Kasetė yra (jutiklių derintuvas) </Message>
+    </EventString>
+    <EventString Key="MES06315">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo jutiklis NG (fiksuotas veiksmas) </Message>
+    </EventString>
+    <EventString Key="MES06316">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo jutiklis NG (fiksuotas) </Message>
+    </EventString>
+    <EventString Key="MES06318">
+      <Title>CR klaida</Title>
+      <Message>Kasetė yra (jutiklių derintuvas) </Message>
+    </EventString>
+    <EventString Key="MES06330">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo jutiklis NG (fiksuotas veiksmas) </Message>
+    </EventString>
+    <EventString Key="MES06331">
+      <Title>CR klaida</Title>
+      <Message>Derintuvo jutiklis NG (fiksuotas) </Message>
+    </EventString>
+    <EventString Key="MES06333">
+      <Title>CR klaida</Title>
+      <Message>Kasetė yra (jutiklių derintuvas) </Message>
+    </EventString>
+    <EventString Key="MES06350">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio jutiklis NG (tiektuvas) </Message>
+    </EventString>
+    <EventString Key="MES06351">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio jutiklis NG (siuntimas) </Message>
+    </EventString>
+    <EventString Key="MES06352">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio jutiklis NG (iškrova) </Message>
+    </EventString>
+    <EventString Key="MES06353">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio jutiklis NG (išimtas) </Message>
+    </EventString>
+    <EventString Key="MES06354">
+      <Title>CR klaida</Title>
+      <Message>Kasetė yra (gaviklis) </Message>
+    </EventString>
+    <EventString Key="MES06355">
+      <Title>CR klaida</Title>
+      <Message>Kasetė yra (gaviklis) </Message>
+    </EventString>
+    <EventString Key="MES06365">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio jutiklis NG (tiektuvas) </Message>
+    </EventString>
+    <EventString Key="MES06366">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio jutiklis NG (siuntimas) </Message>
+    </EventString>
+    <EventString Key="MES06367">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio jutiklis NG (iškrova) </Message>
+    </EventString>
+    <EventString Key="MES06368">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio jutiklis NG (išimtas) </Message>
+    </EventString>
+    <EventString Key="MES06370">
+      <Title>CR klaida</Title>
+      <Message>Kasetė yra (gaviklis) </Message>
+    </EventString>
+    <EventString Key="MES06380">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio jutiklis NG (tiektuvas) </Message>
+    </EventString>
+    <EventString Key="MES06381">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio jutiklis NG (siuntimas) </Message>
+    </EventString>
+    <EventString Key="MES06382">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio jutiklis NG (iškrova) </Message>
+    </EventString>
+    <EventString Key="MES06383">
+      <Title>CR klaida</Title>
+      <Message>Gaviklio jutiklis NG (išimtas) </Message>
+    </EventString>
+    <EventString Key="MES06385">
+      <Title>CR klaida</Title>
+      <Message>Kasetė yra (gaviklis) </Message>
+    </EventString>
+    <EventString Key="MES06400">
+      <Title>CR klaida</Title>
+      <Message>Užpakalinio skydelio aptikimo jutiklis NG (prieš perkeliant į skaitymo padėtį) </Message>
+    </EventString>
+    <EventString Key="MES06401">
+      <Title>CR klaida</Title>
+      <Message>Užpakalinio skydelio aptikimo jutiklis NG (skaitymo padėtis stabdoma) </Message>
+    </EventString>
+    <EventString Key="MES06402">
+      <Title>CR klaida</Title>
+      <Message>Užpakalinio skydelio aptikimo jutiklis NG (perkėlus į spaudimo padėtį) </Message>
+    </EventString>
+    <EventString Key="MES06415">
+      <Title>CR klaida</Title>
+      <Message>Užpakalinio skydelio aptikimo jutiklis NG (prieš perkeliant į skaitymo padėtį) </Message>
+    </EventString>
+    <EventString Key="MES06416">
+      <Title>CR klaida</Title>
+      <Message>Užpakalinio skydelio aptikimo jutiklis NG (skaitymo padėtis stabdoma) </Message>
+    </EventString>
+    <EventString Key="MES06417">
+      <Title>CR klaida</Title>
+      <Message>Užpakalinio skydelio aptikimo jutiklis NG (perkėlus į spaudimo padėtį) </Message>
+    </EventString>
+    <EventString Key="MES06430">
+      <Title>CR klaida</Title>
+      <Message>Užpakalinio skydelio aptikimo jutiklis NG (prieš perkeliant į skaitymo padėtį) </Message>
+    </EventString>
+    <EventString Key="MES06431">
+      <Title>CR klaida</Title>
+      <Message>Užpakalinio skydelio aptikimo jutiklis NG (skaitymo padėtis stabdoma) </Message>
+    </EventString>
+    <EventString Key="MES06432">
+      <Title>CR klaida</Title>
+      <Message>Užpakalinio skydelio aptikimo jutiklis NG (perkėlus į spaudimo padėtį) </Message>
+    </EventString>
+    <EventString Key="MES06450">
+      <Title>CR klaida</Title>
+      <Message>Pleišėjimo jutiklio skydelis (skaitymas arba trynimas). Atsisakykite naudoti kasetę. </Message>
+    </EventString>
+    <EventString Key="MES06451">
+      <Title>CR klaida</Title>
+      <Message>Pleišėjimo jutiklis NG (kai neveikia) </Message>
+    </EventString>
+    <EventString Key="MES06452">
+      <Title>CR klaida</Title>
+      <Message>Pleišėjimo jutiklis NG (pradžia) </Message>
+    </EventString>
+    <EventString Key="MES06453">
+      <Title>CR klaida</Title>
+      <Message>Pleišėjimo jutiklis NG (paleidimas) </Message>
+    </EventString>
+    <EventString Key="MES06465">
+      <Title>CR klaida</Title>
+      <Message>Pleišėjimo jutiklio skydelis (skaitymas arba trynimas) </Message>
+    </EventString>
+    <EventString Key="MES06466">
+      <Title>CR klaida</Title>
+      <Message>Pleišėjimo jutiklis NG (kai neveikia) </Message>
+    </EventString>
+    <EventString Key="MES06468">
+      <Title>CR klaida</Title>
+      <Message>Pleišėjimo jutiklis NG (paleidimas) </Message>
+    </EventString>
+    <EventString Key="MES06480">
+      <Title>CR klaida</Title>
+      <Message>Pleišėjimo jutiklio skydelis (skaitymas arba trynimas) </Message>
+    </EventString>
+    <EventString Key="MES06481">
+      <Title>CR klaida</Title>
+      <Message>Pleišėjimo jutiklis NG (kai neveikia) </Message>
+    </EventString>
+    <EventString Key="MES06483">
+      <Title>CR klaida</Title>
+      <Message>Pleišėjimo jutiklis NG (paleidimas) </Message>
+    </EventString>
+    <EventString Key="MES06500">
+      <Title>CR klaida</Title>
+      <Message>Kasetės įdėjimo jutiklis NG (paleidimas) </Message>
+    </EventString>
+    <EventString Key="MES06501">
+      <Title>CR klaida</Title>
+      <Message>Kasetės įdėjimo jutiklis NG (pakrova) </Message>
+    </EventString>
+    <EventString Key="MES06502">
+      <Title>CR klaida</Title>
+      <Message>Kasetės įdėjimo jutiklis NG (iškrova) </Message>
+    </EventString>
+    <EventString Key="MES06503">
+      <Title>CR klaida</Title>
+      <Message>Kasetės užpakalinio skydelio aptikimas </Message>
+    </EventString>
+    <EventString Key="MES06504">
+      <Title>CR klaida</Title>
+      <Message>Kasetės įdėjimo jutiklis NG (iškrova -2) </Message>
+    </EventString>
+    <EventString Key="MES06515">
+      <Title>CR klaida</Title>
+      <Message>Kasetės įdėjimo jutiklis NG (paleidimas) </Message>
+    </EventString>
+    <EventString Key="MES06516">
+      <Title>CR klaida</Title>
+      <Message>Kasetės įdėjimo jutiklis NG (pakrova) </Message>
+    </EventString>
+    <EventString Key="MES06517">
+      <Title>CR klaida</Title>
+      <Message>Kasetės įdėjimo jutiklis NG (iškrova) </Message>
+    </EventString>
+    <EventString Key="MES06518">
+      <Title>CR klaida</Title>
+      <Message>Kasetės užpakalinio skydelio aptikimas </Message>
+    </EventString>
+    <EventString Key="MES06519">
+      <Title>CR klaida</Title>
+      <Message>Kasetės įdėjimo jutiklis NG (iškrova -2) </Message>
+    </EventString>
+    <EventString Key="MES06530">
+      <Title>CR klaida</Title>
+      <Message>Kasetės įdėjimo jutiklis NG (paleidimas) </Message>
+    </EventString>
+    <EventString Key="MES06531">
+      <Title>CR klaida</Title>
+      <Message>Kasetės įdėjimo jutiklis NG (pakrova) </Message>
+    </EventString>
+    <EventString Key="MES06532">
+      <Title>CR klaida</Title>
+      <Message>Kasetės įdėjimo jutiklis NG (iškrova) </Message>
+    </EventString>
+    <EventString Key="MES06533">
+      <Title>CR klaida</Title>
+      <Message>Kasetės užpakalinio skydelio aptikimas </Message>
+    </EventString>
+    <EventString Key="MES06534">
+      <Title>CR klaida</Title>
+      <Message>Kasetės įdėjimo jutiklis NG (iškrova -2) </Message>
+    </EventString>
+    <EventString Key="MES06550">
+      <Title>CR klaida</Title>
+      <Message>Daugiakampis sukimas NG </Message>
+    </EventString>
+    <EventString Key="MES06551">
+      <Title>CR klaida</Title>
+      <Message>Negaunamas skaitymo baigties signalas </Message>
+    </EventString>
+    <EventString Key="MES06552">
+      <Title>CR klaida</Title>
+      <Message>2 trinamosios lemputės išjungtos (pradžia)</Message>
+    </EventString>
+    <EventString Key="MES06553">
+      <Title>CR klaida</Title>
+      <Message>2 trinamosios lemputės išjungtos (trynimas). Kasetės trynimas nebaigtas.Bandykite dar kartą. </Message>
+    </EventString>
+    <EventString Key="MES06554">
+      <Title>CR klaida</Title>
+      <Message>1 trinamoji lemputė išjungta (pradžia) </Message>
+    </EventString>
+    <EventString Key="MES06567">
+      <Title>CR klaida</Title>
+      <Message>2 trinamosios lemputės išjungtos (pradžia)</Message>
+    </EventString>
+    <EventString Key="MES06568">
+      <Title>CR klaida</Title>
+      <Message>2 trinamosios lemputės išjungtos (trynimas) </Message>
+    </EventString>
+    <EventString Key="MES06569">
+      <Title>CR klaida</Title>
+      <Message>1 trinamoji lemputė išjungta (pradžia) </Message>
+    </EventString>
+    <EventString Key="MES06582">
+      <Title>CR klaida</Title>
+      <Message>2 trinamosios lemputės išjungtos (pradžia)</Message>
+    </EventString>
+    <EventString Key="MES06584">
+      <Title>CR klaida</Title>
+      <Message>1 trinamoji lemputė išjungta (pradžia) </Message>
+    </EventString>
+    <EventString Key="MES06600">
+      <Title>CR klaida</Title>
+      <Message>Aušintuvo ventiliatoriaus skaitmeninis maitinimo tiekimas atjungtas.</Message>
+    </EventString>
+    <EventString Key="MES06650">
+      <Title>CR klaida</Title>
+      <Message>FPGA klaida (nepavyko pasiekti įvykių tvarkyklės) </Message>
+    </EventString>
+    <EventString Key="MES06651">
+      <Title>CR klaida</Title>
+      <Message>FPGA klaida (nepavyko pasiekti MDU) </Message>
+    </EventString>
+    <EventString Key="MES06652">
+      <Title>CR klaida</Title>
+      <Message>FPGA klaida (nepavyko pasiekti LMC) </Message>
+    </EventString>
+    <EventString Key="MES06653">
+      <Title>CR klaida</Title>
+      <Message>FPGA klaida (nepavyko I/O kontrolė) </Message>
+    </EventString>
+    <EventString Key="MES06654">
+      <Title>CR klaida</Title>
+      <Message>FPGA klaida (nepavyko atverti vaizdo tvarkyklės) </Message>
+    </EventString>
+    <EventString Key="MES06655">
+      <Title>CR klaida</Title>
+      <Message>FPGA klaida (nepavyko pasiekti PMU) </Message>
+    </EventString>
+    <EventString Key="MES06668">
+      <Title>CR klaida</Title>
+      <Message>FPGA klaida (nepavyko I/O kontrolė) </Message>
+    </EventString>
+    <EventString Key="MES06683">
+      <Title>CR klaida</Title>
+      <Message>FPGA klaida (nepavyko I/O kontrolė) </Message>
+    </EventString>
+    <EventString Key="MES06750">
+      <Title>CR klaida</Title>
+      <Message>Registratūros pulto atidarymo ir uždarymo padėties jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES06765">
+      <Title>CR klaida</Title>
+      <Message>Registratūros pulto atidarymo ir uždarymo padėties jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES06780">
+      <Title>CR klaida</Title>
+      <Message>Registratūros pulto atidarymo ir uždarymo padėties jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES06751">
+      <Title>CR klaida</Title>
+      <Message>Registratūros pulto HP padėties jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES06766">
+      <Title>CR klaida</Title>
+      <Message>Registratūros pulto HP padėties jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES06785">
+      <Title>CR klaida</Title>
+      <Message>Registratūros pulto HP padėties jutiklis NG </Message>
+    </EventString>
+    <EventString Key="MES10000">
+      <Title>CR klaida</Title>
+      <Message>Atminties klaida </Message>
+    </EventString>
+    <EventString Key="MES11000">
+      <Title>CR klaida</Title>
+      <Message>Aparatinės įrangos klaida </Message>
+    </EventString>
+    <EventString Key="MES12000">
+      <Title>CR klaida</Title>
+      <Message>Žinutės gavimo laikas baigėsi (įjungta (ON) aukšta įtampa)</Message>
+    </EventString>
+    <EventString Key="MES12001">
+      <Title>CR klaida</Title>
+      <Message>Žinutės gavimo laikas baigėsi (įjungtas (ON) lazeris) </Message>
+    </EventString>
+    <EventString Key="MES12002">
+      <Title>CR klaida</Title>
+      <Message>Žinutės gavimo laikas baigėsi (mech. pasirengtis)</Message>
+    </EventString>
+    <EventString Key="MES12003">
+      <Title>CR klaida</Title>
+      <Message>Žinutės gavimo laikas baigėsi (mech. budėjimas)</Message>
+    </EventString>
+    <EventString Key="MES12010">
+      <Title>CR klaida</Title>
+      <Message>Nuosekliojo ryšio klaida (mech. persiuntimo perpildymas)</Message>
+    </EventString>
+    <EventString Key="MES12011">
+      <Title>CR klaida</Title>
+      <Message>Nuosekliojo ryšio klaida (mech. CRC klaidų perpildymas) </Message>
+    </EventString>
+    <EventString Key="MES12012">
+      <Title>CR klaida</Title>
+      <Message>Nuosekliojo ryšio klaida (mech. perkrova)</Message>
+    </EventString>
+    <EventString Key="MES12013">
+      <Title>CR klaida</Title>
+      <Message>Nuosekliojo ryšio klaida (mech. laiko baigtis)</Message>
+    </EventString>
+    <EventString Key="MES12020">
+      <Title>CR klaida</Title>
+      <Message>Žinutės klaida (mech. neleistina žinutė)</Message>
+    </EventString>
+    <EventString Key="MES12200">
+      <Title>CR klaida</Title>
+      <Message>Žinutės gavimo laikas baigėsi (tinklo pajungimas) </Message>
+    </EventString>
+    <EventString Key="MES12201">
+      <Title>CR klaida</Title>
+      <Message>Žinutės gavimo laikas baigėsi (tinklo pasirengtis) </Message>
+    </EventString>
+    <EventString Key="MES12202">
+      <Title>CR klaida</Title>
+      <Message>Žinutės gavimo laikas baigėsi (ekranavimas) </Message>
+    </EventString>
+    <EventString Key="MES12203">
+      <Title>CR klaida</Title>
+      <Message>Žinutės gavimo laikas baigėsi (būsenos patikrinimas) </Message>
+    </EventString>
+    <EventString Key="MES12204">
+      <Title>CR klaida</Title>
+      <Message>Žinutės gavimo laikas baigėsi (brūkšninio kodo paieška) </Message>
+    </EventString>
+    <EventString Key="MES12205">
+      <Title>CR klaida</Title>
+      <Message>Žinutės gavimo laikas baigėsi (tinklo komanda) </Message>
+    </EventString>
+    <EventString Key="MES12206">
+      <Title>CR klaida</Title>
+      <Message>Žinutės gavimo laikas baigėsi (skaitytuvo darbo pabaiga) </Message>
+    </EventString>
+    <EventString Key="MES12207">
+      <Title>CR klaida</Title>
+      <Message>Žinutės gavimo laikas baigėsi („Qrv“) </Message>
+    </EventString>
+    <EventString Key="MES12208">
+      <Title>CR klaida</Title>
+      <Message>Žinutės gavimo laikas baigėsi (Konfigūravimas) </Message>
+    </EventString>
+    <EventString Key="MES12209">
+      <Title>CR klaida</Title>
+      <Message>Žinutės gavimo laikas baigėsi (Informavimas) </Message>
+    </EventString>
+    <EventString Key="MES12210">
+      <Title>CR klaida</Title>
+      <Message>Nuosekliojo ryšio klaida (tinklo persiuntimo perpildymas)</Message>
+    </EventString>
+    <EventString Key="MES12211">
+      <Title>CR klaida</Title>
+      <Message>Nuosekliojo ryšio klaida (tinklo CRC klaidų perpildymas) </Message>
+    </EventString>
+    <EventString Key="MES12212">
+      <Title>CR klaida</Title>
+      <Message>Nuosekliojo ryšio klaida (tinklo perkrova) </Message>
+    </EventString>
+    <EventString Key="MES12213">
+      <Title>CR klaida</Title>
+      <Message>Nuosekliojo ryšio klaida (tinklo laiko baigtis) </Message>
+    </EventString>
+    <EventString Key="MES12220">
+      <Title>CR klaida</Title>
+      <Message>Žinutės klaida (neleistina tinklo žinutė) </Message>
+    </EventString>
+    <EventString Key="MES13000">
+      <Title>CR klaida</Title>
+      <Message>Optinio modulio klaida (H_Sync)</Message>
+    </EventString>
+    <EventString Key="MES13001">
+      <Title>CR klaida</Title>
+      <Message>Optinio modulio klaida (daugiakampio ID) </Message>
+    </EventString>
+    <EventString Key="MES13003">
+      <Title>CR klaida</Title>
+      <Message>Optinio modulio klaida (daugiakampio stabilumas) </Message>
+    </EventString>
+    <EventString Key="MES13005">
+      <Title>CR klaida</Title>
+      <Message>Optinio modulio klaida (lazerio intensyvumas) </Message>
+    </EventString>
+    <EventString Key="MES13030">
+      <Title>CR klaida</Title>
+      <Message>SCB kontrolės klaida (DMA perdavimas) </Message>
+    </EventString>
+    <EventString Key="MES13031">
+      <Title>CR klaida</Title>
+      <Message>SCB kontrolės klaida (SCOM ryšis) </Message>
+    </EventString>
+    <EventString Key="MES14000">
+      <Title>CR klaida</Title>
+      <Message>Signalo apdorojimo klaida (per didelis stiprinimas) </Message>
+    </EventString>
+    <EventString Key="MES14001">
+      <Title>CR klaida</Title>
+      <Message>Signalo apdorojimo klaida (per mažas stiprinimas) </Message>
+    </EventString>
+    <EventString Key="MES14002">
+      <Title>CR klaida</Title>
+      <Message>Signalo apdorojimo klaida (per didelis poslinkis) </Message>
+    </EventString>
+    <EventString Key="MES14003">
+      <Title>CR klaida</Title>
+      <Message>Signalo apdorojimo klaida (per mažas poslinkis) </Message>
+    </EventString>
+    <EventString Key="MES14010">
+      <Title>CR klaida</Title>
+      <Message>Signalo apdorojimo klaida (per didelis QRV) </Message>
+    </EventString>
+    <EventString Key="MES14011">
+      <Title>CR klaida</Title>
+      <Message>Signalo apdorojimo klaida (per mažas QRV) </Message>
+    </EventString>
+    <EventString Key="MES14012">
+      <Title>CR klaida</Title>
+      <Message>Signalo apdorojimo klaida (QRV – nėra konvergavimo) </Message>
+    </EventString>
+    <EventString Key="MES14013">
+      <Title>CR klaida</Title>
+      <Message>Signalo apdorojimo klaida (ekranavimas – nėra duomenų) </Message>
+    </EventString>
+    <EventString Key="MES14014">
+      <Title>CR klaida</Title>
+      <Message>Signalo apdorojimo klaida (QRV – nėra duomenų) </Message>
+    </EventString>
+    <EventString Key="MES15000">
+      <Title>CR klaida</Title>
+      <Message>Signalo apdorojimo klaida (nepavyko paleisti) </Message>
+    </EventString>
+    <EventString Key="MES22101">
+      <Title>CR klaida</Title>
+      <Message>Nuosekliojo ryšio klaida (skaitiklio N1 perpildymas) </Message>
+    </EventString>
+    <EventString Key="MES22103">
+      <Title>CR klaida</Title>
+      <Message>Nuosekliojo ryšio klaida (skaitiklio N3 perpildymas) </Message>
+    </EventString>
+    <EventString Key="MES22104">
+      <Title>CR klaida</Title>
+      <Message>Nuosekliojo ryšio klaida (skaitiklio N4 perpildymas) </Message>
+    </EventString>
+    <EventString Key="MES23000">
+      <Title>CR klaida</Title>
+      <Message>Programinė klaida (pagrindinis valdymas) </Message>
+    </EventString>
+    <EventString Key="MES23100">
+      <Title>CR klaida</Title>
+      <Message>Programinė klaida (sekos valdymas) </Message>
+    </EventString>
+    <EventString Key="MES23200">
+      <Title>CR klaida</Title>
+      <Message>Programinė klaida (duomenų failo dydis) </Message>
+    </EventString>
+    <EventString Key="MES23900">
+      <Title>CR klaida</Title>
+      <Message>Programinė klaida (programinės aparatinės įrangos naujinimas) </Message>
+    </EventString>
+    <EventString Key="MES24000">
+      <Title>CR klaida</Title>
+      <Message>Tinklo klaida (JM sujungimas) </Message>
+    </EventString>
+    <EventString Key="MES24500">
+      <Title>CR klaida</Title>
+      <Message>Tinklo klaida (JM konfigūracija) </Message>
+    </EventString>
+    <EventString Key="MES25000">
+      <Title>CR klaida</Title>
+      <Message>Tinklo klaida (nenustatyta laiko baigtis) </Message>
+    </EventString>
+    <EventString Key="MES25100">
+      <Title>CR klaida</Title>
+      <Message>Tinklo klaida (laiko baigtis: bendrasis ryšis) </Message>
+    </EventString>
+    <EventString Key="MES25110">
+      <Title>CR klaida</Title>
+      <Message>Tinklo klaida (atmetimas: bendrasis ryšis) </Message>
+    </EventString>
+    <EventString Key="MES25200">
+      <Title>CR klaida</Title>
+      <Message>Tinklo klaida (laiko baigtis: vaizdo perdavimas) </Message>
+    </EventString>
+    <EventString Key="MES25210">
+      <Title>CR klaida</Title>
+      <Message>Tinklo klaida (laiko baigtis: atnaujinto vaizdo skenavimas) </Message>
+    </EventString>
+    <EventString Key="MES25300">
+      <Title>CR klaida</Title>
+      <Message>Tinklo klaida (laiko baigtis / atmetimas: vaizdo perdavimas) </Message>
+    </EventString>
+    <EventString Key="MES25500">
+      <Title>CR klaida</Title>
+      <Message>Tinklo klaida (paskirtis: nerasta) </Message>
+    </EventString>
+    <EventString Key="MES26000">
+      <Title>CR klaida</Title>
+      <Message>Veikimo klaida (užduotis negalioja) </Message>
+    </EventString>
+    <EventString Key="MES26010">
+      <Title>CR klaida</Title>
+      <Message>Veikimo klaida (užduoties parametras negalioja) </Message>
+    </EventString>
+    <EventString Key="MES26100">
+      <Title>CR klaida</Title>
+      <Message>Veikimo klaida (užduotis be veiksenos) </Message>
+    </EventString>
+    <EventString Key="MES26200">
+      <Title>CR klaida</Title>
+      <Message>Veikimo klaida (konsolė negalioja) </Message>
+    </EventString>
+    <EventString Key="MES26300">
+      <Title>CR klaida</Title>
+      <Message>Veikimo klaida (skaitytuvas užimtas) </Message>
+    </EventString>
+    <EventString Key="MES26900">
+      <Title>CR klaida</Title>
+      <Message>Veikimo klaida (vykdant užduotį išsijungia (OFF) maitinimas) </Message>
+    </EventString>
+    <EventString Key="MES26999">
+      <Title>CR klaida</Title>
+      <Message>Veikimo klaida (nepalaikoma komanda) </Message>
+    </EventString>
+    <EventString Key="MES1">
+      <Title>CR klaida</Title>
+      <Message>Aptiktos atviros priekinės durelės </Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

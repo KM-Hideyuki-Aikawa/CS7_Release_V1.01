@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientRegistrationDomainExtender0001">
+      <Title>Ошибка</Title>
+      <Message>Введен неверный год.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0002">
+      <Title>Ошибка</Title>
+      <Message>Введен неверный месяц.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0003">
+      <Title>Ошибка</Title>
+      <Message>Введена неверная дата.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0004">
+      <Title>Ошибка</Title>
+      <Message>Введено недействительное значение.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0005">
+      <Title>Ошибка</Title>
+      <Message>Максимальное количество символов не достигнуто.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0006">
+      <Title>Ошибка</Title>
+      <Message>Минимальное количество символов не достигнуто.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0007">
+      <Title>Ошибка</Title>
+      <Message>Введите значение.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0008">
+      <Title>Ошибка</Title>
+      <Message>Введено недействительное значение</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0009">
+      <Title>Ошибка</Title>
+      <Message>Введите алфавитно-цифровой символ.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0010">
+      <Title>Ошибка</Title>
+      <Message>Разрешена только kana.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0011">
+      <Title>Ошибка</Title>
+      <Message>Недействительное значение. Не разрешено использование "\".</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0012">
+      <Title>Ошибка</Title>
+      <Message>Введен неверный год.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0013">
+      <Title>Ошибка</Title>
+      <Message>Введен неверный год.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0014">
+      <Title>Ошибка</Title>
+      <Message>Введен неверный год. Введите число 1800 или больше.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0015">
+      <Title>Ошибка</Title>
+      <Message>Ошибка - дата вне диапазона. Следует проверить.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0016">
+      <Title>Ошибка</Title>
+      <Message>Введено неверное значение для часов.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0017">
+      <Title>Ошибка</Title>
+      <Message>Введено неверное значение для минут.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0018">
+      <Title>Ошибка</Title>
+      <Message>Введено неверное значение для секунд.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0019">
+      <Title>Ошибка</Title>
+      <Message>Введите целое значение.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0020">
+      <Title>Ошибка</Title>
+      <Message>Ошибка поиска</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0021">
+      <Title>Предупреждение</Title>
+      <Message>Изменение информации о пациенте может привести к несоответствиям с системой PACS. Проверьте все измененные данные в PACS.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0022">
+      <Title>Подтверждение</Title>
+      <Message>ID пациента является обязательным, введите ID пациента.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0023">
+      <Title>Подтверждение</Title>
+      <Message>Задание ID исследования обязательно. Введите Задание ID.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0024">
+      <Title>Подтверждение</Title>
+      <Message>Имя пациента является обязательным, введите имя пациента.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0025">
+      <Title>Подтверждение</Title>
+      <Message>Имя пациента является обязательным, введите имя пациента.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0026">
+      <Title>Подтверждение</Title>
+      <Message>Имя пациента является обязательным, введите имя пациента.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0027">
+      <Title>Подтверждение</Title>
+      <Message>Пол пациента является обязательным, введите пол.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0028">
+      <Title>Подтверждение</Title>
+      <Message>Дата рождения является обязательной, введите дату рождения.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0029">
+      <Title>Ошибка</Title>
+      <Message>Магнитная карта не читается. Перезапустите систему.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0030">
+      <Title>Ошибка</Title>
+      <Message>Не заполнено обяательное поле. Выполнение невозможно.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0031">
+      <Title>Подтверждение</Title>
+      <Message>В рамках исследования имеется изображение, хотите редактировать исследование?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0032">
+      <Title>Подтверждение</Title>
+      <Message>Закрыть выполняющийся Dr.View?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0033">
+      <Title>Подтверждение</Title>
+      <Message>Перезапустить Dr.View? </Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0034">
+      <Title>Подтверждение</Title>
+      <Message>Исследование вернется в приостановленное состояние. Выполнить?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0035">
+      <Title>Ошибка</Title>
+      <Message>Соответствующие исследование и пациент отсутствуют.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0036">
+      <Title>Подтверждение</Title>
+      <Message>Исследование уже присутствует в БД. Использовать имеющееся исследование?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0037">
+      <Title>Подтверждение</Title>
+      <Message>Информация о пациенте уже присутствует в БД. Использовать имеющуюся информацию о пациенте?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0038">
+      <Title>Ошибка</Title>
+      <Message>Невозможно выбрать несколько пациентов.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0039">
+      <Title>Ошибка</Title>
+      <Message>Ошибка БД - не удалось создать заказ.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0040">
+      <Title>Ошибка</Title>
+      <Message>Ошибка обновления БД пациентов.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0041">
+      <Title>Ошибка</Title>
+      <Message>Соответствующий пациент отсутствует в БД</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0042">
+      <Title>Ошибка</Title>
+      <Message>Этот символ не разрешен</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0046">
+      <Title>Ошибка</Title>
+      <Message>Будущий год не разрешен.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0047">
+      <Title>Ошибка</Title>
+      <Message>Будущий месяц не разрешен.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0048">
+      <Title>Ошибка</Title>
+      <Message>Будущая дата не разрешена.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0049">
+      <Title>Ошибка</Title>
+      <Message>Введенный год не является високосным. Проверьте дату.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0052">
+      <Title>Подтверждение</Title>
+      <Message>Заказ зарегистрирован. Перезаписать?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0053">
+      <Title>Подтверждение</Title>
+      <Message>ID того же пациента: {0}, Имя пациента: {1}, Пол: {2}, Дата рождения:{3} имеются в базе данных, переписать?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0054">
+      <Title>Ошибка</Title>
+      <Message>Недействительное значение. Не разрешено использование "\", "^" или "=".</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0055">
+      <Title>Ошибка</Title>
+      <Message>Недействительное значение. Не разрешено использование "\" или "=".</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0056">
+      <Title>Ошибка</Title>
+      <Message>Выполнение невозможно</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0057">
+      <Title>Подтверждение</Title>
+      <Message>Очистить все?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0058">
+      <Title>Ошибка</Title>
+      <Message>Заполните обязательные поля</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0059">
+      <Title>Подтверждение</Title>
+      <Message>Зарегистрировать исследование?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0060">
+      <Title>Ошибка</Title>
+      <Message>Не удалось зарегистрировать</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0061">
+      <Title>Подтверждение</Title>
+      <Message>Перезаписать данные?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0062">
+      <Title>Ошибка</Title>
+      <Message>Соответствующие исследование и пациент отсутствуют.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0063">
+      <Title>Ошибка</Title>
+      <Message>Введите содержимое для поиска.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0064">
+      <Title>Ошибка</Title>
+      <Message>Введите значения в полях даты и времени</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

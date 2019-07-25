@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ExpSetKeyListDomainExtender0000">
+      <Title />
+      <Message>Is it OK to change the image processing parameters?</Message>
+    </EventString>
+    <EventString Key="ExpSetKeyListDomainExtender0001">
+      <Title />
+      <Message>Is it OK to delete the registered cassette barcode?</Message>
+    </EventString>
+    <EventString Key="ExpSetKeyListDomainExtender0002">
+      <Title />
+      <Message>You cannot register more than {MaxSize} images.</Message>
+    </EventString>
+    <EventString Key="ExpSetKeyListDomainExtender0003">
+      <Title />
+      <Message>A barcode is registered to this capture condition key. Is it OK to change the registration?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

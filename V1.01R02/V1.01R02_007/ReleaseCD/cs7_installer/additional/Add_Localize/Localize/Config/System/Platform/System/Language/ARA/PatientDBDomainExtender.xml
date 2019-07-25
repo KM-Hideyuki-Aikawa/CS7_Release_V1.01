@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>PatientNonDeleteInfo</Key>
+      <Value>لا يمكن حذف معلومات المريض التالية</Value>
+      <Comment>Add</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Add</Key>
+      <Value>إضافة...</Value>
+      <Comment>Add</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Edit</Key>
+      <Value>تحرير...</Value>
+      <Comment>Edit</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Delete</Key>
+      <Value>حذف</Value>
+      <Comment>Delete</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Filter</Key>
+      <Value>تصفية...</Value>
+      <Comment>Filter</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OK</Key>
+      <Value>موافق</Value>
+      <Comment>Ok</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Cancel</Key>
+      <Value>إلغاء</Value>
+      <Comment>Cancel</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Clear</Key>
+      <Value>مسح</Value>
+      <Comment>Clear</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Adapt</Key>
+      <Value>تطبيق</Value>
+      <Comment>Adapt</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ID</Key>
+      <Value>المعرّف</Value>
+      <Comment>ID</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Name</Key>
+      <Value>الاسم</Value>
+      <Comment>Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Gender</Key>
+      <Value>النوع</Value>
+      <Comment>Gender</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BirthDate</Key>
+      <Value>تاريخ الميلاد</Value>
+      <Comment>BirthDate</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Male</Key>
+      <Value>ذكر</Value>
+      <Comment>Male</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Female</Key>
+      <Value>أنثى</Value>
+      <Comment>Female</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Others</Key>
+      <Value>أخرى</Value>
+      <Comment>Others</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NameRomaji</Key>
+      <Value>الاسم</Value>
+      <Comment>Name(Romaji)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NameKana</Key>
+      <Value>الاسم (Kana)</Value>
+      <Comment>Name(Kana)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NameKanji</Key>
+      <Value>الاسم (Kanji)</Value>
+      <Comment>Name(Kanji)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Heading</Key>
+      <Value />
+      <Comment>Patient Details</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OkMessage</Key>
+      <Value>هل ترغب في حفظه وإغلاقه؟</Value>
+      <Comment>Do you want to save and close it?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CancelMessage</Key>
+      <Value>هل تريد بالفعل الإغلاق دون حفظ؟</Value>
+      <Comment>Are you sure to close it without saving?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeleteMessage</Key>
+      <Value>هل ترغب في حذف معلومات المريض المحددة؟</Value>
+      <Comment>Do you want to delete the selected patient's?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IDMessage</Key>
+      <Value>برجاء إدخال مُعرّف المريض</Value>
+      <Comment>Please enter a Patient ID</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ValidBDMessage</Key>
+      <Value>برجاء تحديد تاريخ سابق في تاريخ الميلاد</Value>
+      <Comment>Please enter a Valid Birth Date</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SaveMessage</Key>
+      <Value>هل ترغب في حفظ معلومات المريض الجديدة؟</Value>
+      <Comment>Do you want to save the new patient information?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IDExistsMessage1</Key>
+      <Value>المُعرّف[</Value>
+      <Comment>The Patient ID[</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IDExistsMessage2</Key>
+      <Value>] موجود بالفعل.</Value>
+      <Comment>] has already been set up. Please enter again.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExitMessage</Key>
+      <Value>هل ترغب في الخروج دون حفظ؟</Value>
+      <Comment>Do you want to exit patient registration without saving?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EditSaveMessage</Key>
+      <Value>هل ترغب في حفظ التعديلات والإغلاق؟</Value>
+      <Comment>Do you want to save the modified patient information?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EditExitMessage</Key>
+      <Value>هل ترغب بالفعل في الإغلاق دون حفظ التعديلات؟</Value>
+      <Comment>Do you want to stop modification without saving?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AddDialogTitle</Key>
+      <Value>إضافة معلومات مريض</Value>
+      <Comment>Do you want to stop modification without saving?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EditDialogTitle</Key>
+      <Value>تحرير معلومات مريض</Value>
+      <Comment>Do you want to stop modification without saving?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilterDialogTitle</Key>
+      <Value>حالة التصفية</Value>
+      <Comment>Do you want to stop modification without saving?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AdaptUserResponse</Key>
+      <Value>هل ترغب في الحفظ؟</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DataBaseUse</Key>
+      <Value>قاعدة البيانات مستخدمة</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeletedRecMsg</Key>
+      <Value>تم حذف السجلات</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Years</Key>
+      <Value>سنوات</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Months</Key>
+      <Value>شهور</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ValidationFailed</Key>
+      <Value>ليست قيمة مناسبة. برجاء تأكيدها.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AlphaNumeric</Key>
+      <Value>لازمة للمدخلات الهجائية العددية.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Close</Key>
+      <Value>إغلاق</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CloseMessage</Key>
+      <Value>هل ترغب في الإغلاق؟</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

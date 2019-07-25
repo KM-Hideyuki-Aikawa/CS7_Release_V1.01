@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="XRayDeviceDataAccessorDrRm7102">
+      <Title>登记法规号错误</Title>
+      <Message>登记了四个。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7103">
+      <Title>未知 AeroDR 探测器</Title>
+      <Message>未知 AeroDR 探测器。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7104">
+      <Title>未知曝光设备</Title>
+      <Message>未知曝光设备。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7105">
+      <Title>RM 错误</Title>
+      <Message>RM 管理工作台错误，请联系维修代表。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7106">
+      <Title>版本升级错误</Title>
+      <Message>版本升级不匹配，请联系维修代表。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7107">
+      <Title>RM 错误</Title>
+      <Message>RM 管理工作台错误，请联系维修代表。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7108">
+      <Title>RM 错误</Title>
+      <Message>RM 管理工作台错误，请联系维修代表。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7109">
+      <Title>RM 错误</Title>
+      <Message>RM 管理工作台错误，请检查网络连接。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7110">
+      <Title>RM 错误</Title>
+      <Message>RM 管理工作台错误，请检查网络连接。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7111">
+      <Title>登记取消错误</Title>
+      <Message>AeroDR 面板取消登记时出错。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7112">
+      <Title>放射检查室切换错误</Title>
+      <Message>放射检查室切换过程中出错。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7113">
+      <Title>后台进程通信错误</Title>
+      <Message>无法通信。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7114">
+      <Title>配置激活设置错误</Title>
+      <Message>AeroDR 面板配置激活时出错。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7115">
+      <Title>RM 更新</Title>
+      <Message>更新了 RM 管理工作台，重新启动设备。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7116">
+      <Title>许可证错误</Title>
+      <Message>您试图登记的面板许可证不存在，或许可证数量不足。获取许可证，或面板登记所获取数量的许可证。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7117">
+      <Title>错误</Title>
+      <Message>RM 设置传输出错。
+请检查网络连接并重试。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7118">
+      <Title>错误</Title>
+      <Message>CS-7 设置配置错误。
+请确认设置并重试。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

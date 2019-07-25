@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0401">
+      <Title>送信エラー</Title>
+      <Message>X線通信プロセスの内部エラーが発生しました。</Message>
+    </EventString>
+    <EventString Key="0402">
+      <Title>内部エラー</Title>
+      <Message>X線通信プロセスの内部エラーが発生しました。</Message>
+    </EventString>
+    <EventString Key="0403">
+      <Title>送信エラー</Title>
+      <Message>X線システムへの撮影条件コマンド送信失敗。X線装置を再起動してください。</Message>
+    </EventString>
+    <EventString Key="0404">
+      <Title>設定エラー</Title>
+      <Message>X線システムへのパラメータ設定不良。</Message>
+    </EventString>
+    <EventString Key="0405">
+      <Title>装置エラー</Title>
+      <Message>X線システムのエラーを検知しました。</Message>
+    </EventString>
+    <EventString Key="0406">
+      <Title>送信エラー</Title>
+      <Message>X線システム接続エラー。ネットワークを確認してください。</Message>
+    </EventString>
+    <EventString Key="0301">
+      <Title />
+      <Message />
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

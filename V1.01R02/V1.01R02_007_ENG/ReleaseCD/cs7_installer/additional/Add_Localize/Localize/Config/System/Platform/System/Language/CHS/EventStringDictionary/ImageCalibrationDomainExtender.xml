@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title>注意</Title>
+      <Message>请输入数值。</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title>注意</Title>
+      <Message>请输入有效数据</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title>错误</Title>
+      <Message>增益校准启动错误</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title>错误</Title>
+      <Message>偏移校准启动错误</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title>确认</Title>
+      <Message>要中止增益校准程序吗？</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title>确认</Title>
+      <Message>要中止增益校准程序吗？</Message>
+    </EventString>
+    <EventString Key="0107">
+      <Title>确认</Title>
+      <Message>要中止增益校准程序吗？</Message>
+    </EventString>
+    <EventString Key="0108">
+      <Title>确认</Title>
+      <Message>增益校准成功完成</Message>
+    </EventString>
+    <EventString Key="0109">
+      <Title>确认</Title>
+      <Message>偏移校准成功完成</Message>
+    </EventString>
+    <EventString Key="0110">
+      <Title>错误</Title>
+      <Message>增益校准失败</Message>
+    </EventString>
+    <EventString Key="0111">
+      <Title>错误</Title>
+      <Message>偏移校准失败</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

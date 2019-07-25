@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35500">
+      <Title>Erreur d'initialisation</Title>
+      <Message>Échec d'initialisation.</Message>
+    </EventString>
+    <EventString Key="35501">
+      <Title>Erreur de paramétrage</Title>
+      <Message>Une erreur de lecture du fichier de paramétrage s'est produite.</Message>
+    </EventString>
+    <EventString Key="35502">
+      <Title>Erreur de tempo</Title>
+      <Message>Pb de tempo survenu.</Message>
+    </EventString>
+    <EventString Key="35503">
+      <Title>Erreur de prise</Title>
+      <Message>Erreur de prise survenue.</Message>
+    </EventString>
+    <EventString Key="37350">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne de communication DICOM. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne de communication DICOM. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>Erreur interne</Title>
+      <Message>Échec d'obtention du paramétrage de communication DICOM. Veuillez vérifier le paramétrage de communication.</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>Erreur de communication</Title>
+      <Message>Échec de communication. Veuillez vérifier le paramétrage de communication et si le serveur fonctionne.</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>Erreur de communication</Title>
+      <Message>Échec de A-ASSOCIATE. Veuillez vérifier le paramétrage de communication et si le serveur fonctionne.</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>Erreur de communication</Title>
+      <Message>Refus du serveur de A-ASSOCIATE, paramétrage invalide. Veuillez vérifier le paramétrage de communication.</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>Erreur de communication</Title>
+      <Message>Erreur interne de communication DICOM. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="37357">
+      <Title>Erreur de communication</Title>
+      <Message>Échec de la communication de la mise à jour. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>Erreur de communication</Title>
+      <Message>Réception de A-ABORT. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37610">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne de communication RIS-IN. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="37611">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne de communication RIS-IN. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="37612">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne de communication RIS-IN. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="37613">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne de communication RIS-IN. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="37614">
+      <Title>Communication error</Title>
+      <Message>MWM C-FIND request aborted because it exceeded the maximum number of search responses.</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-IN communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-IN communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>Erreur interne</Title>
+      <Message>Notification de fin reçue.[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="27740">
+      <Title>Erreur de communication</Title>
+      <Message>Erreur de communication RIS-IN. Vérifiez la destination de la communication.</Message>
+    </EventString>
+    <EventString Key="27741">
+      <Title>Erreur de communication</Title>
+      <Message>Erreur de communication RIS-IN. Vérifiez la destination de la communication.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

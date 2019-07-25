@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>Year</Key>
+      <Value>/</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Month</Key>
+      <Value>/</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Day</Key>
+      <Value>/</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Hour</Key>
+      <Value>:</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Minute</Key>
+      <Value>:</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Second</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PingSuccess</Key>
+      <Value>Onnistui</Value>
+      <Comment>Ping Success state</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PingFailure</Key>
+      <Value>Epäonnistui</Value>
+      <Comment>Ping failure state</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputStatus</Key>
+      <Value>Lähtö</Value>
+      <Comment>Queue Output Status</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>QueueCaption</Key>
+      <Value>Lähtövaraus</Value>
+      <Comment>QueueCaption</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PrimaryHost</Key>
+      <Value>Ensisijainen isäntä Eng</Value>
+      <Comment>PrimaryHost</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputStatusOFF</Key>
+      <Value>POIS</Value>
+      <Comment>OutputStatus OFF</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputStatusON</Key>
+      <Value>PÄÄLLÄ</Value>
+      <Comment>OutputStatus ON</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HostCaption</Key>
+      <Value>Isäntä</Value>
+      <Comment>Host Caption</Comment>
+      <Link />
+      <FontSize>14</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BackupHost</Key>
+      <Value>Varmuuskopioisäntä Eng</Value>
+      <Comment>BackupHost</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputRes</Key>
+      <Value>Kuva</Value>
+      <Comment>OutputReservation</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Image</Key>
+      <Value>Kuva(t)</Value>
+      <Comment>Image</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ID</Key>
+      <Value>Tunnus</Value>
+      <Comment>ID</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Lname</Key>
+      <Value>Nimi</Value>
+      <Comment>Lname</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Time</Key>
+      <Value>Päivämäärä</Value>
+      <Comment>Time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SelectAll</Key>
+      <Value>Valitse kaikki</Value>
+      <Comment>SelectAll</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Clear</Key>
+      <Value>Tyhjennä kaikki</Value>
+      <Comment>Clear</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeleteBtn</Key>
+      <Value>Poista</Value>
+      <Comment>DeleteBtn</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StdHost</Key>
+      <Value>Ensisijainen</Value>
+      <Comment>Standard Host</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Host2</Key>
+      <Value>Toissijainen</Value>
+      <Comment>Host2</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Host3</Key>
+      <Value>Toissijainen</Value>
+      <Comment>Host3</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Backup</Key>
+      <Value>Toissijainen</Value>
+      <Comment>Backup</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Status</Key>
+      <Value>Tila</Value>
+      <Comment>Status</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BtnPing</Key>
+      <Value>Ping</Value>
+      <Comment>BtnPing</Comment>
+      <Link />
+      <FontSize>14</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CEcho</Key>
+      <Value>C-Echo</Value>
+      <Comment>CEcho</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Name</Key>
+      <Value>Nimi</Value>
+      <Comment>Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Error</Key>
+      <Value>Virhe</Value>
+      <Comment>Error</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CStore</Key>
+      <Value>C-Store</Value>
+      <Comment>CStore</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NAction</Key>
+      <Value>N-Action</Value>
+      <Comment>N-Action</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NEvent</Key>
+      <Value>N-Event</Value>
+      <Comment>NEvent</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IPAddress</Key>
+      <Value>IP-osoite</Value>
+      <Comment>IPAddress</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Port</Key>
+      <Value>Portin numero</Value>
+      <Comment>Port</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AEtitle</Key>
+      <Value>AE-otsikko</Value>
+      <Comment>AETitle</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Ping</Key>
+      <Value>Ping-tila</Value>
+      <Comment>Ping</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CEchoStatus</Key>
+      <Value>C-Echo-tila</Value>
+      <Comment>CEchoStatus</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Condition</Key>
+      <Value>Laitteen tila</Value>
+      <Comment>Condition</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Return</Key>
+      <Value>Takaisin</Value>
+      <Comment>Return</Comment>
+      <Link />
+      <FontSize>16</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HostError</Key>
+      <Value>Virhe</Value>
+      <Comment>HostError</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HostReady</Key>
+      <Value>Normaali</Value>
+      <Comment>HostReady</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HostBusy</Key>
+      <Value>Varattu</Value>
+      <Comment>HostReady</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

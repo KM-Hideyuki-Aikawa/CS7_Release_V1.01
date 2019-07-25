@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="40001">
+      <Title>队列文件创建失败</Title>
+      <Message>创建队列文件失败。</Message>
+    </EventString>
+    <EventString Key="40002">
+      <Title>排队失败</Title>
+      <Message>排队失败。</Message>
+    </EventString>
+    <EventString Key="40003">
+      <Title>排队失败</Title>
+      <Message>达到队列重试极限。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

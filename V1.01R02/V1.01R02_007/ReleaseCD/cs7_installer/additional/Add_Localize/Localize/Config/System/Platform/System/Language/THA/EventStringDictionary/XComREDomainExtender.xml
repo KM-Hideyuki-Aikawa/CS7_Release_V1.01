@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title />
+      <Message>คุณต้องการเปลี่ยนขนาดร่างกายใช่หรือไม่ โปรดยืนยัน</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title />
+      <Message>ผลการฉายแสงปรับใช้มากกว่าหนึ่งลำดับ แท็กตรวจ "{EXAM_TAGS_INFO}"</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title />
+      <Message>ไม่พบลำดับที่ตรงกันเพื่อปรับใช้ผลการฉายแสง โปรดตรวจสอบ</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title />
+      <Message>AEC สำหรับเงื่อนไขการฉายแสง CR ไม่สามารถเปิดได้ ปิด AEC ได้หรือไม่</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title />
+      <Message>ขนาดผู้ป่วยไม่สามารถเปลี่ยนได้สำหรับบางลำดับ โปรดตรวจสอบ</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

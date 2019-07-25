@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0401">
+      <Title>Σφάλμα αποστολής</Title>
+      <Message>Παρουσιάστηκε εσωτερικό σφάλμα κατά τη διαδικασία επικοινωνίας με το σύστημα ακτινών X.</Message>
+    </EventString>
+    <EventString Key="0402">
+      <Title>Εσωτερικό σφάλμα</Title>
+      <Message>Παρουσιάστηκε εσωτερικό σφάλμα κατά τη διαδικασία επικοινωνίας με το σύστημα ακτινών X.</Message>
+    </EventString>
+    <EventString Key="0403">
+      <Title>Σφάλμα αποστολής</Title>
+      <Message>Η αποστολή της εντολής συνθηκών έκθεσης για το σύστημα ακτινών X απέτυχε. Επανεκκινήστε τη συσκευή ακτινών X.</Message>
+    </EventString>
+    <EventString Key="0404">
+      <Title>Σφάλμα ρύθμισης</Title>
+      <Message>Σφάλμα ρύθμισης παραμέτρου στο σύστημα ακτινών X.</Message>
+    </EventString>
+    <EventString Key="0405">
+      <Title>Σφάλμα συσκευής</Title>
+      <Message>Ανιχνεύτηκε σφάλμα στο σύστημα ακτινών X.</Message>
+    </EventString>
+    <EventString Key="0406">
+      <Title>Σφάλμα αποστολής</Title>
+      <Message>Σφάλμα σύνδεσης στο σύστημα ακτινών X. Ελέγξτε το δίκτυο.</Message>
+    </EventString>
+    <EventString Key="0301">
+      <Title />
+      <Message />
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

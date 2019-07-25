@@ -1,0 +1,1391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>DeviceDisplaySettingsView</Key>
+      <Value>Configuração do dispositivo</Value>
+      <Comment>Device Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSettingsLabelData</Key>
+      <Value>Configuração do ecrã</Value>
+      <Comment>Screen Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ApplicationBarLabelData</Key>
+      <Value>Barra de aplicação</Value>
+      <Comment>Application Bar</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientInfoDisplayRegionLabelExplanationData</Key>
+      <Value>Área de display de informação do paciente</Value>
+      <Comment>Patient Info Display Region</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresetSelectionLabelData</Key>
+      <Value>Seleção prévia</Value>
+      <Comment>Preset Selection</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UnphotographicImageDisplayAreaLabelExplanationData</Key>
+      <Value>Área de display da imagem, antes da leitura</Value>
+      <Comment>Unphotographic image display area</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PictureTakenImageDisplayAreaLabelExplanationData</Key>
+      <Value>Área de display da imagem, após a leitura</Value>
+      <Comment>Picture taken Image display area</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UntakenPictureShootingConditionsAreaLabelExplanationData</Key>
+      <Value>Etiqueta Exame da área de display, antes da leitura</Value>
+      <Comment>Untaken picture shooting conditions display area</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ShootingConditionsDisplayAreaPictureLabelExplanationData</Key>
+      <Value>Etiqueta Exame da área de display, após a leitura</Value>
+      <Comment>Shooting conditions display area that has been taken a picture</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureOrderAutoSortLabelExplanationData</Key>
+      <Value>Pedir distribuição automática</Value>
+      <Comment>Exposure Order Auto Sort</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TouchOperationSettingLabelExplanationData</Key>
+      <Value>Operação tátil</Value>
+      <Comment>Touch Operation Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageSingleTouchLabelExplanationData</Key>
+      <Value>Toque único (área de display de imagem)</Value>
+      <Comment>Image Single Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageDoubleTouchLabelExplanationData</Key>
+      <Value>Toque duplo (área de display de imagem)</Value>
+      <Comment>Image Double Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamTagSingleTouchLabelExplanationData</Key>
+      <Value>Toque único (Etiqueta Exame da área de display)</Value>
+      <Comment>ExamTag Single Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamTagDoubleTouchLabelExplanationData</Key>
+      <Value>Toque duplo (Etiqueta Exame da área de display)</Value>
+      <Comment>ExamTag Double Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefectReasonLabelExplanationData</Key>
+      <Value>Rejeitar motivo</Value>
+      <Comment>Defect Reason</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>XRayTabLabelData</Key>
+      <Value>Tabulação raio-X</Value>
+      <Comment>X-Ray Tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SortOrderLabelData</Key>
+      <Value>Distribuir pedido</Value>
+      <Comment>Sort Order</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SendPreviewLabelData</Key>
+      <Value>Previsualizar display</Value>
+      <Comment>Send Preview</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefectImageLabelData</Key>
+      <Value>Rejeitar imagem</Value>
+      <Comment>Defect image</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageDestructionSettingWhenDefectLabelExplanationData</Key>
+      <Value>Método para apagar imagem rejeitada</Value>
+      <Comment>Image destruction setting when defect</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoFocusLabelData</Key>
+      <Value>Focalização automática</Value>
+      <Comment>Auto Focus</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoFocusNavigationLabelData</Key>
+      <Value>Foco de evento de navegação </Value>
+      <Comment>Auto Focus Navigation</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TimerLabelData</Key>
+      <Value>A aguardar navegação [seg]</Value>
+      <Comment>Timer</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransitionDestinationLabelData</Key>
+      <Value>Destino de navegação</Value>
+      <Comment>Transition Destination</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SearchOfYetToExposedLabelExplanationData</Key>
+      <Value>Método de pesquisa da imagem não exposto</Value>
+      <Comment>Search of yet to be exposed</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NumberOfFramesLabelData</Key>
+      <Value>Segmentação da moldura</Value>
+      <Comment>Number of frames</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ThresholdsOfNumberOfShotsLabelExplanationData</Key>
+      <Value>Limites de alteração de segmentação de moldura</Value>
+      <Comment>Thresholds of number of frame number shots</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputLabelData</Key>
+      <Value>Saída</Value>
+      <Comment>Output</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputDestinationOnClickingButtonLabelExplanationData</Key>
+      <Value>Mostrar botão de saída</Value>
+      <Comment>Output Destination on clicking the output button</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputDestinationOnClickingStudyButtonLabelExplanationData</Key>
+      <Value>Dispositivo de saída ligado clicando o botão de conclusão do estudo</Value>
+      <Comment>Output Destination on clicking the study completion button</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OrderListLabelData</Key>
+      <Value>Lista de pedido</Value>
+      <Comment>Order List</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OverlayDisplayOnExposedImagesLabelExplanationData</Key>
+      <Value>Configuração de cobertura em imagens expostas</Value>
+      <Comment>Overlay Display on Exposed Images</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ControlPanelLabelData</Key>
+      <Value>Painel de controlo</Value>
+      <Comment>Control Panel</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefaultFunctionOfImageTabLabelExplanationData</Key>
+      <Value>Função padrão da tabulação de ajuste de imagem</Value>
+      <Comment>Default function of Image Adjustment Tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputConditionTabLabelData</Key>
+      <Value>Tabulação de condição de saída</Value>
+      <Comment>Output Condition Tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DRLabelData</Key>
+      <Value>DR</Value>
+      <Comment>DR</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CRLabelData</Key>
+      <Value>CR</Value>
+      <Comment>CR</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MammoLabelData</Key>
+      <Value>Mammo</Value>
+      <Comment>Mammo</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefaultsDisplayPanelLabelData</Key>
+      <Value>Painel de display padrão</Value>
+      <Comment>Defaults Display Panel</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UnexposedImageSelectionTimeLabelExplanationData</Key>
+      <Value>selecionando imagem não exposta</Value>
+      <Comment>Unexposed Image Selection Time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ToolBarLabelData</Key>
+      <Value>Barra de ferramentas</Value>
+      <Comment>Tool Bar</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayModeLabelData</Key>
+      <Value>Modo de display</Value>
+      <Comment>Display Mode</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayPositionLabelData</Key>
+      <Value>Posição de display</Value>
+      <Comment>Display Position</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ButtonDisplayLabelData</Key>
+      <Value />
+      <Comment>Button Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SystemLabelData</Key>
+      <Value>Botão do sistema</Value>
+      <Comment>System</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RegionSelectionScreenDisplayLabelExplanationData</Key>
+      <Value>Botão do ecrã de seleção da parte do corpo</Value>
+      <Comment>Region selection screen display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IncidentalInformationCorrectionScreenDisplayLabelExplanationData</Key>
+      <Value>Botão do ecrã de edição de informação suplementar</Value>
+      <Comment>Incidental information correction screen display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ViewerScreenDisplayLabelData</Key>
+      <Value>Botão do ecrã do observador</Value>
+      <Comment>Viewer screen display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SuspendLabelData</Key>
+      <Value>Botão de pausa</Value>
+      <Comment>Suspend</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyEndLabelData</Key>
+      <Value>Botão de conclusão de exame</Value>
+      <Comment>Study end</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IQBoyLabelData</Key>
+      <Value>IQ Boy</Value>
+      <Comment>IQ Boy</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefaultMajorClassificationLabelData</Key>
+      <Value>Número referente à parte do corpo</Value>
+      <Comment>Default major classification</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ViewerScreenLabelData</Key>
+      <Value>Ecrã do observador</Value>
+      <Comment>Viewer Screen</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SpecificationOfDisplayedWindowidLabelExplanationData</Key>
+      <Value>ID da janela</Value>
+      <Comment>Specification of displayed windowID</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayPositionXLabelData</Key>
+      <Value>Posição do display (X)</Value>
+      <Comment>Display position (X)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayPositionYLabelExplanationData</Key>
+      <Value>Posição do display (Y)</Value>
+      <Comment>Display position  (Y)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ToolBarDisplayPositionSettingLabelExplanationData</Key>
+      <Value>Posição da barra de ferramentas</Value>
+      <Comment>Tool bar display position setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HighDefinitionMonitorDisplayLabelExplanationData</Key>
+      <Value>Método de display do monitor de alta definição</Value>
+      <Comment>High Definition Monitor display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TextAnnotationLabelData</Key>
+      <Value>Contagem da tabulação de texto de anotação </Value>
+      <Comment>Text Annotation</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureConditionsScreenDefaultValuesLabelExplanationData</Key>
+      <Value>Ecrã de conduções de exposição (valores padrão)</Value>
+      <Comment>Exposure Conditions Screen (Default Values)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LaunchingTimeFromStudyScreenLabelExplanationData</Key>
+      <Value>Lançamento de ecrã de registo do estudo</Value>
+      <Comment>Launching time from study reception screen</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LaunchingTimeFromExposureScrnLabelExplanationData</Key>
+      <Value>Lançamento do ecrã de exposição</Value>
+      <Comment>Launching time from exposure scrn</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MyFavoritesTabLabelData</Key>
+      <Value>Número de tabulação de Os Meus Favoritos do display padrão</Value>
+      <Comment>My Favorites Tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LargeClassificationLabelData</Key>
+      <Value>Número de parte do corpo do display padrão</Value>
+      <Comment>Large classification</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SmallClassificationLabelData</Key>
+      <Value>Número de grupo do display padrão</Value>
+      <Comment>Small classification</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TouchHeaderData</Key>
+      <Value>Área de toque</Value>
+      <Comment>Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SingleTouchHeaderData</Key>
+      <Value>Toque único</Value>
+      <Comment>Single Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DoubleTouchHeaderData</Key>
+      <Value>Toque duplo</Value>
+      <Comment>Double Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SnoHeaderData</Key>
+      <Value>Não.</Value>
+      <Comment>Sno</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefectReasonHeaderData</Key>
+      <Value>Motivo</Value>
+      <Comment>Defect Reason</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FrameTypeHeaderData</Key>
+      <Value>Formato</Value>
+      <Comment>Frame Type</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ThresholdHeaderData</Key>
+      <Value>Limite</Value>
+      <Comment>Threshold</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>XrayTypeHeaderData</Key>
+      <Value>Tipo de detetor</Value>
+      <Comment>Xray Type</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureConditionDisplayHeaderData</Key>
+      <Value>Display de condição de exposição</Value>
+      <Comment>Exposure Condition Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureResultInputDisplayHeaderData</Key>
+      <Value>Display de resultado de radiação</Value>
+      <Comment>Exposure Result Input Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayTimeCheckBoxData</Key>
+      <Value>Display de hora</Value>
+      <Comment>Display Time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayRoomNameCheckBoxData</Key>
+      <Value>Display do nome da sala de exame </Value>
+      <Comment>Display Room Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayLoginNameCheckBoxData</Key>
+      <Value>Display do nome de login</Value>
+      <Comment>Display Login Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayEmergencyPatientColumnWarningDisplayColumnCheckBoxData</Key>
+      <Value>Display de coluna de emergência do paciente/ coluna de display de aviso</Value>
+      <Comment>Display Emergency Patient Column/Warning Display Column</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WarningCheckBoxData</Key>
+      <Value>Aviso</Value>
+      <Comment>Warning</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiagnosisDescriptionWhenConsultingAPhysicianCheckBoxData</Key>
+      <Value>Admitir descrição de diagnósticos</Value>
+      <Comment>Diagnosis description when consulting a physician</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MedicalNotesCheckBoxData</Key>
+      <Value>Alertas médicos</Value>
+      <Comment>Medical notes</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AllergyCheckBoxData</Key>
+      <Value>Alergia</Value>
+      <Comment>Allergy</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientAdditionalCaseHistoryCheckBoxData</Key>
+      <Value>Histórico adicional do paciente</Value>
+      <Comment>Patient additional case history</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PregnancyStatusCheckBoxData</Key>
+      <Value>Estado de gravidez</Value>
+      <Comment>Pregnancy status</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SpecialHelpCheckBoxData</Key>
+      <Value>Necessidades especiais</Value>
+      <Comment>Special Help</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientsStatusCheckBoxData</Key>
+      <Value>Estado do paciente</Value>
+      <Comment>Patient's Status</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientDataConfidentialObligationCheckBoxData</Key>
+      <Value>Restrição de confidencialidade</Value>
+      <Comment>Patient data confidential obligation</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PriorAdministratingOfMedicationCheckBoxData</Key>
+      <Value>Medicação prévia</Value>
+      <Comment>Prior administrating of medication</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoSortCheckBoxData</Key>
+      <Value>Pedir distribuição automática de lista</Value>
+      <Comment>Auto Sort</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayOfSendPreviewTabCheckBoxData</Key>
+      <Value>Display de tabulação prévia antes de saída</Value>
+      <Comment>Display of send preview tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UseDefectReasonCheckBoxData</Key>
+      <Value>Use motivo de rejeição</Value>
+      <Comment>Use defect reason</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoFrameNumberChangeCheckBoxData</Key>
+      <Value>Ajuste de segmentação da moldura automática junto com contagem de pedido</Value>
+      <Comment>Auto frame number change</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AfterItTakesAPictureTheImageConfirmationScreenIsAutomaticallyDisplayedCheckBoxData</Key>
+      <Value>Display de ecrã de confirmação de imagem após a leitura</Value>
+      <Comment>After it takes a picture, the image confirmation screen is automatically displayed.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayOutputButtonCheckBoxData</Key>
+      <Value>Display do botão de saída</Value>
+      <Comment>Display Output Button</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayOrderListCheckBoxData</Key>
+      <Value>Display da lista de pedido</Value>
+      <Comment>Display Order List</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MarkerCheckBoxData</Key>
+      <Value>Marcador</Value>
+      <Comment>Marker</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampCheckBoxData</Key>
+      <Value>Selo</Value>
+      <Comment>Stamp</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScaleCheckBoxData</Key>
+      <Value>Balança</Value>
+      <Comment>Scale</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CommonOverlayCheckBoxData</Key>
+      <Value>Cobertura comum</Value>
+      <Comment>Common Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NormalOverlayCheckBoxData</Key>
+      <Value>Cobertura geral</Value>
+      <Comment>Normal Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MammoOverlayCheckBoxData</Key>
+      <Value>Cobertura Mammo</Value>
+      <Comment>Mammo Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TextAnnotationCheckBoxData</Key>
+      <Value>Anotação de texto</Value>
+      <Comment>Mammo Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilmNotchIconCheckBoxData</Key>
+      <Value>ícone do excerto da película</Value>
+      <Comment>Film Notch Icon</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoRegistrationCheckBoxData</Key>
+      <Value>Permitir registo automático</Value>
+      <Comment>Auto Registration</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayWithPreviousEndStatusDuringNextLaunchCheckBoxData</Key>
+      <Value>Restaurar última alteração de ajuste no arranque </Value>
+      <Comment>Display with previous end status during next launch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ChangeActiveFrame</Key>
+      <Value>Mostrar moldura ativa</Value>
+      <Comment>Change Active Frame</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CallDomain</Key>
+      <Value>Mostrar ecrã de observação</Value>
+      <Comment>Call Domain</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FullScreen</Key>
+      <Value>Mostrar vista total do ecrã</Value>
+      <Comment>FullScreen</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ChangeCrReadOrder</Key>
+      <Value>Especificar largura de leitura do leitor de cassete CR (Não disponível)</Value>
+      <Comment>ChangeCrReadOrder</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeleteBarcode</Key>
+      <Value>Apagar código de barras (Não disponível)</Value>
+      <Comment>Delete Barcode</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Nothing</Key>
+      <Value>Nenhuma ação</Value>
+      <Comment>Nothing</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Upright</Key>
+      <Value>Suporte de parede</Value>
+      <Comment>Upright</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Supine</Key>
+      <Value>Mesa Bucky</Value>
+      <Comment>Supine</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Cassette</Key>
+      <Value>Cassete</Value>
+      <Comment>Cassette</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>destroyimagewhenng</Key>
+      <Value>Apagar imagem rejeitada em cada operação de rejeição (NG)</Value>
+      <Comment>Destroy defect image when executing defect (NG)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>destroyimagewhenstudycomplete</Key>
+      <Value>Apagar imagem rejeitada após conclusão do estudo</Value>
+      <Comment>Destroy defect image when Study complete</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>leaveimage</Key>
+      <Value>Abandonar (Não apagar)</Value>
+      <Comment>Leave (do not destruct)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>donottransit</Key>
+      <Value>Não navegar</Value>
+      <Comment>Do not transit</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittoimage</Key>
+      <Value>Navegar no arranque de transferência de imagem</Value>
+      <Comment>Transit to image transfer start time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittowipeimage</Key>
+      <Value>Navegar em conclusão do display de limpeza de imagem</Value>
+      <Comment>Transit to wipe image display completion time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittopreviewimage</Key>
+      <Value>Navegar em conclusão do display de previsualização de imagem</Value>
+      <Comment>Transit to preview image display completion time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittooriginal</Key>
+      <Value>Navegar em conclusão do display final de imagem</Value>
+      <Comment>Transit to original image display completion time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittonextone</Key>
+      <Value>Navegar para pedido seguinte independentemente do estado de exposição</Value>
+      <Comment>Transit to next one regardless of exposed / unexposed</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittounexposedshot</Key>
+      <Value>Navegar para próximo pedido não exposto</Value>
+      <Comment>Transit the focus to unexposed shot</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>searchfromtop</Key>
+      <Value>Procurar do topo da lista de pedido</Value>
+      <Comment>Search from top</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>searchaftercurrent</Key>
+      <Value>Procurar após posição atual</Value>
+      <Comment>Search after the current position</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>host</Key>
+      <Value>Anfitrião</Value>
+      <Comment>Host</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>printer</Key>
+      <Value>Impressora</Value>
+      <Comment>Printer</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>hostandprinter</Key>
+      <Value>Host + impressora</Value>
+      <Comment>Host + printer</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ROI</Key>
+      <Value>ROI</Value>
+      <Comment>ROI</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Magnify</Key>
+      <Value>Aumentar</Value>
+      <Comment>Magnify</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Reduce</Key>
+      <Value>Diminuir</Value>
+      <Comment>Reduce</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Pan</Key>
+      <Value>Panorâmico</Value>
+      <Comment>Pan</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Imageadjustment</Key>
+      <Value>Ajuste de imagem</Value>
+      <Comment>Image adjustment</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Exposurecondition</Key>
+      <Value>Condição de exposição</Value>
+      <Comment>Exposure condition</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Xrayinput</Key>
+      <Value>Entrada de RAIO-X</Value>
+      <Comment>X-rayinput</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Overlay</Key>
+      <Value>Sobreposição</Value>
+      <Comment>Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Outputcondition</Key>
+      <Value>Condição de saída</Value>
+      <Comment>Output condition</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Fixedmode</Key>
+      <Value>Modo fixo</Value>
+      <Comment>Fixed mode</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Optionalmode</Key>
+      <Value>Modo opcional</Value>
+      <Comment>Optional mode</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Left</Key>
+      <Value>Esquerda</Value>
+      <Comment>Left</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Right</Key>
+      <Value>Direita</Value>
+      <Comment>Right</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Top</Key>
+      <Value>Parte superior</Value>
+      <Comment>Top</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Bottom</Key>
+      <Value>Parte inferior</Value>
+      <Comment>Bottom</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Dontdisplay</Key>
+      <Value>Não mostrar</Value>
+      <Comment>Don't display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Alwaysdisplay</Key>
+      <Value>Mostrar sempre</Value>
+      <Comment>Always display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Displaywhenexpanded</Key>
+      <Value>Mostrar em expandido</Value>
+      <Comment>Display when expanded</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Sizeofframe</Key>
+      <Value>Tamanho da moldura</Value>
+      <Comment>Size of frame</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>11display</Key>
+      <Value>Display 1:1 </Value>
+      <Comment>1:1 display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefaultDisplay</Key>
+      <Value>Configuração</Value>
+      <Comment>Default Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BeforeDisplay</Key>
+      <Value>Última alteração</Value>
+      <Comment>Before Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FocusDisplay</Key>
+      <Value>Pedido em foco</Value>
+      <Comment>Focus Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

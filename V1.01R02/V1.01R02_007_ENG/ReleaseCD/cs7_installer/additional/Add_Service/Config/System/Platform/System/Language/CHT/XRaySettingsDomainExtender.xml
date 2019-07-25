@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>DeviceDisplaySettingsView</Key>
+      <Value>Device Setting</Value>
+      <Comment>Device Setting</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceMakerLabelData</Key>
+      <Value>Maker</Value>
+      <Comment>Maker</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceMakerLabelExplanationData</Key>
+      <Value>Specify Maker Of X-RAY Device</Value>
+      <Comment>Specify Maker Of X-RAY Device</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceModelLabelData</Key>
+      <Value>Model</Value>
+      <Comment>Model</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceModelLabelExplanationData</Key>
+      <Value>Specify Model Name Of X-RAY Device</Value>
+      <Comment>Specify Model Name Of X-RAY Device</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceNameLabelData</Key>
+      <Value>Name</Value>
+      <Comment>Name</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceNameLabelExplanationData</Key>
+      <Value>Specify the name to be displayed on system monitor etc.</Value>
+      <Comment>Specify The Name To Displayed On The System Monitor,etc</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Maker_Label</Key>
+      <Value>Specify Maker Of X-RAY Device check</Value>
+      <Comment>OKリンク成功</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceConnectionSettingLabelData</Key>
+      <Value>Connection Setting</Value>
+      <Comment>Connection Setting</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ComPortNumberLabelData</Key>
+      <Value>COM Port Number</Value>
+      <Comment>COM Port Number</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ComPortNumberLabelExplanationData</Key>
+      <Value>Specify the communication port of X-ray device</Value>
+      <Comment>Specify the communication port of X-ray device</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PollingtimeLabelData</Key>
+      <Value>Polling time[msec]</Value>
+      <Comment>Polling time</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PollingtimeLabelExplanationData</Key>
+      <Value>Specify the status monitoring interval of X-ray device[msec]</Value>
+      <Comment>Specify the status monitoring interval of X-ray device[msec]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SendTimeoutLabelData</Key>
+      <Value>Send Timeout[msec]</Value>
+      <Comment>Send Timeout</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReceiveTimeoutLabelData</Key>
+      <Value>Receive Timeout[msec]</Value>
+      <Comment>Receive Timeout</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureCheckModeLabelData</Key>
+      <Value>Exposure Check Mode</Value>
+      <Comment>Exposure Check Mode</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ConsoleModeLabelData</Key>
+      <Value>Console Mode</Value>
+      <Comment>Console Mode</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ResponseTimedOutLabelData</Key>
+      <Value>Response TimedOut[msec]</Value>
+      <Comment>Response TimedOut</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IPAddressLabelData</Key>
+      <Value>IP Address</Value>
+      <Comment>IP Address</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>communicationportXraydeviceQ30LabelExplanationData</Key>
+      <Value>Specify communication port of X-ray device+Q30</Value>
+      <Comment>Specify communication port of X-ray device+Q30</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PortNumberLabelData</Key>
+      <Value>Port Number</Value>
+      <Comment>Port Number</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PollingtimesecLabelData</Key>
+      <Value>Polling time[sec]</Value>
+      <Comment>Polling time[sec]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SendTimeoutmsecLabelData</Key>
+      <Value>Send Timeout[m.sec]</Value>
+      <Comment>Send Timeout[m.sec]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReceiveTimeoutmsecLabelData</Key>
+      <Value>Receive Timeout[m.sec]</Value>
+      <Comment>Receive Timeout[m.sec]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ConnectIntervalsecLabelData</Key>
+      <Value>Connect Interval[sec]</Value>
+      <Comment>Connect Interval[sec]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>COMPortNumberLabelData</Key>
+      <Value>COM Port Number</Value>
+      <Comment>COM Port Number</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>communicationportXraydeviceLabelExplanationData</Key>
+      <Value>Specify the communication port of  X-ray device</Value>
+      <Comment>Specify the communication port of  X-ray device</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CommandRequestTimeoutmsecLabelData</Key>
+      <Value>Command Request Timeout[m.sec]</Value>
+      <Comment>Command Request Timeout[m.sec]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CommandResendIntervalmsecLabelData</Key>
+      <Value>Command Resend Interval[m.sec]</Value>
+      <Comment>Command Resend Interval[m.sec]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CommandRetryCountmsecLabelData</Key>
+      <Value>Command Retry Count[m.sec]</Value>
+      <Comment>Command Retry Count[m.sec]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StatusWatchingIntervalmsecLabelData</Key>
+      <Value>Status Watching Interval[m.sec]</Value>
+      <Comment>Status Watching Interval[m.sec]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ParameterWatchingIntervalmsecLabelData</Key>
+      <Value>Parameter Watching Interval[m.sec]</Value>
+      <Comment>Parameter Watching Interval[m.sec]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CommandnegotiationretryfrequencymsecLabelExplanationData</Key>
+      <Value>Command negotiation retry frequency[m.sec]</Value>
+      <Comment>Command negotiation retry frequency[m.sec]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CommandnegotiationtransmissionintervalmsecLabelExplanationData</Key>
+      <Value>Command negotiation transmission interval[m.sec]</Value>
+      <Comment>Command negotiation transmission interval[m.sec]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CommandretransmissionfrequencymsecLabelData</Key>
+      <Value>Command re-transmission frequency[m.sec]</Value>
+      <Comment>Command re-transmission frequency[m.sec]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CommandtransmissionintervalmsecLabelData</Key>
+      <Value>Command transmission interval[m.sec]</Value>
+      <Comment>Command transmission interval[m.sec]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransmissiontimeoutmsecLabelData</Key>
+      <Value>Transmission timeout[m.sec]</Value>
+      <Comment>Transmission timeout[m.sec]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReceptiontimeoutmsecLabelData</Key>
+      <Value>Reception time out[m.sec]</Value>
+      <Comment>Reception time out[m.sec]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ParameterCheckSettingLabelData</Key>
+      <Value>Parameter Check Setting</Value>
+      <Comment>Parameter Check Setting</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GeneratorLabelData</Key>
+      <Value>Generator</Value>
+      <Comment>Generator</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MinVoltagekVLabelData</Key>
+      <Value>Min Voltage [kV]</Value>
+      <Comment>Min Voltage [kV]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MaxVoltagekVLabelData</Key>
+      <Value>Max Voltage [kV]</Value>
+      <Comment>Max Voltage [kV]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MaxPowerkWLabelData</Key>
+      <Value>Max Power [kW]</Value>
+      <Comment>Max Power [kW]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MinCurrentmALabelData</Key>
+      <Value>Min Current [mA]</Value>
+      <Comment>Min Current [mA]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MaxCurrentmALabelData</Key>
+      <Value>Max Current [mA]</Value>
+      <Comment>Max Current [mA]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MaxRadiationDoseLabelExplanationData</Key>
+      <Value>Max Radiation Dose [mAs]</Value>
+      <Comment>Max Radiation Dose [mAs]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SmallfocusMaxpowerkwLabelExplanationData</Key>
+      <Value>Small focus Max power[kw]</Value>
+      <Comment>Small focus Max power[kw]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LargefocusMaxpowerkwLabelExplanationData</Key>
+      <Value>Large focus  Max  power[kw]</Value>
+      <Comment>Large focus  Max  power[kw]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MaxVoltkVLabelData</Key>
+      <Value>Max Volt[kV]</Value>
+      <Comment>Max Volt[kV]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MaxcurrentmALabelData</Key>
+      <Value>Max current[mA]</Value>
+      <Comment>Max current[mA]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WorkStationLabelData</Key>
+      <Value>WorkStation</Value>
+      <Comment>WorkStation</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NumberOneLabelData</Key>
+      <Value>1</Value>
+      <Comment>1</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NumberTwoLabelData</Key>
+      <Value>2</Value>
+      <Comment>2</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NumberThreeLabelData</Key>
+      <Value>3</Value>
+      <Comment>3</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NumberFourLabelData</Key>
+      <Value>4</Value>
+      <Comment>4</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NumberFiveLabelData</Key>
+      <Value>5</Value>
+      <Comment>5</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TubeLabelData</Key>
+      <Value>Tube</Value>
+      <Comment>Tube</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SmallFocusLabelData</Key>
+      <Value>Small Focus</Value>
+      <Comment>Small Focus</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NumberSixLabelData</Key>
+      <Value>6</Value>
+      <Comment>6</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LargeFocusLabelData</Key>
+      <Value>Large Focus</Value>
+      <Comment>Large Focus</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AddraddoseNGLabelExplanationData</Key>
+      <Value>Add rad.dose when NG</Value>
+      <Comment>Add rad.dose when NG</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>mAsvaluelostexposurereexposureLabelExplanationData</Key>
+      <Value>mAs value of lost exposure is calculated and displyed on the screen at the time of re-exposure</Value>
+      <Comment>mAs value of lost exposure is calculated and displyed on the screen at the time of re-exposure</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SetExpConditionLabelData</Key>
+      <Value>Send Exposure Condition</Value>
+      <Comment>Set Exp Condition</Comment>
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SetExpConditionLabelExplanationData</Key>
+      <Value>In case of Check OFF, will not send exposure condition and only receive radiation result.</Value>
+      <Comment>Send radiation condition</Comment>
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ResultsetStitchLabelData</Key>
+      <Value>Result set(Stitch)</Value>
+      <Comment>Result set(Stitch)</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DuringstitchexposureradiationtopLabelExplanationData</Key>
+      <Value>During the stitch exposure, radiation result will be shown only for the image at top</Value>
+      <Comment>During the stitch exposure, radiation result will be shown only for the image at top</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ConnectiondelaymsecLabelData</Key>
+      <Value>Connection delay[m.sec]</Value>
+      <Comment>Connection delay[m.sec]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RadiationresultdisplayedonmovedLabelExplanationData</Key>
+      <Value>Radiation result will be displayed on the screen of exposed condition key in the set time even though the focus is moved</Value>
+      <Comment>Radiation result will be displayed on the screen of exposed condition key in the set time even though the focus is moved</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SpreadofdelaymsecLabelData</Key>
+      <Value>Spread of delay[m.sec]</Value>
+      <Comment>Spread of delay[m.sec]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SettimevariationcommunicationtimeLabelExplanationData</Key>
+      <Value>Set the time variation of communication time and increase the allowance of result reception time</Value>
+      <Comment>Set the time variation of communication time and increase the allowance of result reception time</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CommandtransmissiontimeoutmsecLabelData</Key>
+      <Value>Command transmission timeout[m.sec]</Value>
+      <Comment>Command transmission timeout[m.sec]</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CollimatorEnabledLabelData</Key>
+      <Value>Collimator Enabled</Value>
+      <Comment>Collimator Enabled</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SIDEnabledLabelData</Key>
+      <Value>SID Enabled</Value>
+      <Comment>SID Enabled</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilterEnabledLabelData</Key>
+      <Value>Filter Enabled</Value>
+      <Comment>Filter Enabled</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WorkStationSettingLabelData</Key>
+      <Value>Work Station Setting</Value>
+      <Comment>Work Station Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OperationLabelData</Key>
+      <Value>Operation</Value>
+      <Comment>Operation</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MappingLabelData</Key>
+      <Value>Mapping</Value>
+      <Comment>Mapping</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WorkStationIDHeaderData</Key>
+      <Value>WorkStationID</Value>
+      <Comment>WorkStationID</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AECBACKUPMASHeaderData</Key>
+      <Value>AEC_BACKUP_MAS</Value>
+      <Comment>AEC_BACKUP_MAS</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AECBACKUPMSHeaderData</Key>
+      <Value>AEC_BACKUP_MS</Value>
+      <Comment>AEC_BACKUP_MS</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MaxPowerHeaderData</Key>
+      <Value>Max Power</Value>
+      <Comment>Max Power</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IdealTimeHeaderData</Key>
+      <Value>IdealTime</Value>
+      <Comment>IdealTime</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>R10mAHeaderData</Key>
+      <Value>R10 ｍA</Value>
+      <Comment>R10 ｍA</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MinTubePowerHeaderData</Key>
+      <Value>Min Tube Power</Value>
+      <Comment>Min Tube Power</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MaxTubePowerHeaderData</Key>
+      <Value>Max Tube Power</Value>
+      <Comment>Max Tube Power</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>VoltageDeratingHeaderData</Key>
+      <Value>Voltage Derating</Value>
+      <Comment>Voltage Derating</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PowerDeratingHeaderData</Key>
+      <Value>Power Derating</Value>
+      <Comment>Power Derating</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilamentChartHeaderData</Key>
+      <Value>Filament Chart</Value>
+      <Comment>Filament Chart</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilamentDeratingHeaderData</Key>
+      <Value>Filament Derating</Value>
+      <Comment>Filament Derating</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SerialNoHeaderData</Key>
+      <Value>Serial No</Value>
+      <Comment>Serial No</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LowSpeedMSHeaderData</Key>
+      <Value>LowSpeed MS</Value>
+      <Comment>LowSpeed MS</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HighSpeedMSHeaderData</Key>
+      <Value>HighSpeed MS</Value>
+      <Comment>HighSpeed MS</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LowSpeedKWHeaderData</Key>
+      <Value>LowSpeed KW</Value>
+      <Comment>LowSpeed KW</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HighSpeedKWHeaderData</Key>
+      <Value>HighSpeed KW</Value>
+      <Comment>HighSpeed KW</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SpaceChargeKVHeaderData</Key>
+      <Value>SpaceChargeKV</Value>
+      <Comment>SpaceChargeKV</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SpaceChargeMAHeaderData</Key>
+      <Value>SpaceChargeMA</Value>
+      <Comment>SpaceChargeMA</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WSNoHeaderData</Key>
+      <Value>WS.No</Value>
+      <Comment>WS.No</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AECModeHeaderData</Key>
+      <Value>AEC Mode</Value>
+      <Comment>AEC Mode</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ModalityHeaderData</Key>
+      <Value>Modality</Value>
+      <Comment>Modality</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MappingdestinationWSHeaderData</Key>
+      <Value>Mapping destination WS</Value>
+      <Comment>Mapping destination WS</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ONCheckBoxData</Key>
+      <Value>ON</Value>
+      <Comment>ON</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OFFCheckBoxData</Key>
+      <Value>OFF</Value>
+      <Comment>OFF</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NotSet</Key>
+      <Value>NotSet</Value>
+      <Comment>NotSet</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WS1</Key>
+      <Value>WS1</Value>
+      <Comment>WS1</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WS2</Key>
+      <Value>WS2</Value>
+      <Comment>WS2</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WS3</Key>
+      <Value>WS3</Value>
+      <Comment>WS3</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WS4</Key>
+      <Value>WS4</Value>
+      <Comment>WS4</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WS5</Key>
+      <Value>WS5</Value>
+      <Comment>WS5</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WS6</Key>
+      <Value>WS6</Value>
+      <Comment>WS6</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OFF</Key>
+      <Value>OFF</Value>
+      <Comment>OFF</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3 point only</Key>
+      <Value>3 point only</Value>
+      <Comment>3 point only</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2 point only</Key>
+      <Value>2 point only</Value>
+      <Comment>2 point only</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2,3 point possible</Key>
+      <Value>2,3 point possible</Value>
+      <Comment>2,3 point possible</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>Component</Key>
+      <Value>ユニット</Value>
+      <Comment>Component</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExpiryStatus</Key>
+      <Value>状態</Value>
+      <Comment>ExpiryStatus</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Good</Key>
+      <Value>交換の必要がありません</Value>
+      <Comment>Good</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Expired</Key>
+      <Value>交換してください</Value>
+      <Comment>Expired</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AbouttoExpire</Key>
+      <Value>交換間近です</Value>
+      <Comment>AbouttoExpire</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Name</Key>
+      <Value>名称</Value>
+      <Comment>Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Parameter</Key>
+      <Value>項目</Value>
+      <Comment>Parameter</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Threshold</Key>
+      <Value>交換目安</Value>
+      <Comment>Threshold</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CurrentValue</Key>
+      <Value>使用状況</Value>
+      <Comment>CurrentValue</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>All</Key>
+      <Value>全部</Value>
+      <Comment>All</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Halogenlamp</Key>
+      <Value>消去ランプ</Value>
+      <Comment>Halogenlamp</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Greaceoil</Key>
+      <Value>グリース</Value>
+      <Comment>Greaceoil</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Roller</Key>
+      <Value>搬送ローラ</Value>
+      <Comment>Roller</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Imageplate</Key>
+      <Value>プレート</Value>
+      <Comment>Imageplate</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CassetteCover</Key>
+      <Value>カセッテ</Value>
+      <Comment>CassetteCover</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DRCASSETTE_SCINTILLATOR</Key>
+      <Value>表示しない</Value>
+      <Comment>DRCASSETTE_SCINTILLATOR</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DRCASSETTE_CRADLE</Key>
+      <Value>充電クレードルコネクタ接続回数</Value>
+      <Comment>DRCASSETTE_CRADLE</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DRIF_CONNECTORS</Key>
+      <Value>AeroDR Panel IFケーブル接続回数</Value>
+      <Comment>DRIF_CONNECTORS</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CRADLE_CONNECTORS</Key>
+      <Value>登録クレードルコネクタ接続回数</Value>
+      <Comment>CRADLE_CONNECTORS</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UFC_CONNECTORS</Key>
+      <Value>UFCケーブルコネクタ接続回数</Value>
+      <Comment>UFC_CONNECTORS</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AGI_RELAYSWITCH_SW1</Key>
+      <Value>リレースイッチ(SW1)</Value>
+      <Comment>AGI_RELAYSWITCH_SW1</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AGI_RELAYSWITCH_SW2</Key>
+      <Value>リレースイッチ(SW2)</Value>
+      <Comment>AGI_RELAYSWITCH_SW2</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AGI_RELAYSWITCH_XRAYON</Key>
+      <Value>リレースイッチ(XRayON)</Value>
+      <Comment>AGI_RELAYSWITCH_XRAYON</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AGI_RELAYSWITCH_XRAYOK</Key>
+      <Value>リレースイッチ(XRayOK)</Value>
+      <Comment>AGI_RELAYSWITCH_XRAYOK</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HALOGEN_LAMP_CCU</Key>
+      <Value>消去ランプ</Value>
+      <Comment>HALOGEN_LAMP_CCU</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GREASE_OIL_CCU</Key>
+      <Value>グリース</Value>
+      <Comment>GREASE_OIL_CCU</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EJECT_ROLLER_CCU</Key>
+      <Value>搬送ローラ</Value>
+      <Comment>EJECT_ROLLER_CCU</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IMAGE_PLATE</Key>
+      <Value>プレート</Value>
+      <Comment>IMAGE_PLATE</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CASSETTE_COVER</Key>
+      <Value>カセッテ</Value>
+      <Comment>CASSETTE_COVER</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OnOffCaption</Key>
+      <Value>ON/OFF</Value>
+      <Comment>ON/OFF</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OnContent</Key>
+      <Value>ON</Value>
+      <Comment>ON</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OffContent</Key>
+      <Value>OFF</Value>
+      <Comment>OFF</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

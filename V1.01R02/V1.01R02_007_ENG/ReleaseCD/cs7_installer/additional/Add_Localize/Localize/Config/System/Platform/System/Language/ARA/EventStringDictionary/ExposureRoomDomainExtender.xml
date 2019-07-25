@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ExposureRoomDomainExtender0001">
+      <Title>تأكيد</Title>
+      <Message> سيتم تغيير غرفة التعرض إلى [غرفة التعرض 2]. هل أنت موافق؟ عند وجود وحدة تحكم متصلة بـ [غرفة التعرض 2] سيتم قطع اتصال هذه الوحدة. يرجى التأكد من عدم وجود تعرض في [غرفة التعرض 2]. يتطلب ذلك إعادة تشغيل النظام بعد التغيير. </Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0002">
+      <Title>تم تغيير الغرفة النشطة بنجاح.</Title>
+      <Message>تم تغيير الغرفة النشطة. يتطلب ذلك إعادة تشغيل التطبيق</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0003">
+      <Title>حدث خطأ في تغيير الغرفة.</Title>
+      <Message>لا يمكن تغيير غرفة التعرض بسبب [XXX].</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0004">
+      <Title>تأكيد</Title>
+      <Message>سيتم تعيين استخدام اللاسلكي على "تمكين / تعطيل". هل أنت موافق؟</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0005">
+      <Title>Confirmation</Title>
+      <Message>Please wait till wireless switching happens.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

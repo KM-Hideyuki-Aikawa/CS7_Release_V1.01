@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0001">
+      <Title>Chyba</Title>
+      <Message>Chyba inicializace</Message>
+    </EventString>
+    <EventString Key="0002">
+      <Title>Informace</Title>
+      <Message>Sloučení úspěšné</Message>
+    </EventString>
+    <EventString Key="0003">
+      <Title>Chyba</Title>
+      <Message>Adresář nenalezen</Message>
+    </EventString>
+    <EventString Key="0004">
+      <Title>Chyba</Title>
+      <Message>Soubor nenalezen</Message>
+    </EventString>
+    <EventString Key="0005">
+      <Title>Chyba</Title>
+      <Message>Chyba syntaxe</Message>
+    </EventString>
+    <EventString Key="0006">
+      <Title>Chyba</Title>
+      <Message>Došlo k chybě při odstranění zálohy</Message>
+    </EventString>
+    <EventString Key="0007">
+      <Title>Chyba</Title>
+      <Message>Došlo k chybě při vytváření zálohy</Message>
+    </EventString>
+    <EventString Key="0008">
+      <Title>Chyba</Title>
+      <Message>Došlo k chybě při přístupu k datům</Message>
+    </EventString>
+    <EventString Key="0009">
+      <Title>Chyba</Title>
+      <Message>Došlo k chybě při ukládání</Message>
+    </EventString>
+    <EventString Key="0010">
+      <Title>Chyba</Title>
+      <Message>Došlo k chybě při hledání indexu</Message>
+    </EventString>
+    <EventString Key="0011">
+      <Title>Chyba</Title>
+      <Message>Došlo k chybě při připojování k datům</Message>
+    </EventString>
+    <EventString Key="0012">
+      <Title>Chyba</Title>
+      <Message>Došlo k chybě při kopírování kalibračních údajů</Message>
+    </EventString>
+    <EventString Key="0013">
+      <Title>Chyba</Title>
+      <Message>Došlo k výjimce</Message>
+    </EventString>
+    <EventString Key="0014">
+      <Title>Chyba</Title>
+      <Message>Došlo k výjimce</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

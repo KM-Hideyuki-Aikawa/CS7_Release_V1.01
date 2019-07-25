@@ -1,0 +1,2138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>EquipmentSettingView</Key>
+      <Value>機器設定</Value>
+      <Comment>Equipment setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresetLabelData</Key>
+      <Value>プリセット選択</Value>
+      <Comment>Preset selection</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresetLabelExplanationData</Key>
+      <Value>接続するプリンターを選択します．</Value>
+      <Comment>Select the target product when connecting to our product.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MakerLabelData</Key>
+      <Value>メーカー名</Value>
+      <Comment>Maker name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MakerLabelExplanationData</Key>
+      <Value>接続するプリンターのメーカー名称を入力します．</Value>
+      <Comment>Input the maker name of to be connected printer</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ModelLabelData</Key>
+      <Value>モデル名</Value>
+      <Comment>Model name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ModelLabelExplanationData</Key>
+      <Value>接続するプリンターのモデル名称を入力します．</Value>
+      <Comment>Input the model name of to be connected printer</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NameLabelData</Key>
+      <Value>表示名称</Value>
+      <Comment>Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NameLabelExplanationData</Key>
+      <Value>画面へ表示する名称を指定します．</Value>
+      <Comment>Specify the name to be displayed on system monitor etc.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CommandSettingView</Key>
+      <Value>コマンド設定</Value>
+      <Comment>Command setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ServicesClassLabelData</Key>
+      <Value>サービスクラス</Value>
+      <Comment>Service class</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresentationLUTLabelData</Key>
+      <Value>プレゼンテーションLUT</Value>
+      <Comment>Presentation LUT</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresentationLUTLabelExplanationData</Key>
+      <Value>モニター表示特性とプリンター出力濃度を一致させるためのLUTをプリンターへ送るかどうかを選択します．</Value>
+      <Comment>Select whether to send a LUT for matching the monitor display attributed and printer outout density.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AcquireStatusLabelData</Key>
+      <Value>ステータス取得</Value>
+      <Comment>Status get</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AcquireStatusLabelExplanationData</Key>
+      <Value>プリンターのステータス取得方法を指定します．</Value>
+      <Comment>Specify the status get method of printer</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestedImageSizeLabelData</Key>
+      <Value>依頼画像寸法</Value>
+      <Comment>Requested image size</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestedImageSizeLabelExplanationData</Key>
+      <Value>依頼画像寸法を指定します．依頼画像寸法をONからOFFに変更した場合は、プリセットを選択し直してください．</Value>
+      <Comment>Specify the requested image size.  After turning ON to OFF, Please restart to setup from preset selection.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageLabelData</Key>
+      <Value>画像</Value>
+      <Comment>Image</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PhotometricLabelData</Key>
+      <Value>光学測定解釈</Value>
+      <Comment>Photometry interpretation</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PhotometricLabelExplanationData</Key>
+      <Value>画像の解釈(MONOCHROME1 0=白、MONOCHROME2 0=黒)を指定します．</Value>
+      <Comment>Specify the brighness measuring method.  Specify monochrome 1(Pixel minimum value = white color) in case of our product.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageProcessingLabelData</Key>
+      <Value>画像処理</Value>
+      <Comment>Image processing</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageProcessingLabelExplanationData</Key>
+      <Value>画像の処理方法を指定します．</Value>
+      <Comment>Specify the image processing method.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CommunicationSettingView</Key>
+      <Value>通信設定</Value>
+      <Comment>Communication Settings</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TCPIPLabelData</Key>
+      <Value>TCP/IP</Value>
+      <Comment>TCP/IP</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IPAddress1LabelData</Key>
+      <Value>IPアドレス</Value>
+      <Comment>IP Address</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IPAddress1LabelExplanationData</Key>
+      <Value />
+      <Comment>プリンターのIPアドレスを指定します．</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IPAddress2LabelData</Key>
+      <Value>IPアドレス（N-EVENT）</Value>
+      <Comment>IP Address（N-EVENT）</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IPAddress2LabelExplanationData</Key>
+      <Value>プリンターのIPアドレス(N-EVENT)を指定します．</Value>
+      <Comment>Specify the printer IP address during N-EVENT</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Port1LabelData</Key>
+      <Value>ポート番号</Value>
+      <Comment>Port Number </Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Port1LabelExplanationData</Key>
+      <Value>プリンターのポート番号を指定します．</Value>
+      <Comment>Specify the printer communication port number</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Port2LabelData</Key>
+      <Value>ポート番号（N-EVENT）</Value>
+      <Comment>Port number（N-EVENT）</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Port2LabelExplanationData</Key>
+      <Value>プリンター(N-EVENT)のポート番号を指定します．</Value>
+      <Comment>Specify the printer communication port number during N-EVENT</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IntervalLabelData</Key>
+      <Value>ステータス取得間隔</Value>
+      <Comment>Status get interval</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IntervalLabelExplanationData</Key>
+      <Value>ステータス取得（N-GET または N-EVENT-REPORT）を実施した場合の間隔を指定します.[0～2^31msec]</Value>
+      <Comment>Specify the interval when implementing the status get（N-GET or N-EVENT-REPORT）.[0～2^31msec]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DICOMLabelData</Key>
+      <Value>DICOM</Value>
+      <Comment>DICOM</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransferSyntax1LabelData</Key>
+      <Value>転送構文</Value>
+      <Comment>Transfer Syntax</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransferSyntax1LabelExplanationData</Key>
+      <Value>プリンターの転送構文を指定します．</Value>
+      <Comment>Specify transfer syntax</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransferSyntax2LabelData</Key>
+      <Value>転送構文 (N-EVENT)</Value>
+      <Comment>Transfer Syntax (N-EVENT)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransferSyntax2LabelExplanationData</Key>
+      <Value>プリンターの転送構文(N-EVENT)を指定します．</Value>
+      <Comment>Specify transfer syntax</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PrinterAE1LabelData</Key>
+      <Value>プリンターAEタイトル</Value>
+      <Comment>Printer AE title</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PrinterAE1LabelExplanationData</Key>
+      <Value>プリンターのAEタイトルを指定します．</Value>
+      <Comment>Specify the AE title of printer side[within 16 single byte char]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PrinterAE2LabelData</Key>
+      <Value>プリンターAEタイトル(N-Event)</Value>
+      <Comment>Printer AE title (N-Event)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PrinterAE2LabelExplanationData</Key>
+      <Value>プリンターのAEタイトル(N-Event)を指定します．</Value>
+      <Comment>Specify the AE title of printer side[within 16 single byte char]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CS7AETitle1LabelData</Key>
+      <Value>CS-7 AEタイトル</Value>
+      <Comment>CS-7 AEタイトル</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CS7AETitle1LabelExplanationData</Key>
+      <Value>CS-7のAEタイトルを指定します．</Value>
+      <Comment>Specify the AE title of CS-7. [within 16 single byte char]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CS7AETitle2LabelData</Key>
+      <Value>CS-7のAEタイトル(N-Event)</Value>
+      <Comment>CS-7 AE title (N-Event)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CS7AETitle2LabelExplanationData</Key>
+      <Value>CS-7のAEタイトル(N-Event)を指定します．</Value>
+      <Comment>Specify the AE title of CS-7. [within 16 single byte char]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CharacterCode1LabelData</Key>
+      <Value>キャラクタセット</Value>
+      <Comment>Char set</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CharacterCode1LabelExplanationData</Key>
+      <Value>キャラクタセットを指定します．</Value>
+      <Comment>Specify the char set used in communication.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CharacterCode2LabelData</Key>
+      <Value>キャラクタセット(N-Event)</Value>
+      <Comment>Char set (N-Event)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CharacterCode2LabelExplanationData</Key>
+      <Value>キャラクタセット(N-Event)を指定します．</Value>
+      <Comment>Specify the char set used in communication.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageSettingView</Key>
+      <Value>画像設定</Value>
+      <Comment>Image Settings</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageReductionModeLabelData</Key>
+      <Value>縮小方法</Value>
+      <Comment>Reduction method</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageReductionModeLabelExplanationData</Key>
+      <Value>画像を縮小して送信する場合の縮小方法を指定します．</Value>
+      <Comment>Specify the reduction method when you reduce and sent the image.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputSettingView</Key>
+      <Value>出力設定</Value>
+      <Comment>Output setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SkipErrorQueueLabelExplanationData</Key>
+      <Value />
+      <Comment>Specify error queue O/P.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SkipErrorQueueLabelData</Key>
+      <Value>エラーキュー出力</Value>
+      <Comment>Error queue output</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StartEndCooperationSettingView</Key>
+      <Value>起動終了連携設定</Value>
+      <Comment>Start End cooperation setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WakeOnLANLabelExplanationData</Key>
+      <Value>コンソールの起動とプリンターの起動を連携する場合はONを指定します．</Value>
+      <Comment>Specify ON when coordinating the console start and printer start.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WakeOnLANLabelData</Key>
+      <Value>WakeOnLAN</Value>
+      <Comment>WakeOnLAN</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RemoteShutdownLabelExplanationData</Key>
+      <Value>コンソールの終了とプリンターの終了を連携する場合はONを指定します．</Value>
+      <Comment>Specify ON when coordinating the console end and printer end</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RemoteShutdownLabelData</Key>
+      <Value>リモートシャットダウン</Value>
+      <Comment>Remote shutdown</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MacAddressLabelExplanationData</Key>
+      <Value>プリンターのMACアドレスを入力します．</Value>
+      <Comment>Input the MAC address of printer</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MacAddressLabelData</Key>
+      <Value>MACアドレス</Value>
+      <Comment>MAC address</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilmSettingView</Key>
+      <Value>フィルム情報設定</Value>
+      <Comment>Film information setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLabelExplanationData</Key>
+      <Value>有無                  プリンタが出力可能なフィルムサイズをONにします．必ずひとつはフィルムサイズをONにしてください．</Value>
+      <Comment>Enable - Specify ON for film size which printer can be output. 1 or more film sizes must be specified to ON</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilmSizeLabelData</Key>
+      <Value>フィルムサイズ</Value>
+      <Comment>Film Size</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLabelData</Key>
+      <Value>有無</Value>
+      <Comment>Existence</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SizeConversionLabelExplanationData</Key>
+      <Value>連動フィルムサイズ  出力不可のサイズの出力要求が来た場合に代用するフィルムサイズを指定します．</Value>
+      <Comment>Size Conversion - In case of output request of a size which cannot be output, the substitute film size will be specified</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SizeConversionLabelData</Key>
+      <Value>連動フィルム</Value>
+      <Comment>Coordinated film</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SupplyFilmTypeLabelExplanationData</Key>
+      <Value>実装フィルムタイプ  プリンターに実装されているフィルム種別を指定します．</Value>
+      <Comment>Supply Film - Film type implemented by printer will be specified</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SupplyFilmTypeLabelData</Key>
+      <Value>実装フィルム</Value>
+      <Comment>Mounted film</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WidthLabelExplanationData</Key>
+      <Value>Specify the film type that has been mounted on printer</Value>
+      <Comment>Specify the film type that has been mounted on printer</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WidthLabelData</Key>
+      <Value>短辺[mm]</Value>
+      <Comment>Short side[mm]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HeightLabelExplanationData</Key>
+      <Value>Specify the film type that has been mounted on printer</Value>
+      <Comment>Specify the film type that has been mounted on printer</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HeightLabelData</Key>
+      <Value>長辺[mm]</Value>
+      <Comment>Long side[mm]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLB1LabelData</Key>
+      <Value>六切</Value>
+      <Comment>8x10 inches</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLB2LabelData</Key>
+      <Value>四切</Value>
+      <Comment>10x12 inches</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLB3LabelData</Key>
+      <Value>大四切</Value>
+      <Comment>11x14 inches</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLB4LabelData</Key>
+      <Value>大角</Value>
+      <Comment>14x14 inches</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLB5LabelData</Key>
+      <Value>半切</Value>
+      <Comment>14x17 inches</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLB6LabelData</Key>
+      <Value>17x17inch</Value>
+      <Comment>17x17inch</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLB7LabelData</Key>
+      <Value>18x24cm(Regular)</Value>
+      <Comment>18x24cm(Regular)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLB8LabelData</Key>
+      <Value>18x24cm(Mammo)</Value>
+      <Comment>18x24cm(Mammo)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLB9LabelData</Key>
+      <Value>24x30cm(Regular)</Value>
+      <Comment>24x30cm(Regular)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLB10LabelData</Key>
+      <Value>24x30cm(Mammo)</Value>
+      <Comment>24x30cm(Mammo)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLB11LabelData</Key>
+      <Value>15x30cm(Regular)</Value>
+      <Comment>15x30cm(Regular)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PrintInfoSettingView</Key>
+      <Value>プリント情報設定</Value>
+      <Comment>Printer information setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TrimLabelData</Key>
+      <Value>トリム情報</Value>
+      <Comment>Trim information</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TrimLabelExplanationData</Key>
+      <Value>プリンターでトリムを行う場合は有りを指定します．</Value>
+      <Comment>Specify available when performing the trim at printer.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BorderLabelData</Key>
+      <Value>ボーダー</Value>
+      <Comment>Border</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BorderLabelExplanationData</Key>
+      <Value>フィルムのボーダー部分の色を指定します．</Value>
+      <Comment>Specify the color of frame border</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LUTLabelData</Key>
+      <Value>内部LUT</Value>
+      <Comment>Inner LUT</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LUTLabelExplanationData</Key>
+      <Value>プリンターの内部LUTを指定します．</Value>
+      <Comment>Specify the inner LUT of printer</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ContrastLabelData</Key>
+      <Value>コントラスト調整</Value>
+      <Comment>Contrast adjustment</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ContrastLabelExplanationData</Key>
+      <Value>「＋ 7」～「－ 7」から指定します．</Value>
+      <Comment>Select from 「＋ 7」～「－ 7」</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DensityLabelData</Key>
+      <Value>濃度調整</Value>
+      <Comment>Density adjustment</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DensityLabelExplanationData</Key>
+      <Value>「＋ 7」～「－ 7」から指定します．</Value>
+      <Comment>Select from 「＋ 7」～「－ 7」</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampLabelData</Key>
+      <Value>プリントスタンプ送信</Value>
+      <Comment>Print stamp transmission</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampLabelExplanationData</Key>
+      <Value>プリンターへのスタンプ情報の送信有無を指定します．ON選択時は下記4項目の送信有無を指定します．</Value>
+      <Comment>Specify the transmission existence of stamp information to the printer. Specify the transmission existence of the following 4 when ON is selected.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DateLabelData</Key>
+      <Value>プリント日時</Value>
+      <Comment>Print date time</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DateLabelExplanationData</Key>
+      <Value>プリント日時</Value>
+      <Comment>Print date time</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageLabelData</Key>
+      <Value>メッセージ</Value>
+      <Comment>Message</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageLabelExplanationData</Key>
+      <Value>メッセージ</Value>
+      <Comment>Message</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CopiesLabelData</Key>
+      <Value>コピー枚数</Value>
+      <Comment>Number of copies</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CopiesLabelExplanationData</Key>
+      <Value>コピー枚数</Value>
+      <Comment>Number of copies</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ModalityIDLabelData</Key>
+      <Value>モダリティID</Value>
+      <Comment>Modality ID</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ModalityIDLabelExplanationData</Key>
+      <Value>モダリティID</Value>
+      <Comment>Modality ID</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SmoothingLevelLabelData</Key>
+      <Value>拡大タイプ</Value>
+      <Comment>Smoothing Level</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SmoothingLevelLabelExplanationData</Key>
+      <Value>画像拡大時の補間方法を指定します．</Value>
+      <Comment>Specify the image smoothing method and level</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MagnificationLabelData</Key>
+      <Value>平滑化タイプ</Value>
+      <Comment>Magnification Type</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MagnificationLabelExplanationData</Key>
+      <Value>平滑化タイプを半角数字で入力します．入力可能な値はプリンターのConformance Statementを参照してください．</Value>
+      <Comment>Input the name of smoothing type[within 16 single byte char]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PolarityLabelData</Key>
+      <Value>ネガ/ポジ</Value>
+      <Comment>Polarity</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PolarityLabelExplanationData</Key>
+      <Value>画像のネガ・ポジを選択します。</Value>
+      <Comment>Specify the negative / positive of image</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PriorityLabelData</Key>
+      <Value>優先度</Value>
+      <Comment>Priority</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PriorityLabelExplanationData</Key>
+      <Value>プリンターの優先度を指定します．</Value>
+      <Comment>Specify the priority of printer</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilmTypeRLabelData</Key>
+      <Value>一般フィルムタイプ</Value>
+      <Comment>Film type for general</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilmTypeRLabelExplanationData</Key>
+      <Value>プリンターの一般撮影用のフィルムタイプを指定します．</Value>
+      <Comment>Specify the film size for general exposure of printer</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MaxDensityRLabelData</Key>
+      <Value>Dmax</Value>
+      <Comment>Dmax</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MaxDensityLabelRExplanationData</Key>
+      <Value>[0～65535]</Value>
+      <Comment>[0～65535]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FogDensityRLabelData</Key>
+      <Value>Dmin</Value>
+      <Comment>Dmin</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FogDensityRLabelExplanationData</Key>
+      <Value>[0～65535]</Value>
+      <Comment>[0～65535]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IlluminationRLabelData</Key>
+      <Value>照明 L0</Value>
+      <Comment>Brightness L0</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IlluminationRLabelExplanationData</Key>
+      <Value>[0～65535]</Value>
+      <Comment>[0～65535]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReflectiveAmbientLightRLabelData</Key>
+      <Value>周囲光 La</Value>
+      <Comment>Surrounding light La</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReflectiveAmbientLightRLabelExplanationData</Key>
+      <Value>[0～65535]</Value>
+      <Comment>[0～65535]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilmTypeMLabelData</Key>
+      <Value>マンモ用フィルムタイプ</Value>
+      <Comment>Film type for mammo</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilmTypeMLabelExplanationData</Key>
+      <Value>プリンタマンモ撮影用のフィルムタイプを指定します．</Value>
+      <Comment>Specify the film type for mammo exposure of printer</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MaxDensityMLabelData</Key>
+      <Value>Dmax</Value>
+      <Comment>Dmax</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MaxDensityMLabelExplanationData</Key>
+      <Value>[0～65535]</Value>
+      <Comment>[0～65535]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FogDensityMLabelData</Key>
+      <Value>Dmin</Value>
+      <Comment>Dmin</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FogDensityMLabelExplanationData</Key>
+      <Value>[0～65535]</Value>
+      <Comment>[0～65535]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IlluminationMLabelData</Key>
+      <Value>照明 L0</Value>
+      <Comment>Brightness L0</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IlluminationMLabelExplanationData</Key>
+      <Value>[0～65535]</Value>
+      <Comment>[0～65535]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReflectiveAmbientLightMLabelData</Key>
+      <Value>周囲光 La</Value>
+      <Comment>Reflection surrounding light La</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReflectiveAmbientLightMLabelExplanationData</Key>
+      <Value>[0～65535]</Value>
+      <Comment>[0～65535]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ResolutionLabelData</Key>
+      <Value>解像度</Value>
+      <Comment>Resolution</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ResolutionLabelExplanationData</Key>
+      <Value>解像度</Value>
+      <Comment>Resolution</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilmDestinationLabelData</Key>
+      <Value>フィルム宛先</Value>
+      <Comment>Film address</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilmDestinationLabelExplanationData</Key>
+      <Value>フィルムの出力先を指定します．</Value>
+      <Comment>Specify film outout destination</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DRYPRO75x</Key>
+      <Value>DRYPRO 75x</Value>
+      <Comment>DRYPRO 75x</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DRYPRO771</Key>
+      <Value>DRYPRO 771</Value>
+      <Comment>DRYPRO 771</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DRYPRO793</Key>
+      <Value>DRYPRO 793</Value>
+      <Comment>DRYPRO 793</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DRYPRO793-25</Key>
+      <Value>DRYPRO 793-25</Value>
+      <Comment>DRYPRO 793-25</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DRYPRO832</Key>
+      <Value>DRYPRO 832</Value>
+      <Comment>DRYPRO 832</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DRYPRO873</Key>
+      <Value>DRYPRO 873</Value>
+      <Comment>DRYPRO 873</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OTHER</Key>
+      <Value>他社接続</Value>
+      <Comment>Other</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OFF</Key>
+      <Value>OFF</Value>
+      <Comment>OFF</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ON</Key>
+      <Value>ON</Value>
+      <Comment>ON</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>N-GET</Key>
+      <Value>N-GET (選択禁止)</Value>
+      <Comment>N-GET</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>N-EVENT REPORT</Key>
+      <Value>N-EVENT REPORT (選択禁止)</Value>
+      <Comment>N-EVENT REPORT</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>N-GET+N-EVENT REPORT</Key>
+      <Value>N-GET+N-EVENT REPORT (選択禁止)</Value>
+      <Comment>N-GET+N-EVENT REPORT</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MONOCHROME1</Key>
+      <Value>モノクローム1(選択禁止)</Value>
+      <Comment>MONOCHROME1</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MONOCHROME2</Key>
+      <Value>モノクローム2</Value>
+      <Comment>MONOCHROME2</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>D-Values</Key>
+      <Value>D値出力</Value>
+      <Comment>D-Values</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>P-Values</Key>
+      <Value>P値出力</Value>
+      <Comment>P-Values</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Implicit VR Little Endian</Key>
+      <Value>暗黙的VRリトルエンディアン</Value>
+      <Comment>Implicit VR Little Endian</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Explicit VR Little Endian</Key>
+      <Value>明示的VRリトルエンディアン</Value>
+      <Comment>Explicit VR Little Endian</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Explicit VR Big Endian</Key>
+      <Value>明示的VRビッグエンディアン</Value>
+      <Comment>Explicit VR Big Endian</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>JPEG Lossless</Key>
+      <Value>JPEG ロスレス</Value>
+      <Comment>JPEG Lossless</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ASCII</Key>
+      <Value>ASCII</Value>
+      <Comment>ASCII</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ASCII\kanji\hiragana</Key>
+      <Value>ASCII\kanji\hiragana</Value>
+      <Comment>ASCII\kanji\hiragana</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>kana \kanji\hiragana</Key>
+      <Value>kana \kanji\hiragana</Value>
+      <Comment>kana \kanji\hiragana</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ASCII\kanji\kana</Key>
+      <Value>ASCII\kanji\kana</Value>
+      <Comment>ASCII\kanji\kana</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Latin1</Key>
+      <Value>Latin1</Value>
+      <Comment>Latin1</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Shift-JIS</Key>
+      <Value>Shift-JIS</Value>
+      <Comment>Shift-JIS</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Sprine</Key>
+      <Value>スプライン法</Value>
+      <Comment>Sprine</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Decimate/Crop</Key>
+      <Value>単純間引</Value>
+      <Comment>Decimate/Crop</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Bilinear</Key>
+      <Value>近傍平均</Value>
+      <Comment>Bilinear</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SINC</Key>
+      <Value>SINC法</Value>
+      <Comment>SINC</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Available</Key>
+      <Value>有り</Value>
+      <Comment>Available</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UnAvailable</Key>
+      <Value>無効</Value>
+      <Comment>UnAvailable</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Black</Key>
+      <Value>黒</Value>
+      <Comment>Black</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>White</Key>
+      <Value>透明</Value>
+      <Comment>White</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Use printer inner LUT1</Key>
+      <Value>プリンター内部LUT1を使用</Value>
+      <Comment>Use printer inner LUT1</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Use printer inner LUT2</Key>
+      <Value>プリンター内部LUT2を使用</Value>
+      <Comment>Use printer inner LUT2</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Use printer inner LUT3</Key>
+      <Value>プリンター内部LUT3を使用</Value>
+      <Comment>Use printer inner LUT3</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Use printer inner LUT4</Key>
+      <Value>プリンター内部LUT4を使用</Value>
+      <Comment>Use printer inner LUT4</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Use printer inner LUT5</Key>
+      <Value>プリンター内部LUT5を使用</Value>
+      <Comment>Use printer inner LUT5</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Use printer inner LUT6</Key>
+      <Value>プリンター内部LUT6を使用</Value>
+      <Comment>Use printer inner LUT6</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Use printer inner LUT7</Key>
+      <Value>プリンター内部LUT7を使用</Value>
+      <Comment>Use printer inner LUT7</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>-7</Key>
+      <Value>-7</Value>
+      <Comment>-7</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>-6</Key>
+      <Value>-6</Value>
+      <Comment>-6</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>-5</Key>
+      <Value>-5</Value>
+      <Comment>-5</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>-4</Key>
+      <Value>-4</Value>
+      <Comment>-4</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>-3</Key>
+      <Value>-3</Value>
+      <Comment>-3</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>-2</Key>
+      <Value>-2</Value>
+      <Comment>-2</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>-1</Key>
+      <Value>-1</Value>
+      <Comment>-1</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>0</Key>
+      <Value>0</Value>
+      <Comment>0</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1</Key>
+      <Value>1</Value>
+      <Comment>1</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2</Key>
+      <Value>2</Value>
+      <Comment>2</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3</Key>
+      <Value>3</Value>
+      <Comment>3</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>4</Key>
+      <Value>4</Value>
+      <Comment>4</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>5</Key>
+      <Value>5</Value>
+      <Comment>5</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>6</Key>
+      <Value>6</Value>
+      <Comment>6</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>7</Key>
+      <Value>7</Value>
+      <Comment>7</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CUBIX(CS-X)</Key>
+      <Value>CUBIX(CS-X)</Value>
+      <Comment>CUBIX(CS-X)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>REPLICATE</Key>
+      <Value>REPLICATE</Value>
+      <Comment>REPLICATE</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BLINEAR</Key>
+      <Value>BLINEAR</Value>
+      <Comment>BLINEAR</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CUBIC</Key>
+      <Value>CUBIC</Value>
+      <Comment>CUBIC</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NONE</Key>
+      <Value>NONE</Value>
+      <Comment>NONE</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>REVERSE</Key>
+      <Value>ネガ</Value>
+      <Comment>REVERSE</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NORMAL</Key>
+      <Value>ポジ</Value>
+      <Comment>NORMAL</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LOW</Key>
+      <Value>低 優先度</Value>
+      <Comment>LOW</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MED</Key>
+      <Value>中 優先度</Value>
+      <Comment>MED</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HIGH</Key>
+      <Value>高 優先度</Value>
+      <Comment>HIGH</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Blue</Key>
+      <Value>ブルー</Value>
+      <Comment>Blue</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Clear</Key>
+      <Value>クリア</Value>
+      <Comment>Clear</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DRBlue</Key>
+      <Value>DRブルー</Value>
+      <Comment>DRBlue</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DRClear</Key>
+      <Value>DRクリア</Value>
+      <Comment>DRClear</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Standard Resolution</Key>
+      <Value>43.75um</Value>
+      <Comment>Standard Resolution</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>High Resolution</Key>
+      <Value>25um</Value>
+      <Comment>High Resolution</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>auto processor</Key>
+      <Value>自現機</Value>
+      <Comment>auto processor</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Processor Magazine</Key>
+      <Value>マガジン</Value>
+      <Comment>Processor Magazine</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BIN1</Key>
+      <Value>ビン1</Value>
+      <Comment>BIN1</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BIN2</Key>
+      <Value>ビン2</Value>
+      <Comment>BIN2</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BIN3</Key>
+      <Value>ビン3</Value>
+      <Comment>BIN3</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BIN4</Key>
+      <Value>ビン4</Value>
+      <Comment>BIN4</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BIN5</Key>
+      <Value>ビン5</Value>
+      <Comment>BIN5</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BIN6</Key>
+      <Value>ビン6</Value>
+      <Comment>BIN6</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BIN7</Key>
+      <Value>ビン7</Value>
+      <Comment>BIN7</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BIN8</Key>
+      <Value>ビン8</Value>
+      <Comment>BIN8</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BIN9</Key>
+      <Value>ビン9</Value>
+      <Comment>BIN9</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Regular</Key>
+      <Value>一般用フィルム</Value>
+      <Comment>Regular</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Mammo</Key>
+      <Value>マンモ用フィルム</Value>
+      <Comment>Mammo</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Regular/Mammo</Key>
+      <Value>一般用/マンモ用フィルム</Value>
+      <Comment>Regular/Mammo</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>8x10 inches</Key>
+      <Value>六切</Value>
+      <Comment>8x10 inches</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>10x12 inches</Key>
+      <Value>四切</Value>
+      <Comment>10x12 inches</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>11x14 inches</Key>
+      <Value>大四切</Value>
+      <Comment>11x14 inches</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>14x14 inches</Key>
+      <Value>大角</Value>
+      <Comment>14x14 inches</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>14x17 inches</Key>
+      <Value>半切</Value>
+      <Comment>14x17 inches</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>17x17inch</Key>
+      <Value>17x17inch</Value>
+      <Comment>17x17inch</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>18x24cm(Regular)</Key>
+      <Value>18x24cm(Regular)</Value>
+      <Comment>18x24cm(Regular)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>18x24cm(Mammo)</Key>
+      <Value>18x24cm(Mammo)</Value>
+      <Comment>18x24cm(Mammo)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>24x30cm(Regular)</Key>
+      <Value>24x30cm(Regular)</Value>
+      <Comment>24x30cm(Regular)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>24x30cm(Mammo)</Key>
+      <Value>24x30cm(Mammo)</Value>
+      <Comment>24x30cm(Mammo)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>15x30cm(Regular)</Key>
+      <Value>15x30cm(Regular)</Value>
+      <Comment>15x30cm(Regular)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

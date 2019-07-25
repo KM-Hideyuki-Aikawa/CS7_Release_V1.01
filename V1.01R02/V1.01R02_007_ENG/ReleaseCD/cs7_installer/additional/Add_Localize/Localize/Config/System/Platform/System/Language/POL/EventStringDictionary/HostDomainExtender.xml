@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="HostDomainExtender0001">
+      <Title>Stan ping</Title>
+      <Message>Połączono pomyślnie.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0002">
+      <Title>Stan ping</Title>
+      <Message>Nie można się połączyć.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0003">
+      <Title>Potwierdzenie</Title>
+      <Message>Dla której usługi wykonano Ping(C-ECHO)?</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0004">
+      <Title>Potwierdzenie</Title>
+      <Message>Czy chcesz usunąć wybraną kolejkę?</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0005">
+      <Title>Uwaga</Title>
+      <Message>Wybierz kolejki do usunięcia.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0006">
+      <Title>Informacje</Title>
+      <Message>Wybrane kolejki zostały usunięte pomyślnie.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0007">
+      <Title>Błąd</Title>
+      <Message>Błąd podczas usuwania kolejek.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0008">
+      <Title>Uwaga</Title>
+      <Message>Ten określony host jest zduplikowany przez inny CH. Obrazy zostaną prawdopodobnie wysłane podczas powielania.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

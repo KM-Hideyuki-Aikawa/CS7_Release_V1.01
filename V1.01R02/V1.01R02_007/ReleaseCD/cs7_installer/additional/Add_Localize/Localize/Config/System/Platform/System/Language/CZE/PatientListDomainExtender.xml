@@ -1,0 +1,1436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>FA_StudyDate</Key>
+      <Value>Datum studie</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FA_PatientID</Key>
+      <Value>ID pacienta</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FA_RequestingService</Key>
+      <Value>Oddělení</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FA_PatientResidence</Key>
+      <Value>Sál</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FA_PerformedStationNameAE</Key>
+      <Value>Stanice AE</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FA_PerformedLocation</Key>
+      <Value>Umístění</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FA_PatientNameRomaji</Key>
+      <Value>Jméno pacienta</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FA_PatientNameKanji</Key>
+      <Value>Jméno pacienta</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FA_PatientNameKana</Key>
+      <Value>Jméno pacienta</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FA_AccessionNumber</Key>
+      <Value>Č. přírůstku</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OrderLid</Key>
+      <Value>Pořad. č.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientID</Key>
+      <Value>ID pacienta</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientNameRomaji</Key>
+      <Value>JménoPacienta</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientNameKanji</Key>
+      <Value>JménoPacienta</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientNameKana</Key>
+      <Value>JménoPacienta</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PrinterStatus</Key>
+      <Value>Stav tiskárny</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HostStatus</Key>
+      <Value>Stav hostitele</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Sex</Key>
+      <Value>Pohlaví</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BirthDate</Key>
+      <Value>Datum narození</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyDate</Key>
+      <Value>Datum studie</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyTime</Key>
+      <Value>Čas studie</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientComments</Key>
+      <Value>Komentáře pacienta</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestedProcedureDescription</Key>
+      <Value>Požadovaný popis</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestingService</Key>
+      <Value>Žádaná služba</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientResidence</Key>
+      <Value>Pobyt pacienta</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OrderImgSize</Key>
+      <Value>Počet</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CreateDateTime</Key>
+      <Value>Datum a čas vytvoření</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InnerOrderSize</Key>
+      <Value>Počet</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DetetedProtectFlag</Key>
+      <Value>Ochrana</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresetName</Key>
+      <Value>PředvolitJméno</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OrderList</Key>
+      <Value>SeznamŽádanek</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CompletedStudies</Key>
+      <Value>Dokončeno</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Suspend</Key>
+      <Value>Pozastavit</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Portable</Key>
+      <Value>Přenosný</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AllData</Key>
+      <Value>Všechny</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BUTTON_DELETE</Key>
+      <Value>Odstranit</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BUTTON_EDIT</Key>
+      <Value>Změnit</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BUTTON_REFER</Key>
+      <Value>Odkazovat</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BUTTON_APPEND</Key>
+      <Value>Přidat</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BUTTON_GAURD</Key>
+      <Value>Chránit</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BUTTON_REFRESH</Key>
+      <Value>Aktualizovat</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BUTTON_TESTBUTTON</Key>
+      <Value>Tlačítko testu</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamRoom1</Key>
+      <Value>Vyšetřovna1</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamRoom2</Key>
+      <Value>Vyšetřovna2</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamRoom3</Key>
+      <Value>Vyšetřovna3</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Ward1</Key>
+      <Value>Sál1</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Ward2</Key>
+      <Value>Sál2</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Ward3</Key>
+      <Value>Sál3</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Operator1</Key>
+      <Value>Operátor1</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Operator2</Key>
+      <Value>Operátor2</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Operator3</Key>
+      <Value>Operátor3</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>STUDY_NOT_EXPOSED</Key>
+      <Value>Neexponováno</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>STUDY_COMPLETED</Key>
+      <Value>Dokončeno</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>STUDY_SUSPENDED</Key>
+      <Value>Pozastavit</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>STUDY_INPROGRESS</Key>
+      <Value>Probíhající</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>STUDY_QAWAITING</Key>
+      <Value>ČEKÁNÍQA</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>STUDY_INTERRUPTED</Key>
+      <Value>Přerušit</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>STUDY_DELETED</Key>
+      <Value>Del</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Year</Key>
+      <Value>/</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Month</Key>
+      <Value>/</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Week</Key>
+      <Value>/</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AgeMonth</Key>
+      <Value>M</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Day</Key>
+      <Value>/</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Gaurd</Key>
+      <Value>G</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Smoker</Key>
+      <Value>Kuřák</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NonSmoker</Key>
+      <Value>Nekuřák</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Unknown</Key>
+      <Value>Není známo</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Male</Key>
+      <Value>Muž</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Female</Key>
+      <Value>Žena</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Unidentified</Key>
+      <Value>Neidentifikováno</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>None</Key>
+      <Value>Není těhotná</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Possible</Key>
+      <Value>Možný</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Pregnent</Key>
+      <Value>Těhotná</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Standard</Key>
+      <Value>STAT</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>High</Key>
+      <Value>VYSOKÁ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Routine</Key>
+      <Value>BĚŽNÉ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Medium</Key>
+      <Value>STŘEDNÍ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Low</Key>
+      <Value>NÍZKÁ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ClearString</Key>
+      <Value>Smazat</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SearchString</Key>
+      <Value>Filtrovat</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageCount</Key>
+      <Value>Počet snímků</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AgeYear</Key>
+      <Value>R</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SPS_INPROGRESS</Key>
+      <Value>Probíhající</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SPS_PENDING</Key>
+      <Value>Čeká na zpracování</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Hour</Key>
+      <Value>h</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Minute</Key>
+      <Value>m</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Second</Key>
+      <Value>s</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamTag</Key>
+      <Value>Štítek vyšetření</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OtherStudyStatus</Key>
+      <Value>StavJinýchStudií</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PhysicianNameRomaji</Key>
+      <Value>Jméno doporučujícího lékaře</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PhysicianNameKanji</Key>
+      <Value>Jméno doporučujícího lékaře (více bajtů)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PhysicianNameKana</Key>
+      <Value>Jméno doporučujícího lékaře (foneticky)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Height</Key>
+      <Value>Výška[m]</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Weight</Key>
+      <Value>Hmotnost[Kg]</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Occupation</Key>
+      <Value>Zaměstnání</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestedPriority</Key>
+      <Value>Požadovaná priorita</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestedContrastAgent</Key>
+      <Value>Požadovaná kontrastní látka</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PreMedication</Key>
+      <Value>Předběžná léčba</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestingPhysicianNameRomaji</Key>
+      <Value>Jméno žádajícího lékaře</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestingPhysicianNameKanji</Key>
+      <Value>Jméno žádajícího lékaře (více bajtů)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestingPhysicianNameKana</Key>
+      <Value>Jméno žádajícího lékaře (foneticky)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScheduledPerformingPhysicianNameRomaji</Key>
+      <Value>Plánovaný provádějící lékař</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScheduledPerformingPhysicianNameKanji</Key>
+      <Value>Plánovaný provádějící lékař</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScheduledPerformingPhysicianNameKana</Key>
+      <Value>Plánovaný provádějící lékař</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OtherPatientID</Key>
+      <Value>ID jiného pacienta</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OtherPatientNameRomaji</Key>
+      <Value>Jiné jméno pacienta</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OtherPatientNameKanji</Key>
+      <Value>Jiné jméno pacienta (více bajtů)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OtherPatientNameKana</Key>
+      <Value>Jiné jméno pacienta (foneticky)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Nationality</Key>
+      <Value>Etnická skupina</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientBirthNameRomaji</Key>
+      <Value>Rodné jméno pacienta</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientBirthNameKanji</Key>
+      <Value>Rodné jméno pacienta (více bajtů)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientBirthNameKana</Key>
+      <Value>Rodné jméno pacienta (foneticky)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientMotherNameRomaji</Key>
+      <Value>Rodné jméno matky</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientMotherNameKanji</Key>
+      <Value>Rodné jméno matky</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientMotherNameKana</Key>
+      <Value>Rodné jméno matky</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RecordLocator</Key>
+      <Value>Vyhledávač lékařských záznamů</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MediaOutputStatus</Key>
+      <Value>Stav výstupu média</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AccessionNumber</Key>
+      <Value>Č. přírůstku</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PerformedNo</Key>
+      <Value>Provedeno č.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PerformedStationNameAE</Key>
+      <Value>Název AE provádějící stanice</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PerformedStationName</Key>
+      <Value>Název provádějící stanice</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PerformedLocation</Key>
+      <Value>Provádějící místo</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PpsStartDate</Key>
+      <Value>Den zahájení prováděného postupu</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PpsStartTime</Key>
+      <Value>Doba zahájení PPS</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PpsDescription</Key>
+      <Value>Popis studie</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientAge</Key>
+      <Value>Věk pacienta</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyDescription</Key>
+      <Value>Komentáře ke studii</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DIAGdescription</Key>
+      <Value>Popis studie</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RMStudyStatus</Key>
+      <Value>Stav studie na jiné konzole</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyID</Key>
+      <Value>ID studie</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RegisteredDateTime</Key>
+      <Value>Registrované datum a čas</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AlertFlag</Key>
+      <Value>Příznak upozornění (!)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyStatus</Key>
+      <Value>Stav studie</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Guard</Key>
+      <Value>Ochrana</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiscontinuationReason</Key>
+      <Value>Důvod pro zrušení</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReadImageCount</Key>
+      <Value>Přečíst počet snímků</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReadingImageCount</Key>
+      <Value>Čtení počtu snímků</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OkCertifedImageCount</Key>
+      <Value>Výstup počtu snímků</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HospitalDepartment</Key>
+      <Value>Žádaná služba</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScheduledStartDate</Key>
+      <Value>Plánované datum zahájení studie</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScheduledStartTime</Key>
+      <Value>Plánovaný čas zahájení studie</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionResidence</Key>
+      <Value>Sídlo instituce</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AdmissionID</Key>
+      <Value>ID přístupu</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SexNeutralisation</Key>
+      <Value>Pohlaví pacienta neurčené</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MedicalAlerts</Key>
+      <Value>Lékařská výstražná upozornění</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Allergies</Key>
+      <Value>Alergie na kontrastní látky</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Smoking</Key>
+      <Value>Kouření</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AdditionalHistory</Key>
+      <Value>Další anamnéza pacienta</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Pregnancy</Key>
+      <Value>Těhotenství</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LastMenstrual</Key>
+      <Value>Datum poslední menstruace</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SpecialNeeds</Key>
+      <Value>Zvláštní potřeby</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientState</Key>
+      <Value>Stav pacienta</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientsConfidentiality</Key>
+      <Value>Zachování důvěrnosti informací v případě popisu údajů pacienta</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientLocation</Key>
+      <Value>Sídlo pacientovy instituce</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NGReasonComments</Key>
+      <Value>Komentáře k důvodům NG</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PerformedPhysicianNameRomaji</Key>
+      <Value>Jméno provádějícího lékaře</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PerformedPhysicianNameKana</Key>
+      <Value>Jméno provádějícího lékaře (více bajtů)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PerformedPhysicianNameKanji</Key>
+      <Value>Jméno provádějícího lékaře (foneticky)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BirthTime</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>0</FontSize>
+      <FontName />
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

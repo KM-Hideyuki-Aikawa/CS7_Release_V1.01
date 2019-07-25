@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ImageAcquisitionDomainExtender0000">
+      <Title>Patvirtinimas</Title>
+      <Message>Ar tikrai norite pašalinti atvaizdą?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0001">
+      <Title>Patvirtinimas</Title>
+      <Message>Eksponuoti dar kartą?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender1001">
+      <Title>Dėmesio</Title>
+      <Message>Negalima pridėti išlaikymo didesnio nei {MaxSize} .</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0002">
+      <Title>Patvirtinimas</Title>
+      <Message>Ar tikrai norite nutraukti pašalinimą?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0003">
+      <Title>Patvirtinimas</Title>
+      <Message>Atvaizdai neišsaugoti.
+Ar tikrai norite užbaigti tyrimą?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0004">
+      <Title>Patvirtinimas</Title>
+      <Message>Ar norite tęsti tyrimą kitame apžiūros kabinete?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0005">
+      <Title>Patvirtinimas</Title>
+      <Message>Kasetės brūkšninis kodas susietas su šia apžiūros žyma. 
+Ar tikrai norite pašalinti brūkšninio kodo registraciją?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0006">
+      <Title>Klaida</Title>
+      <Message>Skaitant atvaizdą įvyko klaida.
+Patikrinkite tinklą.
+Paleiskite skaitytuvą iš naujo.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0007">
+      <Title>Klaida</Title>
+      <Message>Paciento identifikavimo numeris: {PATIENTID}
+Paciento vardas: {PATIENTID}
+Skaitytuvo pavadinimas: {READERNAME}
+Atvaizdo siuntimas nebaigtas.
+Patikrinkite tinklą.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0008">
+      <Title>Įspėjimas</Title>
+      <Message>Skaitytuvo pavadinimas: {READERNAME}
+Ar tikrai norite nutraukti atvaizdo siuntimą?
+ Jei nutrauksite siuntimą, paleiskite skaitytuvą iš naujo.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0009">
+      <Title>Klaida</Title>
+      <Message>Atvaizdas skaitomas. Prisijunkite vėliau.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0010">
+      <Title>Klaida</Title>
+      <Message>Nepavyko užbaigti tyrimo.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0011">
+      <Title>Klaida</Title>
+      <Message>Nepavyko pristabdyti tyrimo.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0012">
+      <Title>Klaida</Title>
+      <Message>Ši kasetė skirta bendro pobūdžio eksponavimui.
+Patikrinkite apžiūros žymą.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0013">
+      <Title>Klaida</Title>
+      <Message>Ši kasetė skirta kontaktinei mamografijai.
+Patikrinkite apžiūros žymą.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0014">
+      <Title>Klaida</Title>
+      <Message>Ši kasetė skirta fazinio kontrasto mikroskopijai.
+Patikrinkite apžiūros žymą.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0015">
+      <Title>Klaida</Title>
+      <Message>Ši kasetė jau užregistruota.
+Registruokite kitą kasetę.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0016">
+      <Title>Dėmesio</Title>
+      <Message>Šią kasetę jau pradėta skaityti.
+Neįmanoma pašalinti brūkšninio kodo registracijos.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0017">
+      <Title>Dėmesio</Title>
+      <Message>Šią kasetę jau pradėta skaityti.
+Neįmanoma pašalinti veiksmų, užregistruotų rankiniu būdu.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0018">
+      <Title>Dėmesio</Title>
+      <Message>Šią kasetę jau pradėta skaityti.
+Neįmanoma pašalinti veiksmų, užregistruotų automatiniu būdu.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0019">
+      <Title>Patvirtinimas</Title>
+      <Message>Ar tikrai norite sustabdyti šį tyrimą?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0020">
+      <Title>Patvirtinimas</Title>
+      <Message>Išsaugotų atvaizdų nėra. Ar tikrai norite pakeisti būklę į nepradėtą?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0021">
+      <Title>Patvirtinimas</Title>
+      <Message>Ar tikrai norite pašalinti brūkšninio kodo registraciją?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0022">
+      <Title>Vaizdo pakartotinis perdavimas</Title>
+      <Message>Ar tikrai pašalinti neperduotą (-us) vaizdą (-us) konsolėje? [OK]: Pašalinti [Cancel]: Grįžti nepašalinant</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0023">
+      <Title>Vaizdo pakartotinis perdavimas</Title>
+      <Message>{READERNAME}: Kai kurie vaizdai dar neperduoti. Ar juos pašalinti?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0024">
+      <Title>Vaizdo perdavimo klaida</Title>
+      <Message>{READERNAME}: Ryšio klaida perduodant vaizdą. Patikrinti ryšių kabelio sujungimo būseną.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0025">
+      <Title>Vaizdo pakartotinis perdavimas</Title>
+      <Message>{READERNAME}: „{ImageAcquisitionConditionName}“ dar neperduoti. Ar gaunate vaizdą?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0026">
+      <Title>Patvirtinimas</Title>
+      <Message>Ar tikrai norite pašalinti pasirinktą apžiūros žymą?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0027">
+      <Title>Patvirtinimas</Title>
+      <Message>Ar tikrai norite pašalinti šį tyrimą?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0028">
+      <Title>Klaida</Title>
+      <Message>Perduodant vaizdą, baigėsi laikas.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0029">
+      <Title />
+      <Message>Yra neperduotas vaizdas „{ImageAcquisitionConditionName}“.
+Vaizdo negalima gauti iš naujo dėl modalumo skirtumo tarp „Exam. Tag“ ir paties vaizdo.
+ Pakartotinio gavimo atveju pakeiskite plokštės būseną atitinkamai „Exam. Tag“.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0030">
+      <Title />
+      <Message>Nepavyko gauti neperduoto vaizdo.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0031">
+      <Title />
+      <Message>Nepavyko pašalinti neperduotą vaizdą.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0032">
+      <Title>Patvirtinimas</Title>
+      <Message>Ar tikrai norite sustabdyti šį tyrimą?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

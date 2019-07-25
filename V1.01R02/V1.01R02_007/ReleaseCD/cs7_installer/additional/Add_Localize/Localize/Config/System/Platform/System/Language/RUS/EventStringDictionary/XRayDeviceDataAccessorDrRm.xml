@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="XRayDeviceDataAccessorDrRm7102">
+      <Title>Ошибка количества регистраций</Title>
+      <Message>Зарегистрированы четыре.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7103">
+      <Title>Неизвестный детектор AeroDR</Title>
+      <Message>Неизвестный детектор AeroDR.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7104">
+      <Title>Неизвестное устройство облучения</Title>
+      <Message>Неизвестное устройство облучения.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7105">
+      <Title>Ошибка RM</Title>
+      <Message>Ошибка управляющей таблицы RM. Обратитесь к представителю службы сервиса.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7106">
+      <Title>Ошибка более новой версии</Title>
+      <Message>Более новая версия не соответствует. Обратитесь к представителю службы сервиса.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7107">
+      <Title>Ошибка RM</Title>
+      <Message>Ошибка управляющей таблицы RM. Обратитесь к представителю службы сервиса.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7108">
+      <Title>Ошибка RM</Title>
+      <Message>Ошибка управляющей таблицы RM. Обратитесь к представителю службы сервиса.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7109">
+      <Title>Ошибка RM</Title>
+      <Message>Ошибка управляющей таблицы RM. Проверьте сетевое соединение.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7110">
+      <Title>Ошибка RM</Title>
+      <Message>Ошибка управляющей таблицы RM. Проверьте сетевое соединение.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7111">
+      <Title>Ошибка отмены регистрации</Title>
+      <Message>Во время отмены регистрации панели AeroDR произошла ошибка.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7112">
+      <Title>Ошибка переключения кабинетов</Title>
+      <Message>Ошибка при переключении кабинетов проведения исследований.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7113">
+      <Title>Ошибка связи в обратном процессе</Title>
+      <Message>Связь отсутствует.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7114">
+      <Title>Ошибка настройки активации конфигурации</Title>
+      <Message>Ошибка при активации конфигурации панели AeroDR.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7115">
+      <Title>Обновление RM</Title>
+      <Message>Таблица управления RM была обновлена. Перезапустите устройство.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7116">
+      <Title>Ошибка лицензии</Title>
+      <Message>Лицензия панели, которую Вы пытались зарегистрировать, не существует или число лицензий недостаточно. Получите лицензию или зарегистрируйте панель для имеющихся лицензий.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7117">
+      <Title>Ошибка</Title>
+      <Message>Ошибка при передаче параметра RM.
+Проверьте сетевое соединение и повторите попытку.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7118">
+      <Title>Ошибка</Title>
+      <Message>Ошибка конфигурации в настройке CS-7.
+Проверьте настройку и повторите попытку.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

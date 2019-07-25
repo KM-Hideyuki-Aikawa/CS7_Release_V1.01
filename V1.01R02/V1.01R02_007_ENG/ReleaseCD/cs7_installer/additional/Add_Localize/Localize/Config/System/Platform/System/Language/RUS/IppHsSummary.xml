@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<HSInfoSerializer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DoseInfoList>
+    <DoseInfo>
+      <TypeID>1</TypeID>
+      <Summary>Strength of HS processing is constant and not dose dependent.</Summary>
+    </DoseInfo>
+    <DoseInfo>
+      <TypeID>2</TypeID>
+      <Summary>If exposure value is low, the amount of HS processing is increase.</Summary>
+    </DoseInfo>
+    <DoseInfo>
+      <TypeID>3</TypeID>
+      <Summary>Strength of HS processing is constant and not dose dependent. Main purpose is to balance granularity and sharpness.</Summary>
+    </DoseInfo>
+    <DoseInfo>
+      <TypeID>4</TypeID>
+      <Summary>If exposure value is low, the amount of HS processing is increase. Main purpose is to balance granularity and sharpness. </Summary>
+    </DoseInfo>
+    <DoseInfo>
+      <TypeID>5</TypeID>
+      <Summary>It is processing for LG images.</Summary>
+    </DoseInfo>
+  </DoseInfoList>
+  <DensInfoList>
+    <DensInfo>
+      <TypeID>1</TypeID>
+      <Summary>Strength of HS processing is constant and not image density depend.</Summary>
+    </DensInfo>
+    <DensInfo>
+      <TypeID>2</TypeID>
+      <Summary>Strength of HS processing varies with image density and has strong effect for low density areas.</Summary>
+    </DensInfo>
+    <DensInfo>
+      <TypeID>3</TypeID>
+      <Summary>Strength of HS processing varies with image density and has strong effect for high density areas.</Summary>
+    </DensInfo>
+  </DensInfoList>
+</HSInfoSerializer>
+

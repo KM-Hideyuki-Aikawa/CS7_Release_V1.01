@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="LoginWindowDomain0000">
+      <Title />
+      <Message>L'utilisateur: "{USERNAME}" est connecté. "{USERNAME}" doit se déconnecter pour vous connecter. Déconnecter "{USERNAME}" ?</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0001">
+      <Title />
+      <Message>Nom d'utilisateur ou mot de passe incorrect</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0002">
+      <Title>Erreur</Title>
+      <Message>Ouv session annulée</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0003">
+      <Title>Erreur</Title>
+      <Message>Utilisateur actuel ne peut pas permuter le système. {ERRORS}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

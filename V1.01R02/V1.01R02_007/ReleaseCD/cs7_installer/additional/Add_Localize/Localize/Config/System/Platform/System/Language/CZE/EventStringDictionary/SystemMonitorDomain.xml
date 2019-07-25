@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="SystemMonitorDomain00001">
+      <Title>Součást čtečky</Title>
+      <Message>Brzy vyprší platnost (NázevČtečky) v (NázevSoučásti). Spojte se s údržbou.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00002">
+      <Title>Součást čtečky</Title>
+      <Message>Brzy vyprší platnost (NázevSoučásti). Spojte se s údržbou.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00003">
+      <Title>Součást čtečky</Title>
+      <Message>Vypršela platnost (NázevČtečky) v (NázevSoučásti). Spojte se s údržbou.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00004">
+      <Title>Součást čtečky</Title>
+      <Message>Vypršela platnost (NázevSoučásti). Spojte se s údržbou.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00005">
+      <Title />
+      <Message>Chcete systém ukončit?</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00006">
+      <Title />
+      <Message>Aktualizace byla úspěšná.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00007">
+      <Title />
+      <Message>Úspěšně jste se odhlásili z aplikace.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00008">
+      <Title>Chyba</Title>
+      <Message>Nelze zpracovat vaši žádost o odhlášení.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00009">
+      <Title>Chyba</Title>
+      <Message>Nenačteno Zkontrolovat PlugIn (NázevExtenderuDomény).</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00010">
+      <Title />
+      <Message>Určitě se chcete odhlásit?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

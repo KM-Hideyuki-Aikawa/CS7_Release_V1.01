@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>PatientNonDeleteInfo</Key>
+      <Value>Seuraavia potilastietoja ei voi poistaa</Value>
+      <Comment>Add</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Add</Key>
+      <Value>Lisää...</Value>
+      <Comment>Add</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Edit</Key>
+      <Value>Muokkaa...</Value>
+      <Comment>Edit</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Delete</Key>
+      <Value>Poista</Value>
+      <Comment>Delete</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Filter</Key>
+      <Value>Suodatin...</Value>
+      <Comment>Filter</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OK</Key>
+      <Value>OK</Value>
+      <Comment>Ok</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Cancel</Key>
+      <Value>Peruuta</Value>
+      <Comment>Cancel</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Clear</Key>
+      <Value>Tyhjennä</Value>
+      <Comment>Clear</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Adapt</Key>
+      <Value>Käytä</Value>
+      <Comment>Adapt</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ID</Key>
+      <Value>Tunnus</Value>
+      <Comment>ID</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Name</Key>
+      <Value>Nimi</Value>
+      <Comment>Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Gender</Key>
+      <Value>Sukupuoli</Value>
+      <Comment>Gender</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BirthDate</Key>
+      <Value>Syntymäpäivä</Value>
+      <Comment>BirthDate</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Male</Key>
+      <Value>Mies</Value>
+      <Comment>Male</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Female</Key>
+      <Value>Nainen</Value>
+      <Comment>Female</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Others</Key>
+      <Value>Muu</Value>
+      <Comment>Others</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NameRomaji</Key>
+      <Value>Nimi</Value>
+      <Comment>Name(Romaji)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NameKana</Key>
+      <Value>Nimi (Kana)</Value>
+      <Comment>Name(Kana)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NameKanji</Key>
+      <Value>Nimi (Kanji)</Value>
+      <Comment>Name(Kanji)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Heading</Key>
+      <Value />
+      <Comment>Patient Details</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OkMessage</Key>
+      <Value>Haluatko tallentaa ja sulkea sen?</Value>
+      <Comment>Do you want to save and close it?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CancelMessage</Key>
+      <Value>Haluatko varmasti sulkea tallentamatta?</Value>
+      <Comment>Are you sure to close it without saving?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeleteMessage</Key>
+      <Value>Haluatko poistaa valitut potilastiedot?</Value>
+      <Comment>Do you want to delete the selected patient's?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IDMessage</Key>
+      <Value>Anna potilastunnus</Value>
+      <Comment>Please enter a Patient ID</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ValidBDMessage</Key>
+      <Value>Valitse Syntymäaika-kohtaan mennyt päivämäärä</Value>
+      <Comment>Please enter a Valid Birth Date</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SaveMessage</Key>
+      <Value>Haluatko tallentaa uudet potilastiedot?</Value>
+      <Comment>Do you want to save the new patient information?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IDExistsMessage1</Key>
+      <Value>Tunnus [</Value>
+      <Comment>The Patient ID[</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IDExistsMessage2</Key>
+      <Value>] on jo olemassa.</Value>
+      <Comment>] has already been set up. Please enter again.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExitMessage</Key>
+      <Value>Haluatko poistua tallentamatta?</Value>
+      <Comment>Do you want to exit patient registration without saving?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EditSaveMessage</Key>
+      <Value>Haluatko tallentaa muutoksen ja sulkea?</Value>
+      <Comment>Do you want to save the modified patient information?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EditExitMessage</Key>
+      <Value>Haluatko varmasti sulkea tallentamatta muutosta?</Value>
+      <Comment>Do you want to stop modification without saving?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AddDialogTitle</Key>
+      <Value>Lisää potilastiedot</Value>
+      <Comment>Do you want to stop modification without saving?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EditDialogTitle</Key>
+      <Value>Muokkaa potilastietoja</Value>
+      <Comment>Do you want to stop modification without saving?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilterDialogTitle</Key>
+      <Value>Suodatusehto</Value>
+      <Comment>Do you want to stop modification without saving?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AdaptUserResponse</Key>
+      <Value>Haluatko tallentaa?</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DataBaseUse</Key>
+      <Value>Tietokanta on käytössä</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeletedRecMsg</Key>
+      <Value>tietuetta on poistettu</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Years</Key>
+      <Value>Vuotta</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Months</Key>
+      <Value>Kuukautta</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ValidationFailed</Key>
+      <Value>ei ole kelvollinen arvo. Tarkista se.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AlphaNumeric</Key>
+      <Value>vaaditaan aakkosnumeerista syöttöä varten.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Close</Key>
+      <Value>Sulje</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CloseMessage</Key>
+      <Value>Haluatko sulkea?</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

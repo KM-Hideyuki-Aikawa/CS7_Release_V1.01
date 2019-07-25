@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title />
+      <Message>체격을 변경하시겠습니까? 이에 대해 확인해 주십시오.</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title />
+      <Message>노출 결과가 1개보다 많은 순서에 적용되었습니다. 검사 태그 "{EXAM_TAGS_INFO}"</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title />
+      <Message>노출 결과를 적용할 일치하는 순서를 찾지 못했습니다. 확인해 주십시오.</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title />
+      <Message>CR 노출 조건에 대한 AEC를 켤 수 없습니다. AEC를 끄시겠습니까?</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title />
+      <Message>일부 순서에 대해 환자 체격이 변경되지 않았습니다. 확인해 주십시오.</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title />
+      <Message>분광기 크기를 덮어쓰시겠습니까?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

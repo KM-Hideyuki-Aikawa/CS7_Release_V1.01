@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>RisCodeMappingTitle</Key>
+      <Value>Odwzorowanie kodu RIS</Value>
+      <Comment>RisCodeMapping</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblUserMasterHeader</Key>
+      <Value>Główny użytkownik</Value>
+      <Comment>User Master</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblProcedureCodeMappingTable</Key>
+      <Value>Odwzorowanie kodu RIS</Value>
+      <Comment>Procedure Code Mapping Table</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblStatusFilter</Key>
+      <Value>Filtr stanu</Value>
+      <Comment>Status Filter</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblFreeWorldFilter</Key>
+      <Value>Filtr wolnego słowa</Value>
+      <Comment>Free World Filter</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvDataHeader</Key>
+      <Value>Lista części ciała</Value>
+      <Comment>Data</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvInformationHeader</Key>
+      <Value>Odwzorowanie kodu RIS</Value>
+      <Comment>Information</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnFilter</Key>
+      <Value>Filtruj</Value>
+      <Comment>Filter</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnRISCode</Key>
+      <Value>Tylko kod RIS</Value>
+      <Comment>RIS Code</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnIncorrect</Key>
+      <Value>Duplika kodu RIS</Value>
+      <Comment>RIS Code Incorrect</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnUnRegistered</Key>
+      <Value>Główny użytkownik niezarejestrowany</Value>
+      <Comment>UnRegistered</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnRelease</Key>
+      <Value>Wersja</Value>
+      <Comment>Release</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnAdd</Key>
+      <Value>Dodaj...</Value>
+      <Comment>Add</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnImport</Key>
+      <Value>Importuj...</Value>
+      <Comment>Import</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnExport</Key>
+      <Value>Eksportuj...</Value>
+      <Comment>Export</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnDelete</Key>
+      <Value>Usuń</Value>
+      <Comment>Delete</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnOk</Key>
+      <Value>OK</Value>
+      <Comment>OK</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnCancel</Key>
+      <Value>Anuluj</Value>
+      <Comment>Cancel</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnAdapt</Key>
+      <Value>Aplicar</Value>
+      <Comment>Adapt</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderUserMasterGroup</Key>
+      <Value>Grupa</Value>
+      <Comment>Group</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderUserMasterName</Key>
+      <Value>Znacznik badania</Value>
+      <Comment>Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderRISCodeCategory</Key>
+      <Value>Oznaczenie systemu kodowego</Value>
+      <Comment>Category</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderRISCodeCode</Key>
+      <Value>Kod RIS</Value>
+      <Comment>Code</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderRISCodeDescription</Key>
+      <Value>Uwagi</Value>
+      <Comment>Description</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderRISCodeSerialNo</Key>
+      <Value>Numer seryjny</Value>
+      <Comment>Serial No</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderRISCodeGroup</Key>
+      <Value>Grupa</Value>
+      <Comment>Group</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderRISCodeName</Key>
+      <Value>Znacznik badania</Value>
+      <Comment>Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DetailRisScreenTitle</Key>
+      <Value>Szczegół</Value>
+      <Comment>Detail RIS Screen</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImportScreenTitle</Key>
+      <Value>Importuj</Value>
+      <Comment>RIS Import</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnReplaceProcedure</Key>
+      <Value>Zastąpi mapowanie kodu RIS</Value>
+      <Comment>Replace Procedure Code Mapping Table</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblReplaceProcedureContent</Key>
+      <Value />
+      <Comment>Current entries are disgarded and content available in source is added.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnAddProcedure</Key>
+      <Value>Dodaj do mapowania kodu RIS</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblAddProcedureContent</Key>
+      <Value />
+      <Comment>Content available in source file are imported and appended to current table.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExportScreenTitle</Key>
+      <Value>Eksportuj</Value>
+      <Comment>RIS Export</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnImportInto</Key>
+      <Value>Eksportuj zaimportowane dane do innych konsoli CS-7</Value>
+      <Comment>Import into other Console.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblImportIntoContent</Key>
+      <Value />
+      <Comment>Import Into Other Console</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnVerifyCode</Key>
+      <Value>Eksportuj dla danych weryfikacyjnych mapowania kodu RIS</Value>
+      <Comment>Verify code mapping contents table.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblVerifyCodeContent</Key>
+      <Value />
+      <Comment>Verify code mapping contents table.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NewRisCodeMappingTitle</Key>
+      <Value>Dodaj mapowanie kodu RIS</Value>
+      <Comment>Add</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblSelectItemContent</Key>
+      <Value>Wybierz element eksportujący</Value>
+      <Comment>Select Item to Export</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IntermediateExportScreenTitle</Key>
+      <Value>Eksportuj dla weryfikacji mapowania kodu RIS</Value>
+      <Comment>Select Item</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxsaveCaption</Key>
+      <Value>Czy chcesz zapisać?</Value>
+      <Comment>New RIS Code Mapping</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxcancelCaption</Key>
+      <Value>Czy chcesz zamknąć bez zapisywania?</Value>
+      <Comment>Select Item to Export</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxRisCodeIncorrectCaption</Key>
+      <Value>Znaleziono nieprawidłowe wpisy. Popraw je.</Value>
+      <Comment>Select Item</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxNewValiadtionCaption</Key>
+      <Value>Oznaczenie systemu kodowego kodu RIS jest puste.</Value>
+      <Comment>New RIS Code Mapping</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxImportSucccessCaption</Key>
+      <Value>Można zaimportować mapowanie kodu RIS.</Value>
+      <Comment>Select Item to Export</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxImportFailureCaption</Key>
+      <Value>Nie można zaimportować mapowania kodu RIS.</Value>
+      <Comment>Select Item</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxExportSucccessCaption</Key>
+      <Value>Można wyeksportować mapowanie kodu RIS.</Value>
+      <Comment>New RIS Code Mapping</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxExportFailureCaption</Key>
+      <Value>Nie można wyeksportować mapowania kodu RIS.</Value>
+      <Comment>Select Item to Export</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxDeleteCaption</Key>
+      <Value>Czy na pewno chcesz usunąć?</Value>
+      <Comment>Select Item</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxExportconfirmationCaption</Key>
+      <Value>Czy na pewno chcesz wyeksportować?</Value>
+      <Comment>New RIS Code Mapping</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxImportAppendCaption</Key>
+      <Value>Czy na pewno chcesz dodać do mapowania kodu RIS?</Value>
+      <Comment>Select Item to Export</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxImportReplaceCaption</Key>
+      <Value>Czy na pewno chcesz zastąpić mapowanie kodu RIS?</Value>
+      <Comment>Select Item</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxmaxaddCaption</Key>
+      <Value>Znacznik badania przekracza 128 i nie można go dodać.</Value>
+      <Comment>Select Item</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderRISPriorty</Key>
+      <Value>Priorytet</Value>
+      <Comment>Select Item</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxExportValidationCaption</Key>
+      <Value>Do you want to save the changes and continue the process</Value>
+      <Comment>Select Item</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxImportValidationCaption</Key>
+      <Value>Do you want to save the changes and continue the process</Value>
+      <Comment>Select Item</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxExportValidationHeaderCaption</Key>
+      <Value>CS-7</Value>
+      <Comment>Select Item</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxImportValidationHeaderCaption</Key>
+      <Value>CS-7</Value>
+      <Comment>Select Item</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+<LocalizeInfo>
+      <Key>btnClose</Key>
+      <Value>Close</Value>
+      <Comment>Select Item</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxDeleteMsgCaption</Key>
+      <Value>Do you want to Delete ?</Value>
+      <Comment>Select Item</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxPriortyValidationCaption</Key>
+      <Value>Only numbers can be entered.</Value>
+      <Comment>Select Item</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxExportCaption</Key>
+      <Value>Do you want to Export ?</Value>
+      <Comment>Select Item</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxImportCaption</Key>
+      <Value>Do you want to Import ?</Value>
+      <Comment>Select Item</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxCommaValidationCaption</Key>
+      <Value>Comma cannot be entered.</Value>
+      <Comment>Select Item</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

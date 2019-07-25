@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="HostDomainExtender0001">
+      <Title>Ping Durumu</Title>
+      <Message>Başarıyla bağlandı.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0002">
+      <Title>Ping Durumu</Title>
+      <Message>Bağlanamadı.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0003">
+      <Title>Onay</Title>
+      <Message>Ping(C-ECHO) hangi servis için çalıştırılmalı？</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0004">
+      <Title>Onay</Title>
+      <Message>Seçilen kuyruk silinsin mi?</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0005">
+      <Title>Dikkat</Title>
+      <Message>Lütfen silinecek kuyruğu (kuyrukları) seçin.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0006">
+      <Title>Bilgi</Title>
+      <Message>Seçilen kuyruk(lar) başarıyla silinir</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0007">
+      <Title>Hata</Title>
+      <Message>Kuyruk silmede hata.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0008">
+      <Title>Dikkat</Title>
+      <Message>Belirtilen bu ana bilgisayar başka CH'yle yineleniyor. Görüntüler büyük olasılıkla mükerrer çıkarılacak.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ConsoleSystemDomain0001">
+      <Title />
+      <Message>Verbleibende Akkuladung niedrig. Akku aufladen.</Message>
+    </EventString>
+    <EventString Key="ConsoleSystemDomain0003">
+      <Title />
+      <Message>Bilderfassung wegen niedriger Akkuladung nicht möglich. Akku aufladen.</Message>
+    </EventString>
+    <EventString Key="ConsoleSystemDomain0005">
+      <Title>Registrierung erfolgreich</Title>
+      <Message>Folgender AeroDR ist registriert.
+AeroDR-Name: {DeviceName}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0401">
+      <Title>Erro de envio</Title>
+      <Message>Ocorreu erro interno no processo de comunicação de raio-X.</Message>
+    </EventString>
+    <EventString Key="0402">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno no processo de comunicação de raio-X.</Message>
+    </EventString>
+    <EventString Key="0403">
+      <Title>Erro de envio</Title>
+      <Message>Envio de comando de condições de exposição para sistema de raio-X falhou. Reinicie o dispositivo de raio-X.</Message>
+    </EventString>
+    <EventString Key="0404">
+      <Title>Erro de ajuste</Title>
+      <Message>Ajuste de parâmetros para o erro de sistema de raio-X.</Message>
+    </EventString>
+    <EventString Key="0405">
+      <Title>Erro do dispositivo</Title>
+      <Message>Erro do sistema de raio-X detetado.</Message>
+    </EventString>
+    <EventString Key="0406">
+      <Title>Erro de envio</Title>
+      <Message>Erro de ligação do sistema de raio-X. Verificar a rede.</Message>
+    </EventString>
+    <EventString Key="0301">
+      <Title />
+      <Message />
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

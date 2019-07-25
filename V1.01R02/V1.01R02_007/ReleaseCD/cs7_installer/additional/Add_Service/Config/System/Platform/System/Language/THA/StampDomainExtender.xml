@@ -1,0 +1,2300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>LineWidthErrMessage</Key>
+      <Value>length should not less than 1</Value>
+      <Comment>Outline</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+</LocalizeInfo>
+
+
+
+<LocalizeInfo>
+      <Key>StampItem</Key>
+      <Value>StampItem</Value>
+      <Comment>Outline</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+</LocalizeInfo>
+
+
+<LocalizeInfo>
+      <Key>FontSizeErrMessage</Key>
+      <Value>Line font size(s) are out of range. It must set within the Limitation.(1~20)</Value>
+      <Comment>Outline</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+
+
+<LocalizeInfo>
+      <Key>ValueOf</Key>
+      <Value>The value of</Value>
+      <Comment>Outline</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+
+
+     <LocalizeInfo>
+      <Key>OutofRange</Key>
+      <Value>is out of the range. It will be set within this limitation</Value>
+      <Comment>Outline</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Width</Key>
+      <Value>ความกว้าง</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Date</Key>
+      <Value>วันที่</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Month</Key>
+      <Value>เดือน</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Year</Key>
+      <Value>ปี</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DA010oo</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DA011@</Key>
+      <Value>H</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Hour</Key>
+      <Value>ชั่วโมง</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Minutes</Key>
+      <Value>นาที</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Seconds</Key>
+      <Value>วินาที</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AM</Key>
+      <Value>AM</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PM</Key>
+      <Value>PM</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Filename</Key>
+      <Value />
+      <Comment>File Name : nmprint p1.ini</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BackgroundDensity</Key>
+      <Value>ความเข้มของพื้นหลัง [%]</Value>
+      <Comment>Background Density [%]</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CharacterDensity</Key>
+      <Value>ความเข้มของตัวอักขระ [%]</Value>
+      <Comment>Character Density [%]</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Offset</Key>
+      <Value>ชดเชย</Value>
+      <Comment>Offset</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Position</Key>
+      <Value>ตำแหน่ง</Value>
+      <Comment>Position</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Enable</Key>
+      <Value>เปิดใช้</Value>
+      <Comment>Enable</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Xmm</Key>
+      <Value>X [มม.]</Value>
+      <Comment>X[mm]</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Ymm</Key>
+      <Value>ํY [มม.]</Value>
+      <Comment>Y[mm]</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UpperLeft</Key>
+      <Value>ส่วนบน-ซ้าย</Value>
+      <Comment>Upper-Left</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UpperCenter</Key>
+      <Value>ส่วนบน-กึ่งกลาง</Value>
+      <Comment>Upper-Center</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UpperRight</Key>
+      <Value>ส่วนบน-ขวา</Value>
+      <Comment>Upper-Right</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Left</Key>
+      <Value>ซ้าย</Value>
+      <Comment>Left</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Right</Key>
+      <Value>ขวา</Value>
+      <Comment>Right</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LowerLeft</Key>
+      <Value>ส่วนล่าง-ซ้าย</Value>
+      <Comment>Lower-Left</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LowerCenter</Key>
+      <Value>ส่วนล่าง-กึ่งกลาง</Value>
+      <Comment>Lower-Center</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LowerRight</Key>
+      <Value>ส่วนล่าง-ขวา</Value>
+      <Comment>Lower-Right</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Refresh</Key>
+      <Value>รีเฟรช</Value>
+      <Comment>Refresh</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Preview</Key>
+      <Value>ดูตัวอย่าง</Value>
+      <Comment>Preview</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampSettings</Key>
+      <Value>การตั้งค่าตราประทับ</Value>
+      <Comment>Stamp Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SNo</Key>
+      <Value>หมายเลข</Value>
+      <Comment>S.No</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Edit</Key>
+      <Value>แก้ไข...</Value>
+      <Comment>Edit...</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Copy</Key>
+      <Value>คัดลอก...</Value>
+      <Comment>Copy...</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp1</Key>
+      <Value>ตราประทับ 1</Value>
+      <Comment>Stamp 1</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp2</Key>
+      <Value>ตราประทับ 2</Value>
+      <Comment>Stamp 2</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp3</Key>
+      <Value>ตราประทับ 3</Value>
+      <Comment>Stamp 3</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp4</Key>
+      <Value>ตราประทับ 4</Value>
+      <Comment>Stamp 4</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp5</Key>
+      <Value>ตราประทับ 5</Value>
+      <Comment>Stamp 5</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp6</Key>
+      <Value>ตราประทับ 6</Value>
+      <Comment>Stamp 6</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp7</Key>
+      <Value>ตราประทับ 7</Value>
+      <Comment>Stamp 7</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp8</Key>
+      <Value>ตราประทับ 8</Value>
+      <Comment>Stamp 8</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp9</Key>
+      <Value>ตราประทับ 9</Value>
+      <Comment>Stamp 9</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp10</Key>
+      <Value>ตราประทับ 10</Value>
+      <Comment>Stamp 10</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OK</Key>
+      <Value>ตกลง</Value>
+      <Comment>OK</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Cancel</Key>
+      <Value>ยกเลิก</Value>
+      <Comment>Cancel</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Prefix</Key>
+      <Value>ส่วนนำหน้า</Value>
+      <Comment>Prefix</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Suffix</Key>
+      <Value>ส่วนต่อท้าย</Value>
+      <Comment>Suffix</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Sample</Key>
+      <Value>ตัวอย่าง</Value>
+      <Comment>Sample</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Alignment</Key>
+      <Value>การจัดตำแหน่ง</Value>
+      <Comment>Alignment</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Contents</Key>
+      <Value>เนื้อหา</Value>
+      <Comment>Contents</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Item</Key>
+      <Value>รายการ</Value>
+      <Comment>Item</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Line</Key>
+      <Value>บรรทัด</Value>
+      <Comment>Line</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Lengths</Key>
+      <Value>ความยาว</Value>
+      <Comment>Length</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Options</Key>
+      <Value>ตัวเลือก</Value>
+      <Comment>Options</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampNumber</Key>
+      <Value />
+      <Comment>Stamp Number : Printer - Stamp 1</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GeneralSettings</Key>
+      <Value>การตั้งค่าทั่วไป</Value>
+      <Comment>General Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Parameter</Key>
+      <Value>พารามิเตอร์</Value>
+      <Comment>Parameter</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Values</Key>
+      <Value>ค่า</Value>
+      <Comment>Value</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TotalLines</Key>
+      <Value>บรรทัดทั้งหมด ( 1 - 6 )</Value>
+      <Comment>Total Lines ( 1 - 6 )</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Default</Key>
+      <Value>ซ้าย-เต็มแนว</Value>
+      <Comment>Default Alignment in Stamp Edit model</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Center</Key>
+      <Value>ตรงกลาง</Value>
+      <Comment>center alignemnt key in Stamp Edit Model</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FontSizeText</Key>
+      <Value>ขนาดแบบอักษร</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FisrtLineFontSize</Key>
+      <Value>ที่ 1</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SecondLineFontSize</Key>
+      <Value>ที่ 2</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ThirdLineFontSize</Key>
+      <Value>ที่ 3</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ForthLineFontSize</Key>
+      <Value>ที่ 4</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FifthLineFontSize</Key>
+      <Value>ที่ 5</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SixthLineFontSize</Key>
+      <Value>ที่ 6</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LineNumber</Key>
+      <Value>จำนวนบรรทัด</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Value</Key>
+      <Value>ค่า</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_undefined</Key>
+      <Value>ไม่ได้กำหนด</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0069</Key>
+      <Value>วันที่ตรวจดู</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00080023</Key>
+      <Value>วันที่ถ่ายภาพ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0070</Key>
+      <Value>เวลาตรวจดู</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00080033</Key>
+      <Value>เวลาของภาพ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0095</Key>
+      <Value>หมายเลขประจำระเบียน</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00080080</Key>
+      <Value>ชื่อสถานพยาบาล</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00080081</Key>
+      <Value>ที่อยู่สถานพยาบาล</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0043</Key>
+      <Value>แพทย์ที่ส่งต่อ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0044</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0045</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00081010</Key>
+      <Value>ชื่อชุดควบคุม</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00081040</Key>
+      <Value>ชื่อแผนก</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0046</Key>
+      <Value>แพทย์ที่บันทึกระเบียน</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0047</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0048</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPSE0015</Key>
+      <Value>แพทย์ที่ดำเนินการ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPSE0016</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPSE0017</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0049</Key>
+      <Value>แพทย์ที่อ่านการตรวจดู</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0050</Key>
+      <Value>ชื่อผู้ควบคุมเครื่อง</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0051</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPSE0012</Key>
+      <Value>ชื่อผู้ควบคุมเครื่อง</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPSE0013</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPSE0014</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0052</Key>
+      <Value>คำอธิบายการวินิจฉัย</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00081090</Key>
+      <Value>ชื่อรุ่น</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0033</Key>
+      <Value>ชื่อผู้ป่วย</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0034</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0035</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0032</Key>
+      <Value>ID ผู้ป่วย</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0036</Key>
+      <Value>วันเกิดของผู้ป่วย</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0037</Key>
+      <Value>เวลาเกิดของผู้ป่วย</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0038</Key>
+      <Value>เพศของผู้ป่วย</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0081</Key>
+      <Value>ID ผู้ป่วยอื่น</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0082</Key>
+      <Value>ชื่อผู้ป่วยอื่น</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0083</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0084</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0011</Key>
+      <Value>อายุของผู้ป่วย</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0053</Key>
+      <Value>ความสูงของผู้ป่วย</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0054</Key>
+      <Value>น้ำหนักของผู้ป่วย</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0058</Key>
+      <Value>แจ้งเตือนทางการแพทย์</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0059</Key>
+      <Value>การแพ้สารทึบรังสี</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0085</Key>
+      <Value>กลุ่มเชื้อชาติ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0055</Key>
+      <Value>อาชีพ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0061</Key>
+      <Value>ประวัติผู้ป่วยเพิ่มเติม</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0062</Key>
+      <Value>สถานะการตั้งครรภ์</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0039</Key>
+      <Value>ข้อคิดเห็นของผู้ป่วย</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00180010:0</Key>
+      <Value>สารทึบรังสี/ฉีดเข้าเส้น</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GEIM0021</Key>
+      <Value>ส่วนของร่างกายที่ตรวจ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00180060</Key>
+      <Value>kVp</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181000</Key>
+      <Value>หมายเลขประจำเครื่อง</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181020:0</Key>
+      <Value>เวอร์ชันซอฟต์แวร์</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181040</Key>
+      <Value>เส้นทาง C/B</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181041</Key>
+      <Value>ปริมาตร C/B(ซม.3)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181042</Key>
+      <Value>เวลาเริ่ม C/B</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181043</Key>
+      <Value>เวลาหยุด C/B</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181044</Key>
+      <Value>ปริมาณ C/B ต่อครั้งโดยรวม</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181046</Key>
+      <Value>อัตราการไหลของสารทึบรังสี</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181047</Key>
+      <Value>ระยะเวลาการไหลของสารทึบรังสี</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181048</Key>
+      <Value>ส่วนผสม C/B</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181049</Key>
+      <Value>เส้นทาง C/B</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181110</Key>
+      <Value>แหล่งกำเนิด-หัววัด[มม.]</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181111</Key>
+      <Value>แหล่งกำเนิด-ผู้ป่วย[มม.]</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181114</Key>
+      <Value>อัตรา ขยาย(x100)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181147</Key>
+      <Value>รูปทรงพื้นที่รับภาพ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181150</Key>
+      <Value>เวลาฉายแสง</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181151</Key>
+      <Value>กระแสไฟหลอดเอกซเรย์</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181152</Key>
+      <Value>การฉายแสง</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181156</Key>
+      <Value>ชนิดการปรับแก้</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_0018115E</Key>
+      <Value>Img Area Dose Prod</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181160</Key>
+      <Value>ชนิดตัวกรอง</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181164:0</Key>
+      <Value>ระยะห่างพิกเซล-แถว</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181164:1</Key>
+      <Value>ระยะห่างพิกเซล-คอลัมน์</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181166</Key>
+      <Value>กริด</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181190</Key>
+      <Value>จุดโฟกัส</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181191</Key>
+      <Value>วัสดุขั้วแอโนด</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_001811A0</Key>
+      <Value>ความหนาของทรวงอก</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_001811A2</Key>
+      <Value>แรงกด</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181004:0</Key>
+      <Value>ID แผ่นเพลต</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181402</Key>
+      <Value>แนวการวางตลับทึบแสง</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181403</Key>
+      <Value>ขนาดที่อ่าน</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181510:0</Key>
+      <Value>มุมหลักของหัววัดรังสี</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00185101:0</Key>
+      <Value>ตำแหน่งการดู</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00186000</Key>
+      <Value>ความไว</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_0018700A</Key>
+      <Value>ID หัววัดรังสี</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187040</Key>
+      <Value>วัสดุดูดกลืนของกริด</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187041</Key>
+      <Value>วัสดุเว้นระยะของกริด</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187042</Key>
+      <Value>ความหนาของกริด</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187044</Key>
+      <Value>ระยะห่างของกริด</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187046:0</Key>
+      <Value>สัดส่วนภาพกริด-ตั้ง</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187046:1</Key>
+      <Value>สัดส่วนภาพกริด-นอน</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_0018704C</Key>
+      <Value>ระยะโฟกัสของกริด</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187050</Key>
+      <Value>วัสดุตัวกรอง</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187052</Key>
+      <Value>ความหนาต่ำสุดของตัวกรอง</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187054</Key>
+      <Value>ความหนาสูงสุดของตัวกรอง</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187060</Key>
+      <Value>โหมดควบคุมการฉายแสง</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187064</Key>
+      <Value>สถานะการฉายแสง</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0003</Key>
+      <Value>UID อินสแตนซ์การตรวจดู</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPSE0005</Key>
+      <Value>UID อินสแตนซ์ชุดภาพ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0012</Key>
+      <Value>ID การตรวจดู</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPSE0006</Key>
+      <Value>หมายเลขชุดภาพ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00200013</Key>
+      <Value>ID อินสแตนซ์</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00200060:0</Key>
+      <Value>ด้านข้าง</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00200062:0</Key>
+      <Value>ภาพด้านข้าง</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00204000</Key>
+      <Value>ข้อคิดเห็นประกอบภาพ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00280010</Key>
+      <Value>แถว</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00280011</Key>
+      <Value>คอลัมน์</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00280300</Key>
+      <Value>ภาพ QC</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0074</Key>
+      <Value>แพทย์ที่ร้องขอ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0075</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0076</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0026</Key>
+      <Value>บริการที่ร้องขอ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0096</Key>
+      <Value>ข้ดคิดเห็นการตรวจดู</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0064</Key>
+      <Value>ความต้องการจำเป็นพิเศษ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0067</Key>
+      <Value>ตำแหน่งที่ตั้ง ผู้ป่วยปัจจุบัน</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0029</Key>
+      <Value>ห้องพัก ผู้ป่วย(ผู้ป่วยใน)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0065</Key>
+      <Value>สถานะผู้ป่วย</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00400300</Key>
+      <Value>ระยะเวลาฉายแสงโดยรวม</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00400302</Key>
+      <Value>ปริมาณการรับรังสี</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00400303:0</Key>
+      <Value>พื้นที่ฉายแสง</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00400306</Key>
+      <Value>แหล่งกำเนิด-การรับรังสี[มม.]</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GSPR0006</Key>
+      <Value>หมายเลขลำดับผู้วาง</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GSPR0005</Key>
+      <Value>หมายเลขลำดับผู้ใส่</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0066</Key>
+      <Value>การปกปิดความลับผู้ป่วย</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00408302</Key>
+      <Value>รวมปริมาณแนวระนาบ(mGy)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311001</Key>
+      <Value>ตั้งค่าเลขแท็กตรวจ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311002</Key>
+      <Value>ตั้งค่าชื่อหน้า</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311003</Key>
+      <Value>ตั้งค่าชื่อกลุ่ม</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311004</Key>
+      <Value>ตั้งค่าชื่อแท็ก</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311005:0</Key>
+      <Value>เลขแท็กตรวจผู้ใช้</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311007</Key>
+      <Value>ชื่อกลุ่มผู้ใช้</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311008</Key>
+      <Value>ชื่อแท็กผู้ใช้</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311100;00311060</Key>
+      <Value>รหัสคุมเอกซ์เรย์</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311100;00311061</Key>
+      <Value>เลขหลอด</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311018</Key>
+      <Value>อุปกรณ์แสดงผล</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311081:3</Key>
+      <Value>DL(ประมวลผล-G)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311081:4</Key>
+      <Value>DH(ประมวลผล-G)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311082:1</Key>
+      <Value>Mask Size(E-Process)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311084:1</Key>
+      <Value>Mask Size(F-Process)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_003110CC:1</Key>
+      <Value>ค่า S</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_003110CC:0</Key>
+      <Value>ค่า G</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_003110CA:0</Key>
+      <Value>เลื่อน</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_003110CA:1</Key>
+      <Value>หมุน</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_0031107B:0</Key>
+      <Value>เปิด/ปิด E</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_0031107C:0</Key>
+      <Value>เปิด/ปิด F</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311086:0</Key>
+      <Value>H ID (HE หรือ HF)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311086:2</Key>
+      <Value>HF-มาตรฐาน</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311086:1</Key>
+      <Value>HE-มาตรฐาน</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311087:1</Key>
+      <Value>HF-b2</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311087:0</Key>
+      <Value>HF-b1</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311087:3</Key>
+      <Value>HE-bh</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311087:2</Key>
+      <Value>HE-bl</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_undefined</Key>
+      <Value>ไม่ได้กำหนด</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_GN000</Key>
+      <Value>ไม่ได้กำหนด</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_GN001</Key>
+      <Value>แปลงเป็น Hex</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_GN002</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_GN003</Key>
+      <Value>หารด้วย 100</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_GN005</Key>
+      <Value>ทศนิยมลง 2</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_GN007</Key>
+      <Value>ตัวพิมพ์ใหญ่</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_DA000</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_DA001</Key>
+      <Value>ด- ว-ปปปป</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_DA002</Key>
+      <Value>ดด-วว-ปปปป</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_DA003</Key>
+      <Value>ว- ด-ปปปป</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_DA004</Key>
+      <Value>วว-ดด-ปปปป</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_DA010</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_DA011</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_TM000</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_TM001</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_TM002</Key>
+      <Value>hh:mm:ss</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_TM003</Key>
+      <Value>hh:mm</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_AS000</Key>
+      <Value>(ปี), (เดือน), (วัน)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_AS001</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_SX000</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_SX001</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_SX002</Key>
+      <Value>(ชาย), (หญิง), (ไม่กำหนด)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_SX003</Key>
+      <Value>ชาย, หญิง, ไม่กำหนด</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo> 
+    <LocalizeInfo>
+      <Key>DisplayFormatId_PN000</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_PN001</Key>
+      <Value>^(cap)into single byte space</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

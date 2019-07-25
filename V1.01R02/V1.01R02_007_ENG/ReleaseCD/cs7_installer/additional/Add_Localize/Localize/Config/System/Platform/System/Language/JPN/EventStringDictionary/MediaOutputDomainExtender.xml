@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="MediaOutputDomainExtender0000">
+      <Title />
+      <Message>年の値が間違えています。</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0001">
+      <Title />
+      <Message>月の値が間違えています。</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0002">
+      <Title />
+      <Message>日の値が間違っています。</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0003">
+      <Title />
+      <Message>範囲外の値が入力されています。</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0004">
+      <Title />
+      <Message>文字数を超えています。</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0005">
+      <Title />
+      <Message>文字数が不足しています。</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0006">
+      <Title />
+      <Message>数字を入力してください。</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0007">
+      <Title />
+      <Message>値が間違えています。</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0008">
+      <Title />
+      <Message>アルファベットを入力してください。</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0009">
+      <Title />
+      <Message>カナを入力してください</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0010">
+      <Title />
+      <Message>この項目は'\'、'^'、'='を使用できません</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0011">
+      <Title />
+      <Message>全角文字は入力できません。</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0012">
+      <Title />
+      <Message>不正な文字が入力されています。</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0013">
+      <Title />
+      <Message>メディア書き込みエラー</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0014">
+      <Title />
+      <Message>メディアが挿入されていません。挿入してください。</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0015">
+      <Title />
+      <Message>書き込み済みメディアに追記できません。新しいメディアを挿入してください。</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0016">
+      <Title />
+      <Message>空き領域が足りません。</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0017">
+      <Title />
+      <Message>指定されたフォルダ名は無効です。</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0018">
+      <Title />
+      <Message>フォルダ名に次の文字は使えません。
+.\/:*?"&amp;lt;&amp;gt;|</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0019">
+      <Title>確認</Title>
+      <Message>既に同名のフォルダが存在します。
+上書きしますか？</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0020">
+      <Title />
+      <Message>キャンセル処理中です。暫くお待ち下さい。</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0021">
+      <Title />
+      <Message>この項目は'\'、'='を使用できません。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

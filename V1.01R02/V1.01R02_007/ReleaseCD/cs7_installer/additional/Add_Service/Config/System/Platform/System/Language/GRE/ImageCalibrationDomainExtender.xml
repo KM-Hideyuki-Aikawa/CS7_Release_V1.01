@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>DailyCalibration_GroupBox</Key>
+      <Value>Διακρίβωση μετατόπισης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GainCalibration_GroupBox</Key>
+      <Value>Λήψη διακρίβωσης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SignalValue_Lbl</Key>
+      <Value>Τιμή σήματος</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SignalValue_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AddRange_Lbl</Key>
+      <Value>Προσθήκη εύρους κατά προσέγγιση: 5100 - 6900</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureParam_Lbl</Key>
+      <Value>Παράμετροι έκθεσης</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TubeVoltage_Txt</Key>
+      <Value>Τάση σωλήνα [kV]</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>3</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TubeCurrent_Txt</Key>
+      <Value>Ρεύμα σωλήνα [mA]</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>8</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureTime_Txt</Key>
+      <Value>Χρόνος έκθεσης [msec]</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>9</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Distance_Txt</Key>
+      <Value>Απόσταση [cm]</Value>
+      <Comment />
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>9</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureParamData_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TubeVoltage_Lbl</Key>
+      <Value>Τάση σωλήνα [kV]</Value>
+      <Comment />
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TubeCurrent_Lbl</Key>
+      <Value>Ρεύμα σωλήνα [mA]</Value>
+      <Comment />
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureTime_Lbl</Key>
+      <Value>Χρόνος έκθεσης [msec]</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Distance_Lbl</Key>
+      <Value>Απόσταση [cm]</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Remarks_Lbl</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LastGainCalibDate_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NextGainCalibDate_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GainCalibMessage_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LastGainCalibDate_Lbl</Key>
+      <Value>Ημερομηνία τελευταίας διακρίβωσης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NextGainCalibDate_Lbl</Key>
+      <Value>Ημερομηνία επόμενης διακρίβωσης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GainCalibMessage_Lbl</Key>
+      <Value>Μήνυμα</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OffsetCalibMessage_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OffsetCalibProgress_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OffsetCalibMessage_Lbl</Key>
+      <Value>Μήνυμα</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OffsetCalibProgress_Lbl</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OffsetCalibExecuteCommandLbl</Key>
+      <Value>Εκτέλεση</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EditCommandLbl</Key>
+      <Value>Επεξεργασία</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GainCalibExecuteCommandLbl</Key>
+      <Value>Εκτέλεση</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExitCommandLbl</Key>
+      <Value>Κλείσιμο</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CmdCancelLbl</Key>
+      <Value>Άκυρο</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CmdOkLbl</Key>
+      <Value>OK</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_PREPARING</Key>
+      <Value>Ο πίνακας προετοιμάζεται, 
+περιμένετε</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_READY</Key>
+      <Value>Ο πίνακας είναι έτοιμος για έκθεση. 
+Λάβετε την έκθεση τώρα.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_CUTOFF</Key>
+      <Value>Η σύνδεση του πίνακα δεν υπάρχει.
+Επιβεβαιώστε τη σύνδεση του πίνακα.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_STANDBY</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_SLEEP</Key>
+      <Value>Επιβεβαιώστε τη μπαταρία του πίνακα πριν από την έκθεση.
+Διατίθεται διακρίβωση.
+Πατήστε το κουμπί Εκτέλεση.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_FINISH</Key>
+      <Value>Η έκθεση ολοκληρώθηκε</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_ERROR</Key>
+      <Value>Παρουσιάστηκε σφάλμα στον πίνακα.
+Επιβεβαιώστε την κατάσταση του πίνακα. Στη συνέχεια προσπαθήστε ξανά. 
+Εάν εμφανιστεί το ίδιο πρόβλημα, καλέστε το κέντρο σέρβις.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_WAKEUP</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_UNKNOWN</Key>
+      <Value>Κατάσταση FPD: </Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GAIN_CALIB_END_SUCCESS</Key>
+      <Value>Η λήψη διακρίβωσης ολοκληρώθηκε επιτυχώς.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GAIN_CALIB_END_FAIL</Key>
+      <Value>Η λήψη διακρίβωσης απέτυχε.
+Επιβεβαιώστε την κατάσταση του πίνακα. Στη συνέχεια προσπαθήστε ξανά. 
+Εάν εμφανιστεί το ίδιο πρόβλημα, καλέστε το κέντρο σέρβις.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OFFSET_CALIB_END_SUCCESS</Key>
+      <Value>Η διακρίβωση μετατόπισης ολοκληρώθηκε επιτυχώς.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OFFSET_CALIB_END_FAIL</Key>
+      <Value>Η διακρίβωση μετατόπισης απέτυχε.
+Επιβεβαιώστε την κατάσταση του πίνακα. Στη συνέχεια προσπαθήστε ξανά. 
+Εάν εμφανιστεί το ίδιο πρόβλημα, καλέστε το κέντρο σέρβις.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NextOffsetCalibDate_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LastOffsetCalibDate_Lbl</Key>
+      <Value>Ημερομηνία τελευταίας διακρίβωσης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NextOffsetCalibDate_Lbl</Key>
+      <Value>Ημερομηνία επόμενης διακρίβωσης</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GainCalibAbortCommandLbl</Key>
+      <Value>Ματαίωση</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LastOffsetCalibDate_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

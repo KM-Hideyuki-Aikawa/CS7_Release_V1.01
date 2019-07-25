@@ -1,0 +1,1637 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="MES04001">
+      <Title>CR 오류 </Title>
+      <Message>HP1 센서 이상(운반장치)</Message>
+    </EventString>
+    <EventString Key="MES04002">
+      <Title>CR 오류</Title>
+      <Message>HP1 센서 이상(운반장치) </Message>
+    </EventString>
+    <EventString Key="MES04011">
+      <Title>CR 오류</Title>
+      <Message>HP2 센서 이상(운반장치) </Message>
+    </EventString>
+    <EventString Key="MES04012">
+      <Title>CR 오류</Title>
+      <Message>HP2 센서 이상(운반장치) </Message>
+    </EventString>
+    <EventString Key="MES04013">
+      <Title>CR 오류</Title>
+      <Message>HP2 센서 이상(운반장치) </Message>
+    </EventString>
+    <EventString Key="MES04014">
+      <Title>CR 오류</Title>
+      <Message>HP2 센서 이상(운반장치) </Message>
+    </EventString>
+    <EventString Key="MES04015">
+      <Title>CR 오류</Title>
+      <Message>HP2 센서 이상(운반장치) </Message>
+    </EventString>
+    <EventString Key="MES04020">
+      <Title>CR 오류</Title>
+      <Message>얼라인먼트 센서 이상(시작) </Message>
+    </EventString>
+    <EventString Key="MES04021">
+      <Title>CR 오류</Title>
+      <Message>얼라인먼트 센서 이상(피더) </Message>
+    </EventString>
+    <EventString Key="MES04022">
+      <Title>CR 오류</Title>
+      <Message>얼라인먼트 센서 이상(고착) </Message>
+    </EventString>
+    <EventString Key="MES04023">
+      <Title>CR 오류</Title>
+      <Message>얼라인먼트 센서 이상(쉘터) </Message>
+    </EventString>
+    <EventString Key="MES04024">
+      <Title>CR 오류</Title>
+      <Message>얼라인먼트 센서 이상(배출) </Message>
+    </EventString>
+    <EventString Key="MES04025">
+      <Title>CR 오류</Title>
+      <Message>얼라인먼트 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04026">
+      <Title>CR 오류</Title>
+      <Message>얼라인먼트 좌측 센서 이상(초기화) </Message>
+    </EventString>
+    <EventString Key="MES04027">
+      <Title>CR 오류</Title>
+      <Message>얼라인먼트 우측 센서 이상(초기화) </Message>
+    </EventString>
+    <EventString Key="MES04030">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 검출 센서 이상(시작) </Message>
+    </EventString>
+    <EventString Key="MES04031">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 검출 센서 이상(피더) </Message>
+    </EventString>
+    <EventString Key="MES04032">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 검출 센서 이상(고착) </Message>
+    </EventString>
+    <EventString Key="MES04033">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 검출 센서 이상(쉘터) </Message>
+    </EventString>
+    <EventString Key="MES04034">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 검출 센서 이상(상승 전) </Message>
+    </EventString>
+    <EventString Key="MES04035">
+      <Title>CR 오류</Title>
+      <Message>록 HP 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04036">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 HP 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04037">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 검출 센서 이상(상승 후) </Message>
+    </EventString>
+    <EventString Key="MES04041">
+      <Title>CR 오류</Title>
+      <Message>피더 셔터 열림 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04042">
+      <Title>CR 오류</Title>
+      <Message>피더 셔터 닫힘 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04043">
+      <Title>CR 오류</Title>
+      <Message>피더 셔터 열림 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04044">
+      <Title>CR 오류</Title>
+      <Message>피더 셔터 닫힘 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04045">
+      <Title>CR 오류</Title>
+      <Message>카세트 배판 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04046">
+      <Title>CR 오류</Title>
+      <Message>백보드 휨 검출 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04047">
+      <Title>CR 오류</Title>
+      <Message>백보드 고착 검출 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04048">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 셔터 닫힘 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04051">
+      <Title>CR 오류</Title>
+      <Message>배출문 닫힘 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04061">
+      <Title>CR 오류</Title>
+      <Message>저속 스캔 HP 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04062">
+      <Title>CR 오류</Title>
+      <Message>백보드 고착 검출 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04063">
+      <Title>CR 오류</Title>
+      <Message>백보드 휨 검출 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04064">
+      <Title>CR 오류</Title>
+      <Message>V-싱크 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04065">
+      <Title>CR 오류</Title>
+      <Message>백보드 고착 검출 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04066">
+      <Title>CR 오류</Title>
+      <Message>백보드 고착 검출 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04067">
+      <Title>CR 오류</Title>
+      <Message>백보드 고착 검출 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04068">
+      <Title>CR 오류</Title>
+      <Message>백보드 고착 검출 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04069">
+      <Title>CR 오류</Title>
+      <Message>백보드 고착 검출 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04070">
+      <Title>CR 오류</Title>
+      <Message>백보드 고착 검출 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04071">
+      <Title>CR 오류</Title>
+      <Message>피더 중앙 검출 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04072">
+      <Title>CR 오류</Title>
+      <Message>피더 좌측 검출 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04073">
+      <Title>CR 오류</Title>
+      <Message>카세트 배판 센서 이상(초기화) </Message>
+    </EventString>
+    <EventString Key="MES04074">
+      <Title>CR 오류</Title>
+      <Message>백보드 휨 검출 센서 이상(초기화) </Message>
+    </EventString>
+    <EventString Key="MES04075">
+      <Title>CR 오류</Title>
+      <Message>백보드 고착 검출 센서 이상(초기화) </Message>
+    </EventString>
+    <EventString Key="MES04076">
+      <Title>CR 오류</Title>
+      <Message>24V 전원 NG(일반적인 경우) </Message>
+    </EventString>
+    <EventString Key="MES04077">
+      <Title>CR 오류</Title>
+      <Message>24V 전원 NG(문이 닫힌 경우) </Message>
+    </EventString>
+    <EventString Key="MES04081">
+      <Title>CR 오류</Title>
+      <Message>삭제-램프 전류 검출 센서 1 이상 </Message>
+    </EventString>
+    <EventString Key="MES04082">
+      <Title>CR 오류</Title>
+      <Message>삭제-램프 전류 검출 센서 2 이상 </Message>
+    </EventString>
+    <EventString Key="MES04091">
+      <Title>CR 오류</Title>
+      <Message>앞문 열림 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES04101">
+      <Title>CR 오류</Title>
+      <Message>저속 스캔 모터 이상 </Message>
+    </EventString>
+    <EventString Key="MES04102">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 이상 </Message>
+    </EventString>
+    <EventString Key="MES04103">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 이상 </Message>
+    </EventString>
+    <EventString Key="MES04104">
+      <Title>CR 오류</Title>
+      <Message>얼라인먼트 모터 이상 </Message>
+    </EventString>
+    <EventString Key="MES04105">
+      <Title>CR 오류</Title>
+      <Message>피더 셔터 열림/닫힘 시간 초과 </Message>
+    </EventString>
+    <EventString Key="MES04106">
+      <Title>CR 오류</Title>
+      <Message>록 시간 초과 </Message>
+    </EventString>
+    <EventString Key="MES04107">
+      <Title>CR 오류</Title>
+      <Message>부하 모터 NG </Message>
+    </EventString>
+    <EventString Key="MES04150">
+      <Title>CR 오류</Title>
+      <Message>록 초기 처리 </Message>
+    </EventString>
+    <EventString Key="MES04151">
+      <Title>CR 오류</Title>
+      <Message>피더 셔터 초기 처리 </Message>
+    </EventString>
+    <EventString Key="MES04152">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 초기 처리 </Message>
+    </EventString>
+    <EventString Key="MES04153">
+      <Title>CR 오류</Title>
+      <Message>얼라인먼트 초기 처리 </Message>
+    </EventString>
+    <EventString Key="MES04154">
+      <Title>CR 오류</Title>
+      <Message>운반장치 초기 처리 </Message>
+    </EventString>
+    <EventString Key="MES04155">
+      <Title>CR 오류</Title>
+      <Message>저속 스캔 초기 처리 </Message>
+    </EventString>
+    <EventString Key="MES04156">
+      <Title>CR 오류</Title>
+      <Message>전송 작용 1 시작 이상 </Message>
+    </EventString>
+    <EventString Key="MES04157">
+      <Title>CR 오류</Title>
+      <Message>전송 작용 2 시작 이상 </Message>
+    </EventString>
+    <EventString Key="MES04158">
+      <Title>CR 오류</Title>
+      <Message>피더 배출 작용 시작 이상 </Message>
+    </EventString>
+    <EventString Key="MES04159">
+      <Title>CR 오류</Title>
+      <Message>배출 작용 시작 이상 </Message>
+    </EventString>
+    <EventString Key="MES04160">
+      <Title>CR 오류</Title>
+      <Message>피더 셔터 열림 이상 </Message>
+    </EventString>
+    <EventString Key="MES04161">
+      <Title>CR 오류</Title>
+      <Message>피더 셔터 닫힘 이상 </Message>
+    </EventString>
+    <EventString Key="MES04162">
+      <Title>CR 오류</Title>
+      <Message>록 시동 이상 </Message>
+    </EventString>
+    <EventString Key="MES04163">
+      <Title>CR 오류</Title>
+      <Message>카세트 낙하 검출 시간 이상 </Message>
+    </EventString>
+    <EventString Key="MES04164">
+      <Title>CR 오류</Title>
+      <Message>삭제-램프 ON에 대한 허가 통보 없음 </Message>
+    </EventString>
+    <EventString Key="MES04165">
+      <Title>CR 오류</Title>
+      <Message>삭제-램프 OFF에 대한 허가 통보 없음 </Message>
+    </EventString>
+    <EventString Key="MES04167">
+      <Title>CR 오류</Title>
+      <Message>부하 모터 초기 처리</Message>
+    </EventString>
+    <EventString Key="MES04200">
+      <Title>CR 오류</Title>
+      <Message>GetStatus(상태 확보) 수신 시간 초과(초기화) </Message>
+    </EventString>
+    <EventString Key="MES04201">
+      <Title>CR 오류</Title>
+      <Message>GetStatus(상태 확보) 수신 시간 초과(준비) </Message>
+    </EventString>
+    <EventString Key="MES04202">
+      <Title>CR 오류</Title>
+      <Message>GetStatus(상태 확보) 수신 시간 초과(바코드 검출) </Message>
+    </EventString>
+    <EventString Key="MES04203">
+      <Title>CR 오류</Title>
+      <Message>GetStatus(상태 확보) 수신 시간 초과(고전압 ON) </Message>
+    </EventString>
+    <EventString Key="MES04204">
+      <Title>CR 오류</Title>
+      <Message>GetStatus(상태 확보) 수신 시간 초과(레이저 ON) </Message>
+    </EventString>
+    <EventString Key="MES04205">
+      <Title>CR 오류</Title>
+      <Message>GetStatus(상태 확보) 수신 시간 초과(바코드 취소) </Message>
+    </EventString>
+    <EventString Key="MES04206">
+      <Title>CR 오류</Title>
+      <Message>GetStatus(상태 확보) 수신 시간 초과(처리) </Message>
+    </EventString>
+    <EventString Key="MES04207">
+      <Title>CR 오류</Title>
+      <Message>GetStatus(상태 확보) 수신 시간 초과(일시정지) </Message>
+    </EventString>
+    <EventString Key="MES04208">
+      <Title>CR 오류</Title>
+      <Message>GetStatus(상태 확보) 수신 시간 초과(앞문 열림) </Message>
+    </EventString>
+    <EventString Key="MES04209">
+      <Title>CR 오류</Title>
+      <Message>GetStatus(상태 확보) 수신 시간 초과(앞문 닫힘) </Message>
+    </EventString>
+    <EventString Key="MES04210">
+      <Title>CR 오류</Title>
+      <Message>GetStatus(상태 확보) 수신 시간 초과(오류) </Message>
+    </EventString>
+    <EventString Key="MES04211">
+      <Title>CR 오류</Title>
+      <Message>GetStatus(상태 확보) 수신 시간 초과(대기) </Message>
+    </EventString>
+    <EventString Key="MES04212">
+      <Title>CR 오류</Title>
+      <Message>GetStatus(상태 확보) 수신 시간 초과(삭제 모드 전송) </Message>
+    </EventString>
+    <EventString Key="MES04213">
+      <Title>CR 오류</Title>
+      <Message>GetStatus(상태 확보) 수신 시간 초과(준비 모드 후 전원 꺼짐) </Message>
+    </EventString>
+    <EventString Key="MES04214">
+      <Title>CR 오류</Title>
+      <Message>등록 확인 수신 시간 초과 </Message>
+    </EventString>
+    <EventString Key="MES04215">
+      <Title>CR 오류</Title>
+      <Message>GetStatus(상태 확보) 수신 오류(레이저 ON) </Message>
+    </EventString>
+    <EventString Key="MES04216">
+      <Title>CR 오류</Title>
+      <Message>GoBackward(뒤로 이동) 수신 시간 초과 </Message>
+    </EventString>
+    <EventString Key="MES04217">
+      <Title>CR 오류</Title>
+      <Message>고전압 ON(1) 전송 없이 레이저 ON </Message>
+    </EventString>
+    <EventString Key="MES04218">
+      <Title>CR 오류</Title>
+      <Message>고전압 ON(2) 전송 없이 레이저 ON </Message>
+    </EventString>
+    <EventString Key="MES04219">
+      <Title>CR 오류</Title>
+      <Message>유효하지 않은 명령 </Message>
+    </EventString>
+    <EventString Key="MES04221">
+      <Title>CR 오류</Title>
+      <Message>StartSubScan(서브 스캔 시작) 수신 시간 초과 </Message>
+    </EventString>
+    <EventString Key="MES04900">
+      <Title>CR 오류</Title>
+      <Message>카세트 존재(엘리베이터) </Message>
+    </EventString>
+    <EventString Key="MES04901">
+      <Title>CR 오류</Title>
+      <Message>카세트 존재(얼라인먼트) </Message>
+    </EventString>
+    <EventString Key="MES04902">
+      <Title>CR 오류</Title>
+      <Message>카세트 존재(배출문 열림) </Message>
+    </EventString>
+    <EventString Key="MES04903">
+      <Title>CR 오류</Title>
+      <Message>카세트 존재(백보드 고착) </Message>
+    </EventString>
+    <EventString Key="MES04904">
+      <Title>CR 오류</Title>
+      <Message>삭제-램프(2) OFF </Message>
+    </EventString>
+    <EventString Key="MES04905">
+      <Title>CR 오류</Title>
+      <Message>SCB 통신 오류 </Message>
+    </EventString>
+    <EventString Key="MES04906">
+      <Title>CR 오류</Title>
+      <Message>카세트 휨[%s] </Message>
+    </EventString>
+    <EventString Key="MES04907">
+      <Title>CR 오류</Title>
+      <Message>카세트 열림 오류[%s] </Message>
+    </EventString>
+    <EventString Key="MES04908">
+      <Title>CR 오류</Title>
+      <Message>카세트 떨어짐[%s] </Message>
+    </EventString>
+    <EventString Key="MES04909">
+      <Title>CR 오류</Title>
+      <Message>카세트 간극 검출(배판 자기화) </Message>
+    </EventString>
+    <EventString Key="MES04910">
+      <Title>CR 오류</Title>
+      <Message>카세트 간극 검출(카세트 벗겨짐) </Message>
+    </EventString>
+    <EventString Key="MES04914">
+      <Title>CR 오류</Title>
+      <Message>추출장치 열림(초기화) </Message>
+    </EventString>
+    <EventString Key="MES04917">
+      <Title>CR 오류</Title>
+      <Message>피더 셔터 열림 이상(잠금해제) </Message>
+    </EventString>
+    <EventString Key="MES04918">
+      <Title>CR 오류</Title>
+      <Message>FAN 분리 이상 1 </Message>
+    </EventString>
+    <EventString Key="MES04920">
+      <Title>CR 오류</Title>
+      <Message>FAN 분리 이상 3 </Message>
+    </EventString>
+    <EventString Key="MES04921">
+      <Title>CR 오류</Title>
+      <Message>삭제-램프 이상 </Message>
+    </EventString>
+    <EventString Key="MES06000">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) HP 센서 이상(HP로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06001">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) 모터 컨트롤 이상(HP로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06002">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) HP 센서 이상(카세트 고정 위치) </Message>
+    </EventString>
+    <EventString Key="MES06003">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) 모터 컨트롤 이상(카세트 고정 위치) </Message>
+    </EventString>
+    <EventString Key="MES06004">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) 모터 컨트롤 이상(카세트 지지 위치) </Message>
+    </EventString>
+    <EventString Key="MES06005">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) 모터 컨트롤 이상(카세트 고정 위치 -2) </Message>
+    </EventString>
+    <EventString Key="MES06006">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) HP 센서 이상(HP -2로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06007">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) 모터 컨트롤 이상(HP -2로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06008">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) HP 센서 이상(HP -3으로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06009">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) 모터 컨트롤 이상(HP -3으로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06010">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) HP 센서 이상(카세트 지지 위치) </Message>
+    </EventString>
+    <EventString Key="MES06011">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) 모터 컨트롤 이상(카세트 지지 위치 -2) </Message>
+    </EventString>
+    <EventString Key="MES06015">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) HP 센서 이상(HP로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06016">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) 모터 컨트롤 이상(HP로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06017">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) HP 센서 이상(카세트 고정 위치) </Message>
+    </EventString>
+    <EventString Key="MES06018">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) 모터 컨트롤 이상(카세트 고정 위치) </Message>
+    </EventString>
+    <EventString Key="MES06019">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) 모터 컨트롤 이상(카세트 지지 위치) </Message>
+    </EventString>
+    <EventString Key="MES06020">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) 모터 컨트롤 이상(카세트 고정 위치 -2) </Message>
+    </EventString>
+    <EventString Key="MES06021">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) HP 센서 이상(HP -2로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06022">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) 모터 컨트롤 이상(HP -2로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06023">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) HP 센서 이상(HP -3으로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06024">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) 모터 컨트롤 이상(HP -3으로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06025">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) HP 센서 이상(카세트 지지 위치) </Message>
+    </EventString>
+    <EventString Key="MES06026">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) 모터 컨트롤 이상(카세트 지지 위치 -2) </Message>
+    </EventString>
+    <EventString Key="MES06030">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) HP 센서 이상(HP로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06031">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) 모터 컨트롤 이상(HP로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06032">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) HP 센서 이상(카세트 고정 위치) </Message>
+    </EventString>
+    <EventString Key="MES06033">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) 모터 컨트롤 이상(카세트 고정 위치) </Message>
+    </EventString>
+    <EventString Key="MES06034">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) 모터 컨트롤 이상(카세트 지지 위치) </Message>
+    </EventString>
+    <EventString Key="MES06035">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) 모터 컨트롤 이상(카세트 고정 위치 -2) </Message>
+    </EventString>
+    <EventString Key="MES06036">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) HP 센서 이상(HP -2로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06037">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) 모터 컨트롤 이상(HP -2로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06038">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) HP 센서 이상(HP -3으로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06039">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) 모터 컨트롤 이상(HP -3으로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06040">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) HP 센서 이상(카세트 지지 위치) </Message>
+    </EventString>
+    <EventString Key="MES06041">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치(justifier) 모터 컨트롤 이상(카세트 지지 위치 -2) </Message>
+    </EventString>
+    <EventString Key="MES06050">
+      <Title>CR 오류</Title>
+      <Message>수신기 HP 센서 이상(HP로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06051">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 컨트롤 이상(HP로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06052">
+      <Title>CR 오류</Title>
+      <Message>수신기 HP 센서 이상(위치 1) </Message>
+    </EventString>
+    <EventString Key="MES06053">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 컨트롤 이상(위치 1) </Message>
+    </EventString>
+    <EventString Key="MES06054">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 컨트롤 이상(위치 2) </Message>
+    </EventString>
+    <EventString Key="MES06055">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 컨트롤 이상(위치 2에서 약간 하강) </Message>
+    </EventString>
+    <EventString Key="MES06056">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 컨트롤 이상(위치 1 -2) </Message>
+    </EventString>
+    <EventString Key="MES06057">
+      <Title>CR 오류</Title>
+      <Message>수신기 HP 센서 이상(HP -2로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06058">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 컨트롤 이상(HP -2로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06059">
+      <Title>CR 오류</Title>
+      <Message>수신기 HP 센서 이상(HP -3으로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06060">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 컨트롤 이상(HP -3으로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06061">
+      <Title>CR 오류</Title>
+      <Message>수신기 HP 센서 이상(위치 2로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06062">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 컨트롤 이상(위치 2 -2) </Message>
+    </EventString>
+    <EventString Key="MES06065">
+      <Title>CR 오류</Title>
+      <Message>수신기 HP 센서 이상(HP로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06066">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 컨트롤 이상(HP로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06067">
+      <Title>CR 오류</Title>
+      <Message>수신기 HP 센서 이상(위치 1) </Message>
+    </EventString>
+    <EventString Key="MES06068">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 컨트롤 이상(위치 1) </Message>
+    </EventString>
+    <EventString Key="MES06069">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 컨트롤 이상(위치 2) </Message>
+    </EventString>
+    <EventString Key="MES06070">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 컨트롤 이상(위치 2에서 약간 하강) </Message>
+    </EventString>
+    <EventString Key="MES06071">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 컨트롤 이상(위치 1 -2) </Message>
+    </EventString>
+    <EventString Key="MES06072">
+      <Title>CR 오류</Title>
+      <Message>수신기 HP 센서 이상(HP -2로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06073">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 컨트롤 이상(HP -2로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06074">
+      <Title>CR 오류</Title>
+      <Message>수신기 HP 센서 이상(HP -3으로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06075">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 컨트롤 이상(HP -3으로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06076">
+      <Title>CR 오류</Title>
+      <Message>수신기 HP 센서 이상(위치 2) </Message>
+    </EventString>
+    <EventString Key="MES06077">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 컨트롤 이상(위치 2 -2) </Message>
+    </EventString>
+    <EventString Key="MES06080">
+      <Title>CR 오류</Title>
+      <Message>수신기 HP 센서 이상(HP로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06081">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 컨트롤 이상(HP로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06082">
+      <Title>CR 오류</Title>
+      <Message>수신기 HP 센서 이상(위치 1) </Message>
+    </EventString>
+    <EventString Key="MES06083">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 컨트롤 이상(위치 1) </Message>
+    </EventString>
+    <EventString Key="MES06084">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 컨트롤 이상(위치 2) </Message>
+    </EventString>
+    <EventString Key="MES06085">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 컨트롤 이상(위치 2에서 약간 하강) </Message>
+    </EventString>
+    <EventString Key="MES06086">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 컨트롤 이상(위치 1 -2) </Message>
+    </EventString>
+    <EventString Key="MES06087">
+      <Title>CR 오류</Title>
+      <Message>수신기 HP 센서 이상(HP -2로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06088">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 컨트롤 이상(HP -2로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06089">
+      <Title>CR 오류</Title>
+      <Message>수신기 HP 센서 이상(HP -3으로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06090">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 컨트롤 이상(HP -3으로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06091">
+      <Title>CR 오류</Title>
+      <Message>수신기 HP 센서 이상(위치 2) </Message>
+    </EventString>
+    <EventString Key="MES06092">
+      <Title>CR 오류</Title>
+      <Message>엘리베이터 모터 컨트롤 이상(위치 2 -2) </Message>
+    </EventString>
+    <EventString Key="MES06100">
+      <Title>CR 오류</Title>
+      <Message>운반장치 센서 이상(판독 위치) </Message>
+    </EventString>
+    <EventString Key="MES06101">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 컨트롤 이상(판독 위치) </Message>
+    </EventString>
+    <EventString Key="MES06102">
+      <Title>CR 오류</Title>
+      <Message>운반장치 HP 센서 이상(HP로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06103">
+      <Title>CR 오류</Title>
+      <Message>운반장치 HP 센서 이상(HP로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06104">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 컨트롤 이상(HP로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06105">
+      <Title>CR 오류</Title>
+      <Message>운반장치 HP 센서 이상(압착 위치) </Message>
+    </EventString>
+    <EventString Key="MES06106">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 컨트롤 이상(압착 위치) </Message>
+    </EventString>
+    <EventString Key="MES06107">
+      <Title>CR 오류</Title>
+      <Message>운반장치 센서 이상(판독 위치 2) </Message>
+    </EventString>
+    <EventString Key="MES06108">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 컨트롤 이상(판독 위치 2) </Message>
+    </EventString>
+    <EventString Key="MES06109">
+      <Title>CR 오류</Title>
+      <Message>운반장치 센서 이상(압착 위치 2) </Message>
+    </EventString>
+    <EventString Key="MES06110">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 컨트롤 이상(압착 위치 2) </Message>
+    </EventString>
+    <EventString Key="MES06111">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 컨트롤 이상(HP 통과 위치) </Message>
+    </EventString>
+    <EventString Key="MES06112">
+      <Title>CR 오류</Title>
+      <Message>운반장치 HP 센서 이상(HP -2로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06113">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 컨트롤 이상(HP -2로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06115">
+      <Title>CR 오류</Title>
+      <Message>운반장치 센서 이상(판독 위치) </Message>
+    </EventString>
+    <EventString Key="MES06116">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 컨트롤 이상(판독 위치) </Message>
+    </EventString>
+    <EventString Key="MES06117">
+      <Title>CR 오류</Title>
+      <Message>운반장치 HP 센서 이상(HP로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06118">
+      <Title>CR 오류</Title>
+      <Message>운반장치 HP 센서 이상(HP로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06119">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 컨트롤 이상(HP로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06120">
+      <Title>CR 오류</Title>
+      <Message>운반장치 HP 센서 이상(압착 위치) </Message>
+    </EventString>
+    <EventString Key="MES06121">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 컨트롤 이상(압착 위치) </Message>
+    </EventString>
+    <EventString Key="MES06122">
+      <Title>CR 오류</Title>
+      <Message>운반장치 센서 이상(판독 위치 -2) </Message>
+    </EventString>
+    <EventString Key="MES06123">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 컨트롤 이상(판독 위치 -2) </Message>
+    </EventString>
+    <EventString Key="MES06124">
+      <Title>CR 오류</Title>
+      <Message>운반장치 센서 이상(압착 위치 -2) </Message>
+    </EventString>
+    <EventString Key="MES06125">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 컨트롤 이상(압착 위치 -2) </Message>
+    </EventString>
+    <EventString Key="MES06126">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 컨트롤 이상(HP 통과 위치) </Message>
+    </EventString>
+    <EventString Key="MES06127">
+      <Title>CR 오류</Title>
+      <Message>운반장치 HP 센서 이상(HP -2로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06128">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 컨트롤 이상(HP -2로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06130">
+      <Title>CR 오류</Title>
+      <Message>운반장치 센서 이상(판독 위치) </Message>
+    </EventString>
+    <EventString Key="MES06131">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 컨트롤 이상(판독 위치) </Message>
+    </EventString>
+    <EventString Key="MES06132">
+      <Title>CR 오류</Title>
+      <Message>운반장치 HP 센서 이상(HP로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06133">
+      <Title>CR 오류</Title>
+      <Message>운반장치 HP 센서 이상(HP로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06134">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 컨트롤 이상(HP로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06135">
+      <Title>CR 오류</Title>
+      <Message>운반장치 HP 센서 이상(압착 위치) </Message>
+    </EventString>
+    <EventString Key="MES06136">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 컨트롤 이상(압착 위치) </Message>
+    </EventString>
+    <EventString Key="MES06137">
+      <Title>CR 오류</Title>
+      <Message>운반장치 센서 이상(판독 위치 -2) </Message>
+    </EventString>
+    <EventString Key="MES06138">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 컨트롤 이상(판독 위치 -2) </Message>
+    </EventString>
+    <EventString Key="MES06139">
+      <Title>CR 오류</Title>
+      <Message>운반장치 센서 이상(압착 위치 -2) </Message>
+    </EventString>
+    <EventString Key="MES06140">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 컨트롤 이상(압착 위치 -2) </Message>
+    </EventString>
+    <EventString Key="MES06141">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 컨트롤 이상(HP 통과 위치) </Message>
+    </EventString>
+    <EventString Key="MES06142">
+      <Title>CR 오류</Title>
+      <Message>운반장치 HP 센서 이상(HP -2로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06143">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 컨트롤 이상(HP -2로 이동) </Message>
+    </EventString>
+    <EventString Key="MES06150">
+      <Title>CR 오류</Title>
+      <Message>인코더 초기화 이상 </Message>
+    </EventString>
+    <EventString Key="MES06151">
+      <Title>CR 오류</Title>
+      <Message>서브스캔 모터 컨트롤 이상(기계적 HP) </Message>
+    </EventString>
+    <EventString Key="MES06152">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 컨트롤 이상(판독 완료 위치) </Message>
+    </EventString>
+    <EventString Key="MES06153">
+      <Title>CR 오류</Title>
+      <Message>서브스캔 모터 컨트롤 이상(기계적 HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06165">
+      <Title>CR 오류</Title>
+      <Message>인코더 초기화 이상 </Message>
+    </EventString>
+    <EventString Key="MES06166">
+      <Title>CR 오류</Title>
+      <Message>서브스캔 모터 컨트롤 이상(기계적 HP) </Message>
+    </EventString>
+    <EventString Key="MES06167">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 컨트롤 이상(판독 완료 위치) </Message>
+    </EventString>
+    <EventString Key="MES06168">
+      <Title>CR 오류</Title>
+      <Message>서브스캔 모터 컨트롤 이상(기계적 HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06180">
+      <Title>CR 오류</Title>
+      <Message>인코더 초기화 이상 </Message>
+    </EventString>
+    <EventString Key="MES06181">
+      <Title>CR 오류</Title>
+      <Message>서브스캔 모터 컨트롤 이상(기계적 HP) </Message>
+    </EventString>
+    <EventString Key="MES06182">
+      <Title>CR 오류</Title>
+      <Message>운반장치 모터 컨트롤 이상(판독 완료 위치) </Message>
+    </EventString>
+    <EventString Key="MES06183">
+      <Title>CR 오류</Title>
+      <Message>서브스캔 모터 컨트롤 이상(기계적 HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06200">
+      <Title>CR 오류</Title>
+      <Message>삽입 셔터 열림 이상 </Message>
+    </EventString>
+    <EventString Key="MES06201">
+      <Title>CR 오류</Title>
+      <Message>삽입 셔터 닫힘 이상 </Message>
+    </EventString>
+    <EventString Key="MES06215">
+      <Title>CR 오류</Title>
+      <Message>삽입 셔터 열림 이상 </Message>
+    </EventString>
+    <EventString Key="MES06216">
+      <Title>CR 오류</Title>
+      <Message>삽입 셔터 닫힘 이상 </Message>
+    </EventString>
+    <EventString Key="MES06230">
+      <Title>CR 오류</Title>
+      <Message>삽입 셔터 열림 이상 </Message>
+    </EventString>
+    <EventString Key="MES06231">
+      <Title>CR 오류</Title>
+      <Message>삽입 셔터 닫힘 이상 </Message>
+    </EventString>
+    <EventString Key="MES06250">
+      <Title>CR 오류</Title>
+      <Message>모터 록 해제 이상(초기화) </Message>
+    </EventString>
+    <EventString Key="MES06251">
+      <Title>CR 오류</Title>
+      <Message>모터 록 해제 이상(잠금) </Message>
+    </EventString>
+    <EventString Key="MES06252">
+      <Title>CR 오류</Title>
+      <Message>모터 록 해제 이상(해제) </Message>
+    </EventString>
+    <EventString Key="MES06265">
+      <Title>CR 오류</Title>
+      <Message>모터 록 해제 이상(초기화) </Message>
+    </EventString>
+    <EventString Key="MES06266">
+      <Title>CR 오류</Title>
+      <Message>모터 록 해제 이상(잠금) </Message>
+    </EventString>
+    <EventString Key="MES06267">
+      <Title>CR 오류</Title>
+      <Message>모터 록 해제 이상(해제) </Message>
+    </EventString>
+    <EventString Key="MES06280">
+      <Title>CR 오류</Title>
+      <Message>모터 록 해제 이상(초기화) </Message>
+    </EventString>
+    <EventString Key="MES06281">
+      <Title>CR 오류</Title>
+      <Message>모터 록 해제 이상(잠금) </Message>
+    </EventString>
+    <EventString Key="MES06282">
+      <Title>CR 오류</Title>
+      <Message>모터 록 해제 이상(해제) </Message>
+    </EventString>
+    <EventString Key="MES06300">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치 센서 이상(고정 작용) </Message>
+    </EventString>
+    <EventString Key="MES06301">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치 센서 이상(고정) </Message>
+    </EventString>
+    <EventString Key="MES06302">
+      <Title>CR 오류</Title>
+      <Message>카세트 존재(센서 자리맞춤 장치) </Message>
+    </EventString>
+    <EventString Key="MES06303">
+      <Title>CR 오류</Title>
+      <Message>카세트 존재(센서 자리맞춤 장치) </Message>
+    </EventString>
+    <EventString Key="MES06315">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치 센서 이상(고정 작용) </Message>
+    </EventString>
+    <EventString Key="MES06316">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치 센서 이상(고정) </Message>
+    </EventString>
+    <EventString Key="MES06318">
+      <Title>CR 오류</Title>
+      <Message>카세트 존재(센서 자리맞춤 장치) </Message>
+    </EventString>
+    <EventString Key="MES06330">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치 센서 이상(고정 작용) </Message>
+    </EventString>
+    <EventString Key="MES06331">
+      <Title>CR 오류</Title>
+      <Message>자리맞춤 장치 센서 이상(고정) </Message>
+    </EventString>
+    <EventString Key="MES06333">
+      <Title>CR 오류</Title>
+      <Message>카세트 존재(센서 자리맞춤 장치) </Message>
+    </EventString>
+    <EventString Key="MES06350">
+      <Title>CR 오류</Title>
+      <Message>수신기 센서 이상(피더) </Message>
+    </EventString>
+    <EventString Key="MES06351">
+      <Title>CR 오류</Title>
+      <Message>수신기 센서 이상(전송) </Message>
+    </EventString>
+    <EventString Key="MES06352">
+      <Title>CR 오류</Title>
+      <Message>수신기 센서 이상(배출) </Message>
+    </EventString>
+    <EventString Key="MES06353">
+      <Title>CR 오류</Title>
+      <Message>수신기 센서 이상(제거됨) </Message>
+    </EventString>
+    <EventString Key="MES06354">
+      <Title>CR 오류</Title>
+      <Message>카세트 존재(수신기) </Message>
+    </EventString>
+    <EventString Key="MES06355">
+      <Title>CR 오류</Title>
+      <Message>카세트 존재(수신기) </Message>
+    </EventString>
+    <EventString Key="MES06365">
+      <Title>CR 오류</Title>
+      <Message>수신기 센서 이상(피더) </Message>
+    </EventString>
+    <EventString Key="MES06366">
+      <Title>CR 오류</Title>
+      <Message>수신기 센서 이상(전송) </Message>
+    </EventString>
+    <EventString Key="MES06367">
+      <Title>CR 오류</Title>
+      <Message>수신기 센서 이상(배출) </Message>
+    </EventString>
+    <EventString Key="MES06368">
+      <Title>CR 오류</Title>
+      <Message>수신기 센서 이상(제거됨) </Message>
+    </EventString>
+    <EventString Key="MES06370">
+      <Title>CR 오류</Title>
+      <Message>카세트 존재(수신기) </Message>
+    </EventString>
+    <EventString Key="MES06380">
+      <Title>CR 오류</Title>
+      <Message>수신기 센서 이상(피더) </Message>
+    </EventString>
+    <EventString Key="MES06381">
+      <Title>CR 오류</Title>
+      <Message>수신기 센서 이상(전송) </Message>
+    </EventString>
+    <EventString Key="MES06382">
+      <Title>CR 오류</Title>
+      <Message>수신기 센서 이상(배출) </Message>
+    </EventString>
+    <EventString Key="MES06383">
+      <Title>CR 오류</Title>
+      <Message>수신기 센서 이상(제거됨) </Message>
+    </EventString>
+    <EventString Key="MES06385">
+      <Title>CR 오류</Title>
+      <Message>카세트 존재(수신기) </Message>
+    </EventString>
+    <EventString Key="MES06400">
+      <Title>CR 오류</Title>
+      <Message>배판 검출 센서 이상(판독 위치로 이동 전) </Message>
+    </EventString>
+    <EventString Key="MES06401">
+      <Title>CR 오류</Title>
+      <Message>배판 검출 센서 이상(판독 위치 정지 중) </Message>
+    </EventString>
+    <EventString Key="MES06402">
+      <Title>CR 오류</Title>
+      <Message>배판 검출 센서 이상(압착 위치로 이동 후) </Message>
+    </EventString>
+    <EventString Key="MES06415">
+      <Title>CR 오류</Title>
+      <Message>배판 검출 센서 이상(판독 위치로 이동 전) </Message>
+    </EventString>
+    <EventString Key="MES06416">
+      <Title>CR 오류</Title>
+      <Message>배판 검출 센서 이상(판독 위치 정지 중) </Message>
+    </EventString>
+    <EventString Key="MES06417">
+      <Title>CR 오류</Title>
+      <Message>배판 검출 센서 이상(압착 위치로 이동 후) </Message>
+    </EventString>
+    <EventString Key="MES06430">
+      <Title>CR 오류</Title>
+      <Message>배판 검출 센서 이상(판독 위치로 이동 전) </Message>
+    </EventString>
+    <EventString Key="MES06431">
+      <Title>CR 오류</Title>
+      <Message>배판 검출 센서 이상(판독 위치 정지 중) </Message>
+    </EventString>
+    <EventString Key="MES06432">
+      <Title>CR 오류</Title>
+      <Message>배판 검출 센서 이상(압착 위치로 이동 후) </Message>
+    </EventString>
+    <EventString Key="MES06450">
+      <Title>CR 오류</Title>
+      <Message>필 센서 플레이트(판독 또는 삭제). 카세트 사용을 금합니다. </Message>
+    </EventString>
+    <EventString Key="MES06451">
+      <Title>CR 오류</Title>
+      <Message>필 센서 이상(미 작동) </Message>
+    </EventString>
+    <EventString Key="MES06452">
+      <Title>CR 오류</Title>
+      <Message>필 센서 이상(시작) </Message>
+    </EventString>
+    <EventString Key="MES06453">
+      <Title>CR 오류</Title>
+      <Message>필 센서 이상(초기화) </Message>
+    </EventString>
+    <EventString Key="MES06465">
+      <Title>CR 오류</Title>
+      <Message>필 센서 플레이트(판독 또는 삭제) </Message>
+    </EventString>
+    <EventString Key="MES06466">
+      <Title>CR 오류</Title>
+      <Message>필 센서 이상(미 작동) </Message>
+    </EventString>
+    <EventString Key="MES06468">
+      <Title>CR 오류</Title>
+      <Message>필 센서 이상(초기화) </Message>
+    </EventString>
+    <EventString Key="MES06480">
+      <Title>CR 오류</Title>
+      <Message>필 센서 플레이트(판독 또는 삭제) </Message>
+    </EventString>
+    <EventString Key="MES06481">
+      <Title>CR 오류</Title>
+      <Message>필 센서 이상(미 작동) </Message>
+    </EventString>
+    <EventString Key="MES06483">
+      <Title>CR 오류</Title>
+      <Message>필 센서 이상(초기화) </Message>
+    </EventString>
+    <EventString Key="MES06500">
+      <Title>CR 오류</Title>
+      <Message>카세트 삽입 센서 이상(초기화) </Message>
+    </EventString>
+    <EventString Key="MES06501">
+      <Title>CR 오류</Title>
+      <Message>카세트 삽입 센서 이상(로딩) </Message>
+    </EventString>
+    <EventString Key="MES06502">
+      <Title>CR 오류</Title>
+      <Message>카세트 삽입 센서 이상(배출) </Message>
+    </EventString>
+    <EventString Key="MES06503">
+      <Title>CR 오류</Title>
+      <Message>배판 카세트 검출 </Message>
+    </EventString>
+    <EventString Key="MES06504">
+      <Title>CR 오류</Title>
+      <Message>카세트 삽입 센서 이상(배출 -2) </Message>
+    </EventString>
+    <EventString Key="MES06515">
+      <Title>CR 오류</Title>
+      <Message>카세트 삽입 센서 이상(초기화) </Message>
+    </EventString>
+    <EventString Key="MES06516">
+      <Title>CR 오류</Title>
+      <Message>카세트 삽입 센서 이상(로딩) </Message>
+    </EventString>
+    <EventString Key="MES06517">
+      <Title>CR 오류</Title>
+      <Message>카세트 삽입 센서 이상(배출) </Message>
+    </EventString>
+    <EventString Key="MES06518">
+      <Title>CR 오류</Title>
+      <Message>배판 카세트 검출 </Message>
+    </EventString>
+    <EventString Key="MES06519">
+      <Title>CR 오류</Title>
+      <Message>카세트 삽입 센서 이상(배출 -2) </Message>
+    </EventString>
+    <EventString Key="MES06530">
+      <Title>CR 오류</Title>
+      <Message>카세트 삽입 센서 이상(초기화) </Message>
+    </EventString>
+    <EventString Key="MES06531">
+      <Title>CR 오류</Title>
+      <Message>카세트 삽입 센서 이상(로딩) </Message>
+    </EventString>
+    <EventString Key="MES06532">
+      <Title>CR 오류</Title>
+      <Message>카세트 삽입 센서 이상(배출) </Message>
+    </EventString>
+    <EventString Key="MES06533">
+      <Title>CR 오류</Title>
+      <Message>배판 카세트 검출 </Message>
+    </EventString>
+    <EventString Key="MES06534">
+      <Title>CR 오류</Title>
+      <Message>카세트 삽입 센서 이상(배출 -2) </Message>
+    </EventString>
+    <EventString Key="MES06550">
+      <Title>CR 오류</Title>
+      <Message>다각형 회전 상태 이상 </Message>
+    </EventString>
+    <EventString Key="MES06551">
+      <Title>CR 오류</Title>
+      <Message>판독 완료 신호 미 수신 </Message>
+    </EventString>
+    <EventString Key="MES06552">
+      <Title>CR 오류</Title>
+      <Message>2개의 삭제 램프 OFF(시작) </Message>
+    </EventString>
+    <EventString Key="MES06553">
+      <Title>CR 오류</Title>
+      <Message>2개의 삭제 램프 OFF(삭제) 카세트 삭제가 미완료 상태입니다. 다시 시도해 주십시오. </Message>
+    </EventString>
+    <EventString Key="MES06554">
+      <Title>CR 오류</Title>
+      <Message>1개의 삭제 램프 OFF(시작) </Message>
+    </EventString>
+    <EventString Key="MES06567">
+      <Title>CR 오류</Title>
+      <Message>2개의 삭제 램프 OFF(시작) </Message>
+    </EventString>
+    <EventString Key="MES06568">
+      <Title>CR 오류</Title>
+      <Message>2개의 삭제 램프 OFF(삭제) </Message>
+    </EventString>
+    <EventString Key="MES06569">
+      <Title>CR 오류</Title>
+      <Message>1개의 삭제 램프 OFF(시작) </Message>
+    </EventString>
+    <EventString Key="MES06582">
+      <Title>CR 오류</Title>
+      <Message>2개의 삭제 램프 OFF(시작) </Message>
+    </EventString>
+    <EventString Key="MES06584">
+      <Title>CR 오류</Title>
+      <Message>1개의 삭제 램프 OFF(시작) </Message>
+    </EventString>
+    <EventString Key="MES06600">
+      <Title>CR 오류</Title>
+      <Message>쿨러 팬의 디지털 전원 공급 차단 </Message>
+    </EventString>
+    <EventString Key="MES06650">
+      <Title>CR 오류</Title>
+      <Message>FPGA 오류(이벤트 드라이버 액세스 실패) </Message>
+    </EventString>
+    <EventString Key="MES06651">
+      <Title>CR 오류</Title>
+      <Message>FPGA 오류(MDU 액세스 실패) </Message>
+    </EventString>
+    <EventString Key="MES06652">
+      <Title>CR 오류</Title>
+      <Message>FPGA 오류(LMC 액세스 실패) </Message>
+    </EventString>
+    <EventString Key="MES06653">
+      <Title>CR 오류</Title>
+      <Message>FPGA 오류(I/O 제어 실패) </Message>
+    </EventString>
+    <EventString Key="MES06654">
+      <Title>CR 오류</Title>
+      <Message>FPGA 오류(이미지 드라이버 열기 실패) </Message>
+    </EventString>
+    <EventString Key="MES06655">
+      <Title>CR 오류</Title>
+      <Message>FPGA 오류(PMU 액세스 실패) </Message>
+    </EventString>
+    <EventString Key="MES06668">
+      <Title>CR 오류</Title>
+      <Message>FPGA 오류(I/O 제어 실패) </Message>
+    </EventString>
+    <EventString Key="MES06683">
+      <Title>CR 오류</Title>
+      <Message>FPGA 오류(I/O 제어 실패) </Message>
+    </EventString>
+    <EventString Key="MES06750">
+      <Title>CR 오류</Title>
+      <Message>리셉션 데스크 보드 열림 및 닫힘 위치 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES06765">
+      <Title>CR 오류</Title>
+      <Message>리셉션 데스크 보드 열림 및 닫힘 위치 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES06780">
+      <Title>CR 오류</Title>
+      <Message>리셉션 데스크 보드 열림 및 닫힘 위치 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES06751">
+      <Title>CR 오류</Title>
+      <Message>리셉션 데스크 보드 HP 위치 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES06766">
+      <Title>CR 오류</Title>
+      <Message>리셉션 데스크 보드 HP 위치 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES06785">
+      <Title>CR 오류</Title>
+      <Message>리셉션 데스크 보드 HP 위치 센서 이상 </Message>
+    </EventString>
+    <EventString Key="MES10000">
+      <Title>CR 오류</Title>
+      <Message>메모리 오류 </Message>
+    </EventString>
+    <EventString Key="MES11000">
+      <Title>CR 오류</Title>
+      <Message>하드웨어 오류 </Message>
+    </EventString>
+    <EventString Key="MES12000">
+      <Title>CR 오류</Title>
+      <Message>메시지 수신 시간 초과(고전압 ON) </Message>
+    </EventString>
+    <EventString Key="MES12001">
+      <Title>CR 오류</Title>
+      <Message>메시지 수신 시간 초과(레이저 ON) </Message>
+    </EventString>
+    <EventString Key="MES12002">
+      <Title>CR 오류</Title>
+      <Message>메시지 수신 시간 초과(기계적 준비) </Message>
+    </EventString>
+    <EventString Key="MES12003">
+      <Title>CR 오류</Title>
+      <Message>메시지 수신 시간 초과(기계적 대기) </Message>
+    </EventString>
+    <EventString Key="MES12010">
+      <Title>CR 오류</Title>
+      <Message>직렬 통신 오류(기계적 재전송 오버플로우) </Message>
+    </EventString>
+    <EventString Key="MES12011">
+      <Title>CR 오류</Title>
+      <Message>직렬 통신 오류(기계적 CRC 오류 오버플로우) </Message>
+    </EventString>
+    <EventString Key="MES12012">
+      <Title>CR 오류</Title>
+      <Message>직렬 통신 오류(기계적 오버런) </Message>
+    </EventString>
+    <EventString Key="MES12013">
+      <Title>CR 오류</Title>
+      <Message>직렬 통신 오류(기계적 시간 초과) </Message>
+    </EventString>
+    <EventString Key="MES12020">
+      <Title>CR 오류</Title>
+      <Message>메시지 오류(기계적 불법 메시지) </Message>
+    </EventString>
+    <EventString Key="MES12200">
+      <Title>CR 오류</Title>
+      <Message>메시지 수신 시간 초과(네트워크 초기화) </Message>
+    </EventString>
+    <EventString Key="MES12201">
+      <Title>CR 오류</Title>
+      <Message>메시지 수신 시간 초과(네트워크 준비) </Message>
+    </EventString>
+    <EventString Key="MES12202">
+      <Title>CR 오류</Title>
+      <Message>메시지 수신 시간 초과(쉐이딩 배치) </Message>
+    </EventString>
+    <EventString Key="MES12203">
+      <Title>CR 오류</Title>
+      <Message>메시지 수신 시간 초과(상태 점검) </Message>
+    </EventString>
+    <EventString Key="MES12204">
+      <Title>CR 오류</Title>
+      <Message>메시지 수신 시간 초과(바코드 탐색) </Message>
+    </EventString>
+    <EventString Key="MES12205">
+      <Title>CR 오류</Title>
+      <Message>메시지 수신 시간 초과(네트워크 명령) </Message>
+    </EventString>
+    <EventString Key="MES12206">
+      <Title>CR 오류</Title>
+      <Message>메시지 수신 시간 초과(리더기 종료) </Message>
+    </EventString>
+    <EventString Key="MES12207">
+      <Title>CR 오류</Title>
+      <Message>메시지 수신 시간 초과(QRV 배치) </Message>
+    </EventString>
+    <EventString Key="MES12208">
+      <Title>CR 오류</Title>
+      <Message>메시지 수신 시간 초과(Config 배치) </Message>
+    </EventString>
+    <EventString Key="MES12209">
+      <Title>CR 오류</Title>
+      <Message>메시지 수신 시간 초과(정보 배치) </Message>
+    </EventString>
+    <EventString Key="MES12210">
+      <Title>CR 오류</Title>
+      <Message>직렬 통신 오류(네트워크 재전송 오버플로우) </Message>
+    </EventString>
+    <EventString Key="MES12211">
+      <Title>CR 오류</Title>
+      <Message>직렬 통신 오류(네트워크 CRC 오류 오버플로우) </Message>
+    </EventString>
+    <EventString Key="MES12212">
+      <Title>CR 오류</Title>
+      <Message>직렬 통신 오류(네트워크 오버런) </Message>
+    </EventString>
+    <EventString Key="MES12213">
+      <Title>CR 오류</Title>
+      <Message>직렬 통신 오류(네트워크 시간 초과) </Message>
+    </EventString>
+    <EventString Key="MES12220">
+      <Title>CR 오류</Title>
+      <Message>메시지 오류(네트워크 불법 메시지) </Message>
+    </EventString>
+    <EventString Key="MES13000">
+      <Title>CR 오류</Title>
+      <Message>광학 장치 오류(H_Sync) </Message>
+    </EventString>
+    <EventString Key="MES13001">
+      <Title>CR 오류</Title>
+      <Message>광학 장치 오류(다각형 ID) </Message>
+    </EventString>
+    <EventString Key="MES13003">
+      <Title>CR 오류</Title>
+      <Message>광학 장치 오류(다각형 안정성) </Message>
+    </EventString>
+    <EventString Key="MES13005">
+      <Title>CR 오류</Title>
+      <Message>광학 장치 오류(레이저 강도) </Message>
+    </EventString>
+    <EventString Key="MES13030">
+      <Title>CR 오류</Title>
+      <Message>SCB 제어 오류(DMA 전송) </Message>
+    </EventString>
+    <EventString Key="MES13031">
+      <Title>CR 오류</Title>
+      <Message>SCB 제어 오류(SCOM 통신) </Message>
+    </EventString>
+    <EventString Key="MES14000">
+      <Title>CR 오류</Title>
+      <Message>신호 처리 오류(이득 오버플로우) </Message>
+    </EventString>
+    <EventString Key="MES14001">
+      <Title>CR 오류</Title>
+      <Message>신호 처리 오류(이득 언더플로우) </Message>
+    </EventString>
+    <EventString Key="MES14002">
+      <Title>CR 오류</Title>
+      <Message>신호 처리 오류(오프셋 오버플로우) </Message>
+    </EventString>
+    <EventString Key="MES14003">
+      <Title>CR 오류</Title>
+      <Message>신호 처리 오류(오프셋 언더플로우) </Message>
+    </EventString>
+    <EventString Key="MES14010">
+      <Title>CR 오류</Title>
+      <Message>신호 처리 오류(QRV 오버플로우) </Message>
+    </EventString>
+    <EventString Key="MES14011">
+      <Title>CR 오류</Title>
+      <Message>신호 처리 오류(QRV 언더플로우) </Message>
+    </EventString>
+    <EventString Key="MES14012">
+      <Title>CR 오류</Title>
+      <Message>신호 처리 오류(QRV 집중 현상 없음) </Message>
+    </EventString>
+    <EventString Key="MES14013">
+      <Title>CR 오류</Title>
+      <Message>신호 처리 오류(어떤 데이터도 쉐이딩되지 않음) </Message>
+    </EventString>
+    <EventString Key="MES14014">
+      <Title>CR 오류</Title>
+      <Message>신호 처리 오류(QRV 데이터 없음) </Message>
+    </EventString>
+    <EventString Key="MES15000">
+      <Title>CR 오류</Title>
+      <Message>신호 처리 오류(초기화 실패) </Message>
+    </EventString>
+    <EventString Key="MES22101">
+      <Title>CR 오류</Title>
+      <Message>직렬 통신 오류(N1 카운터 오버) </Message>
+    </EventString>
+    <EventString Key="MES22103">
+      <Title>CR 오류</Title>
+      <Message>직렬 통신 오류(N3 카운터 오버) </Message>
+    </EventString>
+    <EventString Key="MES22104">
+      <Title>CR 오류</Title>
+      <Message>직렬 통신 오류(N4 카운터 오버) </Message>
+    </EventString>
+    <EventString Key="MES23000">
+      <Title>CR 오류</Title>
+      <Message>프로그램 오류(주 제어) </Message>
+    </EventString>
+    <EventString Key="MES23100">
+      <Title>CR 오류</Title>
+      <Message>프로그램 오류(시퀀스 제어) </Message>
+    </EventString>
+    <EventString Key="MES23200">
+      <Title>CR 오류</Title>
+      <Message>프로그램 오류(데이터 파일 크기) </Message>
+    </EventString>
+    <EventString Key="MES23900">
+      <Title>CR 오류</Title>
+      <Message>프로그램 오류(펌웨어 업데이트) </Message>
+    </EventString>
+    <EventString Key="MES24000">
+      <Title>CR 오류</Title>
+      <Message>네트워크 오류(JM 연결) </Message>
+    </EventString>
+    <EventString Key="MES24500">
+      <Title>CR 오류</Title>
+      <Message>네트워크 오류(JM 구성) </Message>
+    </EventString>
+    <EventString Key="MES25000">
+      <Title>CR 오류</Title>
+      <Message>네트워크 오류(시간 초과 아님) </Message>
+    </EventString>
+    <EventString Key="MES25100">
+      <Title>CR 오류</Title>
+      <Message>네트워크 오류(시간 초과: 일반적인 통신의 경우) </Message>
+    </EventString>
+    <EventString Key="MES25110">
+      <Title>CR 오류</Title>
+      <Message>네트워크 오류(거부: 일반적인 통신의 경우) </Message>
+    </EventString>
+    <EventString Key="MES25200">
+      <Title>CR 오류</Title>
+      <Message>네트워크 오류(시간 초과: 이미지 전송의 경우) </Message>
+    </EventString>
+    <EventString Key="MES25210">
+      <Title>CR 오류</Title>
+      <Message>네트워크 오류(시간 초과: 이미지 스캐닝 후) </Message>
+    </EventString>
+    <EventString Key="MES25300">
+      <Title>CR 오류</Title>
+      <Message>네트워크 오류(시간 초과/거부: 이미지 전송의 경우) </Message>
+    </EventString>
+    <EventString Key="MES25500">
+      <Title>CR 오류</Title>
+      <Message>네트워크 오류(수신지: 확인 불가) </Message>
+    </EventString>
+    <EventString Key="MES26000">
+      <Title>CR 오류</Title>
+      <Message>작동 오류(유효하지 않은 작업) </Message>
+    </EventString>
+    <EventString Key="MES26010">
+      <Title>CR 오류</Title>
+      <Message>작동 오류(유효하지 않은 작업 매개 변수) </Message>
+    </EventString>
+    <EventString Key="MES26100">
+      <Title>CR 오류</Title>
+      <Message>작동 오류(모델리스 작업) </Message>
+    </EventString>
+    <EventString Key="MES26200">
+      <Title>CR 오류</Title>
+      <Message>작동 오류(유효하지 않은 콘솔) </Message>
+    </EventString>
+    <EventString Key="MES26300">
+      <Title>CR 오류</Title>
+      <Message>작동 오류(리더기 사용 중) </Message>
+    </EventString>
+    <EventString Key="MES26900">
+      <Title>CR 오류</Title>
+      <Message>작동 오류(작업 실행 중 전원 꺼짐) </Message>
+    </EventString>
+    <EventString Key="MES26999">
+      <Title>CR 오류</Title>
+      <Message>작동 오류(지원되지 않는 명령) </Message>
+    </EventString>
+    <EventString Key="MES1">
+      <Title>CR 오류</Title>
+      <Message>앞문 열림 현상 검출 </Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ConsoleSystemDomain0001">
+      <Title />
+      <Message>พลังงานแบตเตอรี่เหลือน้อย ชาร์จแบตเตอรี่</Message>
+    </EventString>
+    <EventString Key="ConsoleSystemDomain0003">
+      <Title />
+      <Message>ไม่สามารถจับภาพได้เนื่ืองจากพลังงานแบตเตอรี่ต่ำ ชาร์จแบตเตอรี่</Message>
+    </EventString>
+    <EventString Key="ConsoleSystemDomain0005">
+      <Title>การลงทะเบียนสำเร็จ</Title>
+      <Message>AeroDR ต่อไปนี้ลงทะเบียนแล้ว
+ชื่อ AeroDR: {DeviceName}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

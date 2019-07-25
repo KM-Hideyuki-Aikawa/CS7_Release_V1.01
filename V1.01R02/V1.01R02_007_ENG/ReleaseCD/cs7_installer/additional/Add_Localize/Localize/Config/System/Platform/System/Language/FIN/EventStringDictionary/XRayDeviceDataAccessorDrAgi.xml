@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1000">
+      <Title>AeroDR XG BOX -yhteysvirhe</Title>
+      <Message>Tarkista verkkolaitteet ja kaapeliliitäntä.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1001">
+      <Title>AeroDR – AeroDR XG BOX -yhteysvirhe</Title>
+      <Message>Tarkista verkkolaitteet ja kaapeliliitäntä.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1002">
+      <Title>Valotuskentän synkronointivirhe</Title>
+      <Message>Valotuskentän asetusvirhe. 
+Tarkista verkkoyhteys ja kosketa tätä valotusehtoa.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1003">
+      <Title>Valotusvirhe</Title>
+      <Message>Tiedonsiirtovirhe valotuksessa. Tarkista verkkoyhteys ja kosketa tätä valotusehtoa.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1004">
+      <Title>Version päivitysvirhe</Title>
+      <Message>Version päivitys epäonnistui. 
+Tarkista yhteys ja käynnistä AeroDR-generaattorin liityntäyksikkö sekä CS-7 uudelleen.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1005">
+      <Title>Asetusarvon virhe</Title>
+      <Message>Asetustietoja ei voitu asettaa. 
+Tarkista verkkoyhteys ja yritä uudelleen.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1006">
+      <Title>Asetusarvon virhe</Title>
+      <Message>Asetustietoja ei saatu. 
+Tarkista verkkoyhteys ja yritä uudelleen.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1007">
+      <Title>Valotuksen synkronoinnin asetusvirhe</Title>
+      <Message>Valotuksen synkronoinnin asetusvirhe Tarkista verkkoyhteys ja kosketa tätä valotusehtoa.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2000">
+      <Title>[AeroDR XG] -käynnistysvirhe</Title>
+      <Message>käynnistysvirhe.
+Vapauta valotuskytkin.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2001">
+      <Title>[AeroDR XG] -käynnistysvirhe</Title>
+      <Message>Käynnistysvirhe.
+Vapauta valotuskytkin.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2002">
+      <Title>[AeroDR XG] -käynnistysvirhe</Title>
+      <Message>Käynnistysvirhe.
+Ota yhteyttä huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2003">
+      <Title>[AeroDR XG] -käynnistysvirhe</Title>
+      <Message>Käynnistysvirhe.
+Vapauta valotuskytkin.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2004">
+      <Title>[AeroDR XG] -käynnistysvirhe</Title>
+      <Message>Käynnistysvirhe.
+Vapauta valotuskytkin.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2005">
+      <Title>[AeroDR XG] -käynnistysvirhe</Title>
+      <Message>Käynnistysvirhe.
+Ota yhteyttä huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2006">
+      <Title>[AeroDR XG] -käynnistysvirhe</Title>
+      <Message>Käynnistysvirhe.
+Vapauta valotuskytkin.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2007">
+      <Title>[AeroDR XG] -käynnistysvirhe</Title>
+      <Message>Käynnistysvirhe. Vapauta valotuskytkin.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2008">
+      <Title>[AeroDR XG] -käynnistysvirhe</Title>
+      <Message>Käynnistysvirhe.
+Ota yhteyttä huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2200">
+      <Title>[AeroDR XG] -valotusvirhe</Title>
+      <Message>Röntgenlaitteen valotuslinkin virhe. Käynnistä röntgenlaite ja AeroDR-liityntäyksikkö uudelleen.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2201">
+      <Title>[AeroDR XG] -valotusvirhe</Title>
+      <Message>Röntgenlaitteen valotuslinkin virhe. Ota yhteyttä huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2500">
+      <Title>[AeroDR XG] -valotusvirhe</Title>
+      <Message>Sisäinen laitevirhe.
+Käynnistä AeroDR-liityntäyksikkö uudelleen.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2300">
+      <Title>[AeroDR XG] -valotusvirhe</Title>
+      <Message>Sisäinen laitevirhe tai tiedonsiirtovirhe. Käynnistä uudelleen AeroDR-detektori, AeroDR-liityntäyksikkö ja CS-7.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2301">
+      <Title>[AeroDR XG] -valotusvirhe</Title>
+      <Message>Sisäinen laitevirhe tai tiedonsiirtovirhe. Käynnistä uudelleen AeroDR-detektori, AeroDR-liityntäyksikkö ja CS-7.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2302">
+      <Title>[AeroDR XG] -valotusvirhe</Title>
+      <Message>Sisäinen laitevirhe tai tiedonsiirtovirhe. Käynnistä uudelleen AeroDR-detektori, AeroDR-liityntäyksikkö ja CS-7.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2400">
+      <Title>AeroDR XG BOX -verkkovirhe</Title>
+      <Message>Käynnistä AeroDR XG BOX uudelleen.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2401">
+      <Title>AeroDR XG BOX -verkkovirhe</Title>
+      <Message>Käynnistä AeroDR XG BOX uudelleen.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2402">
+      <Title>AeroDR XG BOX -verkkovirhe</Title>
+      <Message>Käynnistä AeroDR XG BOX uudelleen.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2403">
+      <Title>AeroDR XG BOX -verkkovirhe</Title>
+      <Message>Käynnistä AeroDR XG BOX uudelleen.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2501">
+      <Title>[AeroDR XG] -valotusvirhe</Title>
+      <Message>Sisäinen laitevirhe tai tiedonsiirtovirhe. Ota yhteyttä huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4100">
+      <Title>[AeroDR XG] -valotusvirhe</Title>
+      <Message>Valotuskytkintä ei ole vapautettu. Vapauta valotuskytkin.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4101">
+      <Title>[AeroDR XG] -valotusvirhe</Title>
+      <Message>Valotuskytkintä ei ole vapautettu.
+Vapauta valotuskytkin.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4102">
+      <Title>[AeroDR XG] -valotusvirhe</Title>
+      <Message>Valotuskytkintä ei ole vapautettu.
+Vapauta valotuskytkin.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

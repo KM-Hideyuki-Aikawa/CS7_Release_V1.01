@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>DailyCalibration_GroupBox</Key>
+      <Value>Offset kalibrace</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GainCalibration_GroupBox</Key>
+      <Value>Gain kalibrace</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SignalValue_Lbl</Key>
+      <Value>Hodnota signálu</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SignalValue_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AddRange_Lbl</Key>
+      <Value>Přidejte rozsah přibližně: 5100 - 6900</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureParam_Lbl</Key>
+      <Value>Parametry expozice</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TubeVoltage_Txt</Key>
+      <Value>Napětí trubice [kV]</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>3</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TubeCurrent_Txt</Key>
+      <Value>Proud trubice [mA]</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>8</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureTime_Txt</Key>
+      <Value>Doba expozice [ms]</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>9</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Distance_Txt</Key>
+      <Value>Vzdálenost [cm]</Value>
+      <Comment />
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>9</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureParamData_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TubeVoltage_Lbl</Key>
+      <Value>Napětí trubice [kV]</Value>
+      <Comment />
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TubeCurrent_Lbl</Key>
+      <Value>Proud trubice [mA]</Value>
+      <Comment />
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureTime_Lbl</Key>
+      <Value>Doba expozice [ms]</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Distance_Lbl</Key>
+      <Value>Vzdálenost [cm]</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Remarks_Lbl</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LastGainCalibDate_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NextGainCalibDate_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GainCalibMessage_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LastGainCalibDate_Lbl</Key>
+      <Value>Datum poslední kalibrace</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NextGainCalibDate_Lbl</Key>
+      <Value>Plánované datum příští kalibrace</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GainCalibMessage_Lbl</Key>
+      <Value>Zpráva</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OffsetCalibMessage_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OffsetCalibProgress_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OffsetCalibMessage_Lbl</Key>
+      <Value>Zpráva</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OffsetCalibProgress_Lbl</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OffsetCalibExecuteCommandLbl</Key>
+      <Value>Provést</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EditCommandLbl</Key>
+      <Value>Upravit</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GainCalibExecuteCommandLbl</Key>
+      <Value>Provést</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExitCommandLbl</Key>
+      <Value>Zavřít</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CmdCancelLbl</Key>
+      <Value>Zrušit</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CmdOkLbl</Key>
+      <Value>OK</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_PREPARING</Key>
+      <Value>Panel se připravuje, 
+chvilku vyčkejte</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_READY</Key>
+      <Value>Panel je připraven na expozici, 
+proveďte teď expozici.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_CUTOFF</Key>
+      <Value>Neexistuje připojení panelu.
+Potvrďte připojení panelu.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_STANDBY</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_SLEEP</Key>
+      <Value>Před provedením potvrďte baterii panelu.
+Kalibrace je dostupná.
+Stiskněte tlačítko Provést.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_FINISH</Key>
+      <Value>Expozice dokončena</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_ERROR</Key>
+      <Value>U panelu zjištěna chyba.
+Potvrďte stav panelu. A zkuste znovu. 
+Pokud dojde ke stejné chybě, zavolejte do servisního střediska.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_WAKEUP</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_UNKNOWN</Key>
+      <Value>Stav fpd: </Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GAIN_CALIB_END_SUCCESS</Key>
+      <Value>Gain kalibrace úspěšně dokončena.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GAIN_CALIB_END_FAIL</Key>
+      <Value>Gain kalibrace neúspěšná.
+Potvrďte stav panelu. A zkuste znovu. 
+Pokud dojde ke stejné chybě, zavolejte do servisního střediska.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OFFSET_CALIB_END_SUCCESS</Key>
+      <Value>Offset kalibrace úspěšně dokončena.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OFFSET_CALIB_END_FAIL</Key>
+      <Value>Offset kalibrace neúspěšná.
+Potvrďte stav panelu. A zkuste znovu. 
+Pokud dojde ke stejné chybě, zavolejte do servisního střediska.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NextOffsetCalibDate_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LastOffsetCalibDate_Lbl</Key>
+      <Value>Datum poslední kalibrace</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NextOffsetCalibDate_Lbl</Key>
+      <Value>Plánované datum příští kalibrace</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GainCalibAbortCommandLbl</Key>
+      <Value>Přerušit</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LastOffsetCalibDate_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0401">
+      <Title>ข้อผิดพลาดในการส่ง</Title>
+      <Message>ข้อผิดพลาดในภายในเกิดขึ้นในกระบวนการสื่อสารเอกซเรย์</Message>
+    </EventString>
+    <EventString Key="0402">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>ข้อผิดพลาดในภายในเกิดขึ้นในกระบวนการสื่อสารเอกซเรย์</Message>
+    </EventString>
+    <EventString Key="0403">
+      <Title>ข้อผิดพลาดในการส่ง</Title>
+      <Message>การส่งคำสั่งเงื่อนไขการฉายแสงสำหรับระบบเอกซเรย์ล้มเหลว รีสตาร์ทอุปกรณ์เอกซเรย์</Message>
+    </EventString>
+    <EventString Key="0404">
+      <Title>ข้อผิดพลาดในการตั้งค่า</Title>
+      <Message>การตั้งค่าพารามิเตอร์ไปยังข้อผิดพลาดของระบบเอกซเรย์</Message>
+    </EventString>
+    <EventString Key="0405">
+      <Title>ข้อผิดพลาดของอุปกรณ์</Title>
+      <Message>ตรวจพบข้อผิดพลาดของระบบเอกซเรย์</Message>
+    </EventString>
+    <EventString Key="0406">
+      <Title>ข้อผิดพลาดในการส่ง</Title>
+      <Message>ข้อผิดพลาดในการเชื่อมต่อระบบเอกซเรย์ ตรวจสอบเครือข่าย</Message>
+    </EventString>
+    <EventString Key="0301">
+      <Title />
+      <Message />
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

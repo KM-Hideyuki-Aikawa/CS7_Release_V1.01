@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="OrderListDomain0001">
+      <Title>Erreur</Title>
+      <Message>Erreur m-à-j BD.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0002">
+      <Title>Attention</Title>
+      <Message>Valeur invalide, exécution impossible.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0003">
+      <Title>Attention</Title>
+      <Message>Saisie obligatoire.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0004">
+      <Title>Erreur</Title>
+      <Message>Exécution impossible.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0005">
+      <Title>Erreur mise à jour patient</Title>
+      <Message>Erreur mise à jour patient.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0006">
+      <Title>Information</Title>
+      <Message>Données BD mises à jour, l'étude mise à jour va s'afficher.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0007">
+      <Title>Erreur</Title>
+      <Message>Étude supprimée de la base de données, opération d'exécution impossible.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0008">
+      <Title>Confirmation</Title>
+      <Message>Même PatientID: {0},Nom du patient: {1},Sexe: {2},DdN:{3} disponible dans base de données, voulez-vous utiliser les données de la BD ?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0009">
+      <Title>Confirmation</Title>
+      <Message>Étude en cours de progression, souhaitez-vous continuer ?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0010">
+      <Title>Attention</Title>
+      <Message>Étude déjà exécutée sur une autre console.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

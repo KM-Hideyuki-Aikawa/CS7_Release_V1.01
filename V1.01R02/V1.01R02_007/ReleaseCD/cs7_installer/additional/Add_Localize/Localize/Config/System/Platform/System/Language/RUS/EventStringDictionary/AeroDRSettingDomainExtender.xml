@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="AeroDRSettingDomainExtender0003">
+      <Title>Ошибка</Title>
+      <Message>Выбраны неверные данные для коррекции.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0004">
+      <Title>Подтверждение</Title>
+      <Message>Данные корректировки уже существуют. Вы действительно хотите их перезаписать?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0005">
+      <Title>Ошибка</Title>
+      <Message>Не удалось добавить панель AeroDR.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0006">
+      <Title>Ошибка</Title>
+      <Message>Не удалось получить информацию о панели AeroDR.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0007">
+      <Title>Ошибка</Title>
+      <Message>Не удалось сконфигурировать панель AeroDR.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0008">
+      <Title>Ошибка</Title>
+      <Message>Не удалось добавить XG BOX.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0009">
+      <Title>Ошибка</Title>
+      <Message>Не удалось получить XG BOX.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0010">
+      <Title>Ошибка</Title>
+      <Message>Не удалось сконфигурировать XG BOX.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0011">
+      <Title>Ошибка</Title>
+      <Message>Не удалось удалить панель AeroDR.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0012">
+      <Title>Подтверждение</Title>
+      <Message>Вы действительно хотите отменить регистрацию панели AeroDR?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0013">
+      <Title>Подтверждение</Title>
+      <Message>Конфигурация панели AeroDR не загружена. Вы действительно хотите отменить регистрацию панели AeroDR?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0014">
+      <Title>Подтверждение</Title>
+      <Message>Имеется панель(и) AeroDR или XG BOX, конфигурация которых не загружена. Вы действительно хотите сохранить конфигурацию?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0015">
+      <Title>Внимание</Title>
+      <Message>Изменения отменить невозможно. Конфигурация панели AeroDR или XG BOX уже загружена.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0016">
+      <Title>Ошибка</Title>
+      <Message>Недействительные данные. Проверьте введенные данные.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0017">
+      <Title>Ошибка</Title>
+      <Message>Измените конфигурацию панели AeroDR.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0018">
+      <Title>Подтверждение</Title>
+      <Message>Вы действительно хотите передать параметр на сервер?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0019">
+      <Title>Ошибка</Title>
+      <Message>Ошибка при передаче параметра. Проверьте сетевое соединение и повторите попытку.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

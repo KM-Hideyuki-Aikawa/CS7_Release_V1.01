@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0001">
+      <Title>Virhe</Title>
+      <Message>Alustusvirhe</Message>
+    </EventString>
+    <EventString Key="0002">
+      <Title>Informaatio</Title>
+      <Message>Yhdistäminen onnistui</Message>
+    </EventString>
+    <EventString Key="0003">
+      <Title>Virhe</Title>
+      <Message>Hakemistoa ei löytynyt</Message>
+    </EventString>
+    <EventString Key="0004">
+      <Title>Virhe</Title>
+      <Message>Tiedostoa ei löytynyt</Message>
+    </EventString>
+    <EventString Key="0005">
+      <Title>Virhe</Title>
+      <Message>Syntaksivirhe</Message>
+    </EventString>
+    <EventString Key="0006">
+      <Title>Virhe</Title>
+      <Message>Virhe varmuuskopion poiston aikana</Message>
+    </EventString>
+    <EventString Key="0007">
+      <Title>Virhe</Title>
+      <Message>Virhe varmuuskopion luonnin aikana</Message>
+    </EventString>
+    <EventString Key="0008">
+      <Title>Virhe</Title>
+      <Message>Virhe tietojen käytön aikana</Message>
+    </EventString>
+    <EventString Key="0009">
+      <Title>Virhe</Title>
+      <Message>Virhe tallennuksen aikana</Message>
+    </EventString>
+    <EventString Key="0010">
+      <Title>Virhe</Title>
+      <Message>Virhe hakemiston etsimisen aikana</Message>
+    </EventString>
+    <EventString Key="0011">
+      <Title>Virhe</Title>
+      <Message>Virhe tietojen liittämisen aikana</Message>
+    </EventString>
+    <EventString Key="0012">
+      <Title>Virhe</Title>
+      <Message>Virhe kalibrointitietojen kopioinnin aikana</Message>
+    </EventString>
+    <EventString Key="0013">
+      <Title>Virhe</Title>
+      <Message>Tapahtui poikkeus</Message>
+    </EventString>
+    <EventString Key="0014">
+      <Title>Virhe</Title>
+      <Message>Tapahtui poikkeus</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

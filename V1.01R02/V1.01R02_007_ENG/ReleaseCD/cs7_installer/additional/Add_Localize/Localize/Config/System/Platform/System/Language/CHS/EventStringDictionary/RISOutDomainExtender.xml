@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="RISOutDomainExtender0001">
+      <Title>Ping 状态</Title>
+      <Message>连接成功。</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0002">
+      <Title>Ping 状态</Title>
+      <Message>连接失败。</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0003">
+      <Title />
+      <Message>删除所选队列可以吗？</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0004">
+      <Title>注意</Title>
+      <Message>请选择要删除的队列。</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0005">
+      <Title>确认</Title>
+      <Message>删除所选队列可以吗？</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0006">
+      <Title>信息</Title>
+      <Message>成功删除所选队列</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0007">
+      <Title>错误</Title>
+      <Message>队列删除错误。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

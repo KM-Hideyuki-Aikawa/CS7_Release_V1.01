@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35500">
+      <Title>Paleisties klaida</Title>
+      <Message>Paleisti nepavyko.</Message>
+    </EventString>
+    <EventString Key="35501">
+      <Title>nuostatų klaida</Title>
+      <Message>Klaida skaitant nuostatų failą.</Message>
+    </EventString>
+    <EventString Key="35502">
+      <Title>laiko baigties klaida</Title>
+      <Message>Laikas baigėsi.</Message>
+    </EventString>
+    <EventString Key="35503">
+      <Title>Lizdo klaida</Title>
+      <Message>Lizdo klaida.</Message>
+    </EventString>
+    <EventString Key="37350">
+      <Title>Vidinė klaida</Title>
+      <Message>DICOM ryšio vidinė klaida. Susisiekite su techninės priežiūros atstovu.</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>Vidinė klaida</Title>
+      <Message>DICOM ryšio vidinė klaida. Susisiekite su techninės priežiūros atstovu.</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>Vidinė klaida</Title>
+      <Message>Nepavyko gauti DICOM ryšio nuostatų. Patvirtinkite ryšio nuostatas.</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>Ryšio klaida</Title>
+      <Message>Ryšys nepavyko. Patvirtinkite ryšio nuostatas ir tarnybinės stoties veikimą.</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>Ryšio klaida</Title>
+      <Message>Nepavyko A-ASSOCIATE. Patvirtinkite ryšio nuostatas ir tarnybinės stoties veikimą.</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>Ryšio klaida</Title>
+      <Message>Tarnybinė stotis atmetė A-ASSOCIATE dėl negaliojančių nuostatų. Patvirtinkite ryšio nuostatas.</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>Ryšio klaida</Title>
+      <Message>DICOM ryšio vidinė klaida. Susisiekite su techninės priežiūros atstovu.</Message>
+    </EventString>
+    <EventString Key="37357">
+      <Title>Ryšio klaida</Title>
+      <Message>Paleidimo perdavimas nepavyko. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>Ryšio klaida</Title>
+      <Message>Gautas A-ABORT. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37610">
+      <Title>Vidinė klaida</Title>
+      <Message>RIS-IN ryšio vidinė klaida. Susisiekite su techninės priežiūros atstovu.</Message>
+    </EventString>
+    <EventString Key="37611">
+      <Title>Vidinė klaida</Title>
+      <Message>RIS-IN ryšio vidinė klaida. Susisiekite su techninės priežiūros atstovu.</Message>
+    </EventString>
+    <EventString Key="37612">
+      <Title>Vidinė klaida</Title>
+      <Message>RIS-IN ryšio vidinė klaida. Susisiekite su techninės priežiūros atstovu.</Message>
+    </EventString>
+    <EventString Key="37613">
+      <Title>Vidinė klaida</Title>
+      <Message>RIS-IN ryšio vidinė klaida. Susisiekite su techninės priežiūros atstovu.</Message>
+    </EventString>
+    <EventString Key="37614">
+      <Title>Communication error</Title>
+      <Message>MWM C-FIND request aborted because it exceeded the maximum number of search responses.</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-IN communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-IN communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>Vidinė klaida</Title>
+      <Message>Gautas pabaigos pranešimas.[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="27740">
+      <Title>Ryšio klaida</Title>
+      <Message>RIS-IN ryšio vidinė klaida. Patikrinkite ryšio paskirtį.</Message>
+    </EventString>
+    <EventString Key="27741">
+      <Title>Ryšio klaida</Title>
+      <Message>RIS-IN ryšio vidinė klaida. Patikrinkite ryšio paskirtį.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

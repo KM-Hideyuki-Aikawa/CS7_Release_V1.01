@@ -1,0 +1,1391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>DeviceDisplaySettingsView</Key>
+      <Value>Įrenginio nuostata</Value>
+      <Comment>Device Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSettingsLabelData</Key>
+      <Value>Ekrano nustatymas</Value>
+      <Comment>Screen Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ApplicationBarLabelData</Key>
+      <Value>Programų juosta</Value>
+      <Comment>Application Bar</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientInfoDisplayRegionLabelExplanationData</Key>
+      <Value>Informacijos apie pacientą pateikimo vieta</Value>
+      <Comment>Patient Info Display Region</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresetSelectionLabelData</Key>
+      <Value>Išankstinis pasirinkimas</Value>
+      <Comment>Preset Selection</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UnphotographicImageDisplayAreaLabelExplanationData</Key>
+      <Value>Atvaizdo pateikimo vieta prieš skaitymą</Value>
+      <Comment>Unphotographic image display area</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PictureTakenImageDisplayAreaLabelExplanationData</Key>
+      <Value>Atvaizdo pateikimo vieta po skaitymo</Value>
+      <Comment>Picture taken Image display area</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UntakenPictureShootingConditionsAreaLabelExplanationData</Key>
+      <Value>Apžiūros žymos pateikimo vieta prieš skaitymą</Value>
+      <Comment>Untaken picture shooting conditions display area</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ShootingConditionsDisplayAreaPictureLabelExplanationData</Key>
+      <Value>Apžiūros žymos pateikimo vieta po skaitymo</Value>
+      <Comment>Shooting conditions display area that has been taken a picture</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureOrderAutoSortLabelExplanationData</Key>
+      <Value>Automatinis nurodymų rūšiavimas</Value>
+      <Comment>Exposure Order Auto Sort</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TouchOperationSettingLabelExplanationData</Key>
+      <Value>Valdymas lietimu</Value>
+      <Comment>Touch Operation Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageSingleTouchLabelExplanationData</Key>
+      <Value>Vienas prilietimas (atvaizdo pateikimo vieta)</Value>
+      <Comment>Image Single Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageDoubleTouchLabelExplanationData</Key>
+      <Value>Dvigubas prilietimas (atvaizdo pateikimo vieta)</Value>
+      <Comment>Image Double Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamTagSingleTouchLabelExplanationData</Key>
+      <Value>Vienas prilietimas (apžiūros žymos pateikimo vieta)</Value>
+      <Comment>ExamTag Single Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamTagDoubleTouchLabelExplanationData</Key>
+      <Value>Dvigubas prilietimas (apžiūros žymos pateikimo vieta)</Value>
+      <Comment>ExamTag Double Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefectReasonLabelExplanationData</Key>
+      <Value>Atmesti priežastį</Value>
+      <Comment>Defect Reason</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>XRayTabLabelData</Key>
+      <Value>Rentgeno kortelė</Value>
+      <Comment>X-Ray Tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SortOrderLabelData</Key>
+      <Value>Rūšiavimo tvarka</Value>
+      <Comment>Sort Order</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SendPreviewLabelData</Key>
+      <Value>Peržiūros pateikimas</Value>
+      <Comment>Send Preview</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefectImageLabelData</Key>
+      <Value>Atmesti atvaizdą</Value>
+      <Comment>Defect image</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageDestructionSettingWhenDefectLabelExplanationData</Key>
+      <Value>Atmesti atvaizdo šalinimo būdą</Value>
+      <Comment>Image destruction setting when defect</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoFocusLabelData</Key>
+      <Value>Automatinis fokusavimas</Value>
+      <Comment>Auto Focus</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoFocusNavigationLabelData</Key>
+      <Value>Fokusavimo žvalgymo įvykis</Value>
+      <Comment>Auto Focus Navigation</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TimerLabelData</Key>
+      <Value>Žvalgymo laukimo laikas [s]</Value>
+      <Comment>Timer</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransitionDestinationLabelData</Key>
+      <Value>Žvalgymo adresas</Value>
+      <Comment>Transition Destination</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SearchOfYetToExposedLabelExplanationData</Key>
+      <Value>Neeksponuoto atvaizdo paieškos būdas</Value>
+      <Comment>Search of yet to be exposed</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NumberOfFramesLabelData</Key>
+      <Value>Rėmelio dalijimas</Value>
+      <Comment>Number of frames</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ThresholdsOfNumberOfShotsLabelExplanationData</Key>
+      <Value>Rėmelio padalijimo pokyčių slenksčiai</Value>
+      <Comment>Thresholds of number of frame number shots</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputLabelData</Key>
+      <Value>Išvestis</Value>
+      <Comment>Output</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputDestinationOnClickingButtonLabelExplanationData</Key>
+      <Value>Rodyti išvesties mygtuką</Value>
+      <Comment>Output Destination on clicking the output button</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputDestinationOnClickingStudyButtonLabelExplanationData</Key>
+      <Value>Išvesties įrenginys paspaudus tyrimo užbaigimo mygtuką</Value>
+      <Comment>Output Destination on clicking the study completion button</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OrderListLabelData</Key>
+      <Value>Nurodymų sąrašas</Value>
+      <Comment>Order List</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OverlayDisplayOnExposedImagesLabelExplanationData</Key>
+      <Value>Eksponuotų atvaizdų perdangos nuostata</Value>
+      <Comment>Overlay Display on Exposed Images</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ControlPanelLabelData</Key>
+      <Value>Valdymo skydelis</Value>
+      <Comment>Control Panel</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefaultFunctionOfImageTabLabelExplanationData</Key>
+      <Value>Atvaizdo koregavimo kortelės numatytoji funkcija</Value>
+      <Comment>Default function of Image Adjustment Tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputConditionTabLabelData</Key>
+      <Value>Išvesties sąlygos kortelė</Value>
+      <Comment>Output Condition Tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DRLabelData</Key>
+      <Value>Skaitmeninė radiografija</Value>
+      <Comment>DR</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CRLabelData</Key>
+      <Value>Kompiuterinė radiografija</Value>
+      <Comment>CR</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MammoLabelData</Key>
+      <Value>Mamografija</Value>
+      <Comment>Mammo</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefaultsDisplayPanelLabelData</Key>
+      <Value>Numatytųjų reikšmių pateikimo skydelis</Value>
+      <Comment>Defaults Display Panel</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UnexposedImageSelectionTimeLabelExplanationData</Key>
+      <Value>Pasirinktus neeksponuotą atvaizdą</Value>
+      <Comment>Unexposed Image Selection Time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ToolBarLabelData</Key>
+      <Value>Įrankių juosta</Value>
+      <Comment>Tool Bar</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayModeLabelData</Key>
+      <Value>Pateikimo būdas</Value>
+      <Comment>Display Mode</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayPositionLabelData</Key>
+      <Value>Pateikimo vieta</Value>
+      <Comment>Display Position</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ButtonDisplayLabelData</Key>
+      <Value />
+      <Comment>Button Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SystemLabelData</Key>
+      <Value>Sistemos mygtukas</Value>
+      <Comment>System</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RegionSelectionScreenDisplayLabelExplanationData</Key>
+      <Value>Kūno dalių atrankos lango mygtukas</Value>
+      <Comment>Region selection screen display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IncidentalInformationCorrectionScreenDisplayLabelExplanationData</Key>
+      <Value>Papildomos informacijos redagavimo lango mygtukas</Value>
+      <Comment>Incidental information correction screen display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ViewerScreenDisplayLabelData</Key>
+      <Value>Peržiūros priemonės lango mygtukas</Value>
+      <Comment>Viewer screen display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SuspendLabelData</Key>
+      <Value>Pristabdymo mygtukas</Value>
+      <Comment>Suspend</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyEndLabelData</Key>
+      <Value>Apžiūros užbaigimo mygtukas</Value>
+      <Comment>Study end</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IQBoyLabelData</Key>
+      <Value>IQ Boy</Value>
+      <Comment>IQ Boy</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefaultMajorClassificationLabelData</Key>
+      <Value>Sutartinis kūno dalies numeris</Value>
+      <Comment>Default major classification</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ViewerScreenLabelData</Key>
+      <Value>Peržiūros priemonės langas</Value>
+      <Comment>Viewer Screen</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SpecificationOfDisplayedWindowidLabelExplanationData</Key>
+      <Value>Lango identifikavimo Nr.</Value>
+      <Comment>Specification of displayed windowID</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayPositionXLabelData</Key>
+      <Value>Pateikimo vieta (X)</Value>
+      <Comment>Display position (X)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayPositionYLabelExplanationData</Key>
+      <Value>Pateikimo vieta (Y)</Value>
+      <Comment>Display position  (Y)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ToolBarDisplayPositionSettingLabelExplanationData</Key>
+      <Value>Įrankių juostos vieta</Value>
+      <Comment>Tool bar display position setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HighDefinitionMonitorDisplayLabelExplanationData</Key>
+      <Value>Gero ryškumo pateikimo monitoriuje būdas</Value>
+      <Comment>High Definition Monitor display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TextAnnotationLabelData</Key>
+      <Value>Tekstinės informacijos kortelės eilės numeris</Value>
+      <Comment>Text Annotation</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureConditionsScreenDefaultValuesLabelExplanationData</Key>
+      <Value>Eksponavimo sąlygų langas (numatytosios reikšmės)</Value>
+      <Comment>Exposure Conditions Screen (Default Values)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LaunchingTimeFromStudyScreenLabelExplanationData</Key>
+      <Value>Paleidimas iš tyrimo registracijos lango</Value>
+      <Comment>Launching time from study reception screen</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LaunchingTimeFromExposureScrnLabelExplanationData</Key>
+      <Value>Paleidimas iš eksponavimo lango</Value>
+      <Comment>Launching time from exposure scrn</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MyFavoritesTabLabelData</Key>
+      <Value>Numatytasis adresyno pateikimo kortelės numeris</Value>
+      <Comment>My Favorites Tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LargeClassificationLabelData</Key>
+      <Value>Numatytasis kūno dalių pateikimo numeris</Value>
+      <Comment>Large classification</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SmallClassificationLabelData</Key>
+      <Value>Numatytasis grupės pateikimo numeris</Value>
+      <Comment>Small classification</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TouchHeaderData</Key>
+      <Value>Lietimo sritis</Value>
+      <Comment>Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SingleTouchHeaderData</Key>
+      <Value>Vienas prilietimas</Value>
+      <Comment>Single Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DoubleTouchHeaderData</Key>
+      <Value>Dvigubas prilietimas</Value>
+      <Comment>Double Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SnoHeaderData</Key>
+      <Value>Nr.</Value>
+      <Comment>Sno</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefectReasonHeaderData</Key>
+      <Value>Priežastis</Value>
+      <Comment>Defect Reason</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FrameTypeHeaderData</Key>
+      <Value>Formatas</Value>
+      <Comment>Frame Type</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ThresholdHeaderData</Key>
+      <Value>Slenkstis</Value>
+      <Comment>Threshold</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>XrayTypeHeaderData</Key>
+      <Value>Detektoriaus tipas</Value>
+      <Comment>Xray Type</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureConditionDisplayHeaderData</Key>
+      <Value>Eksponavimo sąlygų pateikimas</Value>
+      <Comment>Exposure Condition Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureResultInputDisplayHeaderData</Key>
+      <Value>Švitinimo rezultatų pateikimas</Value>
+      <Comment>Exposure Result Input Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayTimeCheckBoxData</Key>
+      <Value>Rodyti laiką</Value>
+      <Comment>Display Time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayRoomNameCheckBoxData</Key>
+      <Value>Rodyti apžiūros kabineto pavadinimą</Value>
+      <Comment>Display Room Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayLoginNameCheckBoxData</Key>
+      <Value>Rodyti prisijungimo vardą</Value>
+      <Comment>Display Login Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayEmergencyPatientColumnWarningDisplayColumnCheckBoxData</Key>
+      <Value>Rodyti skubių pacientų stulpelį / Įspėjimų pateikimo stulpelį</Value>
+      <Comment>Display Emergency Patient Column/Warning Display Column</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WarningCheckBoxData</Key>
+      <Value>Įspėjimas</Value>
+      <Comment>Warning</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiagnosisDescriptionWhenConsultingAPhysicianCheckBoxData</Key>
+      <Value>Diagnozių aprašymų priėmimas</Value>
+      <Comment>Diagnosis description when consulting a physician</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MedicalNotesCheckBoxData</Key>
+      <Value>Medicininiai signalai</Value>
+      <Comment>Medical notes</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AllergyCheckBoxData</Key>
+      <Value>Alergija</Value>
+      <Comment>Allergy</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientAdditionalCaseHistoryCheckBoxData</Key>
+      <Value>Papildomi paciento ligos istorijos duomenys</Value>
+      <Comment>Patient additional case history</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PregnancyStatusCheckBoxData</Key>
+      <Value>Nėštumo būklė</Value>
+      <Comment>Pregnancy status</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SpecialHelpCheckBoxData</Key>
+      <Value>Specialieji poreikiai</Value>
+      <Comment>Special Help</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientsStatusCheckBoxData</Key>
+      <Value>Paciento būklė</Value>
+      <Comment>Patient's Status</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientDataConfidentialObligationCheckBoxData</Key>
+      <Value>Konfidencialumo apribojimas</Value>
+      <Comment>Patient data confidential obligation</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PriorAdministratingOfMedicationCheckBoxData</Key>
+      <Value>Parengtinis gydymas</Value>
+      <Comment>Prior administrating of medication</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoSortCheckBoxData</Key>
+      <Value>Automatinis nurodymų sąrašo rūšiavimas</Value>
+      <Comment>Auto Sort</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayOfSendPreviewTabCheckBoxData</Key>
+      <Value>Rodyti peržiūros kortelę prieš išvestį</Value>
+      <Comment>Display of send preview tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UseDefectReasonCheckBoxData</Key>
+      <Value>Panaudoti priežasties atmetimą</Value>
+      <Comment>Use defect reason</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoFrameNumberChangeCheckBoxData</Key>
+      <Value>Automatinis rėmelio padalijimo koregavimas ir nurodymų eilės numeriai</Value>
+      <Comment>Auto frame number change</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AfterItTakesAPictureTheImageConfirmationScreenIsAutomaticallyDisplayedCheckBoxData</Key>
+      <Value>Rodyti atvaizdo patvirtinimo langą po skaitymo</Value>
+      <Comment>After it takes a picture, the image confirmation screen is automatically displayed.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayOutputButtonCheckBoxData</Key>
+      <Value>Rodyti išvesties mygtuką</Value>
+      <Comment>Display Output Button</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayOrderListCheckBoxData</Key>
+      <Value>Rodyti nurodymų sąrašą</Value>
+      <Comment>Display Order List</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MarkerCheckBoxData</Key>
+      <Value>Žymeklis</Value>
+      <Comment>Marker</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampCheckBoxData</Key>
+      <Value>Spaudas</Value>
+      <Comment>Stamp</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScaleCheckBoxData</Key>
+      <Value>Skalė</Value>
+      <Comment>Scale</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CommonOverlayCheckBoxData</Key>
+      <Value>Bendroji perdanga</Value>
+      <Comment>Common Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NormalOverlayCheckBoxData</Key>
+      <Value>Bendroji perdanga</Value>
+      <Comment>Normal Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MammoOverlayCheckBoxData</Key>
+      <Value>Mamografijos perdanga</Value>
+      <Comment>Mammo Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TextAnnotationCheckBoxData</Key>
+      <Value>Tekstinė informacija</Value>
+      <Comment>Mammo Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilmNotchIconCheckBoxData</Key>
+      <Value>Plėvelės išpjovos piktograma</Value>
+      <Comment>Film Notch Icon</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoRegistrationCheckBoxData</Key>
+      <Value>Leisti automatinę registraciją</Value>
+      <Comment>Auto Registration</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayWithPreviousEndStatusDuringNextLaunchCheckBoxData</Key>
+      <Value>Atkurti paskutinio pakeitimo nuostatą paleidžiant</Value>
+      <Comment>Display with previous end status during next launch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ChangeActiveFrame</Key>
+      <Value>Rodyti aktyvų rėmelį</Value>
+      <Comment>Change Active Frame</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CallDomain</Key>
+      <Value>Rodyti peržiūros priemonės langą</Value>
+      <Comment>Call Domain</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FullScreen</Key>
+      <Value>Rodyti visame ekrane</Value>
+      <Comment>FullScreen</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ChangeCrReadOrder</Key>
+      <Value>Nurodyti kompiuterinės radiografijos skaitytuvo skaitymo plotį (nėra)</Value>
+      <Comment>ChangeCrReadOrder</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeleteBarcode</Key>
+      <Value>Šalinti brūkšninį kodą (nėra)</Value>
+      <Comment>Delete Barcode</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Nothing</Key>
+      <Value>Nėra veiksmų</Value>
+      <Comment>Nothing</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Upright</Key>
+      <Value>Sieninis stovas</Value>
+      <Comment>Upright</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Supine</Key>
+      <Value>Rentgeno tyrimų stalas</Value>
+      <Comment>Supine</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Cassette</Key>
+      <Value>Kasetė</Value>
+      <Comment>Cassette</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>destroyimagewhenng</Key>
+      <Value>Šalinti atmestą atvaizdą visų atmetimo (NG) operacijų metu</Value>
+      <Comment>Destroy defect image when executing defect (NG)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>destroyimagewhenstudycomplete</Key>
+      <Value>Šalinti atmestą atvaizdą užbaigus tyrimą</Value>
+      <Comment>Destroy defect image when Study complete</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>leaveimage</Key>
+      <Value>Palikti (nešalinti)</Value>
+      <Comment>Leave (do not destruct)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>donottransit</Key>
+      <Value>Nežvalgyti</Value>
+      <Comment>Do not transit</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittoimage</Key>
+      <Value>Žvalgymo atvaizdo persiuntime pradžia</Value>
+      <Comment>Transit to image transfer start time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittowipeimage</Key>
+      <Value>Žvalgymo atvaizdo pateikimo valyme pabaiga</Value>
+      <Comment>Transit to wipe image display completion time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittopreviewimage</Key>
+      <Value>Žvalgymo atvaizdo peržiūros pateikime pabaiga</Value>
+      <Comment>Transit to preview image display completion time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittooriginal</Key>
+      <Value>Žvalgymo galutinio atvaizdo pateikime pabaiga</Value>
+      <Comment>Transit to original image display completion time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittonextone</Key>
+      <Value>Žvalgyti kitą nurodymą nepriklausomai nuo eksponavimo būklės</Value>
+      <Comment>Transit to next one regardless of exposed / unexposed</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittounexposedshot</Key>
+      <Value>Žvalgyti kitą neeksponuotą nurodymą</Value>
+      <Comment>Transit the focus to unexposed shot</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>searchfromtop</Key>
+      <Value>Ieškoti nuo nurodymų sąrašo pradžios</Value>
+      <Comment>Search from top</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>searchaftercurrent</Key>
+      <Value>Ieškoti nuo esamos padėties</Value>
+      <Comment>Search after the current position</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>host</Key>
+      <Value>Pagrindinis kompiuteris</Value>
+      <Comment>Host</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>printer</Key>
+      <Value>Spausdintuvas</Value>
+      <Comment>Printer</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>hostandprinter</Key>
+      <Value>Šaltinis + spausdintuvas</Value>
+      <Comment>Host + printer</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ROI</Key>
+      <Value>Inv. grąža</Value>
+      <Comment>ROI</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Magnify</Key>
+      <Value>Padidinti</Value>
+      <Comment>Magnify</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Reduce</Key>
+      <Value>Sumažinti</Value>
+      <Comment>Reduce</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Pan</Key>
+      <Value>Pasukti kampu</Value>
+      <Comment>Pan</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Imageadjustment</Key>
+      <Value>Atvaizdo koregavimas</Value>
+      <Comment>Image adjustment</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Exposurecondition</Key>
+      <Value>Eksponavimo sąlyga</Value>
+      <Comment>Exposure condition</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Xrayinput</Key>
+      <Value>RENTGENO įvestis</Value>
+      <Comment>X-rayinput</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Overlay</Key>
+      <Value>Perdanga</Value>
+      <Comment>Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Outputcondition</Key>
+      <Value>Išvesties sąlyga</Value>
+      <Comment>Output condition</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Fixedmode</Key>
+      <Value>Fiksuota veiksena</Value>
+      <Comment>Fixed mode</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Optionalmode</Key>
+      <Value>Pasirenkama veiksena</Value>
+      <Comment>Optional mode</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Left</Key>
+      <Value>Kairė</Value>
+      <Comment>Left</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Right</Key>
+      <Value>Dešinė</Value>
+      <Comment>Right</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Top</Key>
+      <Value>Viršus</Value>
+      <Comment>Top</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Bottom</Key>
+      <Value>Apačia</Value>
+      <Comment>Bottom</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Dontdisplay</Key>
+      <Value>Nerodyti</Value>
+      <Comment>Don't display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Alwaysdisplay</Key>
+      <Value>Visada rodyti</Value>
+      <Comment>Always display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Displaywhenexpanded</Key>
+      <Value>Rodyti išplėstame</Value>
+      <Comment>Display when expanded</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Sizeofframe</Key>
+      <Value>Rėmelio dydis</Value>
+      <Comment>Size of frame</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>11display</Key>
+      <Value>1:1 pateiktis</Value>
+      <Comment>1:1 display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefaultDisplay</Key>
+      <Value>Nustatymas</Value>
+      <Comment>Default Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BeforeDisplay</Key>
+      <Value>Paskutinis pakeitimas</Value>
+      <Comment>Before Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FocusDisplay</Key>
+      <Value>Fokusavimo nurodymas</Value>
+      <Comment>Focus Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

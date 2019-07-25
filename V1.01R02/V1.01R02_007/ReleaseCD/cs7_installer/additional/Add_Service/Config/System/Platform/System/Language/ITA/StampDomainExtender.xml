@@ -1,0 +1,2300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>LineWidthErrMessage</Key>
+      <Value>length should not less than 1</Value>
+      <Comment>Outline</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+</LocalizeInfo>
+
+
+
+<LocalizeInfo>
+      <Key>StampItem</Key>
+      <Value>StampItem</Value>
+      <Comment>Outline</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+</LocalizeInfo>
+
+
+<LocalizeInfo>
+      <Key>FontSizeErrMessage</Key>
+      <Value>Line font size(s) are out of range. It must set within the Limitation.(1~20)</Value>
+      <Comment>Outline</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+
+
+<LocalizeInfo>
+      <Key>ValueOf</Key>
+      <Value>The value of</Value>
+      <Comment>Outline</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+
+
+     <LocalizeInfo>
+      <Key>OutofRange</Key>
+      <Value>is out of the range. It will be set within this limitation</Value>
+      <Comment>Outline</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Width</Key>
+      <Value>Larghezza</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Date</Key>
+      <Value>Date</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Month</Key>
+      <Value>Mese</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Year</Key>
+      <Value>Anno</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DA010oo</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DA011@</Key>
+      <Value>H</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Hour</Key>
+      <Value>Ora</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Minutes</Key>
+      <Value>Minuto</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Seconds</Key>
+      <Value>Secondo</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AM</Key>
+      <Value>AM</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PM</Key>
+      <Value>PM</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Filename</Key>
+      <Value />
+      <Comment>File Name : nmprint p1.ini</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BackgroundDensity</Key>
+      <Value>Densità sfondo [%]</Value>
+      <Comment>Background Density [%]</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CharacterDensity</Key>
+      <Value>Densità carattere [%]</Value>
+      <Comment>Character Density [%]</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Offset</Key>
+      <Value>Sfalsamento</Value>
+      <Comment>Offset</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Position</Key>
+      <Value>Posizione</Value>
+      <Comment>Position</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Enable</Key>
+      <Value>Consenti</Value>
+      <Comment>Enable</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Xmm</Key>
+      <Value>X [mm]</Value>
+      <Comment>X[mm]</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Ymm</Key>
+      <Value>Y [mm]</Value>
+      <Comment>Y[mm]</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UpperLeft</Key>
+      <Value>In alto a sinistra</Value>
+      <Comment>Upper-Left</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UpperCenter</Key>
+      <Value>In alto al centro</Value>
+      <Comment>Upper-Center</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UpperRight</Key>
+      <Value>In alto a destra</Value>
+      <Comment>Upper-Right</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Left</Key>
+      <Value>Sinistra</Value>
+      <Comment>Left</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Right</Key>
+      <Value>Destra</Value>
+      <Comment>Right</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LowerLeft</Key>
+      <Value>In basso a sinistra</Value>
+      <Comment>Lower-Left</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LowerCenter</Key>
+      <Value>In basso al centro</Value>
+      <Comment>Lower-Center</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LowerRight</Key>
+      <Value>In basso a destra</Value>
+      <Comment>Lower-Right</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Refresh</Key>
+      <Value>Aggiornare</Value>
+      <Comment>Refresh</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Preview</Key>
+      <Value>Anteprima</Value>
+      <Comment>Preview</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampSettings</Key>
+      <Value>Impostazioni timbro</Value>
+      <Comment>Stamp Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SNo</Key>
+      <Value>Nr.</Value>
+      <Comment>S.No</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Edit</Key>
+      <Value>Modifica...</Value>
+      <Comment>Edit...</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Copy</Key>
+      <Value>Copia...</Value>
+      <Comment>Copy...</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp1</Key>
+      <Value>Timbro 1</Value>
+      <Comment>Stamp 1</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp2</Key>
+      <Value>Timbro 2</Value>
+      <Comment>Stamp 2</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp3</Key>
+      <Value>Timbro 3</Value>
+      <Comment>Stamp 3</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp4</Key>
+      <Value>Timbro 4</Value>
+      <Comment>Stamp 4</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp5</Key>
+      <Value>Timbro 5</Value>
+      <Comment>Stamp 5</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp6</Key>
+      <Value>Timbro 6</Value>
+      <Comment>Stamp 6</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp7</Key>
+      <Value>Timbro 7</Value>
+      <Comment>Stamp 7</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp8</Key>
+      <Value>Timbro 8</Value>
+      <Comment>Stamp 8</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp9</Key>
+      <Value>Timbro 9</Value>
+      <Comment>Stamp 9</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp10</Key>
+      <Value>Timbro 10</Value>
+      <Comment>Stamp 10</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OK</Key>
+      <Value>OK</Value>
+      <Comment>OK</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Cancel</Key>
+      <Value>Annullare</Value>
+      <Comment>Cancel</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Prefix</Key>
+      <Value>Prefisso</Value>
+      <Comment>Prefix</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Suffix</Key>
+      <Value>Suffisso</Value>
+      <Comment>Suffix</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Sample</Key>
+      <Value>Campione</Value>
+      <Comment>Sample</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Alignment</Key>
+      <Value>Allineamento</Value>
+      <Comment>Alignment</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Contents</Key>
+      <Value>Contenuti</Value>
+      <Comment>Contents</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Item</Key>
+      <Value>Elemento</Value>
+      <Comment>Item</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Line</Key>
+      <Value>Linea</Value>
+      <Comment>Line</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Lengths</Key>
+      <Value>Lunghezza</Value>
+      <Comment>Length</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Options</Key>
+      <Value>Opzioni</Value>
+      <Comment>Options</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampNumber</Key>
+      <Value />
+      <Comment>Stamp Number : Printer - Stamp 1</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GeneralSettings</Key>
+      <Value>Impostazioni generali</Value>
+      <Comment>General Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Parameter</Key>
+      <Value>Parametro</Value>
+      <Comment>Parameter</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Values</Key>
+      <Value>Valore</Value>
+      <Comment>Value</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TotalLines</Key>
+      <Value>Linee totali (1-6)</Value>
+      <Comment>Total Lines ( 1 - 6 )</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Default</Key>
+      <Value>Giustifica a sinistra</Value>
+      <Comment>Default Alignment in Stamp Edit model</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Center</Key>
+      <Value>Centrale</Value>
+      <Comment>center alignemnt key in Stamp Edit Model</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FontSizeText</Key>
+      <Value>Dimens. carattere</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FisrtLineFontSize</Key>
+      <Value>1°</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SecondLineFontSize</Key>
+      <Value>2°</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ThirdLineFontSize</Key>
+      <Value>3°</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ForthLineFontSize</Key>
+      <Value>4°</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FifthLineFontSize</Key>
+      <Value>5°</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SixthLineFontSize</Key>
+      <Value>6°</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LineNumber</Key>
+      <Value>Numero linea</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Value</Key>
+      <Value>Valore</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_undefined</Key>
+      <Value>Non definito</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0069</Key>
+      <Value>Data studio</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00080023</Key>
+      <Value>Data immagine</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0070</Key>
+      <Value>Ora studio</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00080033</Key>
+      <Value>Ora immagine</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0095</Key>
+      <Value>Numero d'accesso</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00080080</Key>
+      <Value>Nome istituzione</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00080081</Key>
+      <Value>Indirizzo istituzione</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0043</Key>
+      <Value>Medico curante</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0044</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0045</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00081010</Key>
+      <Value>Nome stazione</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00081040</Key>
+      <Value>Nome del reparto</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0046</Key>
+      <Value>Registro medico</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0047</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0048</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPSE0015</Key>
+      <Value>Medico che esegue l'esame</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPSE0016</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPSE0017</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0049</Key>
+      <Value>Lettura studio medico</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0050</Key>
+      <Value>Nome dell’Operatore</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0051</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPSE0012</Key>
+      <Value>Nome dell’Operatore</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPSE0013</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPSE0014</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0052</Key>
+      <Value>Descrizione diagnosi</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00081090</Key>
+      <Value>Nome modello</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0033</Key>
+      <Value>Nome paziente</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0034</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0035</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0032</Key>
+      <Value>Id paziente</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0036</Key>
+      <Value>Data di nascita del paziente</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0037</Key>
+      <Value>Ora di nascita del paziente</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0038</Key>
+      <Value>Sesso del paziente</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0081</Key>
+      <Value>Altro ID paziente</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0082</Key>
+      <Value>Altri nomi paziente</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0083</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0084</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0011</Key>
+      <Value>Età del paziente</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0053</Key>
+      <Value>Altezza del paziente</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0054</Key>
+      <Value>Per del paziente</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0058</Key>
+      <Value>Avvisi medici</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0059</Key>
+      <Value>Allergie di contrasto</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0085</Key>
+      <Value>Gruppo etnico</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0055</Key>
+      <Value>Occupazione</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0061</Key>
+      <Value>Aggiungere Anamnesi paziente</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0062</Key>
+      <Value>Stato di gravidanza</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0039</Key>
+      <Value>Commenti paziente</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00180010:0</Key>
+      <Value>Agente di contrasto/bolo</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GEIM0021</Key>
+      <Value>Parte del corpo esaminata</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00180060</Key>
+      <Value>kVp</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181000</Key>
+      <Value>N. di serie</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181020:0</Key>
+      <Value>Versione software</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181040</Key>
+      <Value>Via C/B</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181041</Key>
+      <Value>Volume C/B (cm3)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181042</Key>
+      <Value>Ora avvio C/B</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181043</Key>
+      <Value>Ora fine C/B</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181044</Key>
+      <Value>Dose totale C/B</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181046</Key>
+      <Value>Velocità flusso contrasto</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181047</Key>
+      <Value>Dur. flusso contrasto</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181048</Key>
+      <Value>Ingrediente C/B</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181049</Key>
+      <Value>Concentrazione C/B</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181110</Key>
+      <Value>Fonte-rilevatore [mm]</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181111</Key>
+      <Value>Fonte-Paziente [mm]</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181114</Key>
+      <Value>Mag. Fattore (x100)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181147</Key>
+      <Value>Campo di visualizzazione forma</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181150</Key>
+      <Value>Ora esposizione</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181151</Key>
+      <Value>Corrente tubo raggi X</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181152</Key>
+      <Value>Esposizione</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181156</Key>
+      <Value>Tipo rettificazione</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_0018115E</Key>
+      <Value>Prod dose are img</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181160</Key>
+      <Value>Tipo filtro</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181164:0</Key>
+      <Value>Spazio fila pixel</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181164:1</Key>
+      <Value>Col-spazio pixel</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181166</Key>
+      <Value>Griglia</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181190</Key>
+      <Value>Punto focale</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181191</Key>
+      <Value>Materiale anodo</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_001811A0</Key>
+      <Value>Spessore petto</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_001811A2</Key>
+      <Value>Pressione</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181004:0</Key>
+      <Value>ID piastra</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181402</Key>
+      <Value>Orientamento cassetta</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181403</Key>
+      <Value>Formato lettura</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181510:0</Key>
+      <Value>Angolo primario rilevatore</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00185101:0</Key>
+      <Value>Visualizza posizione</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00186000</Key>
+      <Value>Sensibilità</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_0018700A</Key>
+      <Value>ID rilevatore</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187040</Key>
+      <Value>Materiale ass. griglia</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187041</Key>
+      <Value>Materiale spazio griglia</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187042</Key>
+      <Value>Spessore griglia</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187044</Key>
+      <Value>Totalità griglia</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187046:0</Key>
+      <Value>Rapporto aspetto-V griglia</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187046:1</Key>
+      <Value>Rapporto aspetto-H griglia</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_0018704C</Key>
+      <Value>Distanza focale griglia</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187050</Key>
+      <Value>Materiale filtro</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187052</Key>
+      <Value>Min spessore filtro</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187054</Key>
+      <Value>Max spessore filtro</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187060</Key>
+      <Value>Modalità Ctrl esposizione</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187064</Key>
+      <Value>Stato esposizione</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0003</Key>
+      <Value>Istanza studio UID</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPSE0005</Key>
+      <Value>Istanza serie UID</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0012</Key>
+      <Value>ID studio</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPSE0006</Key>
+      <Value>Numero di serie</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00200013</Key>
+      <Value>ID istanza</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00200060:0</Key>
+      <Value>Lateralmente</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00200062:0</Key>
+      <Value>Lateralità immagine</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00204000</Key>
+      <Value>Commento immagine</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00280010</Key>
+      <Value>Righe</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00280011</Key>
+      <Value>Colonne</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00280300</Key>
+      <Value>Immagine QC</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0074</Key>
+      <Value>Richiesta medico</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0075</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0076</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0026</Key>
+      <Value>Richiesta assistenza</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0096</Key>
+      <Value>Commenti studio</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0064</Key>
+      <Value>Necessità particolari</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0067</Key>
+      <Value>Val. Posizione paziente</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0029</Key>
+      <Value>Paz. Residenza (reparto)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0065</Key>
+      <Value>Stato paziente</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00400300</Key>
+      <Value>Dur esposizione totale</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00400302</Key>
+      <Value>Dose entrata</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00400303:0</Key>
+      <Value>Area esposta</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00400306</Key>
+      <Value>Fonte-entrata[mm]</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GSPR0006</Key>
+      <Value>Numero ordine piazzatore</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GSPR0005</Key>
+      <Value>Numero ordine riempitore</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0066</Key>
+      <Value>Riservatezza paz.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00408302</Key>
+      <Value>Dose piana inc. (mGy)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311001</Key>
+      <Value>Imposta num cartellino esame</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311002</Key>
+      <Value>Impostazione nome pagina</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311003</Key>
+      <Value>Impostazione nome gruppo</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311004</Key>
+      <Value>Impostazione nome cartellino</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311005:0</Key>
+      <Value>Num cartellino esame utente</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311007</Key>
+      <Value>Nome gruppo utente</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311008</Key>
+      <Value>Nome cartellino utente</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311100;00311060</Key>
+      <Value>XrayCtrlCode</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311100;00311061</Key>
+      <Value>Num tubo</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311018</Key>
+      <Value>Dispositivo di emissione</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311081:3</Key>
+      <Value>DL(Processo-G)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311081:4</Key>
+      <Value>DH(Processo-G)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311082:1</Key>
+      <Value>Mask Size(E-Process)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311084:1</Key>
+      <Value>Mask Size(F-Process)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_003110CC:1</Key>
+      <Value>Valore-S</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_003110CC:0</Key>
+      <Value>Valore-G</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_003110CA:0</Key>
+      <Value>Spostamento</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_003110CA:1</Key>
+      <Value>Ruota</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_0031107B:0</Key>
+      <Value>E ON/OFF</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_0031107C:0</Key>
+      <Value>F ON/OFF</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311086:0</Key>
+      <Value>H ID (HE or HF)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311086:2</Key>
+      <Value>HF-STANDARD</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311086:1</Key>
+      <Value>HE-STANDARD</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311087:1</Key>
+      <Value>HF-b2</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311087:0</Key>
+      <Value>HF-b1</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311087:3</Key>
+      <Value>HE-bh</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311087:2</Key>
+      <Value>HE-bl</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_undefined</Key>
+      <Value>Non definito</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_GN000</Key>
+      <Value>Non definito</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_GN001</Key>
+      <Value>Converti in HEX</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_GN002</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_GN003</Key>
+      <Value>Diviso per 100</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_GN005</Key>
+      <Value>Meno 2 decimali</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_GN007</Key>
+      <Value>Lettera maiuscola</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_DA000</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_DA001</Key>
+      <Value>M- G-AAAA</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_DA002</Key>
+      <Value>MM-GG-AAAA</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_DA003</Key>
+      <Value>G- M-AAAA</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_DA004</Key>
+      <Value>GG-MM-AAAA</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_DA010</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_DA011</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_TM000</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_TM001</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_TM002</Key>
+      <Value>hh:mm:ss</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_TM003</Key>
+      <Value>hh:mm</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_AS000</Key>
+      <Value>(Anni), (Mesi), (Giorni)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_AS001</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_SX000</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_SX001</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_SX002</Key>
+      <Value>(Uomo), (Donna), (Non definito)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_SX003</Key>
+      <Value>Uomo, Donna, Non definito</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo> 
+    <LocalizeInfo>
+      <Key>DisplayFormatId_PN000</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_PN001</Key>
+      <Value>^(cap)into single byte space</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="OrderListDomain0001">
+      <Title>Błąd</Title>
+      <Message>Błąd aktualizacji bazy danych.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0002">
+      <Title>Ostrzeżenie</Title>
+      <Message>Nieprawidłowa wartość, nie można wykonać.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0003">
+      <Title>Ostrzeżenie</Title>
+      <Message>Wprowadzenie danych jest obowiązkowe.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0004">
+      <Title>Błąd</Title>
+      <Message>Nie można wykonać.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0005">
+      <Title>Błąd aktualizacji danych pacjenta</Title>
+      <Message>Błąd aktualizacji danych pacjenta.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0006">
+      <Title>Informacje</Title>
+      <Message>Baza danych zaktualizowana, zostanie wyświetlone zaktualizowane badanie.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0007">
+      <Title>Błąd</Title>
+      <Message>Badanie zostało usunięte z bazy danych, nie można wykonać operacji.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0008">
+      <Title>Potwierdzenie</Title>
+      <Message>ID tego samego pacjenta: {0},Nazwisko pacjenta: {1},Płeć: {2},Data urodzenia:{3} dostępne w bazie danych, czy chcesz użyć tych danych?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0009">
+      <Title>Potwierdzenie</Title>
+      <Message>Badanie w toku, czy chcesz wykonać operację?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0010">
+      <Title>Ostrzeżenie</Title>
+      <Message>Badanie przeprowadzono już na innej konsoli.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

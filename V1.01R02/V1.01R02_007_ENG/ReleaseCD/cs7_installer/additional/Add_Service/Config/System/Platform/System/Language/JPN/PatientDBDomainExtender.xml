@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>PatientNonDeleteInfo</Key>
+      <Value>この患者情報は削除できません．</Value>
+      <Comment>Add</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Add</Key>
+      <Value>追加...</Value>
+      <Comment>Add</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Edit</Key>
+      <Value>編集...</Value>
+      <Comment>Edit</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Delete</Key>
+      <Value>削除</Value>
+      <Comment>Delete</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Filter</Key>
+      <Value>フィルター...</Value>
+      <Comment>Filter</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OK</Key>
+      <Value>OK</Value>
+      <Comment>Ok</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Cancel</Key>
+      <Value>キャンセル</Value>
+      <Comment>Cancel</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Clear</Key>
+      <Value>クリアー</Value>
+      <Comment>Clear</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Adapt</Key>
+      <Value>適用</Value>
+      <Comment>Adapt</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ID</Key>
+      <Value>ID</Value>
+      <Comment>ID</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Name</Key>
+      <Value>氏名</Value>
+      <Comment>Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Gender</Key>
+      <Value>性別</Value>
+      <Comment>Gender</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BirthDate</Key>
+      <Value>生年月日</Value>
+      <Comment>BirthDate</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Male</Key>
+      <Value>男性</Value>
+      <Comment>Male</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Female</Key>
+      <Value>女性</Value>
+      <Comment>Female</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Others</Key>
+      <Value>その他</Value>
+      <Comment>Others</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NameRomaji</Key>
+      <Value>氏名(ASCII)</Value>
+      <Comment>Name(Romaji)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NameKana</Key>
+      <Value>氏名(ｶﾅ)</Value>
+      <Comment>Name(Kana)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NameKanji</Key>
+      <Value>氏名(漢字)</Value>
+      <Comment>Name(Kanji)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Heading</Key>
+      <Value />
+      <Comment>Patient Details</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OkMessage</Key>
+      <Value>保存終了します．よろしいですか？</Value>
+      <Comment>Do you want to save and close it?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CancelMessage</Key>
+      <Value>保存せず終了します．よろしいですか？</Value>
+      <Comment>Are you sure to close it without saving?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeleteMessage</Key>
+      <Value>削除します．よろしいですか？</Value>
+      <Comment>Do you want to delete the selected patient's?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IDMessage</Key>
+      <Value>IDを入力して下さい．</Value>
+      <Comment>Please enter a Patient ID</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ValidBDMessage</Key>
+      <Value>生年月日は過去の日付から選んでください．</Value>
+      <Comment>Please enter a Valid Birth Date</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SaveMessage</Key>
+      <Value>追加した患者情報を保存します．よろしいですか？</Value>
+      <Comment>Do you want to save the new patient information?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IDExistsMessage1</Key>
+      <Value>ID</Value>
+      <Comment>The Patient ID[</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IDExistsMessage2</Key>
+      <Value>は既に登録されています．</Value>
+      <Comment>] has already been set up. Please enter again.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExitMessage</Key>
+      <Value>保存せず終了します．よろしいですか？</Value>
+      <Comment>Do you want to exit patient registration without saving?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EditSaveMessage</Key>
+      <Value>編集内容を保存して終了します．よろしいですか？</Value>
+      <Comment>Do you want to save the modified patient information?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EditExitMessage</Key>
+      <Value>編集内容を保存せず終了します．よろしいですか？</Value>
+      <Comment>Do you want to stop modification without saving?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AddDialogTitle</Key>
+      <Value>追加</Value>
+      <Comment>Do you want to stop modification without saving?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EditDialogTitle</Key>
+      <Value>編集</Value>
+      <Comment>Do you want to stop modification without saving?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilterDialogTitle</Key>
+      <Value>フィルター</Value>
+      <Comment>Do you want to stop modification without saving?</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AdaptUserResponse</Key>
+      <Value>保存します．よろしいですか？</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DataBaseUse</Key>
+      <Value>データベースは使用中です．</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeletedRecMsg</Key>
+      <Value>件の患者情報を削除しました．</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Years</Key>
+      <Value>才</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Months</Key>
+      <Value>ヶ月</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ValidationFailed</Key>
+      <Value>に正しい値が入力されているか確認してください．</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AlphaNumeric</Key>
+      <Value>は英数字を入力してください．</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Close</Key>
+      <Value>閉じる</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CloseMessage</Key>
+      <Value>画面を閉じます．よろしいですか？</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

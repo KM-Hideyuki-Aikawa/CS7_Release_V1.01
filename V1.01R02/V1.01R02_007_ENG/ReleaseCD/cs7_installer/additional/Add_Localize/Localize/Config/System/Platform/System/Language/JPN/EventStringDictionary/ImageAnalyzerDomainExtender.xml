@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0104">
+      <Title>エラー</Title>
+      <Message>撮影シーケンスに失敗しました</Message>
+    </EventString>
+    <EventString Key="0112">
+      <Title>エラー</Title>
+      <Message>電気ノイズ解析に失敗しました</Message>
+    </EventString>
+    <EventString Key="0113">
+      <Title>エラー</Title>
+      <Message>ムラ解析に失敗しました</Message>
+    </EventString>
+    <EventString Key="0114">
+      <Title>エラー</Title>
+      <Message>ベース欠陥マップ更新に失敗しました</Message>
+    </EventString>
+    <EventString Key="0115">
+      <Title>エラー</Title>
+      <Message>欠陥マップ解析に失敗しました</Message>
+    </EventString>
+    <EventString Key="0116">
+      <Title>エラー</Title>
+      <Message>画像の取得に失敗しました</Message>
+    </EventString>
+    <EventString Key="0117">
+      <Title>画像解析結果</Title>
+      <Message>画像解析が終了しました</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

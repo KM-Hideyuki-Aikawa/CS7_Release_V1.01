@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="JMDomainExtender0001">
+      <Title>Status de Ping</Title>
+      <Message>Ligado com sucesso.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0002">
+      <Title>Status de Ping</Title>
+      <Message>Falha ao ligar.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0003">
+      <Title />
+      <Message>Se a leitura é inadvertidamente interrompida durante problemas isso pode provocar obstáculos tal como desaparecimento de imagem e outros. Quando parar, reserve a digitalização e reinicie o CS.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0004">
+      <Title />
+      <Message>O trabalho não foi apagado com sucesso.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0005">
+      <Title />
+      <Message>O trabalho foi apagado com sucesso.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0006">
+      <Title />
+      <Message>Alterar o JM. O registo da cassete ficará totalmente desativado. Concorda？</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0401">
+      <Title>خطأ إرسال</Title>
+      <Message>حدث خطأ داخلي في عملية اتصال الأشعة السينية.</Message>
+    </EventString>
+    <EventString Key="0402">
+      <Title>خطأ داخلي</Title>
+      <Message>حدث خطأ داخلي في عملية اتصال الأشعة السينية.</Message>
+    </EventString>
+    <EventString Key="0403">
+      <Title>خطأ إرسال</Title>
+      <Message>فشل إرسال أمر شروط التعرض لنظام الأشعة السينية. أعد تشغيل جهاز الأشعة السينية.</Message>
+    </EventString>
+    <EventString Key="0404">
+      <Title>خطأ إعداد</Title>
+      <Message>خطأ تعيين المُعلمة إلى نظام الأشعة السينية.</Message>
+    </EventString>
+    <EventString Key="0405">
+      <Title>خطأ جهاز</Title>
+      <Message>تم اكتشاف خطأ بنظام الأشعة السينية.</Message>
+    </EventString>
+    <EventString Key="0406">
+      <Title>خطأ إرسال</Title>
+      <Message>خطأ باتصال نظام الأشعة السينية. تحقق من الشبكة.</Message>
+    </EventString>
+    <EventString Key="0301">
+      <Title />
+      <Message />
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

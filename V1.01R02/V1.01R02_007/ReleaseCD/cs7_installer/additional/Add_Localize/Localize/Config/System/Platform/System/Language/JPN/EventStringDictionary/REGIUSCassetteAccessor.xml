@@ -1,0 +1,1637 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="MES04001">
+      <Title>CR Error </Title>
+      <Message>搬送ユニットHP1センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04002">
+      <Title>CR Error</Title>
+      <Message>搬送ユニットHP1センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04011">
+      <Title>CR Error</Title>
+      <Message>搬送ユニットHP2センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04012">
+      <Title>CR Error</Title>
+      <Message>搬送ユニットHP2センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04013">
+      <Title>CR Error</Title>
+      <Message>搬送ユニットHP2センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04014">
+      <Title>CR Error</Title>
+      <Message>搬送ユニットHP2センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04015">
+      <Title>CR Error</Title>
+      <Message>搬送ユニットHP2センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04020">
+      <Title>CR Error</Title>
+      <Message>幅寄せ左右センサーNG(開始時)</Message>
+    </EventString>
+    <EventString Key="MES04021">
+      <Title>CR Error</Title>
+      <Message>幅寄せ左右センサーNG(取り込み時)</Message>
+    </EventString>
+    <EventString Key="MES04022">
+      <Title>CR Error</Title>
+      <Message>幅寄せ左右センサーNG(吸着時)</Message>
+    </EventString>
+    <EventString Key="MES04023">
+      <Title>CR Error</Title>
+      <Message>幅寄せ左右センサーNG(退避時)</Message>
+    </EventString>
+    <EventString Key="MES04024">
+      <Title>CR Error</Title>
+      <Message>幅寄せ左右センサーNG(排出時)</Message>
+    </EventString>
+    <EventString Key="MES04025">
+      <Title>CR Error</Title>
+      <Message>幅寄せHPセンサーNG</Message>
+    </EventString>
+    <EventString Key="MES04026">
+      <Title>CR Error</Title>
+      <Message>幅寄せ左側センサーNG(イニシャライズ時)</Message>
+    </EventString>
+    <EventString Key="MES04027">
+      <Title>CR Error</Title>
+      <Message>幅寄せ右側センサーNG(イニシャライズ時)</Message>
+    </EventString>
+    <EventString Key="MES04030">
+      <Title>CR Error</Title>
+      <Message>昇降台検出センサーNG(開始時)</Message>
+    </EventString>
+    <EventString Key="MES04031">
+      <Title>CR Error</Title>
+      <Message>昇降台検出センサーNG(取り込み時)</Message>
+    </EventString>
+    <EventString Key="MES04032">
+      <Title>CR Error</Title>
+      <Message>昇降台検出センサーNG(吸着時)</Message>
+    </EventString>
+    <EventString Key="MES04033">
+      <Title>CR Error</Title>
+      <Message>昇降台検出センサーNG(退避時)</Message>
+    </EventString>
+    <EventString Key="MES04034">
+      <Title>CR Error</Title>
+      <Message>昇降台検出センサーNG(排出時昇降前)</Message>
+    </EventString>
+    <EventString Key="MES04035">
+      <Title>CR Error</Title>
+      <Message>ロックHPセンサーNG</Message>
+    </EventString>
+    <EventString Key="MES04036">
+      <Title>CR Error</Title>
+      <Message>昇降台HPセンサーNG</Message>
+    </EventString>
+    <EventString Key="MES04037">
+      <Title>CR Error</Title>
+      <Message>昇降台検出センサーNG(排出時昇降後)</Message>
+    </EventString>
+    <EventString Key="MES04041">
+      <Title>CR Error</Title>
+      <Message>投入口シャッター開センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04042">
+      <Title>CR Error</Title>
+      <Message>投入口シャッター閉センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04043">
+      <Title>CR Error</Title>
+      <Message>投入口シャッター開センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04044">
+      <Title>CR Error</Title>
+      <Message>投入口シャッター閉センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04045">
+      <Title>CR Error</Title>
+      <Message>バック板検出センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04046">
+      <Title>CR Error</Title>
+      <Message>剥がれ検出センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04047">
+      <Title>CR Error</Title>
+      <Message>吸着検出センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04048">
+      <Title>CR Error</Title>
+      <Message>排出口閉センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04051">
+      <Title>CR Error</Title>
+      <Message>排出口蓋閉センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04061">
+      <Title>CR Error</Title>
+      <Message>副走査HPセンサーNG</Message>
+    </EventString>
+    <EventString Key="MES04062">
+      <Title>CR Error</Title>
+      <Message>バック板吸着検出センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04063">
+      <Title>CR Error</Title>
+      <Message>バック板そり検出センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04064">
+      <Title>CR Error</Title>
+      <Message>V-SYNCセンサーNG</Message>
+    </EventString>
+    <EventString Key="MES04065">
+      <Title>CR Error</Title>
+      <Message>バック板吸着検出センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04066">
+      <Title>CR Error</Title>
+      <Message>バック板吸着検出センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04067">
+      <Title>CR Error</Title>
+      <Message>バック板吸着検出センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04068">
+      <Title>CR Error</Title>
+      <Message>バック板吸着検出センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04069">
+      <Title>CR Error</Title>
+      <Message>バック板吸着検出センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04070">
+      <Title>CR Error</Title>
+      <Message>バック板吸着検出センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04071">
+      <Title>CR Error</Title>
+      <Message>投入検出中央センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04072">
+      <Title>CR Error</Title>
+      <Message>投入検出左側センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04073">
+      <Title>CR Error</Title>
+      <Message>バック板検出センサーNG(イニシャライズ)</Message>
+    </EventString>
+    <EventString Key="MES04074">
+      <Title>CR Error</Title>
+      <Message>剥がれ検出センサーNG(イニシャライズ)</Message>
+    </EventString>
+    <EventString Key="MES04075">
+      <Title>CR Error</Title>
+      <Message>吸着検出センサーNG(イニシャライズ)</Message>
+    </EventString>
+    <EventString Key="MES04076">
+      <Title>CR Error</Title>
+      <Message>24V電源NG-通常時</Message>
+    </EventString>
+    <EventString Key="MES04077">
+      <Title>CR Error</Title>
+      <Message>24V電源NG-扉閉時</Message>
+    </EventString>
+    <EventString Key="MES04081">
+      <Title>CR Error</Title>
+      <Message>消去ランプ電流検出1センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04082">
+      <Title>CR Error</Title>
+      <Message>消去ランプ電流検出2センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04091">
+      <Title>CR Error</Title>
+      <Message>フロント扉開検出センサーNG</Message>
+    </EventString>
+    <EventString Key="MES04101">
+      <Title>CR Error</Title>
+      <Message>副走査モーターNG</Message>
+    </EventString>
+    <EventString Key="MES04102">
+      <Title>CR Error</Title>
+      <Message>搬送部モーターNG</Message>
+    </EventString>
+    <EventString Key="MES04103">
+      <Title>CR Error</Title>
+      <Message>昇降台モーターNG</Message>
+    </EventString>
+    <EventString Key="MES04104">
+      <Title>CR Error</Title>
+      <Message>幅寄せモーターNG</Message>
+    </EventString>
+    <EventString Key="MES04105">
+      <Title>CR Error</Title>
+      <Message>投入口シャッター開閉タイムアウト</Message>
+    </EventString>
+    <EventString Key="MES04106">
+      <Title>CR Error</Title>
+      <Message>ロックタイムアウト</Message>
+    </EventString>
+    <EventString Key="MES04107">
+      <Title>CR Error</Title>
+      <Message>投入モーターNG</Message>
+    </EventString>
+    <EventString Key="MES04150">
+      <Title>CR Error</Title>
+      <Message>ロック初期化処理</Message>
+    </EventString>
+    <EventString Key="MES04151">
+      <Title>CR Error</Title>
+      <Message>投入口シャッター初期化処理</Message>
+    </EventString>
+    <EventString Key="MES04152">
+      <Title>CR Error</Title>
+      <Message>昇降台初期化処理</Message>
+    </EventString>
+    <EventString Key="MES04153">
+      <Title>CR Error</Title>
+      <Message>幅寄せ初期化処理</Message>
+    </EventString>
+    <EventString Key="MES04154">
+      <Title>CR Error</Title>
+      <Message>搬送部初期化処理</Message>
+    </EventString>
+    <EventString Key="MES04155">
+      <Title>CR Error</Title>
+      <Message>副走査初期化処理</Message>
+    </EventString>
+    <EventString Key="MES04156">
+      <Title>CR Error</Title>
+      <Message>飲み込み動作1開始NG</Message>
+    </EventString>
+    <EventString Key="MES04157">
+      <Title>CR Error</Title>
+      <Message>飲み込み動作2開始NG</Message>
+    </EventString>
+    <EventString Key="MES04158">
+      <Title>CR Error</Title>
+      <Message>投入部排出動作開始NG</Message>
+    </EventString>
+    <EventString Key="MES04159">
+      <Title>CR Error</Title>
+      <Message>排出動作開始NG</Message>
+    </EventString>
+    <EventString Key="MES04160">
+      <Title>CR Error</Title>
+      <Message>投入部シャッター開NG</Message>
+    </EventString>
+    <EventString Key="MES04161">
+      <Title>CR Error</Title>
+      <Message>投入部シャッター閉NG</Message>
+    </EventString>
+    <EventString Key="MES04162">
+      <Title>CR Error</Title>
+      <Message>ロック開始NG</Message>
+    </EventString>
+    <EventString Key="MES04163">
+      <Title>CR Error</Title>
+      <Message>カセッテ落下検出時間NG</Message>
+    </EventString>
+    <EventString Key="MES04164">
+      <Title>CR Error</Title>
+      <Message>消去ランプON許可が通知されなかった</Message>
+    </EventString>
+    <EventString Key="MES04165">
+      <Title>CR Error</Title>
+      <Message>消去ランプOFF許可が通知されなかった</Message>
+    </EventString>
+    <EventString Key="MES04167">
+      <Title>CR Error</Title>
+      <Message>投入モーター初期化処理</Message>
+    </EventString>
+    <EventString Key="MES04200">
+      <Title>CR Error</Title>
+      <Message>GetStatus受信タイムアウト - Initialize</Message>
+    </EventString>
+    <EventString Key="MES04201">
+      <Title>CR Error</Title>
+      <Message>GetStatus受信タイムアウト - Ready</Message>
+    </EventString>
+    <EventString Key="MES04202">
+      <Title>CR Error</Title>
+      <Message>GetStatus受信タイムアウト - Barcode検出</Message>
+    </EventString>
+    <EventString Key="MES04203">
+      <Title>CR Error</Title>
+      <Message>GetStatus受信タイムアウト - 高圧ON</Message>
+    </EventString>
+    <EventString Key="MES04204">
+      <Title>CR Error</Title>
+      <Message>GetStatus受信タイムアウト - レーザーON</Message>
+    </EventString>
+    <EventString Key="MES04205">
+      <Title>CR Error</Title>
+      <Message>GetStatus受信タイムアウト - バーコード取消</Message>
+    </EventString>
+    <EventString Key="MES04206">
+      <Title>CR Error</Title>
+      <Message>GetStatus受信タイムアウト - Processing</Message>
+    </EventString>
+    <EventString Key="MES04207">
+      <Title>CR Error</Title>
+      <Message>GetStatus受信タイムアウト - 一時停止</Message>
+    </EventString>
+    <EventString Key="MES04208">
+      <Title>CR Error</Title>
+      <Message>GetStatus受信タイムアウト - フロント扉開</Message>
+    </EventString>
+    <EventString Key="MES04209">
+      <Title>CR Error</Title>
+      <Message>GetStatus受信タイムアウト - フロント扉閉</Message>
+    </EventString>
+    <EventString Key="MES04210">
+      <Title>CR Error</Title>
+      <Message>GetStatus受信タイムアウト - エラー</Message>
+    </EventString>
+    <EventString Key="MES04211">
+      <Title>CR Error</Title>
+      <Message>GetStatus受信タイムアウト - Standby</Message>
+    </EventString>
+    <EventString Key="MES04212">
+      <Title>CR Error</Title>
+      <Message>GetStatus受信タイムアウト - 消去モード搬送中</Message>
+    </EventString>
+    <EventString Key="MES04213">
+      <Title>CR Error</Title>
+      <Message>GetStatus受信タイムアウト - Ready後パワーOFF</Message>
+    </EventString>
+    <EventString Key="MES04214">
+      <Title>CR Error</Title>
+      <Message>RegistrationOK受信タイムアウト</Message>
+    </EventString>
+    <EventString Key="MES04215">
+      <Title>CR Error</Title>
+      <Message>GetStatus受信エラー - レーザーON</Message>
+    </EventString>
+    <EventString Key="MES04216">
+      <Title>CR Error</Title>
+      <Message>GoBackward受信タイムアウト</Message>
+    </EventString>
+    <EventString Key="MES04217">
+      <Title>CR Error</Title>
+      <Message>高圧ON未送信でレーザーON(その1)</Message>
+    </EventString>
+    <EventString Key="MES04218">
+      <Title>CR Error</Title>
+      <Message>高圧ON未送信でレーザーON(その2)</Message>
+    </EventString>
+    <EventString Key="MES04219">
+      <Title>CR Error</Title>
+      <Message>不正なコマンドを受信した</Message>
+    </EventString>
+    <EventString Key="MES04221">
+      <Title>CR Error</Title>
+      <Message>StartSubScan受信タイムアウト</Message>
+    </EventString>
+    <EventString Key="MES04900">
+      <Title>CR Error</Title>
+      <Message>起動時カセッテあり(昇降台)</Message>
+    </EventString>
+    <EventString Key="MES04901">
+      <Title>CR Error</Title>
+      <Message>起動時カセッテあり(幅寄せ)</Message>
+    </EventString>
+    <EventString Key="MES04902">
+      <Title>CR Error</Title>
+      <Message>起動時カセッテあり(排出口開)</Message>
+    </EventString>
+    <EventString Key="MES04903">
+      <Title>CR Error</Title>
+      <Message>起動時カセッテあり(バック板吸着)</Message>
+    </EventString>
+    <EventString Key="MES04904">
+      <Title>CR Error</Title>
+      <Message>消去ランプ切れ(2本)</Message>
+    </EventString>
+    <EventString Key="MES04905">
+      <Title>CR Error</Title>
+      <Message>SCB通信エラー</Message>
+    </EventString>
+    <EventString Key="MES04906">
+      <Title>CR Error</Title>
+      <Message>カセッテそり検出[%s]</Message>
+    </EventString>
+    <EventString Key="MES04907">
+      <Title>CR Error</Title>
+      <Message>カセッテ引き剥がしNG[%s]</Message>
+    </EventString>
+    <EventString Key="MES04908">
+      <Title>CR Error</Title>
+      <Message>カセッテ落下検出[%s]</Message>
+    </EventString>
+    <EventString Key="MES04909">
+      <Title>CR Error</Title>
+      <Message>カセッテずれ検出(バック板吸着時)[%s]</Message>
+    </EventString>
+    <EventString Key="MES04910">
+      <Title>CR Error</Title>
+      <Message>カセッテずれ検出(カセッテ引き剥がし時)[%s]</Message>
+    </EventString>
+    <EventString Key="MES04914">
+      <Title>CR Error</Title>
+      <Message>排出口開(イニシャライズ時)</Message>
+    </EventString>
+    <EventString Key="MES04917">
+      <Title>CR Error</Title>
+      <Message>投入部シャッター開NG(ロック解除)</Message>
+    </EventString>
+    <EventString Key="MES04918">
+      <Title>CR Error</Title>
+      <Message>ファン断線NG1</Message>
+    </EventString>
+    <EventString Key="MES04920">
+      <Title>CR Error</Title>
+      <Message>ファン断線NG3</Message>
+    </EventString>
+    <EventString Key="MES04921">
+      <Title>CR Error</Title>
+      <Message>消去ランプNG</Message>
+    </EventString>
+    <EventString Key="MES06000">
+      <Title>CR Error</Title>
+      <Message>幅調HPセンサーNG（HPへの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06001">
+      <Title>CR Error</Title>
+      <Message>幅調モーター制御NG（HPへの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06002">
+      <Title>CR Error</Title>
+      <Message>幅調HPセンサーNG（カセッテ固定位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06003">
+      <Title>CR Error</Title>
+      <Message>幅調モーター制御NG（カセッテ固定位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06004">
+      <Title>CR Error</Title>
+      <Message>幅調モーター制御NG（微少開放位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06005">
+      <Title>CR Error</Title>
+      <Message>幅調モーター制御NG（カセッテ固定位置への移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06006">
+      <Title>CR Error</Title>
+      <Message>幅調HPセンサーNG（HPへの移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06007">
+      <Title>CR Error</Title>
+      <Message>幅調モーター制御NG（HPへの移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06008">
+      <Title>CR Error</Title>
+      <Message>幅調HPセンサーNG（HPへの移動時３）</Message>
+    </EventString>
+    <EventString Key="MES06009">
+      <Title>CR Error</Title>
+      <Message>幅調モーター制御NG（HPへの移動時３）</Message>
+    </EventString>
+    <EventString Key="MES06010">
+      <Title>CR Error</Title>
+      <Message>幅調HPセンサーNG（微少開放位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06011">
+      <Title>CR Error</Title>
+      <Message>幅調モーター制御NG（微少開放位置への移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06015">
+      <Title>CR Error</Title>
+      <Message>幅調HPセンサーNG（HPへの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06016">
+      <Title>CR Error</Title>
+      <Message>幅調モーター制御NG（HPへの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06017">
+      <Title>CR Error</Title>
+      <Message>幅調HPセンサーNG（カセッテ固定位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06018">
+      <Title>CR Error</Title>
+      <Message>幅調モーター制御NG（カセッテ固定位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06019">
+      <Title>CR Error</Title>
+      <Message>幅調モーター制御NG（微少開放位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06020">
+      <Title>CR Error</Title>
+      <Message>幅調モーター制御NG（カセッテ固定位置への移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06021">
+      <Title>CR Error</Title>
+      <Message>幅調HPセンサーNG（HPへの移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06022">
+      <Title>CR Error</Title>
+      <Message>幅調モーター制御NG（HPへの移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06023">
+      <Title>CR Error</Title>
+      <Message>幅調HPセンサーNG（HPへの移動時３）</Message>
+    </EventString>
+    <EventString Key="MES06024">
+      <Title>CR Error</Title>
+      <Message>幅調モーター制御NG（HPへの移動時３）</Message>
+    </EventString>
+    <EventString Key="MES06025">
+      <Title>CR Error</Title>
+      <Message>幅調HPセンサーNG（微少開放位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06026">
+      <Title>CR Error</Title>
+      <Message>幅調モーター制御NG（微少開放位置への移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06030">
+      <Title>CR Error</Title>
+      <Message>幅調HPセンサーNG（HPへの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06031">
+      <Title>CR Error</Title>
+      <Message>幅調モーター制御NG（HPへの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06032">
+      <Title>CR Error</Title>
+      <Message>幅調HPセンサーNG（カセッテ固定位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06033">
+      <Title>CR Error</Title>
+      <Message>幅調モーター制御NG（カセッテ固定位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06034">
+      <Title>CR Error</Title>
+      <Message>幅調モーター制御NG（微少開放位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06035">
+      <Title>CR Error</Title>
+      <Message>幅調モーター制御NG（カセッテ固定位置への移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06036">
+      <Title>CR Error</Title>
+      <Message>幅調HPセンサーNG（HPへの移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06037">
+      <Title>CR Error</Title>
+      <Message>幅調モーター制御NG（HPへの移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06038">
+      <Title>CR Error</Title>
+      <Message>幅調HPセンサーNG（HPへの移動時３）</Message>
+    </EventString>
+    <EventString Key="MES06039">
+      <Title>CR Error</Title>
+      <Message>幅調モーター制御NG（HPへの移動時３）</Message>
+    </EventString>
+    <EventString Key="MES06040">
+      <Title>CR Error</Title>
+      <Message>幅調HPセンサーNG（微少開放位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06041">
+      <Title>CR Error</Title>
+      <Message>幅調モーター制御NG（微少開放位置への移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06050">
+      <Title>CR Error</Title>
+      <Message>受け台HPセンサーNG（HPへの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06051">
+      <Title>CR Error</Title>
+      <Message>昇降モーター制御NG（HPへの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06052">
+      <Title>CR Error</Title>
+      <Message>受け台HPセンサーNG（第1降下位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06053">
+      <Title>CR Error</Title>
+      <Message>昇降モーター制御NG（第1降下位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06054">
+      <Title>CR Error</Title>
+      <Message>昇降モーター制御NG（第2降下位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06055">
+      <Title>CR Error</Title>
+      <Message>昇降モーター制御NG（第2降下位置での微少降下時）</Message>
+    </EventString>
+    <EventString Key="MES06056">
+      <Title>CR Error</Title>
+      <Message>昇降モーター制御NG（第1降下位置への移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06057">
+      <Title>CR Error</Title>
+      <Message>受け台HPセンサーNG（HPへの移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06058">
+      <Title>CR Error</Title>
+      <Message>昇降モーター制御NG（HPへの移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06059">
+      <Title>CR Error</Title>
+      <Message>受け台HPセンサーNG（HPへの移動時３）</Message>
+    </EventString>
+    <EventString Key="MES06060">
+      <Title>CR Error</Title>
+      <Message>昇降モーター制御NG（HPへの移動時３）</Message>
+    </EventString>
+    <EventString Key="MES06061">
+      <Title>CR Error</Title>
+      <Message>受け台HPセンサーNG（第2降下位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06062">
+      <Title>CR Error</Title>
+      <Message>昇降モーター制御NG（第2降下位置への移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06065">
+      <Title>CR Error</Title>
+      <Message>受け台HPセンサーNG（HPへの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06066">
+      <Title>CR Error</Title>
+      <Message>昇降モーター制御NG（HPへの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06067">
+      <Title>CR Error</Title>
+      <Message>受け台HPセンサーNG（第1降下位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06068">
+      <Title>CR Error</Title>
+      <Message>昇降モーター制御NG（第1降下位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06069">
+      <Title>CR Error</Title>
+      <Message>昇降モーター制御NG（第2降下位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06070">
+      <Title>CR Error</Title>
+      <Message>昇降モーター制御NG（第2降下位置での微少降下時）</Message>
+    </EventString>
+    <EventString Key="MES06071">
+      <Title>CR Error</Title>
+      <Message>昇降モーター制御NG（第1降下位置への移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06072">
+      <Title>CR Error</Title>
+      <Message>受け台HPセンサーNG（HPへの移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06073">
+      <Title>CR Error</Title>
+      <Message>昇降モーター制御NG（HPへの移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06074">
+      <Title>CR Error</Title>
+      <Message>受け台HPセンサーNG（HPへの移動時３）</Message>
+    </EventString>
+    <EventString Key="MES06075">
+      <Title>CR Error</Title>
+      <Message>昇降モーター制御NG（HPへの移動時３）</Message>
+    </EventString>
+    <EventString Key="MES06076">
+      <Title>CR Error</Title>
+      <Message>受け台HPセンサーNG（第2降下位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06077">
+      <Title>CR Error</Title>
+      <Message>昇降モーター制御NG（第2降下位置への移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06080">
+      <Title>CR Error</Title>
+      <Message>受け台HPセンサーNG（HPへの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06081">
+      <Title>CR Error</Title>
+      <Message>昇降モーター制御NG（HPへの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06082">
+      <Title>CR Error</Title>
+      <Message>受け台HPセンサーNG（第1降下位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06083">
+      <Title>CR Error</Title>
+      <Message>昇降モーター制御NG（第1降下位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06084">
+      <Title>CR Error</Title>
+      <Message>昇降モーター制御NG（第2降下位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06085">
+      <Title>CR Error</Title>
+      <Message>昇降モーター制御NG（第2降下位置での微少降下時）</Message>
+    </EventString>
+    <EventString Key="MES06086">
+      <Title>CR Error</Title>
+      <Message>昇降モーター制御NG（第1降下位置への移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06087">
+      <Title>CR Error</Title>
+      <Message>受け台HPセンサーNG（HPへの移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06088">
+      <Title>CR Error</Title>
+      <Message>昇降モーター制御NG（HPへの移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06089">
+      <Title>CR Error</Title>
+      <Message>受け台HPセンサーNG（HPへの移動時３）</Message>
+    </EventString>
+    <EventString Key="MES06090">
+      <Title>CR Error</Title>
+      <Message>昇降モーター制御NG（HPへの移動時３）</Message>
+    </EventString>
+    <EventString Key="MES06091">
+      <Title>CR Error</Title>
+      <Message>受け台HPセンサーNG（第2降下位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06092">
+      <Title>CR Error</Title>
+      <Message>昇降モーター制御NG（第2降下位置への移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06100">
+      <Title>CR Error</Title>
+      <Message>搬送読取りセンサーNG（読み取り位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06101">
+      <Title>CR Error</Title>
+      <Message>搬送モーター制御NG（読み取り位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06102">
+      <Title>CR Error</Title>
+      <Message>搬送読取りセンサーNG（HPへの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06103">
+      <Title>CR Error</Title>
+      <Message>搬送HPセンサーNG（HPへの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06104">
+      <Title>CR Error</Title>
+      <Message>搬送モーター制御NG（HPへの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06105">
+      <Title>CR Error</Title>
+      <Message>搬送HPセンサーNG（押し付け位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06106">
+      <Title>CR Error</Title>
+      <Message>搬送モーター制御NG（押し付け位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06107">
+      <Title>CR Error</Title>
+      <Message>搬送読取りセンサーNG（読み取り位置への移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06108">
+      <Title>CR Error</Title>
+      <Message>搬送モーター制御NG（読み取り位置への移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06109">
+      <Title>CR Error</Title>
+      <Message>搬送読取りセンサーNG（押し付け位置への移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06110">
+      <Title>CR Error</Title>
+      <Message>搬送モーター制御NG（押し付け位置への移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06111">
+      <Title>CR Error</Title>
+      <Message>搬送モーター制御NG（HP通過位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06112">
+      <Title>CR Error</Title>
+      <Message>搬送HPセンサーNG（HPへの移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06113">
+      <Title>CR Error</Title>
+      <Message>搬送モーター制御NG（HPへの移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06115">
+      <Title>CR Error</Title>
+      <Message>搬送読取りセンサーNG（読み取り位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06116">
+      <Title>CR Error</Title>
+      <Message>搬送モーター制御NG（読み取り位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06117">
+      <Title>CR Error</Title>
+      <Message>搬送読取りセンサーNG（HPへの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06118">
+      <Title>CR Error</Title>
+      <Message>搬送HPセンサーNG（HPへの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06119">
+      <Title>CR Error</Title>
+      <Message>搬送モーター制御NG（HPへの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06120">
+      <Title>CR Error</Title>
+      <Message>搬送HPセンサーNG（押し付け位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06121">
+      <Title>CR Error</Title>
+      <Message>搬送モーター制御NG（押し付け位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06122">
+      <Title>CR Error</Title>
+      <Message>搬送読取りセンサーNG（読み取り位置への移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06123">
+      <Title>CR Error</Title>
+      <Message>搬送モーター制御NG（読み取り位置への移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06124">
+      <Title>CR Error</Title>
+      <Message>搬送読取りセンサーNG（押し付け位置への移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06125">
+      <Title>CR Error</Title>
+      <Message>搬送モーター制御NG（押し付け位置への移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06126">
+      <Title>CR Error</Title>
+      <Message>搬送モーター制御NG（HP通過位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06127">
+      <Title>CR Error</Title>
+      <Message>搬送HPセンサーNG（HPへの移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06128">
+      <Title>CR Error</Title>
+      <Message>搬送モーター制御NG（HPへの移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06130">
+      <Title>CR Error</Title>
+      <Message>搬送読取りセンサーNG（読み取り位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06131">
+      <Title>CR Error</Title>
+      <Message>搬送モーター制御NG（読み取り位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06132">
+      <Title>CR Error</Title>
+      <Message>搬送読取りセンサーNG（HPへの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06133">
+      <Title>CR Error</Title>
+      <Message>搬送HPセンサーNG（HPへの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06134">
+      <Title>CR Error</Title>
+      <Message>搬送モーター制御NG（HPへの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06135">
+      <Title>CR Error</Title>
+      <Message>搬送HPセンサーNG（押し付け位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06136">
+      <Title>CR Error</Title>
+      <Message>搬送モーター制御NG（押し付け位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06137">
+      <Title>CR Error</Title>
+      <Message>搬送読取りセンサーNG（読み取り位置への移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06138">
+      <Title>CR Error</Title>
+      <Message>搬送モーター制御NG（読み取り位置への移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06139">
+      <Title>CR Error</Title>
+      <Message>搬送読取りセンサーNG（押し付け位置への移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06140">
+      <Title>CR Error</Title>
+      <Message>搬送モーター制御NG（押し付け位置への移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06141">
+      <Title>CR Error</Title>
+      <Message>搬送モーター制御NG（HP通過位置への移動時）</Message>
+    </EventString>
+    <EventString Key="MES06142">
+      <Title>CR Error</Title>
+      <Message>搬送HPセンサーNG（HPへの移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06143">
+      <Title>CR Error</Title>
+      <Message>搬送モーター制御NG（HPへの移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06150">
+      <Title>CR Error</Title>
+      <Message>エンコーダー初期化NG</Message>
+    </EventString>
+    <EventString Key="MES06151">
+      <Title>CR Error</Title>
+      <Message>副走査モーター制御NG（メカニカルHPへの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06152">
+      <Title>CR Error</Title>
+      <Message>副走査モーター制御NG（読み取り終了位置までの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06153">
+      <Title>CR Error</Title>
+      <Message>副走査モーター制御NG（メカニカルHPへの移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06165">
+      <Title>CR Error</Title>
+      <Message>エンコーダー初期化NG</Message>
+    </EventString>
+    <EventString Key="MES06166">
+      <Title>CR Error</Title>
+      <Message>副走査モーター制御NG（メカニカルHPへの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06167">
+      <Title>CR Error</Title>
+      <Message>副走査モーター制御NG（読み取り終了位置までの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06168">
+      <Title>CR Error</Title>
+      <Message>副走査モーター制御NG（メカニカルHPへの移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06180">
+      <Title>CR Error</Title>
+      <Message>エンコーダー初期化NG</Message>
+    </EventString>
+    <EventString Key="MES06181">
+      <Title>CR Error</Title>
+      <Message>副走査モーター制御NG（メカニカルHPへの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06182">
+      <Title>CR Error</Title>
+      <Message>副走査モーター制御NG（読み取り終了位置までの移動時）</Message>
+    </EventString>
+    <EventString Key="MES06183">
+      <Title>CR Error</Title>
+      <Message>副走査モーター制御NG（メカニカルHPへの移動時２）</Message>
+    </EventString>
+    <EventString Key="MES06200">
+      <Title>CR Error</Title>
+      <Message>投入シャッター開NG</Message>
+    </EventString>
+    <EventString Key="MES06201">
+      <Title>CR Error</Title>
+      <Message>投入シャッター閉NG</Message>
+    </EventString>
+    <EventString Key="MES06215">
+      <Title>CR Error</Title>
+      <Message>投入シャッター開NG</Message>
+    </EventString>
+    <EventString Key="MES06216">
+      <Title>CR Error</Title>
+      <Message>投入シャッター閉NG</Message>
+    </EventString>
+    <EventString Key="MES06230">
+      <Title>CR Error</Title>
+      <Message>投入シャッター開NG</Message>
+    </EventString>
+    <EventString Key="MES06231">
+      <Title>CR Error</Title>
+      <Message>投入シャッター閉NG</Message>
+    </EventString>
+    <EventString Key="MES06250">
+      <Title>CR Error</Title>
+      <Message>ロック解除モーターNG（初期化時）</Message>
+    </EventString>
+    <EventString Key="MES06251">
+      <Title>CR Error</Title>
+      <Message>ロック解除モーターNG（ロック時）</Message>
+    </EventString>
+    <EventString Key="MES06252">
+      <Title>CR Error</Title>
+      <Message>ロック解除モーターNG（解除時）</Message>
+    </EventString>
+    <EventString Key="MES06265">
+      <Title>CR Error</Title>
+      <Message>ロック解除モーターNG（初期化時）</Message>
+    </EventString>
+    <EventString Key="MES06266">
+      <Title>CR Error</Title>
+      <Message>ロック解除モーターNG（ロック時）</Message>
+    </EventString>
+    <EventString Key="MES06267">
+      <Title>CR Error</Title>
+      <Message>ロック解除モーターNG（解除時）</Message>
+    </EventString>
+    <EventString Key="MES06280">
+      <Title>CR Error</Title>
+      <Message>ロック解除モーターNG（初期化時）</Message>
+    </EventString>
+    <EventString Key="MES06281">
+      <Title>CR Error</Title>
+      <Message>ロック解除モーターNG（ロック時）</Message>
+    </EventString>
+    <EventString Key="MES06282">
+      <Title>CR Error</Title>
+      <Message>ロック解除モーターNG（解除時）</Message>
+    </EventString>
+    <EventString Key="MES06300">
+      <Title>CR Error</Title>
+      <Message>幅調センサーNG（固定動作時）</Message>
+    </EventString>
+    <EventString Key="MES06301">
+      <Title>CR Error</Title>
+      <Message>幅調センサーNG（固定中）</Message>
+    </EventString>
+    <EventString Key="MES06302">
+      <Title>CR Error</Title>
+      <Message>起動時カセッテあり（幅調センサー）</Message>
+    </EventString>
+    <EventString Key="MES06303">
+      <Title>CR Error</Title>
+      <Message>初期化時カセッテあり（幅調センサー）</Message>
+    </EventString>
+    <EventString Key="MES06315">
+      <Title>CR Error</Title>
+      <Message>幅調センサーNG（固定動作時）</Message>
+    </EventString>
+    <EventString Key="MES06316">
+      <Title>CR Error</Title>
+      <Message>幅調センサーNG（固定中）</Message>
+    </EventString>
+    <EventString Key="MES06318">
+      <Title>CR Error</Title>
+      <Message>初期化時カセッテあり（幅調センサー）</Message>
+    </EventString>
+    <EventString Key="MES06330">
+      <Title>CR Error</Title>
+      <Message>幅調センサーNG（固定動作時）</Message>
+    </EventString>
+    <EventString Key="MES06331">
+      <Title>CR Error</Title>
+      <Message>幅調センサーNG（固定中）</Message>
+    </EventString>
+    <EventString Key="MES06333">
+      <Title>CR Error</Title>
+      <Message>初期化時カセッテあり（幅調センサー）</Message>
+    </EventString>
+    <EventString Key="MES06350">
+      <Title>CR Error</Title>
+      <Message>受け台センサーNG（カセッテ取り込み時）</Message>
+    </EventString>
+    <EventString Key="MES06351">
+      <Title>CR Error</Title>
+      <Message>受け台センサーNG（カセッテ搬入時）</Message>
+    </EventString>
+    <EventString Key="MES06352">
+      <Title>CR Error</Title>
+      <Message>受け台センサーNG（カセッテ排出時）</Message>
+    </EventString>
+    <EventString Key="MES06353">
+      <Title>CR Error</Title>
+      <Message>受け台センサーNG（カセッテ取り出し後）</Message>
+    </EventString>
+    <EventString Key="MES06354">
+      <Title>CR Error</Title>
+      <Message>起動時カセッテあり（受け台）</Message>
+    </EventString>
+    <EventString Key="MES06355">
+      <Title>CR Error</Title>
+      <Message>初期化時カセッテあり（受け台）</Message>
+    </EventString>
+    <EventString Key="MES06365">
+      <Title>CR Error</Title>
+      <Message>受け台センサーNG（カセッテ取り込み時）</Message>
+    </EventString>
+    <EventString Key="MES06366">
+      <Title>CR Error</Title>
+      <Message>受け台センサーNG（カセッテ搬入時）</Message>
+    </EventString>
+    <EventString Key="MES06367">
+      <Title>CR Error</Title>
+      <Message>受け台センサーNG（カセッテ排出時）</Message>
+    </EventString>
+    <EventString Key="MES06368">
+      <Title>CR Error</Title>
+      <Message>受け台センサーNG（カセッテ取り出し後）</Message>
+    </EventString>
+    <EventString Key="MES06370">
+      <Title>CR Error</Title>
+      <Message>初期化時カセッテあり（受け台）</Message>
+    </EventString>
+    <EventString Key="MES06380">
+      <Title>CR Error</Title>
+      <Message>受け台センサーNG（カセッテ取り込み時）</Message>
+    </EventString>
+    <EventString Key="MES06381">
+      <Title>CR Error</Title>
+      <Message>受け台センサーNG（カセッテ搬入時）</Message>
+    </EventString>
+    <EventString Key="MES06382">
+      <Title>CR Error</Title>
+      <Message>受け台センサーNG（カセッテ排出時）</Message>
+    </EventString>
+    <EventString Key="MES06383">
+      <Title>CR Error</Title>
+      <Message>受け台センサーNG（カセッテ取り出し後）</Message>
+    </EventString>
+    <EventString Key="MES06385">
+      <Title>CR Error</Title>
+      <Message>初期化時カセッテあり（受け台）</Message>
+    </EventString>
+    <EventString Key="MES06400">
+      <Title>CR Error</Title>
+      <Message>バック板検出センサーNG（読み取り位置移動前）</Message>
+    </EventString>
+    <EventString Key="MES06401">
+      <Title>CR Error</Title>
+      <Message>バック板検出センサーNG（読み取り位置停止中）</Message>
+    </EventString>
+    <EventString Key="MES06402">
+      <Title>CR Error</Title>
+      <Message>バック板検出センサーNG（押し付け位置移動後）</Message>
+    </EventString>
+    <EventString Key="MES06415">
+      <Title>CR Error</Title>
+      <Message>バック板検出センサーNG（読み取り位置移動前）</Message>
+    </EventString>
+    <EventString Key="MES06416">
+      <Title>CR Error</Title>
+      <Message>バック板検出センサーNG（読み取り位置停止中）</Message>
+    </EventString>
+    <EventString Key="MES06417">
+      <Title>CR Error</Title>
+      <Message>バック板検出センサーNG（押し付け位置移動後）</Message>
+    </EventString>
+    <EventString Key="MES06430">
+      <Title>CR Error</Title>
+      <Message>バック板検出センサーNG（読み取り位置移動前）</Message>
+    </EventString>
+    <EventString Key="MES06431">
+      <Title>CR Error</Title>
+      <Message>バック板検出センサーNG（読み取り位置停止中）</Message>
+    </EventString>
+    <EventString Key="MES06432">
+      <Title>CR Error</Title>
+      <Message>バック板検出センサーNG（押し付け位置移動後）</Message>
+    </EventString>
+    <EventString Key="MES06450">
+      <Title>CR Error</Title>
+      <Message>プレート剥がれ検出（読み取りまたは消去中） 問題の生じたカセッテの使用を中止してください。</Message>
+    </EventString>
+    <EventString Key="MES06451">
+      <Title>CR Error</Title>
+      <Message>剥がれ検出センサーNG（非動作時）</Message>
+    </EventString>
+    <EventString Key="MES06452">
+      <Title>CR Error</Title>
+      <Message>剥がれ検出センサーNG（起動時）</Message>
+    </EventString>
+    <EventString Key="MES06453">
+      <Title>CR Error</Title>
+      <Message>剥がれ検出センサーNG（初期化時）</Message>
+    </EventString>
+    <EventString Key="MES06465">
+      <Title>CR Error</Title>
+      <Message>プレート剥がれ検出（読み取りまたは消去中）</Message>
+    </EventString>
+    <EventString Key="MES06466">
+      <Title>CR Error</Title>
+      <Message>剥がれ検出センサーNG（非動作時）</Message>
+    </EventString>
+    <EventString Key="MES06468">
+      <Title>CR Error</Title>
+      <Message>剥がれ検出センサーNG（初期化時）</Message>
+    </EventString>
+    <EventString Key="MES06480">
+      <Title>CR Error</Title>
+      <Message>プレート剥がれ検出（読み取りまたは消去中）</Message>
+    </EventString>
+    <EventString Key="MES06481">
+      <Title>CR Error</Title>
+      <Message>剥がれ検出センサーNG（非動作時）</Message>
+    </EventString>
+    <EventString Key="MES06483">
+      <Title>CR Error</Title>
+      <Message>剥がれ検出センサーNG（初期化時）</Message>
+    </EventString>
+    <EventString Key="MES06500">
+      <Title>CR Error</Title>
+      <Message>投入口検出センサーNG（初期化時）</Message>
+    </EventString>
+    <EventString Key="MES06501">
+      <Title>CR Error</Title>
+      <Message>投入口検出センサーNG（カセッテロード時）</Message>
+    </EventString>
+    <EventString Key="MES06502">
+      <Title>CR Error</Title>
+      <Message>投入口検出センサーNG（カセッテ排出時）</Message>
+    </EventString>
+    <EventString Key="MES06503">
+      <Title>CR Error</Title>
+      <Message>カセッテバック板落下検出</Message>
+    </EventString>
+    <EventString Key="MES06504">
+      <Title>CR Error</Title>
+      <Message>投入口検出センサーNG（カセッテ排出時２）</Message>
+    </EventString>
+    <EventString Key="MES06515">
+      <Title>CR Error</Title>
+      <Message>投入口検出センサーNG（初期化時）</Message>
+    </EventString>
+    <EventString Key="MES06516">
+      <Title>CR Error</Title>
+      <Message>投入口検出センサーNG（カセッテロード時）</Message>
+    </EventString>
+    <EventString Key="MES06517">
+      <Title>CR Error</Title>
+      <Message>投入口検出センサーNG（カセッテ排出時）</Message>
+    </EventString>
+    <EventString Key="MES06518">
+      <Title>CR Error</Title>
+      <Message>カセッテバック板落下検出</Message>
+    </EventString>
+    <EventString Key="MES06519">
+      <Title>CR Error</Title>
+      <Message>投入口検出センサーNG（カセッテ排出時２）</Message>
+    </EventString>
+    <EventString Key="MES06530">
+      <Title>CR Error</Title>
+      <Message>投入口検出センサーNG（初期化時）</Message>
+    </EventString>
+    <EventString Key="MES06531">
+      <Title>CR Error</Title>
+      <Message>投入口検出センサーNG（カセッテロード時）</Message>
+    </EventString>
+    <EventString Key="MES06532">
+      <Title>CR Error</Title>
+      <Message>投入口検出センサーNG（カセッテ排出時）</Message>
+    </EventString>
+    <EventString Key="MES06533">
+      <Title>CR Error</Title>
+      <Message>カセッテバック板落下検出</Message>
+    </EventString>
+    <EventString Key="MES06534">
+      <Title>CR Error</Title>
+      <Message>投入口検出センサーNG（カセッテ排出時２）</Message>
+    </EventString>
+    <EventString Key="MES06550">
+      <Title>CR Error</Title>
+      <Message>ポリゴン回転NG</Message>
+    </EventString>
+    <EventString Key="MES06551">
+      <Title>CR Error</Title>
+      <Message>読み取り完了信号未受信</Message>
+    </EventString>
+    <EventString Key="MES06552">
+      <Title>CR Error</Title>
+      <Message>消去ランプ２本切れ（起動時）</Message>
+    </EventString>
+    <EventString Key="MES06553">
+      <Title>CR Error</Title>
+      <Message>消去ランプ２本切れ（消去時）カセッテ処理中の場合、カセッテは未消去です。再消去してください。</Message>
+    </EventString>
+    <EventString Key="MES06554">
+      <Title>CR Error</Title>
+      <Message>消去ランプ１本切れ（起動時）</Message>
+    </EventString>
+    <EventString Key="MES06567">
+      <Title>CR Error</Title>
+      <Message>消去ランプ２本切れ（起動時）</Message>
+    </EventString>
+    <EventString Key="MES06568">
+      <Title>CR Error</Title>
+      <Message>消去ランプ２本切れ（消去時）</Message>
+    </EventString>
+    <EventString Key="MES06569">
+      <Title>CR Error</Title>
+      <Message>消去ランプ１本切れ（起動時）</Message>
+    </EventString>
+    <EventString Key="MES06582">
+      <Title>CR Error</Title>
+      <Message>消去ランプ２本切れ（起動時）</Message>
+    </EventString>
+    <EventString Key="MES06584">
+      <Title>CR Error</Title>
+      <Message>消去ランプ１本切れ（起動時）</Message>
+    </EventString>
+    <EventString Key="MES06600">
+      <Title>CR Error</Title>
+      <Message>デジタル電源冷却ファン断線</Message>
+    </EventString>
+    <EventString Key="MES06650">
+      <Title>CR Error</Title>
+      <Message>FPGAエラー（イベントドライバアクセスに失敗）</Message>
+    </EventString>
+    <EventString Key="MES06651">
+      <Title>CR Error</Title>
+      <Message>FPGAエラー（MDUへのアクセスに失敗）</Message>
+    </EventString>
+    <EventString Key="MES06652">
+      <Title>CR Error</Title>
+      <Message>FPGAエラー（LMCへのアクセスに失敗）</Message>
+    </EventString>
+    <EventString Key="MES06653">
+      <Title>CR Error</Title>
+      <Message>FPGAエラー（I/Oコントロールに失敗）</Message>
+    </EventString>
+    <EventString Key="MES06654">
+      <Title>CR Error</Title>
+      <Message>FPGAエラー（画像ドライバのオープンに失敗）</Message>
+    </EventString>
+    <EventString Key="MES06655">
+      <Title>CR Error</Title>
+      <Message>FPGAエラー（PMU へのアクセスに失敗）</Message>
+    </EventString>
+    <EventString Key="MES06668">
+      <Title>CR Error</Title>
+      <Message>FPGAエラー（I/Oコントロールに失敗）</Message>
+    </EventString>
+    <EventString Key="MES06683">
+      <Title>CR Error</Title>
+      <Message>FPGAエラー（I/Oコントロールに失敗）</Message>
+    </EventString>
+    <EventString Key="MES06750">
+      <Title>CR Error</Title>
+      <Message>フロント板開閉位置センサーNG</Message>
+    </EventString>
+    <EventString Key="MES06765">
+      <Title>CR Error</Title>
+      <Message>フロント板開閉位置センサーNG</Message>
+    </EventString>
+    <EventString Key="MES06780">
+      <Title>CR Error</Title>
+      <Message>フロント板開閉位置センサーNG</Message>
+    </EventString>
+    <EventString Key="MES06751">
+      <Title>CR Error</Title>
+      <Message>フロント板HP位置センサーNG</Message>
+    </EventString>
+    <EventString Key="MES06766">
+      <Title>CR Error</Title>
+      <Message>フロント板HP位置センサーNG</Message>
+    </EventString>
+    <EventString Key="MES06785">
+      <Title>CR Error</Title>
+      <Message>フロント板HP位置センサーNG</Message>
+    </EventString>
+    <EventString Key="MES10000">
+      <Title>CR Error</Title>
+      <Message>メモリエラー</Message>
+    </EventString>
+    <EventString Key="MES11000">
+      <Title>CR Error</Title>
+      <Message>ハードウェアエラー</Message>
+    </EventString>
+    <EventString Key="MES12000">
+      <Title>CR Error</Title>
+      <Message>通信コマンド受信タイムアウト - 高圧ON</Message>
+    </EventString>
+    <EventString Key="MES12001">
+      <Title>CR Error</Title>
+      <Message>通信コマンド受信タイムアウト - レーザーON</Message>
+    </EventString>
+    <EventString Key="MES12002">
+      <Title>CR Error</Title>
+      <Message>通信コマンド受信タイムアウト - Mech Ready</Message>
+    </EventString>
+    <EventString Key="MES12003">
+      <Title>CR Error</Title>
+      <Message>通信コマンド受信タイムアウト - Mech Standby</Message>
+    </EventString>
+    <EventString Key="MES12010">
+      <Title>CR Error</Title>
+      <Message>シリアル通信エラー - Mech Resend Overflow</Message>
+    </EventString>
+    <EventString Key="MES12011">
+      <Title>CR Error</Title>
+      <Message>シリアル通信エラー - Mech CRC error回数 Overflow</Message>
+    </EventString>
+    <EventString Key="MES12012">
+      <Title>CR Error</Title>
+      <Message>シリアル通信エラー - Mech Overrun</Message>
+    </EventString>
+    <EventString Key="MES12013">
+      <Title>CR Error</Title>
+      <Message>シリアル通信エラー - Mech Timeout</Message>
+    </EventString>
+    <EventString Key="MES12020">
+      <Title>CR Error</Title>
+      <Message>通信コマンドエラー - Mech 不正コマンド</Message>
+    </EventString>
+    <EventString Key="MES12200">
+      <Title>CR Error</Title>
+      <Message>通信コマンド受信タイムアウト - Net Initialize</Message>
+    </EventString>
+    <EventString Key="MES12201">
+      <Title>CR Error</Title>
+      <Message>通信コマンド受信タイムアウト - Net Ready</Message>
+    </EventString>
+    <EventString Key="MES12202">
+      <Title>CR Error</Title>
+      <Message>通信コマンド受信タイムアウト - Put Shading</Message>
+    </EventString>
+    <EventString Key="MES12203">
+      <Title>CR Error</Title>
+      <Message>通信コマンド受信タイムアウト - Status Check</Message>
+    </EventString>
+    <EventString Key="MES12204">
+      <Title>CR Error</Title>
+      <Message>通信コマンド受信タイムアウト - Barcode Seek</Message>
+    </EventString>
+    <EventString Key="MES12205">
+      <Title>CR Error</Title>
+      <Message>通信コマンド受信タイムアウト - Net Command</Message>
+    </EventString>
+    <EventString Key="MES12206">
+      <Title>CR Error</Title>
+      <Message>通信コマンド受信タイムアウト - Reader End</Message>
+    </EventString>
+    <EventString Key="MES12207">
+      <Title>CR Error</Title>
+      <Message>通信コマンド受信タイムアウト - Put Qrv</Message>
+    </EventString>
+    <EventString Key="MES12208">
+      <Title>CR Error</Title>
+      <Message>通信コマンド受信タイムアウト - Put Config</Message>
+    </EventString>
+    <EventString Key="MES12209">
+      <Title>CR Error</Title>
+      <Message>通信コマンド受信タイムアウト - Put Information</Message>
+    </EventString>
+    <EventString Key="MES12210">
+      <Title>CR Error</Title>
+      <Message>シリアル通信エラー - Net Resend Overflow</Message>
+    </EventString>
+    <EventString Key="MES12211">
+      <Title>CR Error</Title>
+      <Message>シリアル通信エラー - Net CRC error回数 Overflow</Message>
+    </EventString>
+    <EventString Key="MES12212">
+      <Title>CR Error</Title>
+      <Message>シリアル通信エラー - Net Overrun</Message>
+    </EventString>
+    <EventString Key="MES12213">
+      <Title>CR Error</Title>
+      <Message>シリアル通信エラー - Net Timeout</Message>
+    </EventString>
+    <EventString Key="MES12220">
+      <Title>CR Error</Title>
+      <Message>通信コマンドエラー - Net 不正コマンド</Message>
+    </EventString>
+    <EventString Key="MES13000">
+      <Title>CR Error</Title>
+      <Message>レーザｰ光学系制御エラー - H_Sync</Message>
+    </EventString>
+    <EventString Key="MES13001">
+      <Title>CR Error</Title>
+      <Message>レーザｰ光学系制御エラー - Polygon ID</Message>
+    </EventString>
+    <EventString Key="MES13003">
+      <Title>CR Error</Title>
+      <Message>レーザｰ光学系制御エラー - Polygon Stability</Message>
+    </EventString>
+    <EventString Key="MES13005">
+      <Title>CR Error</Title>
+      <Message>レーザｰ光学系制御エラー - Laser Intensity</Message>
+    </EventString>
+    <EventString Key="MES13030">
+      <Title>CR Error</Title>
+      <Message>基板制御エラー - DMA転送</Message>
+    </EventString>
+    <EventString Key="MES13031">
+      <Title>CR Error</Title>
+      <Message>基板制御エラー - SCOM通信</Message>
+    </EventString>
+    <EventString Key="MES14000">
+      <Title>CR Error</Title>
+      <Message>信号処理エラー - Gain Overflow</Message>
+    </EventString>
+    <EventString Key="MES14001">
+      <Title>CR Error</Title>
+      <Message>信号処理エラー - Gain Underflow</Message>
+    </EventString>
+    <EventString Key="MES14002">
+      <Title>CR Error</Title>
+      <Message>信号処理エラー - Offset Overflow</Message>
+    </EventString>
+    <EventString Key="MES14003">
+      <Title>CR Error</Title>
+      <Message>信号処理エラー - Offset Underflow</Message>
+    </EventString>
+    <EventString Key="MES14010">
+      <Title>CR Error</Title>
+      <Message>信号処理エラー - QRV Overflow</Message>
+    </EventString>
+    <EventString Key="MES14011">
+      <Title>CR Error</Title>
+      <Message>信号処理エラー - QRV Underflow</Message>
+    </EventString>
+    <EventString Key="MES14012">
+      <Title>CR Error</Title>
+      <Message>信号処理エラー - QRV No Convergency</Message>
+    </EventString>
+    <EventString Key="MES14013">
+      <Title>CR Error</Title>
+      <Message>信号処理エラー - Shading No Data</Message>
+    </EventString>
+    <EventString Key="MES14014">
+      <Title>CR Error</Title>
+      <Message>信号処理エラー - QRV No Data</Message>
+    </EventString>
+    <EventString Key="MES15000">
+      <Title>CR Error</Title>
+      <Message>信号処理エラー - Initialization Failure</Message>
+    </EventString>
+    <EventString Key="MES22101">
+      <Title>CR Error</Title>
+      <Message>シリアル通信エラー - N1カウンタオーバー</Message>
+    </EventString>
+    <EventString Key="MES22103">
+      <Title>CR Error</Title>
+      <Message>シリアル通信エラー - N3カウンタオーバー</Message>
+    </EventString>
+    <EventString Key="MES22104">
+      <Title>CR Error</Title>
+      <Message>シリアル通信エラー - N4カウンタオーバー</Message>
+    </EventString>
+    <EventString Key="MES23000">
+      <Title>CR Error</Title>
+      <Message>プログラムエラー - メイン制御</Message>
+    </EventString>
+    <EventString Key="MES23100">
+      <Title>CR Error</Title>
+      <Message>プログラムエラー - シーケンス制御</Message>
+    </EventString>
+    <EventString Key="MES23200">
+      <Title>CR Error</Title>
+      <Message>プログラムエラー - データファイルサイズ</Message>
+    </EventString>
+    <EventString Key="MES23900">
+      <Title>CR Error</Title>
+      <Message>プログラムエラー - ファームウェア更新</Message>
+    </EventString>
+    <EventString Key="MES24000">
+      <Title>CR Error</Title>
+      <Message>ネットワークエラー - JM接続</Message>
+    </EventString>
+    <EventString Key="MES24500">
+      <Title>CR Error</Title>
+      <Message>ネットワークエラー - JM設定</Message>
+    </EventString>
+    <EventString Key="MES25000">
+      <Title>CR Error</Title>
+      <Message>ネットワークエラー - 非タイムアウト</Message>
+    </EventString>
+    <EventString Key="MES25100">
+      <Title>CR Error</Title>
+      <Message>ネットワークエラー - タイムアウト(一般通信)</Message>
+    </EventString>
+    <EventString Key="MES25110">
+      <Title>CR Error</Title>
+      <Message>ネットワークエラー - エラー応答(一般通信)</Message>
+    </EventString>
+    <EventString Key="MES25200">
+      <Title>CR Error</Title>
+      <Message>ネットワークエラー - タイムアウト(画像転送中)</Message>
+    </EventString>
+    <EventString Key="MES25210">
+      <Title>CR Error</Title>
+      <Message>ネットワークエラー - タイムアウト(読取完了後)</Message>
+    </EventString>
+    <EventString Key="MES25300">
+      <Title>CR Error</Title>
+      <Message>ネットワークエラー - タイムアウト/エラー応答(画像送信)</Message>
+    </EventString>
+    <EventString Key="MES25500">
+      <Title>CR Error</Title>
+      <Message>ネットワークエラー - 宛先不明</Message>
+    </EventString>
+    <EventString Key="MES26000">
+      <Title>CR Error</Title>
+      <Message>オペレーションエラー - 無効ジョブ</Message>
+    </EventString>
+    <EventString Key="MES26010">
+      <Title>CR Error</Title>
+      <Message>オペレーションエラー - 無効ジョブパラメータ</Message>
+    </EventString>
+    <EventString Key="MES26100">
+      <Title>CR Error</Title>
+      <Message>オペレーションエラー - モード外ジョブ</Message>
+    </EventString>
+    <EventString Key="MES26200">
+      <Title>CR Error</Title>
+      <Message>オペレーションエラー - 無効コンソール</Message>
+    </EventString>
+    <EventString Key="MES26300">
+      <Title>CR Error</Title>
+      <Message>オペレーションエラー - Reader Busy</Message>
+    </EventString>
+    <EventString Key="MES26900">
+      <Title>CR Error</Title>
+      <Message>オペレーションエラー - ジョブ実行中PowerOFF</Message>
+    </EventString>
+    <EventString Key="MES26999">
+      <Title>CR Error</Title>
+      <Message>オペレーションエラー - 未対応コマンド</Message>
+    </EventString>
+    <EventString Key="MES1">
+      <Title>CR Error</Title>
+      <Message>フロントドア開検出</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

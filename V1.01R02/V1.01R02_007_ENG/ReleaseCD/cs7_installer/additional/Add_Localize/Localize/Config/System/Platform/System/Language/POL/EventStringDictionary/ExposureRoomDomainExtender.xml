@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ExposureRoomDomainExtender0001">
+      <Title>Potwierdzenie</Title>
+      <Message>Ciemnia zostanie zmieniona na [ciemnia 2]. Czy wyrażasz zgodę? Jeżeli do [ciemnia 2] jest podłączona konsola, zostanie ona odłączona. Sprawdź, czy w [ciemnia 2] nie odbywa się naświetlanie. Po wprowadzeniu zmiany konieczne jest ponowne uruchomienie systemu. </Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0002">
+      <Title>Pomieszczenie aktywne zostało zmienione.</Title>
+      <Message>Pomieszczenie aktywne zostało zmienione. Wymagane jest ponowne uruchomienie aplikacji</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0003">
+      <Title>Błąd podczas zmiany pomieszczenia.</Title>
+      <Message>Nie można zmienić ciemni ze względu na [XXX].</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0004">
+      <Title>Potwierdzenie</Title>
+      <Message>Dla komunikacji bezprzewodowej zostanie wybrane ustawienie Włącz/wyłącz. Czy wyrażasz zgodę?</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0005">
+      <Title>Confirmation</Title>
+      <Message>Please wait till wireless switching happens.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

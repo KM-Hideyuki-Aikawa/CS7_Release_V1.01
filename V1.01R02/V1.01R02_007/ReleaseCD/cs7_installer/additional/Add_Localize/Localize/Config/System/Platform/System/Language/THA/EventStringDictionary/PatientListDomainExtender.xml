@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientListDomainExtender0000">
+      <Title />
+      <Message>ปีที่ป้อนไม่ถูกต้อง</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0001">
+      <Title />
+      <Message>เดือนที่ป้อนไม่ถูกต้อง</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0002">
+      <Title />
+      <Message>วันที่ป้อนไม่ถูกต้อง</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0003">
+      <Title />
+      <Message>ค่าอยู่นอกช่วง</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0004">
+      <Title />
+      <Message>ความยาวมากกว่าความยาวสูงสุด</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0005">
+      <Title />
+      <Message>ความยาวต่ำกว่าความยาวต่ำสุด</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0006">
+      <Title />
+      <Message>ค่าที่ป้อนไม่ใช่ตัวเลข</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0007">
+      <Title />
+      <Message>ค่าที่ป้อนไม่ถูกต้อง</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0008">
+      <Title />
+      <Message>อนุญาตเฉพาะตัวอักขระ</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0009">
+      <Title />
+      <Message>อนุญาตเฉพาะตัวคะนะ</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0010">
+      <Title />
+      <Message>ค่าไม่ถูกต้อง ไม่สามารถใช้ "\" ที่นี่</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0011">
+      <Title />
+      <Message>ไม่ยอมให้ใช้ตัวอักขระนี้</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0012">
+      <Title>การยืนยัน</Title>
+      <Message>คุณต้องการลบเร็กคอร์ดที่เลือกหรือไม่</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0013">
+      <Title />
+      <Message>ค่าไม่ถูกต้อง ไม่สามารถใช้ "\", "^" หรือ "=" ที่นี่</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0014">
+      <Title />
+      <Message>ค่าไม่ถูกต้อง ไม่สามารถใช้ "\" หรือ "=" ที่นี่</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0015">
+      <Title />
+      <Message>คุณต้องการระงับการตรวจดูหรือไม่</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0016">
+      <Title>การค้นหาบาร์โค้ด</Title>
+      <Message>มีการตรวจ {0} หลายอย่างอยู่พร้อมข้อมูลที่ให้ไว้</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

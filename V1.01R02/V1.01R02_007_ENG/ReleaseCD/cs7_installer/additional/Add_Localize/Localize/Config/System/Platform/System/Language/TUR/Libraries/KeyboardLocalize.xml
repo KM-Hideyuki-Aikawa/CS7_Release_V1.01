@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<KeybordButtons>
+  <Buttons>
+    
+    <!--Function Keys--> 
+    <Button_F1  Value ="F1"/>
+    <Button_F2  Value ="F2"/>
+    <Button_F3  Value ="F3"/>
+    <Button_F4  Value ="F4"/>
+    <Button_F5  Value ="F5"/>
+    <Button_F6  Value ="F6"/>
+    <Button_F7  Value ="F7"/>
+    <Button_F8  Value ="F8"/>
+    <Button_F9  Value ="F9"/>
+    <Button_F10 Value ="F10"/>
+    <Button_F11 Value ="F11"/>
+    <Button_F12 Value ="F12"/>
+
+    <!--Number Keys-->
+   
+    <Button_1   Value ="ﾇ"/>
+    <Button_2   Value ="ﾌ"/>
+    <Button_3   Value ="ｱ"/>
+    <Button_4   Value ="ｳ"/>
+    <Button_5   Value ="ｴ"/>
+    <Button_6   Value ="ｵ"/>
+    <Button_7   Value ="ﾔ"/>
+    <Button_8   Value ="ﾕ"/>
+    <Button_9   Value ="ﾖ"/>
+    <Button_0   Value ="ﾜ"/>
+
+
+    <!--Alphabet Keys-->
+    <Button_A Value ="ﾁ"/>
+    <Button_B Value ="ｺ"/>
+    <Button_C Value ="ｿ"/>
+    <Button_D Value ="ｼ"/>
+    <Button_E Value ="ｲ"/>
+    <Button_F Value ="ﾊ"/>
+    <Button_G Value ="ｷ"/>
+    <Button_H Value ="ｸ"/>
+    <Button_I Value ="ﾆ"/>
+    <Button_J Value ="ﾏ"/>
+    <Button_K Value ="ﾉ"/>
+    <Button_L Value ="ﾘ"/>
+    <Button_M Value ="ﾓ"/>
+    <Button_N Value ="ﾐ"/>
+    <Button_O Value ="ﾗ"/>
+    <Button_P Value ="ｾ"/>
+    <Button_Q Value ="ﾀ"/>
+    <Button_R Value ="ｽ"/>
+    <Button_S Value ="ﾄ"/>
+    <Button_T Value ="ｶ"/>
+    <Button_U Value ="ﾅ"/>
+    <Button_V Value ="ﾋ"/>
+    <Button_W Value ="ﾃ"/>
+    <Button_X Value ="ｻ"/>
+    <Button_Y Value ="ﾝ"/>
+    <Button_Z Value ="ﾂ"/>
+
+    <!--Special character Keys-->
+    <Button_SemiColon Value ="ｹ"/>
+    <Button_SingleQuot Value ="ﾍ"/>
+    <Button_Minus   Value ="ﾎ"/>
+    <Button_Plus   Value ="ﾚ"/>
+    <Button_OpenBrc Value ="ﾟ"/>
+    <Button_CloseBrc Value ="ﾑ"/>
+    <Button_BkSlash Value ="ｰ"/>
+    <Button_FwSlash Value ="ﾒ"/>
+    <Button_Comma Value ="ﾈ"/>
+    <Button_Dot Value ="ﾙ"/>
+    <Button_Hash Value = "ﾛ"/>
+    <Button_And Value = "ｦ"/>
+
+    <Button_DQ Value = "ﾞ"/>
+
+
+    <!--Control Keys-->
+    <Button_Esc Value ="ｬ"/>
+    <Button_Tilt Value ="ｭ"/>
+    <Button_Tab Value ="ｮ"/>
+    <Button_CapsLock Value ="ｧ"/>
+    <Button_Shift Value ="ｨ"/>
+    <Button_Ctrl Value ="ｩ"/>
+    <Button_Win Value ="ｫ"/>
+    <Button_Alt Value ="ｪ"/>
+    <Button_Property Value ="ｯ"/>
+    <Button_Enter Value ="Enter"/>
+    <Button_Space Value = "Space" />
+    <Button_Right Value = "-&gt;"/>
+    <Button_Left Value = "&lt;-"/>
+    <Button_BackSpace Value ="BS"/>
+    <Button_Delete Value ="DEL"/>
+   
+    
+  </Buttons>
+</KeybordButtons>

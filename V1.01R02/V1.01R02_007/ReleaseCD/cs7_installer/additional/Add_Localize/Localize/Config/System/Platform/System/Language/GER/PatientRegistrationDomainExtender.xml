@@ -1,0 +1,1778 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>PatientID</Key>
+      <Value>Patienten-ID</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientNameRomaji</Key>
+      <Value>Patientenname</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientNameKanji</Key>
+      <Value>Patientenname</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientNameKana</Key>
+      <Value>Patientenname</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BirthDate</Key>
+      <Value>Geburtsdatum</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BirthTime</Key>
+      <Value>Geburtsuhrzeit</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Sex</Key>
+      <Value>Geschlecht</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientComments</Key>
+      <Value>Patientenkommentare</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PhysicianNameRomaji</Key>
+      <Value>Name überweisender Arzt</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PhysicianNameKanji</Key>
+      <Value>Name überweisender Arzt</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PhysicianNameKana</Key>
+      <Value>Name überweisender Arzt</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Height</Key>
+      <Value>Körpergröße [m]</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Weight</Key>
+      <Value>Gewicht [kg]</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Occupation</Key>
+      <Value>Beruf</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyDate</Key>
+      <Value>Befund-Datum</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyTime</Key>
+      <Value>Befund-Uhrzeit</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestedPriority</Key>
+      <Value>Gewünschte Priorität</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestedContrastAgent</Key>
+      <Value>Gewünschtes Kontrastmittel</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PreMedication</Key>
+      <Value>Prämedikation</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestingPhysicianNameRomaji</Key>
+      <Value>Anfragender Arzt</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestingPhysicianNameKanji</Key>
+      <Value>Anfragender Arzt</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestingPhysicianNameKana</Key>
+      <Value>Anfragender Arzt</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScheduledPerformingPhysicianNameRomaji</Key>
+      <Value>Geplanter Behandlungsarzt</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScheduledPerformingPhysicianNameKanji</Key>
+      <Value>Geplanter Behandlungsarzt</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScheduledPerformingPhysicianNameKana</Key>
+      <Value>Geplanter Behandlungsarzt</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OtherPatientID</Key>
+      <Value>Sonstige Patienten-ID</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OtherPatientNameRomaji</Key>
+      <Value>Sonstiger Patientenname</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OtherPatientNameKanji</Key>
+      <Value>Sonstiger Patientenname</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OtherPatientNameKana</Key>
+      <Value>Sonstiger Patientenname</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Nationality</Key>
+      <Value>Nationalität</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientBirthNameRomaji</Key>
+      <Value>Geburtsname des Patienten</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientBirthNameKanji</Key>
+      <Value>Geburtsname des Patienten</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientBirthNameKana</Key>
+      <Value>Geburtsname des Patienten</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientMotherNameRomaji</Key>
+      <Value>Geburtsname der Mutter</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientMotherNameKanji</Key>
+      <Value>Geburtsname der Mutter</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientMotherNameKana</Key>
+      <Value>Geburtsname der Mutter</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RecordLocator</Key>
+      <Value>Ablageort der Krankenakte</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MediaOutputStatus</Key>
+      <Value>Medienausgabestatus</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AccessionNumber</Key>
+      <Value>Zugangsnummer</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PerformedNo</Key>
+      <Value>Durchführungsnr.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PerformedStationNameAE</Key>
+      <Value>Durchführungsstation AE-Titel</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PerformedStationName</Key>
+      <Value>Name Durchführungsstation</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PerformedLocation</Key>
+      <Value>Durchführungsort</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PpsStartDate</Key>
+      <Value>PPS-Startdatum</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PpsStartTime</Key>
+      <Value>PPS-Startzeit</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PpsDescription</Key>
+      <Value>Befund-Beschreibung</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientAge</Key>
+      <Value>Alter</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyDescription</Key>
+      <Value>Befund-Beschreibung</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyID</Key>
+      <Value>Befund-ID</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RegisteredDateTime</Key>
+      <Value>Registrierdatum/-uhrzeit</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AlertFlag</Key>
+      <Value>Warnhinweise</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyStatus</Key>
+      <Value>Status</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Guard</Key>
+      <Value>Schützen</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiscontinuationReason</Key>
+      <Value>Grund für Abbruch</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageCount</Key>
+      <Value>Zähler</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReadImageCount</Key>
+      <Value>Zähler lesen</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReadingImageCount</Key>
+      <Value>Lesezähler</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OkCertifedImageCount</Key>
+      <Value>OK Zähler</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresetName</Key>
+      <Value>Voreingestellter Name</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PrinterStatus</Key>
+      <Value>Druckerausgabestatus</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HostStatus</Key>
+      <Value>Host-Ausgabestatus</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HospitalDepartment</Key>
+      <Value>Krankenhausabteilung</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScheduledStartDate</Key>
+      <Value>Geplantes Datum</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScheduledStartTime</Key>
+      <Value>Geplanter Schritt  Startzeit</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionResidence</Key>
+      <Value>Institutionsort</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AdmissionID</Key>
+      <Value>Aufnahme-ID</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SexNeutralisation</Key>
+      <Value>Kastriert</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MedicalAlerts</Key>
+      <Value>Medizinische Warnungen</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Allergies</Key>
+      <Value>Allergien</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Smoking</Key>
+      <Value>Rauchstatus</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AdditionalHistory</Key>
+      <Value>Zusätzl. Patientenanamnese</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Pregnancy</Key>
+      <Value>Schwangerschaft</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LastMenstrual</Key>
+      <Value>Letztes Menstruationsdatum</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SpecialNeeds</Key>
+      <Value>Spezielle Bedürfnisse</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientState</Key>
+      <Value>Patientenzustand</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientsConfidentiality</Key>
+      <Value>Patientenvertraulichkeit</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientLocation</Key>
+      <Value>Aktueller Patientenort</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NGReasonComments</Key>
+      <Value>NG Grund Kommentare</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PerformedPhysicianNameRomaji</Key>
+      <Value>Name des Behandlungsarztes</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PerformedPhysicianNameKana</Key>
+      <Value>Name des Behandlungsarztes</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PerformedPhysicianNameKanji</Key>
+      <Value>Name des Behandlungsarztes</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BodyPartSelection</Key>
+      <Value>Auswahl Körperteil</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ViewPosition</Key>
+      <Value>Ansichtsposition</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PerformedSeriesNumber</Key>
+      <Value>Durchführungs-Seriennummer</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageSide</Key>
+      <Value>Bildseite</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageDate</Key>
+      <Value>Bilddatum</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageNumber</Key>
+      <Value>Bildnummer</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageComment</Key>
+      <Value>Bildkommentar</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>QualityControlImage</Key>
+      <Value>Qualitätskontrollbild</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Focus_mm</Key>
+      <Value>Fokus [mm]</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RadiationSourceDetector_mm</Key>
+      <Value>Quelle Detektor [mm]</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RadiationSourcePatient_mm</Key>
+      <Value>Quelle Patient [mm]</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ContrastMedium</Key>
+      <Value>Kontrast Bolus</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ContrastMediumRoute</Key>
+      <Value>K/B-Route</Value>
+      <Comment>Contrast Bolus</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ContrastMediumCapacity_mm</Key>
+      <Value>K/B-Kapazität [ml]</Value>
+      <Comment>Contrast Bolus</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StartTime</Key>
+      <Value>Startzeit</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StopTime</Key>
+      <Value>Stoppzeit</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AllDosage_ml</Key>
+      <Value>Gesamtdosierung [ml]</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ContrastMediumFlowingQuantity_ml_sec</Key>
+      <Value>K/B-Fließmenge [ml/s]</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FlowPeriod_sec</Key>
+      <Value>Fließdauer [s]</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ContrastMediumElement</Key>
+      <Value>K/B-Element</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ConstituentConcentration_mg</Key>
+      <Value>Bestandteil K[mg]</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReadoutDeviceName</Key>
+      <Value>Gerätename</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ProtocolName</Key>
+      <Value>Protokollname</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SeriesDescriptor</Key>
+      <Value>Serien-Deskriptor</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestedProcedureDescription</Key>
+      <Value>Beschreib. gew. Vorgehensw.</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientRegistration</Key>
+      <Value>Patientenreg.</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientRegistrationEditMode</Key>
+      <Value>Bearbeiten</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OrderInfoEdit</Key>
+      <Value>Auftr.InfoBearb</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BUTTON_OK</Key>
+      <Value>OK</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BUTTON_CANCEL</Key>
+      <Value>Abbrechen</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Male</Key>
+      <Value>Männlich</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Female</Key>
+      <Value>Weiblich</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Unidentified</Key>
+      <Value>Unidentifiziert</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>STAT</Key>
+      <Value>STAT</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HIGH</Key>
+      <Value>HOCH</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ROUTINE</Key>
+      <Value>ROUTINE</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MEDIUM</Key>
+      <Value>Mittel</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LOW</Key>
+      <Value>NIEDRIG</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamRoom1</Key>
+      <Value>Unters.raum-Name1</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamRoom2</Key>
+      <Value>Unters.raum-Name2</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamRoom3</Key>
+      <Value>Unters.raum-Name3</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Ward1</Key>
+      <Value>Station1</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Ward2</Key>
+      <Value>Station2</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Ward3</Key>
+      <Value>Station3</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>None</Key>
+      <Value>Keine</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Possible</Key>
+      <Value>Möglich</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Doing</Key>
+      <Value>In Ausführung</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Yes</Key>
+      <Value>JA</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>No</Key>
+      <Value>NEIN</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BodyPartSelection1</Key>
+      <Value>Körperteil Auswahl1</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BodyPartSelection2</Key>
+      <Value>Körperteil Auswahl2</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BodyPartSelection3</Key>
+      <Value>Körperteil Auswahl3</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReadoutDeviceName1</Key>
+      <Value>Auslese-Gerätename1</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReadoutDeviceName2</Key>
+      <Value>Auslese-Gerätename2</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReadoutDeviceName3</Key>
+      <Value>Auslese-Gerätename3</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ViewPosition1</Key>
+      <Value>Ansichtsposition1</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ViewPosition2</Key>
+      <Value>Ansichtsposition2</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ViewPosition3</Key>
+      <Value>Ansichtsposition3</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageSide1</Key>
+      <Value>Bildseite1</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageSide2</Key>
+      <Value>Bildseite2</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageSide3</Key>
+      <Value>Bidlseite3</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>QualityControlImage1</Key>
+      <Value>QualitätskontrolIbild1</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>QualityControlImage2</Key>
+      <Value>QualitätskontrolIbild2</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>QualityControlImage3</Key>
+      <Value>QualitätskontrolIbild3</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ContrastMediumElement1</Key>
+      <Value>Kontrastmittel-Element1</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ContrastMediumElement2</Key>
+      <Value>Kontrastmittel-Element2</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ContrastMediumElement3</Key>
+      <Value>Kontrastmittel-Element3</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StopString</Key>
+      <Value>Stopp</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ClearString</Key>
+      <Value>Löschen</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SearchString</Key>
+      <Value>Suchen</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OkButtonString</Key>
+      <Value>OK</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CancelButtonString</Key>
+      <Value>Abbrechen</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RisSearchString</Key>
+      <Value>RIS Suche</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NotExposed</Key>
+      <Value>Nicht belichtet</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InProgress</Key>
+      <Value>In Bearbeitung</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Suspended</Key>
+      <Value>Ausgesetzt</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>QAWaiting</Key>
+      <Value>QA WARTET</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Completed</Key>
+      <Value>Abgeschlossen</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Interrupted</Key>
+      <Value>Unterbrochen</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Deleted</Key>
+      <Value>Gelöscht</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NotInOutputQueue</Key>
+      <Value>Nicht in Ausgabewarteschlange</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputInProgress</Key>
+      <Value>Ausgabe in Ausführung</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputWaiting</Key>
+      <Value>Ausgabe wartet</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputCompleted</Key>
+      <Value>Ausgabe abgeschlossen</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Error</Key>
+      <Value>Fehler</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Pregnancy_None</Key>
+      <Value>Keine</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Pregnancy_Possible</Key>
+      <Value>Möglichkeit</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Pregnancy_Doing</Key>
+      <Value>Schwangerschaft</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Pregnancy_Unidentified</Key>
+      <Value>Unidentifiziert</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Smoker</Key>
+      <Value>Raucher</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Nonsmoker</Key>
+      <Value>Nichtraucher</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Unknown</Key>
+      <Value>Unbekannt</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Year</Key>
+      <Value>/</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Month</Key>
+      <Value>/</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Week</Key>
+      <Value>/</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AgeMonth</Key>
+      <Value>M</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Day</Key>
+      <Value>/</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Hour</Key>
+      <Value>h</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Minute</Key>
+      <Value>m</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Second</Key>
+      <Value>s</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AgeYear</Key>
+      <Value>Y</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Sps_InProgress</Key>
+      <Value>In Bearbeitung</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Sps_Pending</Key>
+      <Value>Ausstehend</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamTag</Key>
+      <Value>Unters.schlüssel</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientInfo</Key>
+      <Value>Patientensuche</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RISInfo</Key>
+      <Value>RIS Suche</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientSearchString</Key>
+      <Value>Patientensuche</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OtherStudyStatus</Key>
+      <Value>Sonstiger Befundstatus</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientPosition</Key>
+      <Value>Patientenposition</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CreateDate</Key>
+      <Value>Bilddatum</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CreateTime</Key>
+      <Value>Bildzeit</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UnSpecified</Key>
+      <Value>Unspezifiziert</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SanyoInfo</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>0</FontSize>
+      <FontName />
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestingService</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>0</FontSize>
+      <FontName />
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientResidence</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>0</FontSize>
+      <FontName />
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OrderImgSize</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>0</FontSize>
+      <FontName />
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

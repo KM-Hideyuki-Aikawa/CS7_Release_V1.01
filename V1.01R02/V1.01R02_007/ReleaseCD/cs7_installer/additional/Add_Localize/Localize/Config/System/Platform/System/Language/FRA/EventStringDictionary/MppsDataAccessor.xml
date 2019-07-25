@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35520">
+      <Title>Erreur d'initialisation</Title>
+      <Message>Échec d'initialisation.</Message>
+    </EventString>
+    <EventString Key="35521">
+      <Title>Erreur lecture paramétrage</Title>
+      <Message>Une erreur de lecture du fichier de paramétrage s'est produite.</Message>
+    </EventString>
+    <EventString Key="35522">
+      <Title>Erreur de tempo</Title>
+      <Message>Pb de tempo survenu.</Message>
+    </EventString>
+    <EventString Key="">
+      <Title />
+      <Message>[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37350">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne de communication DICOM. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne de communication DICOM. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>Erreur interne</Title>
+      <Message>Échec d'obtention du paramétrage de communication DICOM. Veuillez vérifier le paramétrage de communication.</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>Erreur de communication</Title>
+      <Message>Échec de communication. Veuillez vérifier le paramétrage de communication et si le serveur fonctionne.</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>Erreur de communication</Title>
+      <Message>Échec de A-ASSOCIATE. Veuillez vérifier le paramétrage de communication et si le serveur fonctionne.</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>Erreur de communication</Title>
+      <Message>Refus du serveur de A-ASSOCIATE, paramétrage invalide. Veuillez vérifier le paramétrage de communication.</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>Erreur de communication</Title>
+      <Message>Erreur interne de communication DICOM. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="37357">
+      <Title>Erreur de communication</Title>
+      <Message>Échec de la communication de la mise à jour. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>Erreur de communication</Title>
+      <Message>Réception de A-ABORT. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37600">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne de communication RIS-OUT. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="37601">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne de communication RIS-OUT. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="37602">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne de communication RIS-OUT. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>Erreur interne</Title>
+      <Message>Notification de fin reçue. [{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37699">
+      <Title>Erreur interne</Title>
+      <Message>Erreur indéterminée survenue. [{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37603">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne de communication RIS-OUT. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="37604">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne de communication RIS-OUT. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="37605">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne de communication RIS-OUT. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="27730">
+      <Title>Erreur de communication</Title>
+      <Message>Erreur de communication RIS-OUT. Vérifiez la destination de la communication.</Message>
+    </EventString>
+    <EventString Key="27731">
+      <Title>Erreur de communication</Title>
+      <Message>Erreur de communication RIS-OUT. Vérifiez la destination de la communication.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

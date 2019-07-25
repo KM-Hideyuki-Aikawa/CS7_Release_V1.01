@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35500">
+      <Title>ข้อผิดพลาดในการเตรียมใช้</Title>
+      <Message>เตรียมใช้ล้มเหลว</Message>
+    </EventString>
+    <EventString Key="35501">
+      <Title>ข้อผิดพลาดในการตั้งค่า</Title>
+      <Message>มีข้อผิดพลาดกับการอ่านไฟล์การตั้งค่า</Message>
+    </EventString>
+    <EventString Key="35502">
+      <Title>ข้อผิดพลาดการหมดเวลา</Title>
+      <Message>หมดเวลา</Message>
+    </EventString>
+    <EventString Key="35503">
+      <Title>ข้อผิดพลาดของซ็อกเก็ต</Title>
+      <Message>เกิดข้อผิดพลาดของซ็อกเก็ต</Message>
+    </EventString>
+    <EventString Key="37350">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>ข้อผิดพลาดภายในเกิดขึ้นในการสื่อสาร DICOM ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>ข้อผิดพลาดภายในเกิดขึ้นในการสื่อสาร DICOM ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>รับการตั้งค่าการสื่อสาร DICOM ล้มเหลว โปรดยืนยันการตั้งค่าการสื่อสาร</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>ข้อผิดพลาดในการสื่อสาร</Title>
+      <Message>ล้มเหลวในการสื่อสาร โปรดยืนยันการตั้งค่าการสื่อสารและเซิร์ฟเวอร์กำลังทำงาน</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>ข้อผิดพลาดในการสื่อสาร</Title>
+      <Message>ล้มเหลวใน A-ASSOCIATE โปรดยืนยันการตั้งค่าการสื่อสารและเซิร์ฟเวอร์กำลังทำงาน</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>ข้อผิดพลาดในการสื่อสาร</Title>
+      <Message>ถูกปฏิเสธจากเซิร์ฟเวอร์ใน A-ASSOCIATE เนื่องจากการตั้งค่าไม่ถูกต้อง โปรดยืนยันการตั้งค่าการสื่อสาร</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>ข้อผิดพลาดในการสื่อสาร</Title>
+      <Message>ข้อผิดพลาดภายในเกิดขึ้นในการสื่อสาร DICOM ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="37357">
+      <Title>ข้อผิดพลาดในการสื่อสาร</Title>
+      <Message>ล้มเหลวในการสื่อสารของรีลีส [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>ข้อผิดพลาดในการสื่อสาร</Title>
+      <Message>ได้รับ A-ABORT [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37610">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>ข้อผิดพลาดภายในเกิดขึ้นในการสื่อสาร RIS-IN ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="37611">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>ข้อผิดพลาดภายในเกิดขึ้นในการสื่อสาร RIS-IN ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="37612">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>ข้อผิดพลาดภายในเกิดขึ้นในการสื่อสาร RIS-IN ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="37613">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>ข้อผิดพลาดภายในเกิดขึ้นในการสื่อสาร RIS-IN ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="37614">
+      <Title>Communication error</Title>
+      <Message>MWM C-FIND request aborted because it exceeded the maximum number of search responses.</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-IN communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-IN communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>ได้รับการแจ้งเตือนการสิ้นสุด [{STATUS}]</Message>
+    </EventString>
+    <EventString Key="27740">
+      <Title>ข้อผิดพลาดในการสื่อสาร</Title>
+      <Message>ข้อผิดพลาดในการสื่อสารเกิดขึ้นในการสื่อสาร RIS-IN ตรวจสอบปลายทางการสื่อสาร</Message>
+    </EventString>
+    <EventString Key="27741">
+      <Title>ข้อผิดพลาดในการสื่อสาร</Title>
+      <Message>ข้อผิดพลาดในการสื่อสารเกิดขึ้นในการสื่อสาร RIS-IN ตรวจสอบปลายทางการสื่อสาร</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

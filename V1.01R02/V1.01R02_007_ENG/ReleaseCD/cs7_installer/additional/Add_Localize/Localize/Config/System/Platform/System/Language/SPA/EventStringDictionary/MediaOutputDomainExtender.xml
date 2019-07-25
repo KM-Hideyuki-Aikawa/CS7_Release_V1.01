@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="MediaOutputDomainExtender0000">
+      <Title />
+      <Message>El año introducido no es válido</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0001">
+      <Title />
+      <Message>El mes introducido no es válido</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0002">
+      <Title />
+      <Message>El día introducido no es válido</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0003">
+      <Title />
+      <Message>El valor se sale del intervalo</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0004">
+      <Title />
+      <Message>La longitud es superior a LongitudMax</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0005">
+      <Title />
+      <Message>La longitud es inferior a LongitudMín</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0006">
+      <Title />
+      <Message>El valor introducido no es numérico</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0007">
+      <Title />
+      <Message>El valor introducido no es válido</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0008">
+      <Title />
+      <Message>Permitido solo alfabetos</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0009">
+      <Title />
+      <Message>Permitido solo Kana</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0010">
+      <Title />
+      <Message>Valor inválido. Aquí no puede utilizarse '\\', '^' , '='</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0011">
+      <Title />
+      <Message>No permitidos caracteres de doble byte</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0012">
+      <Title />
+      <Message>Carácter introducido inválido</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0013">
+      <Title />
+      <Message>Error de escritura en soporte</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0014">
+      <Title />
+      <Message>Soporte no introducido</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0015">
+      <Title />
+      <Message>Datos ya existentes</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0016">
+      <Title />
+      <Message>Falta espacio</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0017">
+      <Title />
+      <Message>Nombre carpeta especificada no es válido.</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0018">
+      <Title />
+      <Message>No se pueden usar estos caracteres en el nombre de carpeta.  
+.\/:*?"&amp;lt;&amp;gt;|</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0019">
+      <Title />
+      <Message>Ya existe ese nombre de carpeta.  ¿Reemplazar?</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0020">
+      <Title />
+      <Message>Se está cancelando.  Por favor, espere.</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0021">
+      <Title />
+      <Message>No puede usar '\','=' para este elemento.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

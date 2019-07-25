@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="AeroDRSettingDomainExtender0003">
+      <Title>Σφάλμα</Title>
+      <Message>Επιλέχθηκαν μη έγκυρα δεδομένα διόρθωσης.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0004">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Τα δεδομένα διόρθωσης υπάρχουν ήδη. Είστε βέβαιοι ότι επιθυμείτε να τα αντικαταστήσετε;</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0005">
+      <Title>Σφάλμα</Title>
+      <Message>Η προσθήκη του πίνακα AeroDR απέτυχε.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0006">
+      <Title>Σφάλμα</Title>
+      <Message>Η λήψη πληροφοριών για τον πίνακα AeroDR απέτυχε.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0007">
+      <Title>Σφάλμα</Title>
+      <Message>Η ρύθμιση παραμέτρων του πίνακα AeroDR απέτυχε.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0008">
+      <Title>Σφάλμα</Title>
+      <Message>Η προσθήκη του XG BOX απέτυχε.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0009">
+      <Title>Σφάλμα</Title>
+      <Message>Η λήψη του XG BOX απέτυχε.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0010">
+      <Title>Σφάλμα</Title>
+      <Message>Η ρύθμιση παραμέτρων του XG BOX απέτυχε.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0011">
+      <Title>Σφάλμα</Title>
+      <Message>Η διαγραφή του πίνακα AeroDR απέτυχε.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0012">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Είστε βέβαιοι ότι επιθυμείτε να καταργήσετε την εγγραφή του πίνακα AeroDR;</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0013">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Δεν πραγματοποιήθηκε λήψη των ρυθμίσεων παραμέτρων του πίνακα AeroDR. Είστε βέβαιοι ότι επιθυμείτε να καταργήσετε την εγγραφή του πίνακα AeroDR;</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0014">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Υπάρχει(ουν) πίνακας(ες) AeroDR ή XG BOX, οι ρυθμίσεις παραμέτρων των οποίων δεν έχουν μεταφορτωθεί. Είστε βέβαιοι ότι επιθυμείτε να αποθηκεύσετε τη ρύθμιση παραμέτρων;</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0015">
+      <Title>Προσοχή</Title>
+      <Message>Δεν είναι δυνατή η ακύρωση των αλλαγών. Αυτό οφείλεται στο ότι οι ρυθμίσεις παραμέτρων του πίνακα AeroDR ή του XG BOX έχουν ήδη μεταφορτωθεί.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0016">
+      <Title>Σφάλμα</Title>
+      <Message>Υπάρχουν μη έγκυρα δεδομένα. Επιβεβαιώστε αυτά που έχετε εισαγάγει.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0017">
+      <Title>Σφάλμα</Title>
+      <Message>Αλλάξτε τη ρύθμιση παραμέτρων του πίνακα AeroDR.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0018">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Είστε βέβαιοι ότι επιθυμείτε την αποστολή της ρύθμισης στον διακομιστή;</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0019">
+      <Title>Σφάλμα</Title>
+      <Message>Παρουσιάστηκε σφάλμα κατά τη μεταφορά της ρύθμισης. Ελέγξτε τη σύνδεση στο δίκτυο και προσπαθήστε ξανά.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

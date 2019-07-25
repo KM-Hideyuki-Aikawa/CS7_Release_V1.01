@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="HostDomainExtender0001">
+      <Title>Statut du ping</Title>
+      <Message>Connexion réussie.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0002">
+      <Title>Statut du ping</Title>
+      <Message>Échec de connexion.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0003">
+      <Title>Confirmation</Title>
+      <Message>Pour quel service le Ping(C-ECHO) doit-il être exécuté ?</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0004">
+      <Title>Confirmation</Title>
+      <Message>D'accord pour supprimer la file d'attente sélectionnée ?</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0005">
+      <Title>Attention</Title>
+      <Message>Veuillez sélectionner la(les) file(s) à supprimer.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0006">
+      <Title>Information</Title>
+      <Message>File(s) sélectionnée(s) supprimée(s) avec succès.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0007">
+      <Title>Erreur</Title>
+      <Message>Erreur de suppression de la file.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0008">
+      <Title>Attention</Title>
+      <Message>L'hôte spécifié existe déjà avec un autre CH. Les images sortiront peut-être en double.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

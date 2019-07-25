@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="JMDomainExtender0001">
+      <Title>Ping-tila</Title>
+      <Message>Yhteyden muodostus onnistui.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0002">
+      <Title>Ping-tila</Title>
+      <Message>Yhteyden muodostus epäonnistui.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0003">
+      <Title />
+      <Message>Jos luku keskeytetään odottamatta ongelman aikana, se voi aiheuttaa esteitä, kuten kuvan häviäminen tms. Kun se on keskeytetty, varaa skannaus ja käynnistä CS uudelleen.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0004">
+      <Title />
+      <Message>Työn poistaminen epäonnistui.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0005">
+      <Title />
+      <Message>Työn poistaminen onnistui.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0006">
+      <Title />
+      <Message>JM:n vaihtaminen. Kasetin rekisteröinti poistetaan kokonaan käytöstä. Onko OK?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

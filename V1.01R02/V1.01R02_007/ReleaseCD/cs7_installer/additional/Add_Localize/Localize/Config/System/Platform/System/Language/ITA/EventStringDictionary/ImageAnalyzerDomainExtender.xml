@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0104">
+      <Title>Errore</Title>
+      <Message>Impossibile avviare la sequenza di acquisizione immagine.</Message>
+    </EventString>
+    <EventString Key="0112">
+      <Title>Errore</Title>
+      <Message>Impossibile analizzare il rumore elettrico.</Message>
+    </EventString>
+    <EventString Key="0113">
+      <Title>Errore</Title>
+      <Message>Impossibile analizzare la disparità</Message>
+    </EventString>
+    <EventString Key="0114">
+      <Title>Errore</Title>
+      <Message>Impossibile aggiornare la mappa difetto base.</Message>
+    </EventString>
+    <EventString Key="0115">
+      <Title>Errore</Title>
+      <Message>Impossibile analizzare la mappa difetto.</Message>
+    </EventString>
+    <EventString Key="0116">
+      <Title>Errore</Title>
+      <Message>Impossibile acquisire l'immagine.</Message>
+    </EventString>
+    <EventString Key="0117">
+      <Title>Informazione</Title>
+      <Message>Analisi immagine completata.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

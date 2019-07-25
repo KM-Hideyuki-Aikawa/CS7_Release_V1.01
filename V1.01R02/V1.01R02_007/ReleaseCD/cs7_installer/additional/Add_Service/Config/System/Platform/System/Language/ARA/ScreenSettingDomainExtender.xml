@@ -1,0 +1,1456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>DeviceDisplaySettingsView</Key>
+      <Value>إعدادات الجهاز</Value>
+      <Comment>Device Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSettingsLabelData</Key>
+      <Value>إعداد الشاشة</Value>
+      <Comment>Screen Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ApplicationBarLabelData</Key>
+      <Value>شريط التطبيق</Value>
+      <Comment>Application Bar</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientInfoDisplayRegionLabelExplanationData</Key>
+      <Value>منطقة عرض معلومات المريض</Value>
+      <Comment>Patient Info Display Region</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresetSelectionLabelData</Key>
+      <Value>تحديد مسبق الإعداد</Value>
+      <Comment>Preset Selection</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UnphotographicImageDisplayAreaLabelExplanationData</Key>
+      <Value>منطقة عرض الصور، قبل القراءة</Value>
+      <Comment>Unphotographic image display area</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PictureTakenImageDisplayAreaLabelExplanationData</Key>
+      <Value>منطقة عرض الصور، بعد القراءة</Value>
+      <Comment>Picture taken Image display area</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UntakenPictureShootingConditionsAreaLabelExplanationData</Key>
+      <Value>منطقة عرض علامة الفحص، قبل القراءة</Value>
+      <Comment>Untaken picture shooting conditions display area</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ShootingConditionsDisplayAreaPictureLabelExplanationData</Key>
+      <Value>منطقة عرض علامة الفحص، بعد القراءة</Value>
+      <Comment>Shooting conditions display area that has been taken a picture</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureOrderAutoSortLabelExplanationData</Key>
+      <Value>الفرز التلقائي للطلب</Value>
+      <Comment>Exposure Order Auto Sort</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TouchOperationSettingLabelExplanationData</Key>
+      <Value>تشغيل اللمس</Value>
+      <Comment>Touch Operation Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageSingleTouchLabelExplanationData</Key>
+      <Value>لمس مفرد (منطقة عرض الصور)</Value>
+      <Comment>Image Single Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageDoubleTouchLabelExplanationData</Key>
+      <Value>لمس مزدوج (منطقة عرض الصور)</Value>
+      <Comment>Image Double Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamTagSingleTouchLabelExplanationData</Key>
+      <Value>لمس مفرد (منطقة عرض علامة الفحص)</Value>
+      <Comment>ExamTag Single Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamTagDoubleTouchLabelExplanationData</Key>
+      <Value>لمس مزدوج (منطقة عرض علامة الفحص)</Value>
+      <Comment>ExamTag Double Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefectReasonLabelExplanationData</Key>
+      <Value>سبب الرفض</Value>
+      <Comment>Defect Reason</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>XRayTabLabelData</Key>
+      <Value>علامة الأشعة السينية</Value>
+      <Comment>X-Ray Tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SortOrderLabelData</Key>
+      <Value>فرز الطلب</Value>
+      <Comment>Sort Order</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SendPreviewLabelData</Key>
+      <Value>شاشة المعاينة</Value>
+      <Comment>Send Preview</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefectImageLabelData</Key>
+      <Value>رفض الصور</Value>
+      <Comment>Defect image</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageDestructionSettingWhenDefectLabelExplanationData</Key>
+      <Value>طريقة حذف رفض الصور</Value>
+      <Comment>Image destruction setting when defect</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoFocusLabelData</Key>
+      <Value>التركيز التلقائي</Value>
+      <Comment>Auto Focus</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoFocusNavigationLabelData</Key>
+      <Value>حدث انتقال التركيز</Value>
+      <Comment>Auto Focus Navigation</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TimerLabelData</Key>
+      <Value>وقت انتظار الانتقال ‏‎[بالثانية]</Value>
+      <Comment>Timer</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransitionDestinationLabelData</Key>
+      <Value>وجهة الانتقال</Value>
+      <Comment>Transition Destination</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SearchOfYetToExposedLabelExplanationData</Key>
+      <Value>طريقة البحث عن الصور غير المعرضة</Value>
+      <Comment>Search of yet to be exposed</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NumberOfFramesLabelData</Key>
+      <Value>تجزئة الإطار</Value>
+      <Comment>Number of frames</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ThresholdsOfNumberOfShotsLabelExplanationData</Key>
+      <Value>حدود تغيير تجزئة الإطار</Value>
+      <Comment>Thresholds of number of frame number shots</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputLabelData</Key>
+      <Value>إخراج</Value>
+      <Comment>Output</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputDestinationOnClickingButtonLabelExplanationData</Key>
+      <Value>عرض زر الإخراج</Value>
+      <Comment>Output Destination on clicking the output button</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputDestinationOnClickingStudyButtonLabelExplanationData</Key>
+      <Value>جهاز الإخراج عند النقر فوق زر اكتمال الدراسة</Value>
+      <Comment>Output Destination on clicking the study completion button</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OrderListLabelData</Key>
+      <Value>قائمة الطلبات</Value>
+      <Comment>Order List</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OverlayDisplayOnExposedImagesLabelExplanationData</Key>
+      <Value>إعداد التراكب على الصور المعرضة</Value>
+      <Comment>Overlay Display on Exposed Images</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ControlPanelLabelData</Key>
+      <Value>لوحة التحكم</Value>
+      <Comment>Control Panel</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefaultFunctionOfImageTabLabelExplanationData</Key>
+      <Value>الوظيفة الافتراضية لعلامة تعديل الصورة</Value>
+      <Comment>Default function of Image Adjustment Tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputConditionTabLabelData</Key>
+      <Value>علامة حالة الإخراج</Value>
+      <Comment>Output Condition Tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DRLabelData</Key>
+      <Value>التصوير الإشعاعي الرقمي</Value>
+      <Comment>DR</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CRLabelData</Key>
+      <Value>التصوير الإشعاعي بالكمبيوتر</Value>
+      <Comment>CR</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MammoLabelData</Key>
+      <Value>ثدي</Value>
+      <Comment>Mammo</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefaultsDisplayPanelLabelData</Key>
+      <Value>لوحة عرض الإعدادات الافتراضية</Value>
+      <Comment>Defaults Display Panel</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UnexposedImageSelectionTimeLabelExplanationData</Key>
+      <Value>عند تحديد صور غير معرضة</Value>
+      <Comment>Unexposed Image Selection Time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposedImageSelectionTimeLabelExplanationData</Key>
+      <Value>On Selecting Exposed Image</Value>
+      <Comment>Unexposed Image Selection Time</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ToolBarLabelData</Key>
+      <Value>شريط الأدوات</Value>
+      <Comment>Tool Bar</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayModeLabelData</Key>
+      <Value>وضع العرض</Value>
+      <Comment>Display Mode</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayPositionLabelData</Key>
+      <Value>موضع العرض</Value>
+      <Comment>Display Position</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ButtonDisplayLabelData</Key>
+      <Value />
+      <Comment>Button Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SystemLabelData</Key>
+      <Value>زر النظام</Value>
+      <Comment>System</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RegionSelectionScreenDisplayLabelExplanationData</Key>
+      <Value>زر شاشة تحديد جزء الجسم</Value>
+      <Comment>Region selection screen display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IncidentalInformationCorrectionScreenDisplayLabelExplanationData</Key>
+      <Value>زر شاشة تحرير المعلومات التكميلية</Value>
+      <Comment>Incidental information correction screen display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ViewerScreenDisplayLabelData</Key>
+      <Value>زر شاشة العارض</Value>
+      <Comment>Viewer screen display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SuspendLabelData</Key>
+      <Value>زر الإيقاف المؤقت</Value>
+      <Comment>Suspend</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyEndLabelData</Key>
+      <Value>زر اكتمال الفحص</Value>
+      <Comment>Study end</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IQBoyLabelData</Key>
+      <Value>ولد IQ</Value>
+      <Comment>IQ Boy</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefaultMajorClassificationLabelData</Key>
+      <Value>رقم الإشارة إلى جزء الجسم</Value>
+      <Comment>Default major classification</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ViewerScreenLabelData</Key>
+      <Value>شاشة العارض</Value>
+      <Comment>Viewer Screen</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SpecificationOfDisplayedWindowidLabelExplanationData</Key>
+      <Value>مُعرف Window</Value>
+      <Comment>Specification of displayed windowID</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayPositionXLabelData</Key>
+      <Value>موضع العرض (X)</Value>
+      <Comment>Display position (X)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayPositionYLabelExplanationData</Key>
+      <Value>موضع العرض (Y)</Value>
+      <Comment>Display position  (Y)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ToolBarDisplayPositionSettingLabelExplanationData</Key>
+      <Value>موضع شريط الأدوات</Value>
+      <Comment>Tool bar display position setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HighDefinitionMonitorDisplayLabelExplanationData</Key>
+      <Value>طريقة عرض شاشة عالية الجودة</Value>
+      <Comment>High Definition Monitor display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TextAnnotationLabelData</Key>
+      <Value>عدد علامة ملاحظات النص</Value>
+      <Comment>Text Annotation</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureConditionsScreenDefaultValuesLabelExplanationData</Key>
+      <Value>شاشة حالات التعرض (القيم الافتراضية)</Value>
+      <Comment>Exposure Conditions Screen (Default Values)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LaunchingTimeFromStudyScreenLabelExplanationData</Key>
+      <Value>التحميل من شاشة تسجيل الدراسة</Value>
+      <Comment>Launching time from study reception screen</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LaunchingTimeFromExposureScrnLabelExplanationData</Key>
+      <Value>التحميل من شاشة التعرض</Value>
+      <Comment>Launching time from exposure scrn</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MyFavoritesTabLabelData</Key>
+      <Value>رقم عرض علامة المفضلة الافتراضي</Value>
+      <Comment>My Favorites Tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LargeClassificationLabelData</Key>
+      <Value>رقم عرض جزء الجسم الافتراضي</Value>
+      <Comment>Large classification</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SmallClassificationLabelData</Key>
+      <Value>رقم عرض المجموعة الافتراضي</Value>
+      <Comment>Small classification</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TouchHeaderData</Key>
+      <Value>منطقة اللمس</Value>
+      <Comment>Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SingleTouchHeaderData</Key>
+      <Value>اللمس المفرد</Value>
+      <Comment>Single Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DoubleTouchHeaderData</Key>
+      <Value>اللمس المزدوج</Value>
+      <Comment>Double Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SnoHeaderData</Key>
+      <Value>العدد</Value>
+      <Comment>Sno</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefectReasonHeaderData</Key>
+      <Value>السبب</Value>
+      <Comment>Defect Reason</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FrameTypeHeaderData</Key>
+      <Value>تنسيق</Value>
+      <Comment>Frame Type</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ThresholdHeaderData</Key>
+      <Value>الحد</Value>
+      <Comment>Threshold</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>XrayTypeHeaderData</Key>
+      <Value>نوع الكاشف</Value>
+      <Comment>Xray Type</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureConditionDisplayHeaderData</Key>
+      <Value>عرض حالة التعرض</Value>
+      <Comment>Exposure Condition Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureResultInputDisplayHeaderData</Key>
+      <Value>عرض نتيجة الإشعاع</Value>
+      <Comment>Exposure Result Input Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayTimeCheckBoxData</Key>
+      <Value>وقت الإشعاع</Value>
+      <Comment>Display Time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayRoomNameCheckBoxData</Key>
+      <Value>عرض اسم غرفة الفحص</Value>
+      <Comment>Display Room Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayLoginNameCheckBoxData</Key>
+      <Value>عرض اسم تسجيل الدخول</Value>
+      <Comment>Display Login Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayEmergencyPatientColumnWarningDisplayColumnCheckBoxData</Key>
+      <Value>عرض عمود مريض الطوارئ / عمود عرض التحذير</Value>
+      <Comment>Display Emergency Patient Column/Warning Display Column</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WarningCheckBoxData</Key>
+      <Value>تحذير</Value>
+      <Comment>Warning</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiagnosisDescriptionWhenConsultingAPhysicianCheckBoxData</Key>
+      <Value>قبول وصف التشخيصات</Value>
+      <Comment>Diagnosis description when consulting a physician</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MedicalNotesCheckBoxData</Key>
+      <Value>تنبيهات طبية</Value>
+      <Comment>Medical notes</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AllergyCheckBoxData</Key>
+      <Value>الحساسية</Value>
+      <Comment>Allergy</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientAdditionalCaseHistoryCheckBoxData</Key>
+      <Value>سجل المريض الإضافي</Value>
+      <Comment>Patient additional case history</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PregnancyStatusCheckBoxData</Key>
+      <Value>حالة الحمل</Value>
+      <Comment>Pregnancy status</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SpecialHelpCheckBoxData</Key>
+      <Value>احتياجات خاصة</Value>
+      <Comment>Special Help</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientsStatusCheckBoxData</Key>
+      <Value>حالة المريض</Value>
+      <Comment>Patient's Status</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientDataConfidentialObligationCheckBoxData</Key>
+      <Value>تقييد السرية</Value>
+      <Comment>Patient data confidential obligation</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PriorAdministratingOfMedicationCheckBoxData</Key>
+      <Value>ما قبل المداواة</Value>
+      <Comment>Prior administrating of medication</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoSortCheckBoxData</Key>
+      <Value>الفرز التلقائي لقائمة الطلبات</Value>
+      <Comment>Auto Sort</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayOfSendPreviewTabCheckBoxData</Key>
+      <Value>عرض علامة المعاينة قبل الإخراج</Value>
+      <Comment>Display of send preview tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UseDefectReasonCheckBoxData</Key>
+      <Value>سبب رفض الاستخدام</Value>
+      <Comment>Use defect reason</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoFrameNumberChangeCheckBoxData</Key>
+      <Value>التعديل التلقائي لتجزئة الإطار مع عدد الطلبات</Value>
+      <Comment>Auto frame number change</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AfterItTakesAPictureTheImageConfirmationScreenIsAutomaticallyDisplayedCheckBoxData</Key>
+      <Value>عرض شاشة تأكيد الصورة بعد القراءة</Value>
+      <Comment>After it takes a picture, the image confirmation screen is automatically displayed.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayOutputButtonCheckBoxData</Key>
+      <Value>زر عرض الإخراج</Value>
+      <Comment>Display Output Button</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayOrderListCheckBoxData</Key>
+      <Value>عرض قائمة الأوامر</Value>
+      <Comment>Display Order List</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MarkerCheckBoxData</Key>
+      <Value>علامة</Value>
+      <Comment>Marker</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampCheckBoxData</Key>
+      <Value>طابع</Value>
+      <Comment>Stamp</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScaleCheckBoxData</Key>
+      <Value>تغيير الحجم</Value>
+      <Comment>Scale</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CommonOverlayCheckBoxData</Key>
+      <Value>تراكب شائع</Value>
+      <Comment>Common Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NormalOverlayCheckBoxData</Key>
+      <Value>تراكب عام</Value>
+      <Comment>Normal Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MammoOverlayCheckBoxData</Key>
+      <Value>تراكب تصوير الثدي بالأشعة</Value>
+      <Comment>Mammo Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TextAnnotationCheckBoxData</Key>
+      <Value>ملاحظات النص</Value>
+      <Comment>Mammo Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilmNotchIconCheckBoxData</Key>
+      <Value>رمز درجة الفيلم</Value>
+      <Comment>Film Notch Icon</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoRegistrationCheckBoxData</Key>
+      <Value>السماح بالتسجيل التلقائي</Value>
+      <Comment>Auto Registration</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayWithPreviousEndStatusDuringNextLaunchCheckBoxData</Key>
+      <Value>استعادة آخر الإعدادات التي تم تغييرها عند بدء التشغيل</Value>
+      <Comment>Display with previous end status during next launch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ChangeActiveFrame</Key>
+      <Value>إظهار الإطار النشط</Value>
+      <Comment>Change Active Frame</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CallDomain</Key>
+      <Value>إظهار شاشة العارض</Value>
+      <Comment>Call Domain</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FullScreen</Key>
+      <Value>إظهار عرض ملء الشاشة</Value>
+      <Comment>FullScreen</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ChangeCrReadOrder</Key>
+      <Value>تحديد عرض قراءة كاسيت التصوير الإشعاعي بالكمبيوتر (غير متاح)</Value>
+      <Comment>ChangeCrReadOrder</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeleteBarcode</Key>
+      <Value>حذف الرمز الشريطي (غير متاح)</Value>
+      <Comment>Delete Barcode</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Nothing</Key>
+      <Value>لا يوجد إجراء</Value>
+      <Comment>Nothing</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Upright</Key>
+      <Value>حامل حائطي</Value>
+      <Comment>Upright</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Supine</Key>
+      <Value>طاولة Bucky</Value>
+      <Comment>Supine</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Cassette</Key>
+      <Value>كاسيت</Value>
+      <Comment>Cassette</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>destroyimagewhenng</Key>
+      <Value>حذف الصور المرفوضة في كل عملية (NG) مرفوضة</Value>
+      <Comment>Destroy defect image when executing defect (NG)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>destroyimagewhenstudycomplete</Key>
+      <Value>حذف الصور المرفوضة بعد اكتمال الدراسة</Value>
+      <Comment>Destroy defect image when Study complete</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>leaveimage</Key>
+      <Value>اتركها (لا تحذف)</Value>
+      <Comment>Leave (do not destruct)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>donottransit</Key>
+      <Value>لا تتنقل</Value>
+      <Comment>Do not transit</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittoimage</Key>
+      <Value>انتقل عند بدء إرسال الصور</Value>
+      <Comment>Transit to image transfer start time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittowipeimage</Key>
+      <Value>انتقل عند اكتمال عرض مسح الصور</Value>
+      <Comment>Transit to wipe image display completion time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittopreviewimage</Key>
+      <Value>انتقل عند اكتمال عرض معاينة الصور</Value>
+      <Comment>Transit to preview image display completion time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittooriginal</Key>
+      <Value>انتقل عند اكتمال عرض الصور النهائية</Value>
+      <Comment>Transit to original image display completion time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittonextone</Key>
+      <Value>انتقل إلى الطلب التالي بغض النظر عن حالة التعرض</Value>
+      <Comment>Transit to next one regardless of exposed / unexposed</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittounexposedshot</Key>
+      <Value>انتقل إلى الطلب التالي غير المعرض</Value>
+      <Comment>Transit the focus to unexposed shot</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>searchfromtop</Key>
+      <Value>البحث من أعلى قائمة الطلبات</Value>
+      <Comment>Search from top</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>searchaftercurrent</Key>
+      <Value>البحث بعد الموضع الحالي</Value>
+      <Comment>Search after the current position</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>host</Key>
+      <Value>استضافة</Value>
+      <Comment>Host</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>printer</Key>
+      <Value>طابعة</Value>
+      <Comment>Printer</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>hostandprinter</Key>
+      <Value>المضيف + الطابعة</Value>
+      <Comment>Host + printer</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NONE</Key>
+      <Value>None</Value>
+      <Comment>NONE</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ROI</Key>
+      <Value>ROI</Value>
+      <Comment>ROI</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Magnify</Key>
+      <Value>تكبير</Value>
+      <Comment>Magnify</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Reduce</Key>
+      <Value>تقليل</Value>
+      <Comment>Reduce</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Pan</Key>
+      <Value>جزء</Value>
+      <Comment>Pan</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Imageadjustment</Key>
+      <Value>تعديل الصورة</Value>
+      <Comment>Image adjustment</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Exposurecondition</Key>
+      <Value>حالة التعرض</Value>
+      <Comment>Exposure condition</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Xrayinput</Key>
+      <Value>مدخلات الأشعة السينية</Value>
+      <Comment>X-rayinput</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Overlay</Key>
+      <Value>تراكب</Value>
+      <Comment>Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Outputcondition</Key>
+      <Value>حالة المخرجات</Value>
+      <Comment>Output condition</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Fixedmode</Key>
+      <Value>الوضع الثابت</Value>
+      <Comment>Fixed mode</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Optionalmode</Key>
+      <Value>الوضع الاختياري</Value>
+      <Comment>Optional mode</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Left</Key>
+      <Value>اليسار</Value>
+      <Comment>Left</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Right</Key>
+      <Value>اليمين</Value>
+      <Comment>Right</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Top</Key>
+      <Value>الأعلى</Value>
+      <Comment>Top</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Bottom</Key>
+      <Value>الأسفل</Value>
+      <Comment>Bottom</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Dontdisplay</Key>
+      <Value>عدم العرض</Value>
+      <Comment>Don't display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Alwaysdisplay</Key>
+      <Value>عرض دائم</Value>
+      <Comment>Always display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Displaywhenexpanded</Key>
+      <Value>العرض الموسع</Value>
+      <Comment>Display when expanded</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Sizeofframe</Key>
+      <Value>حجم الإطار</Value>
+      <Comment>Size of frame</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>11display</Key>
+      <Value>عرض 1:1</Value>
+      <Comment>1:1 display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefaultDisplay</Key>
+      <Value>إعداد</Value>
+      <Comment>Default Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BeforeDisplay</Key>
+      <Value>آخر تغيير</Value>
+      <Comment>Before Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FocusDisplay</Key>
+      <Value>طلب التركيز</Value>
+      <Comment>Focus Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ErrorMessageRange</Key>
+      <Value>The value should be in the range {0} - {1}.</Value>
+      <Comment>Focus Display</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ErrorMessageAutoFocus</Key>
+      <Value>Auto focus is not possible when auto confirm is turned on.</Value>
+      <Comment>Focus Display</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ErrorMessageAutoConfirm</Key>
+      <Value>Auto confirm is not possible when auto output is enabled.</Value>
+      <Comment>Focus Display</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ErrorMessageFramesizeThreshold</Key>
+      <Value>Invalid data please provide valid data for Framesize threshold.</Value>
+      <Comment>Focus Display</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ErrorMessagePositiveInteger</Key>
+      <Value>The value should be positive integer.</Value>
+      <Comment>Focus Display</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ErrorMessageMyFavoritesTab</Key>
+      <Value>Please select one option for MyFavoritesTab.</Value>
+      <Comment>Focus Display</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

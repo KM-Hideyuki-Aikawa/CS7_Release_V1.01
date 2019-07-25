@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ExposureRoomDomainExtender0001">
+      <Title>Confirmation</Title>
+      <Message>La salle d'exposition sera remplacée par [salle d'exposition 2]. OK ? Lorsqu'il y a une console connectée à [salle d'exposition 2], cette console sera coupée. Veuillez confirmer qu'il n'y a pas d'exposition dans [salle d'exposition 2]. Le système doit redémarrer après la modification. </Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0002">
+      <Title>Salle active modifiée avec succès.</Title>
+      <Message>Salle active modifiée. Vous devez redémarrer l'application</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0003">
+      <Title>Erreur de changement de salle.</Title>
+      <Message>Impossible de changer la salle d'exposition à cause de [XXX].</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0004">
+      <Title>Confirmation</Title>
+      <Message>L'usage sans fil sera défini sur Activer/Désactiver. OK?</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0005">
+      <Title>Confirmation</Title>
+      <Message>Please wait till wireless switching happens.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title>주의</Title>
+      <Message>숫자 값을 입력해 주십시오.</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title>주의</Title>
+      <Message>유효한 데이터를 입력해 주십시오.</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title>오류</Title>
+      <Message>이득 보정 시작 오류</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title>오류</Title>
+      <Message>오프셋 보정 시작 오류</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title>확인</Title>
+      <Message>이득 보정 절차를 취소하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title>확인</Title>
+      <Message>이득 보정 절차를 취소하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="0107">
+      <Title>확인</Title>
+      <Message>이득 보정 절차를 취소하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="0108">
+      <Title>확인</Title>
+      <Message>이득 보정 절차가 성공적으로 완료되었습니다.</Message>
+    </EventString>
+    <EventString Key="0109">
+      <Title>확인</Title>
+      <Message>오프셋 보정 절차가 성공적으로 완료되었습니다.</Message>
+    </EventString>
+    <EventString Key="0110">
+      <Title>오류</Title>
+      <Message>이득 보정 절차에 실패했습니다.</Message>
+    </EventString>
+    <EventString Key="0111">
+      <Title>오류</Title>
+      <Message>오프셋 보정 절차에 실패했습니다.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

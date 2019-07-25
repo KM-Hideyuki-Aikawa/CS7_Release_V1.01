@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="OrderListDomain0001">
+      <Title>Chyba</Title>
+      <Message>Chyba aktualizace db.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0002">
+      <Title>Upozornění</Title>
+      <Message>Neplatná hodnota, nelze provést.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0003">
+      <Title>Upozornění</Title>
+      <Message>Vstup je povinný.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0004">
+      <Title>Chyba</Title>
+      <Message>Nelze provést.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0005">
+      <Title>Chyba aktualizace pacienta</Title>
+      <Message>Chyba aktualizace pacienta.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0006">
+      <Title>Informace</Title>
+      <Message>Údaje z DB aktualizovány, bude zobrazena aktualizovaná studie.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0007">
+      <Title>Chyba</Title>
+      <Message>Studie byla odstraněna z databáze, operaci nelze provést.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0008">
+      <Title>Potvrzení</Title>
+      <Message>ID téhož pacienta: {0},Jméno pacienta: {1},Pohlaví: {2},DOB:{3} dostupné v databázi, chcete použít údaje z DB?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0009">
+      <Title>Potvrzení</Title>
+      <Message>Studie je ve stavu zpracování, chcete pokračovat?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0010">
+      <Title>Upozornění</Title>
+      <Message>Studie je již provedena na jiné konzoli.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

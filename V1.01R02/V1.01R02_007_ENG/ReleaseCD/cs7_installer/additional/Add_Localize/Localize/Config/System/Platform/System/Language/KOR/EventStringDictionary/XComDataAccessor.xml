@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0401">
+      <Title>전송 오류</Title>
+      <Message>X-선 통신 절차 중 내부 오류가 발생했습니다.</Message>
+    </EventString>
+    <EventString Key="0402">
+      <Title>내부 오류</Title>
+      <Message>X-선 통신 절차 중 내부 오류가 발생했습니다.</Message>
+    </EventString>
+    <EventString Key="0403">
+      <Title>전송 오류</Title>
+      <Message>X-선 시스템에 대한 노출 조건 명령 전송이 실패했습니다. X-선 장치를 재시동하십시오.</Message>
+    </EventString>
+    <EventString Key="0404">
+      <Title>설정 오류</Title>
+      <Message>X-선 시스템에 대한 매개 변수 설정 오류</Message>
+    </EventString>
+    <EventString Key="0405">
+      <Title>장치 오류</Title>
+      <Message>X-선 시스템 오류가 검출되었습니다.</Message>
+    </EventString>
+    <EventString Key="0406">
+      <Title>전송 오류</Title>
+      <Message>X-선 시스템 연결 오류입니다. 네트워크를 확인하십시오.</Message>
+    </EventString>
+    <EventString Key="0301">
+      <Title />
+      <Message />
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ApolloDomainExtender0001">
+      <Title>สถานะ Ping</Title>
+      <Message>เชื่อมต่อสำเร็จแล้ว</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0002">
+      <Title>สถานะ Ping</Title>
+      <Message>เชื่อมต่อล้มเหลว</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0003">
+      <Title>การยืนยัน</Title>
+      <Message>ยกเลิกการลงทะเบียนได้หรือไม่</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0004">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>การยกเลิกอุปกรณ์ล้มเหลว</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0005">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ไม่สามารถประมวลผลคำร้องขอได้เพราะไม่ได้เลือกอุปกรณ์</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0006">
+      <Title>ข้อมูล</Title>
+      <Message>ไร้สาย</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0007">
+      <Title>ข้อมูล</Title>
+      <Message>ใช้สาย</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

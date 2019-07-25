@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0401">
+      <Title>发送错误</Title>
+      <Message>X 线通信过程出现内部错误。</Message>
+    </EventString>
+    <EventString Key="0402">
+      <Title>内部错误</Title>
+      <Message>X 线通信过程出现内部错误。</Message>
+    </EventString>
+    <EventString Key="0403">
+      <Title>发送错误</Title>
+      <Message>曝光条件命令发送给 X 线系统失败，请重新启动 X 线设备。</Message>
+    </EventString>
+    <EventString Key="0404">
+      <Title>设置错误</Title>
+      <Message>X 线系统参数设置错误。</Message>
+    </EventString>
+    <EventString Key="0405">
+      <Title>设备错误</Title>
+      <Message>检测到 X 线系统错误。</Message>
+    </EventString>
+    <EventString Key="0406">
+      <Title>发送错误</Title>
+      <Message>X 线系统连接错误，请检查网络。</Message>
+    </EventString>
+    <EventString Key="0301">
+      <Title />
+      <Message />
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="JMDomainExtender0001">
+      <Title>Ping 結果</Title>
+      <Message>接続に成功しました。</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0002">
+      <Title>Ping 結果</Title>
+      <Message>接続に失敗しました。</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0003">
+      <Title>警告</Title>
+      <Message>トラブル時以外に読取りを中止すると、画像消失等の障害に繋がる可能性があります。中止した場合は検査を保留し、CSを再起動してください。</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0004">
+      <Title />
+      <Message>読取り中止に失敗しました。</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0005">
+      <Title>JMDomainExtender - Job delete</Title>
+      <Message>読取りを中止しました。</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0006">
+      <Title />
+      <Message>JMを切り替えます。カセッテ登録は全て無効になります。よろしいですか？</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

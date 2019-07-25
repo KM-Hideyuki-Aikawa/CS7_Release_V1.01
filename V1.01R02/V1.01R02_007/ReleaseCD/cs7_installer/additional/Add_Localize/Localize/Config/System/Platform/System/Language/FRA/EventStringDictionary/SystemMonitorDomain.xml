@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="SystemMonitorDomain00001">
+      <Title>Composant de lecteur</Title>
+      <Message>(ReaderName) de (ComponentName) arrive à expiration. Veuillez contacter la maintenance.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00002">
+      <Title>Composant de lecteur</Title>
+      <Message>(ComponentName) arrive à expiration. Veuillez contacter la maintenance.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00003">
+      <Title>Composant de lecteur</Title>
+      <Message>(ReaderName) de (ComponentName) a expiré. Veuillez contacter la maintenance.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00004">
+      <Title>Composant de lecteur</Title>
+      <Message>(ComponentName) a expiré. Veuillez contacter la maintenance.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00005">
+      <Title />
+      <Message>Voulez-vous terminer le système ?</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00006">
+      <Title />
+      <Message>Mise à jour réussie.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00007">
+      <Title />
+      <Message>Vous vous êtes déconnecté avec succès.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00008">
+      <Title>Erreur</Title>
+      <Message>Impossible de traiter votre demande de déconnexion.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00009">
+      <Title>Erreur</Title>
+      <Message>Veuillez vérifier le plugin (DomainExtenderName) pas chargé.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00010">
+      <Title />
+      <Message>Êtes-vous sûr de vouloir fermer la session ?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ApolloDomainExtender0001">
+      <Title>Stav Ping</Title>
+      <Message>Připojení bylo úspěšné.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0002">
+      <Title>Stav Ping</Title>
+      <Message>Připojení neúspěšné.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0003">
+      <Title>Potvrzení</Title>
+      <Message>Je zrušení registrace v pořádku?</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0004">
+      <Title>Chyba</Title>
+      <Message>Zrušení zařízení neúspěšné.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0005">
+      <Title>Chyba</Title>
+      <Message>Požadavek nemůže být zpracován, protože není vybráno zařízení</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0006">
+      <Title>Informace</Title>
+      <Message>Bezdrátová síť</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0007">
+      <Title>Informace</Title>
+      <Message>Drátová síť</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

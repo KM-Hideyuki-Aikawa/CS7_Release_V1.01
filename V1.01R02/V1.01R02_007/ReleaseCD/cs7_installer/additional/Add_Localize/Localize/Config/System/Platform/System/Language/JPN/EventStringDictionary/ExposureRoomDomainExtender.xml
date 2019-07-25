@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ExposureRoomDomainExtender0001">
+      <Title>確認</Title>
+      <Message>撮影室を [exposure room 2]に切り替えます。よろしいですか？ [exposure room 2] に接続されているコンソールが存在する場合、そのコンソールは切断されます。[exposure room 2]で撮影が行われていない事を確認してください。また、切り替え後にシステムの再起動が必要です。 </Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0002">
+      <Title>撮影室切り替え成功</Title>
+      <Message>撮影室が変更されました。コンソールの再起動をしてください。</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0003">
+      <Title>撮影室切り替え失敗</Title>
+      <Message>[XXX]のため撮影室の変更に失敗しました。</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0004">
+      <Title>確認</Title>
+      <Message>無線利用を有効/無効に設定します。よろしいですか？</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0005">
+      <Title>確認</Title>
+      <Message>無線接続されるまでしばらくお待ちください。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

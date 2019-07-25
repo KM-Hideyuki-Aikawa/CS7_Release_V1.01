@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title />
+      <Message>要變更身體尺寸嗎？請確認。</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title />
+      <Message>曝光結果套用於多個檢查部位。 檢查標記「{EXAM_TAGS_INFO}」</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title />
+      <Message>未找到套用曝光結果的相符檢查部位， 請檢查。</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title />
+      <Message>曝光條件的自動曝光控制 (AEC) 無法打開， 確定要關閉目動曝光控制嗎？</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title />
+      <Message>無法變更患者尺寸的一些檢查部位， 請檢查。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

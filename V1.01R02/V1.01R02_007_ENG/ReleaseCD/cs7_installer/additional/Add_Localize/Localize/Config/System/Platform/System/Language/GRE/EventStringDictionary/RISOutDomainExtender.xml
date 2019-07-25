@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="RISOutDomainExtender0001">
+      <Title>Κατάσταση ping</Title>
+      <Message>Η σύνδεση πραγματοποιήθηκε επιτυχώς.</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0002">
+      <Title>Κατάσταση ping</Title>
+      <Message>Η σύνδεση απέτυχε.</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0003">
+      <Title />
+      <Message>Συμφωνείτε να διαγραφεί η επιλεγμένη ουρά;</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0004">
+      <Title>Προσοχή</Title>
+      <Message>Επιλέξτε την(τις) ουρά(ές) προς διαγραφή.</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0005">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Συμφωνείτε να διαγραφεί η επιλεγμένη ουρά;</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0006">
+      <Title>Πληροφορίες</Title>
+      <Message>Οι επιλεγμένες ουρές διαγράφηκαν επιτυχώς</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0007">
+      <Title>Σφάλμα</Title>
+      <Message>Σφάλμα κατά τη διαγραφή ουράς.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

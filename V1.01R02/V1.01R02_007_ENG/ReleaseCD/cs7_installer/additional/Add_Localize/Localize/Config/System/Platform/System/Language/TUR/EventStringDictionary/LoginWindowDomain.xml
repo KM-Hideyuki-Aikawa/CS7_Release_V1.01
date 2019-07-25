@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="LoginWindowDomain0000">
+      <Title />
+      <Message>Kullanıcı: "{USERNAME}" oturum açtı. Sizin oturum açabilmeniz için kullanıcı: "{USERNAME}"oturumu kapatmalıdır. Kullanıcı: "{USERNAME}" oturumu kapatılsın mı?</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0001">
+      <Title />
+      <Message>Yanlış kullanıcı adı veya parola</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0002">
+      <Title>Hata</Title>
+      <Message>Oturum açma iptal edildi</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0003">
+      <Title>Hata</Title>
+      <Message>Sistem şu anki kullanıcı tarafından açılamaz. {ERRORS}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

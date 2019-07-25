@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="SystemMonitorDomain00001">
+      <Title>Lesegerät-Komponenten</Title>
+      <Message>(Lesegerätename) in (Komponentenname) bald abgelaufen. Bitte Kundendienst rufen.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00002">
+      <Title>Lesegerät-Komponenten</Title>
+      <Message>(Komponentenname) bald abgelaufen. Bitte Kundendienst rufen.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00003">
+      <Title>Lesegerät-Komponenten</Title>
+      <Message>(Lesegerätename) in (Komponentenname) abgelaufen. Bitte Kundendienst rufen.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00004">
+      <Title>Lesegerät-Komponenten</Title>
+      <Message>(Komponentenname) abgelaufen. Bitte Kundendienst rufen.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00005">
+      <Title />
+      <Message>Soll das System beendet werden?</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00006">
+      <Title />
+      <Message>Update erfolgreich.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00007">
+      <Title />
+      <Message>Sie wurden bei der Anwendung erfolgreich abgemeldet.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00008">
+      <Title>Fehler</Title>
+      <Message>Verarbeitung Ihrer Abmeldeanfrage nicht möglich.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00009">
+      <Title>Fehler</Title>
+      <Message>Bitte prüfen, dass (Domänenerweiterungsnamen-) PlugIn nicht geladen ist.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00010">
+      <Title />
+      <Message>Abmeldung... sind Sie sicher?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

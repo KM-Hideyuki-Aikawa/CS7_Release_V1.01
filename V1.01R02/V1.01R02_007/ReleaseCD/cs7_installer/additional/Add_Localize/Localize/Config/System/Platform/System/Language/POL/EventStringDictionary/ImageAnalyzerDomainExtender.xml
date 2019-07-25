@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0104">
+      <Title>Błąd</Title>
+      <Message>Nie można rozpocząć sekwencji pobierania obrazu.</Message>
+    </EventString>
+    <EventString Key="0112">
+      <Title>Błąd</Title>
+      <Message>Nie można przeprowadzić analizy zakłóceń elektrycznych.</Message>
+    </EventString>
+    <EventString Key="0113">
+      <Title>Błąd</Title>
+      <Message>Nie można przeprowadzić analizy nierówności.</Message>
+    </EventString>
+    <EventString Key="0114">
+      <Title>Błąd</Title>
+      <Message>Nie można zaktualizować podstawowej mapy usterek.</Message>
+    </EventString>
+    <EventString Key="0115">
+      <Title>Błąd</Title>
+      <Message>Nie można przeprowadzić analizy mapy usterek.</Message>
+    </EventString>
+    <EventString Key="0116">
+      <Title>Błąd</Title>
+      <Message>Nie można pobrać obrazu.</Message>
+    </EventString>
+    <EventString Key="0117">
+      <Title>Informacje</Title>
+      <Message>Analiza obrazu zakończona.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

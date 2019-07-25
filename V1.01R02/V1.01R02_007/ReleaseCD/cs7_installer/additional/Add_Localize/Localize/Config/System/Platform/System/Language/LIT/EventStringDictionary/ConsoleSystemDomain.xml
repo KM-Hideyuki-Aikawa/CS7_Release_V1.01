@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ConsoleSystemDomain0001">
+      <Title />
+      <Message>Maitinimo elemento įkrovos lygis yra žemas. Įkraukite maitinimo elementą.</Message>
+    </EventString>
+    <EventString Key="ConsoleSystemDomain0003">
+      <Title />
+      <Message>Dėl žemo elemento įkrovos lygio negalima įrašyti vaizdų. Įkraukite maitinimo elementą.</Message>
+    </EventString>
+    <EventString Key="ConsoleSystemDomain0005">
+      <Title>Įregistruota sėkmingai</Title>
+      <Message>Šis „AeroDR“ yra įregistruotas.
+„AeroDR“pavadinimas: {DeviceName}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

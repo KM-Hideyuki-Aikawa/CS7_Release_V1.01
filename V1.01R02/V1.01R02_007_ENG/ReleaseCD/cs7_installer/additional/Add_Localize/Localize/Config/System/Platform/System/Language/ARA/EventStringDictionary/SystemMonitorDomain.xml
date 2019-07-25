@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="SystemMonitorDomain00001">
+      <Title>مُكون القارئ</Title>
+      <Message>(ReaderName) في (ComponentName) على وشك الانتهاء. الرجاء الاتصال بالصيانة.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00002">
+      <Title>مُكون القارئ</Title>
+      <Message>(ComponentName) على وشك الانتهاء. الرجاء الاتصال بالصيانة.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00003">
+      <Title>مُكون القارئ</Title>
+      <Message>انتهت صلاحية (ReaderName) في (ComponentName). الرجاء الاتصال بالصيانة.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00004">
+      <Title>مُكون القارئ</Title>
+      <Message>انتهت صلاحية (ComponentName). الرجاء الاتصال بالصيانة.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00005">
+      <Title />
+      <Message>هل تريد إنهاء النظام؟</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00006">
+      <Title />
+      <Message>نجاح التحديث.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00007">
+      <Title />
+      <Message>لقد سجلت الخروج بنجاح من التطبيق.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00008">
+      <Title>خطأ</Title>
+      <Message>لا يمكن معالجة طلب تسجيل الخروج.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00009">
+      <Title>خطأ</Title>
+      <Message>الرجاء التحقق من عدم تحميل المُكون الإضافي (DomainExtenderName).</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00010">
+      <Title />
+      <Message>هل تريد بالتأكيد تسجيل الخروج؟</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

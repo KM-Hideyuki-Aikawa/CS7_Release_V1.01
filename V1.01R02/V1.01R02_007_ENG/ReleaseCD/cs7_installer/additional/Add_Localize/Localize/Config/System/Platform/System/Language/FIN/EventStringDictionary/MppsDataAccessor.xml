@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35520">
+      <Title>Alustusvirhe</Title>
+      <Message>Alustaminen epäonnistui.</Message>
+    </EventString>
+    <EventString Key="35521">
+      <Title>Asetuksen lukuvirhe</Title>
+      <Message>Virhe asetustiedoston lukemisessa.</Message>
+    </EventString>
+    <EventString Key="35522">
+      <Title>Aikakatkaisuvirhe</Title>
+      <Message>Tapahtui aikakatkaisu.</Message>
+    </EventString>
+    <EventString Key="">
+      <Title />
+      <Message>[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37350">
+      <Title>Sisäinen virhe</Title>
+      <Message>DICOM-tiedonsiirron sisäinen virhe. Ota yhteyttä huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>Sisäinen virhe</Title>
+      <Message>DICOM-tiedonsiirron sisäinen virhe. Ota yhteyttä huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>Sisäinen virhe</Title>
+      <Message>DICOM-tiedonsiirtoasetusta ei saatu. Tarkista tiedonsiirtoasetus.</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>Tiedonsiirtovirhe</Title>
+      <Message>Tiedonsiirto epäonnistui. Tarkista tiedonsiirtoasetus ja että palvelin toimii.</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>Tiedonsiirtovirhe</Title>
+      <Message>A-ASSOCIATE epäonnistui. Tarkista tiedonsiirtoasetus ja että palvelin toimii.</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>Tiedonsiirtovirhe</Title>
+      <Message>A-ASSOCIATE-palvelimen hylkäämä virheellisen asetuksen takia. Tarkista tiedonsiirtoasetus.</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>Tiedonsiirtovirhe</Title>
+      <Message>DICOM-tiedonsiirron sisäinen virhe. Ota yhteyttä huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="37357">
+      <Title>Tiedonsiirtovirhe</Title>
+      <Message>Vapautuksen tiedonsiirto epäonnistui. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>Tiedonsiirtovirhe</Title>
+      <Message>A-ABORT vastaanotettiin. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37600">
+      <Title>Sisäinen virhe</Title>
+      <Message>RIS-OUT-tiedonsiirron sisäinen virhe. Ota yhteyttä huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="37601">
+      <Title>Sisäinen virhe</Title>
+      <Message>RIS-OUT-tiedonsiirron sisäinen virhe. Ota yhteyttä huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="37602">
+      <Title>Sisäinen virhe</Title>
+      <Message>RIS-OUT-tiedonsiirron sisäinen virhe. Ota yhteyttä huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>Sisäinen virhe</Title>
+      <Message>Lopetusilmoitus vastaanotettiin. [{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37699">
+      <Title>Sisäinen virhe</Title>
+      <Message>Tapahtui määrittämätön virhe. [{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37603">
+      <Title>Sisäinen virhe</Title>
+      <Message>RIS-OUT-tiedonsiirron sisäinen virhe. Ota yhteyttä huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="37604">
+      <Title>Sisäinen virhe</Title>
+      <Message>RIS-OUT-tiedonsiirron sisäinen virhe. Ota yhteyttä huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="37605">
+      <Title>Sisäinen virhe</Title>
+      <Message>RIS-OUT-tiedonsiirron sisäinen virhe. Ota yhteyttä huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="27730">
+      <Title>Tiedonsiirtovirhe</Title>
+      <Message>RIS-OUT-tiedonsiirron tiedonsiirtovirhe. Tarkista tiedonsiirtokohde.</Message>
+    </EventString>
+    <EventString Key="27731">
+      <Title>Tiedonsiirtovirhe</Title>
+      <Message>RIS-OUT-tiedonsiirron tiedonsiirtovirhe. Tarkista tiedonsiirtokohde.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

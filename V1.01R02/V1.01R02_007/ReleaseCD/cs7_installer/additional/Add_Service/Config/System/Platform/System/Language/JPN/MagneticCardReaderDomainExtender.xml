@@ -1,0 +1,928 @@
+﻿<?xml version="1.0"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    
+    <!--Item View-->
+    <LocalizeInfo>
+      <Key>Tab1Header</Key>
+      <Value>カード1</Value>
+      <Comment>Tab1Header</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    
+    <LocalizeInfo>
+      <Key>Tab2Header</Key>
+      <Value>カード2</Value>
+      <Comment>Tab2Header</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    
+    <LocalizeInfo>
+      <Key>OkString</Key>
+      <Value>ＯＫ</Value>
+      <Comment>OK</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    
+    <LocalizeInfo>
+      <Key>CancelString</Key>
+      <Value>キャンセル</Value>
+      <Comment>Cancel</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+   
+    <!--Card View -->
+
+    <LocalizeInfo>
+      <Key>OnCaption</Key>
+      <Value>ON</Value>
+      <Comment>On</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientInfo</Key>
+      <Value>取込情報</Value>
+      <Comment>PatientInfo</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    
+    <LocalizeInfo>
+      <Key>Enable</Key>
+      <Value>有効</Value>
+      <Comment>Enable</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    
+    <LocalizeInfo>
+      <Key>n1</Key>
+      <Value>開始バイト</Value>
+      <Comment>n1</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    
+    <LocalizeInfo>
+      <Key>n2</Key>
+      <Value>読込バイト／フォーマット</Value>
+      <Comment>n2</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>n3</Key>
+      <Value>フォーマット</Value>
+      <Comment>n3</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>n4</Key>
+      <Value>n4</Value>
+      <Comment>n4</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Result</Key>
+      <Value>テスト結果</Value>
+      <Comment>Result</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MagneticCardString</Key>
+      <Value></Value>
+      <Comment>MagneticCardString</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MagneticCardData</Key>
+      <Value>読込データー</Value>
+      <Comment>MagneticCardData</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TestCaption</Key>
+      <Value>テスト</Value>
+      <Comment>TestCaption</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>ResultValueKey</Key>
+      <Value></Value>
+      <Comment>TestCaption</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    
+    <!--Captions-->
+    <LocalizeInfo>
+      <Key>PatientIDCaptionKey</Key>
+      <Value>ID番号</Value>
+      <Comment>PatientID</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>PatientNameCaptionKey</Key>
+      <Value>氏名ﾛｰﾏ字</Value>
+      <Comment>PatientName</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>PatientNameKanaCaptionKey</Key>
+      <Value>氏名ｶﾅ</Value>
+      <Comment>PatientNameKana</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+
+    <LocalizeInfo>
+      <Key>PatientNameKanjiCaptionKey</Key>
+      <Value>氏名漢字</Value>
+      <Comment>PatientNameKanji</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>BirthDateCaptionKey</Key>
+      <Value>生年月日</Value>
+      <Comment>BirthDate</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>SexCaptionKey</Key>
+      <Value>性別</Value>
+      <Comment>Sex</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>PatientCommentsCaptionKey</Key>
+      <Value>ｺﾒﾝﾄ</Value>
+      <Comment>PatientComments</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>StudyNumberCaptionKey</Key>
+      <Value>検査番号</Value>
+      <Comment>StudyNumber</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>HospitalDepartmentCaptionKey</Key>
+      <Value>依頼科</Value>
+      <Comment>HospitalDepartment</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>AccessionNumberCaptionKey</Key>
+      <Value>受付番号</Value>
+      <Comment>AccessionNumber</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+   
+    
+    <!--Setting View Title-->
+
+    <LocalizeInfo>
+      <Key>LengthTitleKey</Key>
+      <Value>数値入力</Value>
+      <Comment>Title of the ChildWindow</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>FormatTitleKey</Key>
+      <Value>ﾌｫｰﾏｯﾄ選択</Value>
+      <Comment>Title of the ChildWindow</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>DisplayPositionKey</Key>
+      <Value>Display Position</Value>
+      <Comment>TestCaption</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>BlankTextContentKey</Key>
+      <Value></Value>
+      <Comment>TestCaption</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    
+    <!--Display Item Caption-->
+
+    <LocalizeInfo>
+      <Key>PatientIDn1Key</Key>
+      <Value>ID番号- 数値入力(1-256)</Value>
+      <Comment>PatientID - Starting Byte</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>PatientIDn2Key</Key>
+      <Value>ID-読込ﾊﾞｲﾄ数(1-30)</Value>
+      <Comment>PatientID - Length</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>PatientIDn3Key</Key>
+      <Value>ID番号 Options</Value>
+      <Comment>PatientID - Format</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>PatientNamen1Key</Key>
+      <Value>氏名ﾛｰﾏ字-開始ﾊﾞｲﾄ (1-256)</Value>
+      <Comment>PatientName - Startingbyte</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>PatientNamen2Key</Key>
+      <Value>氏名ｶﾅ-読込ﾊﾞｲﾄ数(1-30)</Value>
+      <Comment>PatientName - Length</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>PatientNameKanan1Key</Key>
+      <Value>氏名ｶﾅ-開始ﾊﾞｲﾄ  (1-256)</Value>
+      <Comment>PatientNameKana - Starting Byte</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>PatientNameKanan2Key</Key>
+      <Value>氏名ｶﾅ-読込ﾊﾞｲﾄ数(1-60)</Value>
+      <Comment>PatientNameKana - Length</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>PatientNameKanan3Key</Key>
+      <Value>氏名ｶﾅ Options</Value>
+      <Comment>PatientNameKana - Format</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>PatientNameKanjin1Key</Key>
+      <Value>氏名ｶﾅ-開始ﾊﾞｲﾄ  (1-256)</Value>
+      <Comment>PatientNameKanji - Starting Byte</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>PatientNameKanjin2Key</Key>
+      <Value>氏名ｶﾅ-読込ﾊﾞｲﾄ数(1-60)</Value>
+      <Comment>PatientNameKanji - Length</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>PatientNameKanjin3Key</Key>
+      <Value>氏名ｶﾅ Options</Value>
+      <Comment>PatientNameKanji - Format</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>BirthDaten1Key</Key>
+      <Value>生年月日- 開始ﾊﾞｲﾄ (1-256)</Value>
+      <Comment>BirthDate - Starting Byte</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>BirthDaten2Key</Key>
+      <Value>生年月日 Options</Value>
+      <Comment>BirthDate - Format</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>Sexn1Key</Key>
+      <Value>性別- 開始ﾊﾞｲﾄ (1-256)</Value>
+      <Comment>Sex - Starting Byte</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>PatientCommentsn1Key</Key>
+      <Value>ｺﾒﾝﾄ- 開始ﾊﾞｲﾄ (1-256)</Value>
+      <Comment>PatientComments - Starting Byte</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>PatientCommentsn2Key</Key>
+      <Value>ｺﾒﾝﾄ-読込ﾊﾞｲﾄ数 (1-60)</Value>
+      <Comment>PatientComments - Length</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>PatientCommentsn3Key</Key>
+      <Value>>ｺﾒﾝﾄ Options</Value>
+      <Comment>PatientComments - Format</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>PatientCommentsn4Key</Key>
+      <Value>ｺﾒﾝﾄ-表示位置 (0-40)</Value>
+      <Comment>PatientComments - n4</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>StudyNumbern1Key</Key>
+      <Value>検査番号- 開始ﾊﾞｲﾄ  (1-256)</Value>
+      <Comment>StudyNumber Starting Byte</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>StudyNumbern2Key</Key>
+      <Value>検査番号- 読込ﾊﾞｲﾄ数 (1-30)</Value>
+      <Comment>StudyNumber - Length</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>StudyNumbern3Key</Key>
+      <Value>検査番号 Options</Value>
+      <Comment>StudyNumber - Format</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>HospitalDepartmentn1Key</Key>
+      <Value>依頼科 - 数値入力(1-256)</Value>
+      <Comment>HospitalDepartment - Starting byte</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>HospitalDepartmentn2Key</Key>
+      <Value>依頼科-読込ﾊﾞｲﾄ数 (1-60)</Value>
+      <Comment>HospitalDepartment - Length</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>HospitalDepartmentn3Key</Key>
+      <Value>依頼科 Options</Value>
+      <Comment>HospitalDepartment - Format</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>AccessionNumbern1Key</Key>
+      <Value>受付番号- 数値入力(1-256)</Value>
+      <Comment>AccessionNumber - Starting byte</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>AccessionNumbern2Key</Key>
+      <Value>受付番号-読込ﾊﾞｲﾄ数 (1-40)</Value>
+      <Comment>AccessionNumber - Length</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>AccessionNumbern3Key</Key>
+      <Value>受付番号 Options</Value>
+      <Comment>AccessionNumber- Format</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    
+    <!--Button Caption Text -->
+
+    <LocalizeInfo>
+      <Key>StartingByteTextKey</Key>
+      <Value>開始ﾊﾞｲﾄ :</Value>
+      <Comment>StartingByte Button Caption</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+
+    <LocalizeInfo>
+      <Key>LengthTextKey</Key>
+      <Value>読込ﾊﾞｲﾄ数 :</Value>
+      <Comment>Length Button Caption</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+
+    <LocalizeInfo>
+      <Key>n4TextKey</Key>
+      <Value>表示位置</Value>
+      <Comment>Format Button Caption</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+     
+    <!--ComboBox items-->
+    
+    
+    <LocalizeInfo>
+      <Key>FulltextcharacterdisplayKey</Key>
+      <Value>全文字表示</Value>
+      <Comment>PatientID AccessionNo</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>DisplayfigureonlyKey</Key>
+      <Value>数字のみ表示</Value>
+      <Comment>PatientID AccessionNo</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>Head0DisplayKey</Key>
+      <Value>先頭0除いて表示</Value>
+      <Comment>PatientID AccessionNo</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>Head0ExcludeDisplayKey</Key>
+      <Value>先頭0除き、数字のみ表示</Value>
+      <Comment>>PatientID AccessionNo</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>JIS7Key</Key>
+      <Value>JIS7</Value>
+      <Comment>PatientNameKana</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+
+    <LocalizeInfo>
+      <Key>JIS8Key</Key>
+      <Value>JIS8</Value>
+      <Comment>PatientNameKana</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>ShiftJISKey</Key>
+      <Value>Shift-JIS</Value>
+      <Comment>PatientNameKana</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>OldJISKey</Key>
+      <Value>旧JIS</Value>
+      <Comment>PatientNameKanji</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>NewJISKey</Key>
+      <Value>新JIS</Value>
+      <Comment>PatientNameKanji</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>BirthDateType1key</Key>
+      <Value>yyyymmdd</Value>
+      <Comment>BirthDate</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>BirthDateType2key</Key>
+      <Value>yyyy.mm.dd</Value>
+      <Comment>BirthDate</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>BirthDateType3key</Key>
+      <Value>元号(mtsh)+yymmdd</Value>
+      <Comment>BirthDate</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>BirthDateType4key</Key>
+      <Value>元号(mtsh)+yy.mm.dd</Value>
+      <Comment>BirthDate</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>BirthDateType5key</Key>
+      <Value>元号(0～3)+yymmdd</Value>
+      <Comment>BirthDate</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>BirthDateType6key</Key>
+      <Value>元号(0～3)+yy.mm.dd</Value>
+      <Comment>BirthDate</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>BirthDateType7key</Key>
+      <Value>元号(1～4)+yymmdd</Value>
+      <Comment>BirthDate</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>BirthDateType8key</Key>
+      <Value>元号(1～4)+yy.mm.dd</Value>
+      <Comment>BirthDate</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>BirthDateType9key</Key>
+      <Value>元号(mtsh).yy.mm.dd</Value>
+      <Comment>BirthDate</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>BirthDateType10key</Key>
+      <Value>元号(0～3).yy.mm.dd</Value>
+      <Comment>BirthDate</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    <LocalizeInfo>
+      <Key>BirthDateType11key</Key>
+      <Value>元号(1～4).yy.mm.dd</Value>
+      <Comment>BirthDate</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+
+    <LocalizeInfo>
+      <Key>AlphanumericKanaKanjiKey</Key>
+      <Value>JIS 英数/ｶﾅ/漢字 ESC有</Value>
+      <Comment>PatientComments</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+
+    <LocalizeInfo>
+      <Key>AlphanumericKey</Key>
+      <Value>JIS 英数　ESC無</Value>
+      <Comment>PatientComments</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+
+    <LocalizeInfo>
+      <Key>SingleByteJISkey</Key>
+      <Value>JIS 半角ｶﾅ(JIS7) ESC無</Value>
+      <Comment>PatientComments</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+
+    <LocalizeInfo>
+      <Key>OldJISKanjikey</Key>
+      <Value>旧JIS 漢字　　　 ESC無</Value>
+      <Comment>PatientComments</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+    
+    <LocalizeInfo>
+      <Key>NewJISKanjikey</Key>
+      <Value>新JIS 漢字　　　 ESC無</Value>
+      <Comment>PatientComments</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+ 
+    <!--Error Message-->
+   
+    <LocalizeInfo>
+      <Key>ErrorMsgkey</Key>
+      <Value>入力値が正しくありません。</Value>
+      <Comment>PatientComments</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+  
+    <LocalizeInfo>
+      <Key>OkMsgkey</Key>
+      <Value>保存して画面を閉じます.よろしいですか？</Value>
+      <Comment>PatientComments</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+   <LocalizeInfo>
+      <Key>OkMsgTitlekey</Key>
+      <Value>磁気カードリーダー</Value>
+      <Comment>PatientComments</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+
+   <LocalizeInfo>
+      <Key>CancelMsgkey</Key>
+      <Value>保存せず画面を閉じます．よろしいですか？</Value>
+      <Comment>PatientComments</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+
+   <LocalizeInfo>
+      <Key>CancelMsgTitlekey</Key>
+      <Value>磁気カードリーダー</Value>
+      <Comment>PatientComments</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

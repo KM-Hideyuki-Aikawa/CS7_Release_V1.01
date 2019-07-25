@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0401">
+      <Title>Lähetysvirhe</Title>
+      <Message>Röntgentiedonsiirtoprosessissa tapahtui sisäinen virhe.</Message>
+    </EventString>
+    <EventString Key="0402">
+      <Title>Sisäinen virhe</Title>
+      <Message>Röntgentiedonsiirtoprosessissa tapahtui sisäinen virhe.</Message>
+    </EventString>
+    <EventString Key="0403">
+      <Title>Lähetysvirhe</Title>
+      <Message>Valotusolosuhteiden komennon lähetys röntgenjärjestelmälle epäonnistui. Käynnistä röntgenlaite uudelleen.</Message>
+    </EventString>
+    <EventString Key="0404">
+      <Title>Asetusvirhe</Title>
+      <Message>Röntgenjärjestelmän parametriasetusvirhe.</Message>
+    </EventString>
+    <EventString Key="0405">
+      <Title>Laitevirhe</Title>
+      <Message>Röntgenjärjestelmän virhe havaittu.</Message>
+    </EventString>
+    <EventString Key="0406">
+      <Title>Lähetysvirhe</Title>
+      <Message>Röntgenjärjestelmän yhteysvirhe. Tarkista verkko.</Message>
+    </EventString>
+    <EventString Key="0301">
+      <Title />
+      <Message />
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

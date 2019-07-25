@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientRegistrationDomainExtender0001">
+      <Title>Fehler</Title>
+      <Message>Eingegebenes Jahr ist ungültig.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0002">
+      <Title>Fehler</Title>
+      <Message>Eingegebener Monat ist ungültig.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0003">
+      <Title>Fehler</Title>
+      <Message>Eingegebener Tag ist ungültig.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0004">
+      <Title>Fehler</Title>
+      <Message>Eingegebener Wert ist ungültig.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0005">
+      <Title>Fehler</Title>
+      <Message>Die maximale Anzahl von Zeichen ist nicht erreicht.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0006">
+      <Title>Fehler</Title>
+      <Message>Die minimale Anzahl von Zeichen ist nicht erreicht.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0007">
+      <Title>Fehler</Title>
+      <Message>Nummer eingeben.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0008">
+      <Title>Fehler</Title>
+      <Message>Eingegebener Wert ist ungültig</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0009">
+      <Title>Fehler</Title>
+      <Message>Geben Sie alphanumerische Zeichen ein.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0010">
+      <Title>Fehler</Title>
+      <Message>Nur Kana erlaubt.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0011">
+      <Title>Fehler</Title>
+      <Message>Ungültiger Wert. Kann "\" hier nicht verwenden.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0012">
+      <Title>Fehler</Title>
+      <Message>Eingegebenes Jahr ist ungültig.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0013">
+      <Title>Fehler</Title>
+      <Message>Eingegebenes Jahr ist ungültig.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0014">
+      <Title>Fehler</Title>
+      <Message>Eingegebenes Jahr ist ungültig. Geben Sie 1800 oder höher ein.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0015">
+      <Title>Fehler</Title>
+      <Message>Datenbereichsfehler. Bitte prüfen.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0016">
+      <Title>Fehler</Title>
+      <Message>Eingegebene Stunden sind ungültig.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0017">
+      <Title>Fehler</Title>
+      <Message>Eingegebene Minuten sind ungültig.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0018">
+      <Title>Fehler</Title>
+      <Message>Eingegebene Sekunden sind ungültig.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0019">
+      <Title>Fehler</Title>
+      <Message>Geben Sie eine Ganzzahl ein.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0020">
+      <Title>Fehler</Title>
+      <Message>Suchfehler aufgetreten</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0021">
+      <Title>Warnung</Title>
+      <Message>Die Änderung der Patientendaten kann beim PACS-Befundungsabgleich Fehler verursachen. Prüfen Sie sofort alle geänderten Daten in PACS.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0022">
+      <Title>Bestätigung</Title>
+      <Message>Patienten-ID ist obligatorisch. Geben Sie die Patienten-ID ein.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0023">
+      <Title>Bestätigung</Title>
+      <Message>Befund-ID ist obligatorisch. Geben Sie die Befund-ID ein.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0024">
+      <Title>Bestätigung</Title>
+      <Message>Patientenname ist obligatorisch. Geben Sie den Patientennamen ein.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0025">
+      <Title>Bestätigung</Title>
+      <Message>Patientenname ist obligatorisch. Geben Sie den Patientennamen ein.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0026">
+      <Title>Bestätigung</Title>
+      <Message>Patientenname ist obligatorisch. Geben Sie den Patientennamen ein.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0027">
+      <Title>Bestätigung</Title>
+      <Message>Geschlecht ist obligatorisch. Geben Sie das Geschlecht ein.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0028">
+      <Title>Bestätigung</Title>
+      <Message>Geburtsdatum ist obligatorisch. Geben Sie das Geburtsdatum ein.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0029">
+      <Title>Fehler</Title>
+      <Message>Lesen der Magnetkarte nicht möglich. Starten Sie das System neu.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0030">
+      <Title>Fehler</Title>
+      <Message>Obligatorisches Feld nicht eingegeben. Ausführung nicht möglich.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0031">
+      <Title>Bestätigung</Title>
+      <Message>Belichtetes Bild im Befund vorhanden. Möchten Sie den Befund bearbeiten?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0032">
+      <Title>Bestätigung</Title>
+      <Message>OK zum Schließen der laufenden Dr.Ansicht?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0033">
+      <Title>Bestätigung</Title>
+      <Message>Dr.Ansicht neu starten? </Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0034">
+      <Title>Bestätigung</Title>
+      <Message>Befundung wird in Status "Ausgesetzt" zurückgesetzt. Ist das OK?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0035">
+      <Title>Fehler</Title>
+      <Message>Es gibt keine entsprechenden Befund- oder Patientendaten.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0036">
+      <Title>Bestätigung</Title>
+      <Message>Befund bereits in DB vorhanden. Möchten Sie diesen Befund verwenden?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0037">
+      <Title>Bestätigung</Title>
+      <Message>Patientendaten bereits in DB vorhanden. Möchten Sie diese Patientendaten verwenden?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0038">
+      <Title>Fehler</Title>
+      <Message>Mehrere Patienten können nicht gewählt werden.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0039">
+      <Title>Fehler</Title>
+      <Message>DB-Fehler - Auftragserstellung fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0040">
+      <Title>Fehler</Title>
+      <Message>Fehler beim Update der Patienten-DB.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0041">
+      <Title>Fehler</Title>
+      <Message>Der entsprechende Patient ist nicht in der DB vorhanden.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0042">
+      <Title>Fehler</Title>
+      <Message>Dieses Zeichen ist nicht zulässig.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0046">
+      <Title>Fehler</Title>
+      <Message>Zukunftsjahr nicht möglich.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0047">
+      <Title>Fehler</Title>
+      <Message>Zukunftsmonat nicht möglich.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0048">
+      <Title>Fehler</Title>
+      <Message>Zukunftsdatum nicht möglich.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0049">
+      <Title>Fehler</Title>
+      <Message>Eingegebenes Jahr ist kein Schaltjahr. Prüfen Sie das Datum.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0052">
+      <Title>Bestätigung</Title>
+      <Message>Auftrag registriert. Möchten Sie überschreiben?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0053">
+      <Title>Bestätigung</Title>
+      <Message>Gleiche Patienten-ID: {0}, Patientenname: {1}, Geschlecht: {2}, DOB:{3} in Datenbank vorhanden; möchten Sie überschreiben?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0054">
+      <Title>Fehler</Title>
+      <Message>Ungültiger Wert. Kann "\", "^" oder "=" hier nicht verwenden.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0055">
+      <Title>Fehler</Title>
+      <Message>Ungültiger Wert. Kann "\" oder "=" hier nicht verwenden.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0056">
+      <Title>Fehler</Title>
+      <Message>Betrieb nicht möglich</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0057">
+      <Title>Bestätigung</Title>
+      <Message>Möchten Sie alles löschen?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0058">
+      <Title>Fehler</Title>
+      <Message>Geben Sie obligatorische Felder ein.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0059">
+      <Title>Bestätigung</Title>
+      <Message>Möchten Sie den Befund registrieren?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0060">
+      <Title>Fehler</Title>
+      <Message>Registrierung fehlgeschlagen</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0061">
+      <Title>Bestätigung</Title>
+      <Message>Möchten Sie die Daten überschreiben?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0062">
+      <Title>Fehler</Title>
+      <Message>Es gibt keinen entsprechenden Befund, Patienten.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0063">
+      <Title>Fehler</Title>
+      <Message>Geben Sie den Inhalt für die Suche ein.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0064">
+      <Title>Fehler</Title>
+      <Message>Geben Sie einen Wert für beide Felder Inhaltsdatum und Inhaltszeit ein.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

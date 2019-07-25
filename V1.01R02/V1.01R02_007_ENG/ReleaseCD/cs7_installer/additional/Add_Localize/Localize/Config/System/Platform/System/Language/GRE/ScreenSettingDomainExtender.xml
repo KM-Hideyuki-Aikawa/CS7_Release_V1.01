@@ -1,0 +1,1391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>DeviceDisplaySettingsView</Key>
+      <Value>Ρύθμιση συσκευής</Value>
+      <Comment>Device Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSettingsLabelData</Key>
+      <Value>Ρύθμιση οθόνης</Value>
+      <Comment>Screen Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ApplicationBarLabelData</Key>
+      <Value>Γραμμή εφαρμογής</Value>
+      <Comment>Application Bar</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientInfoDisplayRegionLabelExplanationData</Key>
+      <Value>Περιοχή εμφάνισης δεδομένων ασθενούς</Value>
+      <Comment>Patient Info Display Region</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresetSelectionLabelData</Key>
+      <Value>Προκαθορισμένη επιλογή</Value>
+      <Comment>Preset Selection</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UnphotographicImageDisplayAreaLabelExplanationData</Key>
+      <Value>Περιοχή εμφάνισης εικόνας πριν από την ανάγνωση</Value>
+      <Comment>Unphotographic image display area</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PictureTakenImageDisplayAreaLabelExplanationData</Key>
+      <Value>Περιοχή εμφάνισης εικόνας μετά από την ανάγνωση</Value>
+      <Comment>Picture taken Image display area</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UntakenPictureShootingConditionsAreaLabelExplanationData</Key>
+      <Value>Περιοχή εμφάνισης της ετικέτας εξέτασης πριν από την ανάγνωση</Value>
+      <Comment>Untaken picture shooting conditions display area</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ShootingConditionsDisplayAreaPictureLabelExplanationData</Key>
+      <Value>Περιοχή εμφάνισης της ετικέτας εξέτασης μετά από την ανάγνωση</Value>
+      <Comment>Shooting conditions display area that has been taken a picture</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureOrderAutoSortLabelExplanationData</Key>
+      <Value>Εντολή αυτόματης ταξινόμησης</Value>
+      <Comment>Exposure Order Auto Sort</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TouchOperationSettingLabelExplanationData</Key>
+      <Value>Λειτουργία αφής</Value>
+      <Comment>Touch Operation Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageSingleTouchLabelExplanationData</Key>
+      <Value>Μονό άγγιγμα (περιοχή εμφάνισης εικόνας)</Value>
+      <Comment>Image Single Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageDoubleTouchLabelExplanationData</Key>
+      <Value>Διπλό άγγιγμα (περιοχή εμφάνισης εικόνας)</Value>
+      <Comment>Image Double Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamTagSingleTouchLabelExplanationData</Key>
+      <Value>Μονό άγγιγμα (περιοχή εμφάνισης καρτέλας εξέτασης)</Value>
+      <Comment>ExamTag Single Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamTagDoubleTouchLabelExplanationData</Key>
+      <Value>Διπλό άγγιγμα (περιοχή εμφάνισης καρτέλας εξέτασης)</Value>
+      <Comment>ExamTag Double Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefectReasonLabelExplanationData</Key>
+      <Value>Αιτία απόρριψης</Value>
+      <Comment>Defect Reason</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>XRayTabLabelData</Key>
+      <Value>Καρτέλα ακτινών Χ</Value>
+      <Comment>X-Ray Tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SortOrderLabelData</Key>
+      <Value>Σειρά ταξινόμησης</Value>
+      <Comment>Sort Order</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SendPreviewLabelData</Key>
+      <Value>Προβολή προεπισκόπησης</Value>
+      <Comment>Send Preview</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefectImageLabelData</Key>
+      <Value>Απόρριψη εικόνας</Value>
+      <Comment>Defect image</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageDestructionSettingWhenDefectLabelExplanationData</Key>
+      <Value>Μέθοδος διαγραφής απόρριψης εικόνας</Value>
+      <Comment>Image destruction setting when defect</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoFocusLabelData</Key>
+      <Value>Αυτόματη εστίαση</Value>
+      <Comment>Auto Focus</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoFocusNavigationLabelData</Key>
+      <Value>Συμβάν πλοήγησης εστίασης</Value>
+      <Comment>Auto Focus Navigation</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TimerLabelData</Key>
+      <Value>Χρόνος αναμονής για πλοήγηση [sec]</Value>
+      <Comment>Timer</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransitionDestinationLabelData</Key>
+      <Value>Προορισμός πλοήγησης</Value>
+      <Comment>Transition Destination</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SearchOfYetToExposedLabelExplanationData</Key>
+      <Value>Μέθοδος αναζήτησης μη εκτεθειμένης εικόνας</Value>
+      <Comment>Search of yet to be exposed</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NumberOfFramesLabelData</Key>
+      <Value>Τμηματοποίηση πλαισίου</Value>
+      <Comment>Number of frames</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ThresholdsOfNumberOfShotsLabelExplanationData</Key>
+      <Value>Όρια αλλαγής τμηματοποίησης πλαισίου</Value>
+      <Comment>Thresholds of number of frame number shots</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputLabelData</Key>
+      <Value>Εξαγωγή</Value>
+      <Comment>Output</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputDestinationOnClickingButtonLabelExplanationData</Key>
+      <Value>Εμφάνιση κουμπιού εξαγωγής</Value>
+      <Comment>Output Destination on clicking the output button</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputDestinationOnClickingStudyButtonLabelExplanationData</Key>
+      <Value>Εξαγωγή συσκευής με κλικ στο κουμπί ολοκλήρωσης της μελέτης</Value>
+      <Comment>Output Destination on clicking the study completion button</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OrderListLabelData</Key>
+      <Value>Λίστα εντολών</Value>
+      <Comment>Order List</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OverlayDisplayOnExposedImagesLabelExplanationData</Key>
+      <Value>Ρύθμιση υπέρθεσης σε εκτεθειμένες εικόνες</Value>
+      <Comment>Overlay Display on Exposed Images</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ControlPanelLabelData</Key>
+      <Value>Πίνακας ελέγχου</Value>
+      <Comment>Control Panel</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefaultFunctionOfImageTabLabelExplanationData</Key>
+      <Value>Προεπιλεγμένη λειτουργία της καρτέλας Προσαρμογή εικόνας</Value>
+      <Comment>Default function of Image Adjustment Tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputConditionTabLabelData</Key>
+      <Value>Καρτέλα Συνθήκη εξαγωγής</Value>
+      <Comment>Output Condition Tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DRLabelData</Key>
+      <Value>DR</Value>
+      <Comment>DR</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CRLabelData</Key>
+      <Value>CR</Value>
+      <Comment>CR</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MammoLabelData</Key>
+      <Value>Μαστογραφία</Value>
+      <Comment>Mammo</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefaultsDisplayPanelLabelData</Key>
+      <Value>Πίνακας εμφάνισης προεπιλογών</Value>
+      <Comment>Defaults Display Panel</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UnexposedImageSelectionTimeLabelExplanationData</Key>
+      <Value>Με την επιλογή μη εκτεθειμένης εικόνας</Value>
+      <Comment>Unexposed Image Selection Time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ToolBarLabelData</Key>
+      <Value>Γραμμή εργαλείων</Value>
+      <Comment>Tool Bar</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayModeLabelData</Key>
+      <Value>Λειτουργία εμφάνισης</Value>
+      <Comment>Display Mode</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayPositionLabelData</Key>
+      <Value>Θέση εμφάνισης</Value>
+      <Comment>Display Position</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ButtonDisplayLabelData</Key>
+      <Value />
+      <Comment>Button Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SystemLabelData</Key>
+      <Value>Κουμπί Σύστημα</Value>
+      <Comment>System</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RegionSelectionScreenDisplayLabelExplanationData</Key>
+      <Value>Κουμπί Οθόνη επιλογής τμήματος σώματος</Value>
+      <Comment>Region selection screen display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IncidentalInformationCorrectionScreenDisplayLabelExplanationData</Key>
+      <Value>Κουμπί Οθόνη επεξεργασίας συμπληρωματικών πληροφοριών</Value>
+      <Comment>Incidental information correction screen display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ViewerScreenDisplayLabelData</Key>
+      <Value>Κουμπί Οθόνη αναγνώστη</Value>
+      <Comment>Viewer screen display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SuspendLabelData</Key>
+      <Value>Κουμπί παύση</Value>
+      <Comment>Suspend</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyEndLabelData</Key>
+      <Value>Κουμπί Ολοκλήρωση εξέτασης</Value>
+      <Comment>Study end</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IQBoyLabelData</Key>
+      <Value>IQ Boy</Value>
+      <Comment>IQ Boy</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefaultMajorClassificationLabelData</Key>
+      <Value>Αριθμός αναφοράς μέρους σώματος</Value>
+      <Comment>Default major classification</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ViewerScreenLabelData</Key>
+      <Value>Οθόνη αναγνώστη</Value>
+      <Comment>Viewer Screen</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SpecificationOfDisplayedWindowidLabelExplanationData</Key>
+      <Value>Αναγνωριστικό παραθύρου</Value>
+      <Comment>Specification of displayed windowID</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayPositionXLabelData</Key>
+      <Value>Θέση εμφάνισης (X)</Value>
+      <Comment>Display position (X)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayPositionYLabelExplanationData</Key>
+      <Value>Θέση εμφάνισης (Υ)</Value>
+      <Comment>Display position  (Y)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ToolBarDisplayPositionSettingLabelExplanationData</Key>
+      <Value>Θέση γραμμής εργαλείων</Value>
+      <Comment>Tool bar display position setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HighDefinitionMonitorDisplayLabelExplanationData</Key>
+      <Value>Μέθοδος εμφάνισης οθόνης υψηλής ανάλυσης</Value>
+      <Comment>High Definition Monitor display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TextAnnotationLabelData</Key>
+      <Value>Πλήθος καρτελών σχολίου κειμένου</Value>
+      <Comment>Text Annotation</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureConditionsScreenDefaultValuesLabelExplanationData</Key>
+      <Value>Οθόνη συνθηκών έκθεσης (προεπιλεγμένες τιμές)</Value>
+      <Comment>Exposure Conditions Screen (Default Values)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LaunchingTimeFromStudyScreenLabelExplanationData</Key>
+      <Value>Εκκίνηση από την οθόνη καταχώρισης μελέτης</Value>
+      <Comment>Launching time from study reception screen</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LaunchingTimeFromExposureScrnLabelExplanationData</Key>
+      <Value>Εκκίνηση από την οθόνη έκθεσης</Value>
+      <Comment>Launching time from exposure scrn</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MyFavoritesTabLabelData</Key>
+      <Value>Αριθμός καρτελών προεπιλεγμένης εμφάνισης Τα αγαπημένα μου</Value>
+      <Comment>My Favorites Tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LargeClassificationLabelData</Key>
+      <Value>Προεπιλεγμένη εμφάνιση αριθμού μέρους σώματος</Value>
+      <Comment>Large classification</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SmallClassificationLabelData</Key>
+      <Value>Προεπιλεγμένη εμφάνιση αριθμού ομάδας</Value>
+      <Comment>Small classification</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TouchHeaderData</Key>
+      <Value>Περιοχή αφής</Value>
+      <Comment>Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SingleTouchHeaderData</Key>
+      <Value>Μονό άγγιγμα</Value>
+      <Comment>Single Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DoubleTouchHeaderData</Key>
+      <Value>Διπλό άγγιγμα</Value>
+      <Comment>Double Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SnoHeaderData</Key>
+      <Value>Αρ.</Value>
+      <Comment>Sno</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefectReasonHeaderData</Key>
+      <Value>Αιτία</Value>
+      <Comment>Defect Reason</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FrameTypeHeaderData</Key>
+      <Value>Μορφή</Value>
+      <Comment>Frame Type</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ThresholdHeaderData</Key>
+      <Value>Όριο</Value>
+      <Comment>Threshold</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>XrayTypeHeaderData</Key>
+      <Value>Τύπος ανιχνευτή</Value>
+      <Comment>Xray Type</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureConditionDisplayHeaderData</Key>
+      <Value>Εμφάνιση συνθήκης έκθεσης</Value>
+      <Comment>Exposure Condition Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureResultInputDisplayHeaderData</Key>
+      <Value>Εμφάνιση αποτελέσματος ακτινοβολίας</Value>
+      <Comment>Exposure Result Input Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayTimeCheckBoxData</Key>
+      <Value>Χρόνος εμφάνισης</Value>
+      <Comment>Display Time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayRoomNameCheckBoxData</Key>
+      <Value>Εμφάνιση ονόματος δωματίου εξέτασης</Value>
+      <Comment>Display Room Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayLoginNameCheckBoxData</Key>
+      <Value>Εμφάνιση ονόματος σύνδεσης</Value>
+      <Comment>Display Login Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayEmergencyPatientColumnWarningDisplayColumnCheckBoxData</Key>
+      <Value>Εμφάνιση στήλης ασθενούς έκτακτης ανάγκης/στήλης εμφάνισης προειδοποιήσεων</Value>
+      <Comment>Display Emergency Patient Column/Warning Display Column</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WarningCheckBoxData</Key>
+      <Value>Προειδοποίηση</Value>
+      <Comment>Warning</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiagnosisDescriptionWhenConsultingAPhysicianCheckBoxData</Key>
+      <Value>Περιγραφή διαγνώσεων εισαγωγής</Value>
+      <Comment>Diagnosis description when consulting a physician</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MedicalNotesCheckBoxData</Key>
+      <Value>Ιατρικές ειδοποιήσεις</Value>
+      <Comment>Medical notes</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AllergyCheckBoxData</Key>
+      <Value>Αλλεργία</Value>
+      <Comment>Allergy</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientAdditionalCaseHistoryCheckBoxData</Key>
+      <Value>Επιπρόσθετο ιστορικό ασθενούς</Value>
+      <Comment>Patient additional case history</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PregnancyStatusCheckBoxData</Key>
+      <Value>Κατάσταση εγκυμοσύνης</Value>
+      <Comment>Pregnancy status</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SpecialHelpCheckBoxData</Key>
+      <Value>Ειδικές ανάγκες</Value>
+      <Comment>Special Help</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientsStatusCheckBoxData</Key>
+      <Value>Κατάσταση ασθενούς</Value>
+      <Comment>Patient's Status</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientDataConfidentialObligationCheckBoxData</Key>
+      <Value>Περιορισμός εμπιστευτικότητας</Value>
+      <Comment>Patient data confidential obligation</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PriorAdministratingOfMedicationCheckBoxData</Key>
+      <Value>Προ-φάρμακο</Value>
+      <Comment>Prior administrating of medication</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoSortCheckBoxData</Key>
+      <Value>Εντολή αυτόματης ταξινόμησης λίστας</Value>
+      <Comment>Auto Sort</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayOfSendPreviewTabCheckBoxData</Key>
+      <Value>Εμφάνιση καρτέλας προεπισκόπησης πριν από την εξαγωγή</Value>
+      <Comment>Display of send preview tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UseDefectReasonCheckBoxData</Key>
+      <Value>Χρήση αιτίας απόρριψης</Value>
+      <Comment>Use defect reason</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoFrameNumberChangeCheckBoxData</Key>
+      <Value>Αυτόματη προσαρμογή τμηματοποίησης πλαισίου μαζί με πλήθος εντολών</Value>
+      <Comment>Auto frame number change</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AfterItTakesAPictureTheImageConfirmationScreenIsAutomaticallyDisplayedCheckBoxData</Key>
+      <Value>Εμφάνιση οθόνης επιβεβαίωσης εικόνας μετά την ανάγνωση</Value>
+      <Comment>After it takes a picture, the image confirmation screen is automatically displayed.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayOutputButtonCheckBoxData</Key>
+      <Value>Εμφάνιση κουμπιού Εξαγωγή</Value>
+      <Comment>Display Output Button</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayOrderListCheckBoxData</Key>
+      <Value>Εμφάνιση λίστας εντολών</Value>
+      <Comment>Display Order List</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MarkerCheckBoxData</Key>
+      <Value>Δείκτης</Value>
+      <Comment>Marker</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampCheckBoxData</Key>
+      <Value>Σήμανση</Value>
+      <Comment>Stamp</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScaleCheckBoxData</Key>
+      <Value>Κλίμακα</Value>
+      <Comment>Scale</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CommonOverlayCheckBoxData</Key>
+      <Value>Κοινή υπέρθεση</Value>
+      <Comment>Common Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NormalOverlayCheckBoxData</Key>
+      <Value>Γενική υπέρθεση</Value>
+      <Comment>Normal Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MammoOverlayCheckBoxData</Key>
+      <Value>Υπέρθεση μαστογραφίας</Value>
+      <Comment>Mammo Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TextAnnotationCheckBoxData</Key>
+      <Value>Σχόλιο κειμένου</Value>
+      <Comment>Mammo Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilmNotchIconCheckBoxData</Key>
+      <Value>Εικονίδιο Εγκοπή ακτινογραφίας</Value>
+      <Comment>Film Notch Icon</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoRegistrationCheckBoxData</Key>
+      <Value>Να επιτρέπεται η αυτόματη καταχώριση</Value>
+      <Comment>Auto Registration</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayWithPreviousEndStatusDuringNextLaunchCheckBoxData</Key>
+      <Value>Επαναφορά τελευταίας αλλαγμένης ρύθμισης κατά την εκκίνηση</Value>
+      <Comment>Display with previous end status during next launch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ChangeActiveFrame</Key>
+      <Value>Προβολή ενεργού πλαισίου</Value>
+      <Comment>Change Active Frame</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CallDomain</Key>
+      <Value>Προβολή οθόνης αναγνώστη</Value>
+      <Comment>Call Domain</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FullScreen</Key>
+      <Value>Προβολή πλήρους οθόνης</Value>
+      <Comment>FullScreen</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ChangeCrReadOrder</Key>
+      <Value>Καθορισμός πλάτους ανάγνωσης αναγνώστη κασετών CR (μη διαθέσιμο)</Value>
+      <Comment>ChangeCrReadOrder</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeleteBarcode</Key>
+      <Value>Διαγραφή γραμμικού κωδικού (μη διαθέσιμο)</Value>
+      <Comment>Delete Barcode</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Nothing</Key>
+      <Value>Καμία ενέργεια</Value>
+      <Comment>Nothing</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Upright</Key>
+      <Value>Επιτοίχια βάση</Value>
+      <Comment>Upright</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Supine</Key>
+      <Value>Ακτινολογικό τραπέζι με αντιδιαχυτικό διάφραγμα (bucky)</Value>
+      <Comment>Supine</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Cassette</Key>
+      <Value>Κασέτα</Value>
+      <Comment>Cassette</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>destroyimagewhenng</Key>
+      <Value>Διαγραφή απορριφθείσας εικόνας σε κάθε λειτουργία απόρριψης (NG)</Value>
+      <Comment>Destroy defect image when executing defect (NG)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>destroyimagewhenstudycomplete</Key>
+      <Value>Διαγραφή απορριφθείσας εικόνας μετά από την ολοκλήρωση της μελέτης</Value>
+      <Comment>Destroy defect image when Study complete</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>leaveimage</Key>
+      <Value>Να παραμείνει (Να μη διαγραφεί)</Value>
+      <Comment>Leave (do not destruct)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>donottransit</Key>
+      <Value>Να μην πραγματοποιηθεί πλοήγηση</Value>
+      <Comment>Do not transit</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittoimage</Key>
+      <Value>Πλοήγηση στην εκκίνηση μεταφοράς εικόνας</Value>
+      <Comment>Transit to image transfer start time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittowipeimage</Key>
+      <Value>Πλοήγηση στην ολοκλήρωση εμφάνισης διαγραφής εικόνας</Value>
+      <Comment>Transit to wipe image display completion time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittopreviewimage</Key>
+      <Value>Πλοήγηση στην ολοκλήρωση εμφάνισης προεπισκόπησης εικόνας</Value>
+      <Comment>Transit to preview image display completion time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittooriginal</Key>
+      <Value>Πλοήγηση στην ολοκλήρωση εμφάνισης τελικής εικόνας</Value>
+      <Comment>Transit to original image display completion time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittonextone</Key>
+      <Value>Πλοήγηση στην επόμενη εντολή ανεξάρτητα από κατάσταση έκθεσης</Value>
+      <Comment>Transit to next one regardless of exposed / unexposed</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittounexposedshot</Key>
+      <Value>Πλοήγηση στην επόμενη μη εκτεθειμένη εντολή</Value>
+      <Comment>Transit the focus to unexposed shot</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>searchfromtop</Key>
+      <Value>Αναζήτηση από την κορυφή της λίστας εντολών</Value>
+      <Comment>Search from top</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>searchaftercurrent</Key>
+      <Value>Αναζήτηση μετά από την τρέχουσα θέση</Value>
+      <Comment>Search after the current position</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>host</Key>
+      <Value>Κεντρικός υπολογιστής</Value>
+      <Comment>Host</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>printer</Key>
+      <Value>Εκτυπωτής</Value>
+      <Comment>Printer</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>hostandprinter</Key>
+      <Value>Κεντρικός υπολογιστής + εκτυπωτής</Value>
+      <Comment>Host + printer</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ROI</Key>
+      <Value>Περιοχή ενδιαφέροντος (ROI)</Value>
+      <Comment>ROI</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Magnify</Key>
+      <Value>Μεγέθυνση</Value>
+      <Comment>Magnify</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Reduce</Key>
+      <Value>Σμίκρυνση</Value>
+      <Comment>Reduce</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Pan</Key>
+      <Value>Πανοραμική λήψη</Value>
+      <Comment>Pan</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Imageadjustment</Key>
+      <Value>Προσαρμογή εικόνας</Value>
+      <Comment>Image adjustment</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Exposurecondition</Key>
+      <Value>Συνθήκη έκθεσης</Value>
+      <Comment>Exposure condition</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Xrayinput</Key>
+      <Value>Εισαγωγή ΑΚΤΙΝΩΝ X</Value>
+      <Comment>X-rayinput</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Overlay</Key>
+      <Value>Υπέρθεση</Value>
+      <Comment>Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Outputcondition</Key>
+      <Value>Συνθήκη εξαγωγής</Value>
+      <Comment>Output condition</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Fixedmode</Key>
+      <Value>Σταθερή λειτουργία</Value>
+      <Comment>Fixed mode</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Optionalmode</Key>
+      <Value>Προαιρετική λειτουργία</Value>
+      <Comment>Optional mode</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Left</Key>
+      <Value>Αριστερά</Value>
+      <Comment>Left</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Right</Key>
+      <Value>Δεξιά</Value>
+      <Comment>Right</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Top</Key>
+      <Value>Επάνω</Value>
+      <Comment>Top</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Bottom</Key>
+      <Value>Κάτω</Value>
+      <Comment>Bottom</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Dontdisplay</Key>
+      <Value>Να μην εμφανίζεται</Value>
+      <Comment>Don't display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Alwaysdisplay</Key>
+      <Value>Να εμφανίζεται πάντοτε</Value>
+      <Comment>Always display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Displaywhenexpanded</Key>
+      <Value>Να εμφανίζεται σε εκτεταμένη</Value>
+      <Comment>Display when expanded</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Sizeofframe</Key>
+      <Value>Μέγεθος πλαισίου</Value>
+      <Comment>Size of frame</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>11display</Key>
+      <Value>Εμφάνιση 1:1</Value>
+      <Comment>1:1 display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefaultDisplay</Key>
+      <Value>Ρύθμιση</Value>
+      <Comment>Default Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BeforeDisplay</Key>
+      <Value>Τελευταία αλλαγή</Value>
+      <Comment>Before Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FocusDisplay</Key>
+      <Value>Εντολή εστίασης</Value>
+      <Comment>Focus Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

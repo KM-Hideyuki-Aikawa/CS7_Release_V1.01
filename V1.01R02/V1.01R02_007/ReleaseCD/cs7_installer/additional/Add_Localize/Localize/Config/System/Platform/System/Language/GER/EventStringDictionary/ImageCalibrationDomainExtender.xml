@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title>Achtung</Title>
+      <Message>Geben Sie numerische Werte ein.</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title>Achtung</Title>
+      <Message>Geben Sie gültige Daten ein.</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title>Fehler</Title>
+      <Message>Startfehler bei Verstärkungskalibrierung</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title>Fehler</Title>
+      <Message>Startfehler bei Versatzkalibrierung</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title>Bestätigung</Title>
+      <Message>Möchten Sie die Verstärkungskalibrierung abbrechen?</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title>Bestätigung</Title>
+      <Message>Möchten Sie die Verstärkungskalibrierung abbrechen?</Message>
+    </EventString>
+    <EventString Key="0107">
+      <Title>Bestätigung</Title>
+      <Message>Möchten Sie die Verstärkungskalibrierung abbrechen?</Message>
+    </EventString>
+    <EventString Key="0108">
+      <Title>Bestätigung</Title>
+      <Message>Verstärkungskalibrierung erfolgreich abgeschlossen</Message>
+    </EventString>
+    <EventString Key="0109">
+      <Title>Bestätigung</Title>
+      <Message>Versatzkalibrierung erfolgreich abgeschlossen</Message>
+    </EventString>
+    <EventString Key="0110">
+      <Title>Fehler</Title>
+      <Message>Verstärkungskalibrierung fehlgeschlagen</Message>
+    </EventString>
+    <EventString Key="0111">
+      <Title>Fehler</Title>
+      <Message>Versatzkalibrierung fehlgeschlagen</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

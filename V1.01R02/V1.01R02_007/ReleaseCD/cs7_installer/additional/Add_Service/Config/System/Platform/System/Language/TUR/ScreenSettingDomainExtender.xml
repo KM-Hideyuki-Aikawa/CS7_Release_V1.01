@@ -1,0 +1,1456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>DeviceDisplaySettingsView</Key>
+      <Value>Aygıt Ayarı</Value>
+      <Comment>Device Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSettingsLabelData</Key>
+      <Value>Ekran Ayarı</Value>
+      <Comment>Screen Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ApplicationBarLabelData</Key>
+      <Value>Uygulama Çubuğu</Value>
+      <Comment>Application Bar</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientInfoDisplayRegionLabelExplanationData</Key>
+      <Value>Hasta Bilgileri Görüntüleme Alanı</Value>
+      <Comment>Patient Info Display Region</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresetSelectionLabelData</Key>
+      <Value>Önceden belirlenmiş seçim</Value>
+      <Comment>Preset Selection</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UnphotographicImageDisplayAreaLabelExplanationData</Key>
+      <Value>Görüntü Görüntüleme Alanı, Okumadan Önce</Value>
+      <Comment>Unphotographic image display area</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PictureTakenImageDisplayAreaLabelExplanationData</Key>
+      <Value>Görüntü Görüntüleme Alanı, Okumadan Sonra</Value>
+      <Comment>Picture taken Image display area</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UntakenPictureShootingConditionsAreaLabelExplanationData</Key>
+      <Value>Tetkik Etiketi Görüntüleme Alanı, Okumadan Önce</Value>
+      <Comment>Untaken picture shooting conditions display area</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ShootingConditionsDisplayAreaPictureLabelExplanationData</Key>
+      <Value>Tetkik Etiketi Görüntüleme Alanı, Okumadan Sonra</Value>
+      <Comment>Shooting conditions display area that has been taken a picture</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureOrderAutoSortLabelExplanationData</Key>
+      <Value>Emir Otomatik Sıralama</Value>
+      <Comment>Exposure Order Auto Sort</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TouchOperationSettingLabelExplanationData</Key>
+      <Value>Dokunma İşlemi</Value>
+      <Comment>Touch Operation Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageSingleTouchLabelExplanationData</Key>
+      <Value>Tek Dokunma (Görüntü Görüntüleme Alanı)</Value>
+      <Comment>Image Single Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageDoubleTouchLabelExplanationData</Key>
+      <Value>Çift Dokunma (Görüntü Görüntüleme Alanı)</Value>
+      <Comment>Image Double Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamTagSingleTouchLabelExplanationData</Key>
+      <Value>Tek Dokunma (Tetkik Etiketi Görüntüleme Alanı)</Value>
+      <Comment>ExamTag Single Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamTagDoubleTouchLabelExplanationData</Key>
+      <Value>Çift Dokunma (Tetkik Etiketi Görüntüleme Alanı)</Value>
+      <Comment>ExamTag Double Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefectReasonLabelExplanationData</Key>
+      <Value>Reddetme Nedeni</Value>
+      <Comment>Defect Reason</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>XRayTabLabelData</Key>
+      <Value>Röntgen Sekmesi</Value>
+      <Comment>X-Ray Tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SortOrderLabelData</Key>
+      <Value>Emir Sırala</Value>
+      <Comment>Sort Order</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SendPreviewLabelData</Key>
+      <Value>Önizleme Ekranı</Value>
+      <Comment>Send Preview</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefectImageLabelData</Key>
+      <Value>Görüntüyü Reddet</Value>
+      <Comment>Defect image</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageDestructionSettingWhenDefectLabelExplanationData</Key>
+      <Value>Görüntü Reddetme Silme Yöntemi</Value>
+      <Comment>Image destruction setting when defect</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoFocusLabelData</Key>
+      <Value>Oto Odaklama</Value>
+      <Comment>Auto Focus</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoFocusNavigationLabelData</Key>
+      <Value>Odak Gezinme Olayı</Value>
+      <Comment>Auto Focus Navigation</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TimerLabelData</Key>
+      <Value>Gezinme için Bekleme Süresi [sn]</Value>
+      <Comment>Timer</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransitionDestinationLabelData</Key>
+      <Value>Gezinme Hedefi</Value>
+      <Comment>Transition Destination</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SearchOfYetToExposedLabelExplanationData</Key>
+      <Value>Çekilmemiş Görüntü Arama Yöntemi</Value>
+      <Comment>Search of yet to be exposed</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NumberOfFramesLabelData</Key>
+      <Value>Çerçeve Bölümleme</Value>
+      <Comment>Number of frames</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ThresholdsOfNumberOfShotsLabelExplanationData</Key>
+      <Value>Çerçeve Bölümleme Değişikliğinin Eşikleri</Value>
+      <Comment>Thresholds of number of frame number shots</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputLabelData</Key>
+      <Value>Çıktı</Value>
+      <Comment>Output</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputDestinationOnClickingButtonLabelExplanationData</Key>
+      <Value>Çıktı Göster Düğmesi</Value>
+      <Comment>Output Destination on clicking the output button</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputDestinationOnClickingStudyButtonLabelExplanationData</Key>
+      <Value>Çalışma tamamlandı düğmesinin tıklanmasıyla çıktı cihazı</Value>
+      <Comment>Output Destination on clicking the study completion button</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OrderListLabelData</Key>
+      <Value>Emir Listesi</Value>
+      <Comment>Order List</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OverlayDisplayOnExposedImagesLabelExplanationData</Key>
+      <Value>Çekilmiş Görüntülerde Bindirme Ayarı</Value>
+      <Comment>Overlay Display on Exposed Images</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ControlPanelLabelData</Key>
+      <Value>Kontrol Paneli</Value>
+      <Comment>Control Panel</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefaultFunctionOfImageTabLabelExplanationData</Key>
+      <Value>Görüntü Ayarlama Sekmesinin varsayılan işlevi</Value>
+      <Comment>Default function of Image Adjustment Tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputConditionTabLabelData</Key>
+      <Value>Çıktı Koşulu Sekmesi</Value>
+      <Comment>Output Condition Tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DRLabelData</Key>
+      <Value>DR</Value>
+      <Comment>DR</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CRLabelData</Key>
+      <Value>CR</Value>
+      <Comment>CR</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MammoLabelData</Key>
+      <Value>Mamo</Value>
+      <Comment>Mammo</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefaultsDisplayPanelLabelData</Key>
+      <Value>Varsayılan Dğr Grnt Paneli</Value>
+      <Comment>Defaults Display Panel</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UnexposedImageSelectionTimeLabelExplanationData</Key>
+      <Value>Çekilmemiş Görüntünün Seçilmesiyle</Value>
+      <Comment>Unexposed Image Selection Time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposedImageSelectionTimeLabelExplanationData</Key>
+      <Value>On Selecting Exposed Image</Value>
+      <Comment>Unexposed Image Selection Time</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ToolBarLabelData</Key>
+      <Value>Araç Çubuğu</Value>
+      <Comment>Tool Bar</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayModeLabelData</Key>
+      <Value>Görüntüleme Modu</Value>
+      <Comment>Display Mode</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayPositionLabelData</Key>
+      <Value>Görüntüleme Konumu</Value>
+      <Comment>Display Position</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ButtonDisplayLabelData</Key>
+      <Value />
+      <Comment>Button Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SystemLabelData</Key>
+      <Value>Sistem Düğmesi</Value>
+      <Comment>System</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RegionSelectionScreenDisplayLabelExplanationData</Key>
+      <Value>Vücut Bölgesi Seçme Ekranı Düğmesi</Value>
+      <Comment>Region selection screen display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IncidentalInformationCorrectionScreenDisplayLabelExplanationData</Key>
+      <Value>Tamamlayıcı Bilgi Düzenleme Ekranı Düğmesi</Value>
+      <Comment>Incidental information correction screen display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ViewerScreenDisplayLabelData</Key>
+      <Value>Görüntüleyici Ekranı Düğmesi</Value>
+      <Comment>Viewer screen display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SuspendLabelData</Key>
+      <Value>Duraklat Düğmesi</Value>
+      <Comment>Suspend</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyEndLabelData</Key>
+      <Value>Tetkik Tamamlama Düğmesi</Value>
+      <Comment>Study end</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IQBoyLabelData</Key>
+      <Value>IQ Boy</Value>
+      <Comment>IQ Boy</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefaultMajorClassificationLabelData</Key>
+      <Value>Refere Eden Vücüt Bölgesi Numarası</Value>
+      <Comment>Default major classification</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ViewerScreenLabelData</Key>
+      <Value>Görüntüleyici Ekranı</Value>
+      <Comment>Viewer Screen</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SpecificationOfDisplayedWindowidLabelExplanationData</Key>
+      <Value>Pencere Kimliği</Value>
+      <Comment>Specification of displayed windowID</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayPositionXLabelData</Key>
+      <Value>Görüntüleme Konumu (X)</Value>
+      <Comment>Display position (X)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayPositionYLabelExplanationData</Key>
+      <Value>Görüntüleme Konumu (Y)</Value>
+      <Comment>Display position  (Y)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ToolBarDisplayPositionSettingLabelExplanationData</Key>
+      <Value>Araç Çubuğu Konumu</Value>
+      <Comment>Tool bar display position setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HighDefinitionMonitorDisplayLabelExplanationData</Key>
+      <Value>Yüksek Tanımlı Monitör Görüntüleme Yöntemi</Value>
+      <Comment>High Definition Monitor display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TextAnnotationLabelData</Key>
+      <Value>Metin Anotasyon Sekmesi Sayacı</Value>
+      <Comment>Text Annotation</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureConditionsScreenDefaultValuesLabelExplanationData</Key>
+      <Value>Çekim Koşulları Ekranı (Varsayılan Değerler)</Value>
+      <Comment>Exposure Conditions Screen (Default Values)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LaunchingTimeFromStudyScreenLabelExplanationData</Key>
+      <Value>Çalışma Kayıt Ekranından Başlatılıyor</Value>
+      <Comment>Launching time from study reception screen</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LaunchingTimeFromExposureScrnLabelExplanationData</Key>
+      <Value>Çekim Ekranından Başlatılıyor</Value>
+      <Comment>Launching time from exposure scrn</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MyFavoritesTabLabelData</Key>
+      <Value>Vrsyln Ekran Sık Kullanılanlar Sekme Numarası</Value>
+      <Comment>My Favorites Tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LargeClassificationLabelData</Key>
+      <Value>Vrsyln Ekran Vücut Bölgesi Numarası</Value>
+      <Comment>Large classification</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SmallClassificationLabelData</Key>
+      <Value>Varsayılan Ekran Grup Numarası</Value>
+      <Comment>Small classification</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TouchHeaderData</Key>
+      <Value>Dokunma Alanı</Value>
+      <Comment>Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SingleTouchHeaderData</Key>
+      <Value>Tek Dokunma</Value>
+      <Comment>Single Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DoubleTouchHeaderData</Key>
+      <Value>Çift Dokunma</Value>
+      <Comment>Double Touch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SnoHeaderData</Key>
+      <Value>Hayır.</Value>
+      <Comment>Sno</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefectReasonHeaderData</Key>
+      <Value>Neden</Value>
+      <Comment>Defect Reason</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FrameTypeHeaderData</Key>
+      <Value>Format</Value>
+      <Comment>Frame Type</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ThresholdHeaderData</Key>
+      <Value>Eşik</Value>
+      <Comment>Threshold</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>XrayTypeHeaderData</Key>
+      <Value>Detektör Tipi</Value>
+      <Comment>Xray Type</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureConditionDisplayHeaderData</Key>
+      <Value>Çekim Koşulu Görüntüleme</Value>
+      <Comment>Exposure Condition Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExposureResultInputDisplayHeaderData</Key>
+      <Value>Radyasyon Sonucu Görüntüleme</Value>
+      <Comment>Exposure Result Input Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayTimeCheckBoxData</Key>
+      <Value>Grntlm Saati</Value>
+      <Comment>Display Time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayRoomNameCheckBoxData</Key>
+      <Value>Görüntüleme Tetkik Odası Adı</Value>
+      <Comment>Display Room Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayLoginNameCheckBoxData</Key>
+      <Value>Grntlm Oturum Açma Adı</Value>
+      <Comment>Display Login Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayEmergencyPatientColumnWarningDisplayColumnCheckBoxData</Key>
+      <Value>Görüntüleme Acil Hasta Sütunu / Uyarı Görüntüleme Sütunu</Value>
+      <Comment>Display Emergency Patient Column/Warning Display Column</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WarningCheckBoxData</Key>
+      <Value>Uyarı</Value>
+      <Comment>Warning</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiagnosisDescriptionWhenConsultingAPhysicianCheckBoxData</Key>
+      <Value>Tanı Kabul Açıklaması</Value>
+      <Comment>Diagnosis description when consulting a physician</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MedicalNotesCheckBoxData</Key>
+      <Value>Tıbbi Uyarılar</Value>
+      <Comment>Medical notes</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AllergyCheckBoxData</Key>
+      <Value>Alerji</Value>
+      <Comment>Allergy</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientAdditionalCaseHistoryCheckBoxData</Key>
+      <Value>Ek Hasta Geçmişi</Value>
+      <Comment>Patient additional case history</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PregnancyStatusCheckBoxData</Key>
+      <Value>Gebelik Durumu </Value>
+      <Comment>Pregnancy status</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SpecialHelpCheckBoxData</Key>
+      <Value>Özel Gereksinimler</Value>
+      <Comment>Special Help</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientsStatusCheckBoxData</Key>
+      <Value>Hasta Durumu</Value>
+      <Comment>Patient's Status</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientDataConfidentialObligationCheckBoxData</Key>
+      <Value>Gizlilik Kısıtlaması</Value>
+      <Comment>Patient data confidential obligation</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PriorAdministratingOfMedicationCheckBoxData</Key>
+      <Value>Ön İlaç</Value>
+      <Comment>Prior administrating of medication</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoSortCheckBoxData</Key>
+      <Value>Emir Listesi Oto Sıralama</Value>
+      <Comment>Auto Sort</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayOfSendPreviewTabCheckBoxData</Key>
+      <Value>Grntlm Çıktıdan Önce Önizleme Sekmesi</Value>
+      <Comment>Display of send preview tab</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UseDefectReasonCheckBoxData</Key>
+      <Value>Reddetme Nedenini Kullan</Value>
+      <Comment>Use defect reason</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoFrameNumberChangeCheckBoxData</Key>
+      <Value>Emir Sayacıyla birlikte Oto Çerçeve Bölümlemesi Ayarlaması</Value>
+      <Comment>Auto frame number change</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AfterItTakesAPictureTheImageConfirmationScreenIsAutomaticallyDisplayedCheckBoxData</Key>
+      <Value>Grntlm Okumadan sonra Görüntü Doğrulama Ekranı</Value>
+      <Comment>After it takes a picture, the image confirmation screen is automatically displayed.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayOutputButtonCheckBoxData</Key>
+      <Value>Grntlm Çıktı Düğmesi</Value>
+      <Comment>Display Output Button</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayOrderListCheckBoxData</Key>
+      <Value>Grntlm Emir Listesi</Value>
+      <Comment>Display Order List</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MarkerCheckBoxData</Key>
+      <Value>Markör</Value>
+      <Comment>Marker</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampCheckBoxData</Key>
+      <Value>Damga</Value>
+      <Comment>Stamp</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScaleCheckBoxData</Key>
+      <Value>Ölçekle</Value>
+      <Comment>Scale</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CommonOverlayCheckBoxData</Key>
+      <Value>Ortak Bindirme</Value>
+      <Comment>Common Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NormalOverlayCheckBoxData</Key>
+      <Value>Genel Bindirme</Value>
+      <Comment>Normal Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MammoOverlayCheckBoxData</Key>
+      <Value>Mamo Bindirme</Value>
+      <Comment>Mammo Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TextAnnotationCheckBoxData</Key>
+      <Value>Metin Anotasyon</Value>
+      <Comment>Mammo Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilmNotchIconCheckBoxData</Key>
+      <Value>Film Çentik Simgesi</Value>
+      <Comment>Film Notch Icon</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoRegistrationCheckBoxData</Key>
+      <Value>Otomatik Kayda İzin Ver</Value>
+      <Comment>Auto Registration</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayWithPreviousEndStatusDuringNextLaunchCheckBoxData</Key>
+      <Value>Başlatmada Son Değiştirilen Ayarı Geri Yükle</Value>
+      <Comment>Display with previous end status during next launch</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ChangeActiveFrame</Key>
+      <Value>Etkin Çerçeveyi Göster</Value>
+      <Comment>Change Active Frame</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CallDomain</Key>
+      <Value>Grntlyc Ekranını Göster</Value>
+      <Comment>Call Domain</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FullScreen</Key>
+      <Value>Tam Ekran Grntsn Göster</Value>
+      <Comment>FullScreen</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ChangeCrReadOrder</Key>
+      <Value>CR Kaseti OKuyucusu Okuma Genişliğini Belirt (Mevcut Değil)</Value>
+      <Comment>ChangeCrReadOrder</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeleteBarcode</Key>
+      <Value>Barkodu Sil (Mevcut Değil)</Value>
+      <Comment>Delete Barcode</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Nothing</Key>
+      <Value>İşlem Yapılmaz</Value>
+      <Comment>Nothing</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Upright</Key>
+      <Value>Duvar Statifi</Value>
+      <Comment>Upright</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Supine</Key>
+      <Value>Buki Masası</Value>
+      <Comment>Supine</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Cassette</Key>
+      <Value>Kaset</Value>
+      <Comment>Cassette</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>destroyimagewhenng</Key>
+      <Value>Her Reddetme (NG) İşleminde Reddedilen Görüntüyü Sil</Value>
+      <Comment>Destroy defect image when executing defect (NG)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>destroyimagewhenstudycomplete</Key>
+      <Value>Çalışma Tamamlanınca Reddedilen Görüntüyü Sil</Value>
+      <Comment>Destroy defect image when Study complete</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>leaveimage</Key>
+      <Value>Bırak (Silme)</Value>
+      <Comment>Leave (do not destruct)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>donottransit</Key>
+      <Value>Gezinme</Value>
+      <Comment>Do not transit</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittoimage</Key>
+      <Value>Görüntü Transferi Başlarken Gezin</Value>
+      <Comment>Transit to image transfer start time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittowipeimage</Key>
+      <Value>Silme Görüntüsü Grntlm Tamamlanınca Gezin</Value>
+      <Comment>Transit to wipe image display completion time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittopreviewimage</Key>
+      <Value>Önizleme Görüntüsü Grntlm Tamamlanınca Gezin</Value>
+      <Comment>Transit to preview image display completion time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittooriginal</Key>
+      <Value>Nihai Görüntü Grntlm Tamamlanınca Gezin</Value>
+      <Comment>Transit to original image display completion time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittonextone</Key>
+      <Value>Çekim Durumundan Bağımsız Olarak Sonraki Emre Geç</Value>
+      <Comment>Transit to next one regardless of exposed / unexposed</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>transittounexposedshot</Key>
+      <Value>Sonraki Çekilmemiş Emre Geç</Value>
+      <Comment>Transit the focus to unexposed shot</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>searchfromtop</Key>
+      <Value>Emir Listesinin Üstünden Ara</Value>
+      <Comment>Search from top</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>searchaftercurrent</Key>
+      <Value>O Anki Konumdan Sonra Ara</Value>
+      <Comment>Search after the current position</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>host</Key>
+      <Value>Ana bilgisayar</Value>
+      <Comment>Host</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>printer</Key>
+      <Value>Yazıcı</Value>
+      <Comment>Printer</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>hostandprinter</Key>
+      <Value>Ana bilgisayar + yazıcı</Value>
+      <Comment>Host + printer</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NONE</Key>
+      <Value>None</Value>
+      <Comment>NONE</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ROI</Key>
+      <Value>ROI</Value>
+      <Comment>ROI</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Magnify</Key>
+      <Value>Büyüt</Value>
+      <Comment>Magnify</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Reduce</Key>
+      <Value>Küçült</Value>
+      <Comment>Reduce</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Pan</Key>
+      <Value>Kaydır</Value>
+      <Comment>Pan</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Imageadjustment</Key>
+      <Value>Görüntü ayarlama</Value>
+      <Comment>Image adjustment</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Exposurecondition</Key>
+      <Value>Çekim Koşulu</Value>
+      <Comment>Exposure condition</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Xrayinput</Key>
+      <Value>RÖNTGEN Çıktısı</Value>
+      <Comment>X-rayinput</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Overlay</Key>
+      <Value>Kaplama</Value>
+      <Comment>Overlay</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Outputcondition</Key>
+      <Value>Çıktı Koşulu</Value>
+      <Comment>Output condition</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Fixedmode</Key>
+      <Value>Sabit Mod</Value>
+      <Comment>Fixed mode</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Optionalmode</Key>
+      <Value>İsteğe Bağlı Mod</Value>
+      <Comment>Optional mode</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Left</Key>
+      <Value>Sol</Value>
+      <Comment>Left</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Right</Key>
+      <Value>Sağ</Value>
+      <Comment>Right</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Top</Key>
+      <Value>Yukarı</Value>
+      <Comment>Top</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Bottom</Key>
+      <Value>Alt</Value>
+      <Comment>Bottom</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Dontdisplay</Key>
+      <Value>Görüntüleme</Value>
+      <Comment>Don't display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Alwaysdisplay</Key>
+      <Value>Daima Görüntüle</Value>
+      <Comment>Always display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Displaywhenexpanded</Key>
+      <Value>Genişletilmiş Görüntüle</Value>
+      <Comment>Display when expanded</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Sizeofframe</Key>
+      <Value>Çerçeve Boyutu</Value>
+      <Comment>Size of frame</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>11display</Key>
+      <Value>1:1 Görüntü</Value>
+      <Comment>1:1 display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefaultDisplay</Key>
+      <Value>Ayar</Value>
+      <Comment>Default Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BeforeDisplay</Key>
+      <Value>Son Değişiklik</Value>
+      <Comment>Before Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FocusDisplay</Key>
+      <Value>Odaklama Sırası</Value>
+      <Comment>Focus Display</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ErrorMessageRange</Key>
+      <Value>The value should be in the range {0} - {1}.</Value>
+      <Comment>Focus Display</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ErrorMessageAutoFocus</Key>
+      <Value>Auto focus is not possible when auto confirm is turned on.</Value>
+      <Comment>Focus Display</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ErrorMessageAutoConfirm</Key>
+      <Value>Auto confirm is not possible when auto output is enabled.</Value>
+      <Comment>Focus Display</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ErrorMessageFramesizeThreshold</Key>
+      <Value>Invalid data please provide valid data for Framesize threshold.</Value>
+      <Comment>Focus Display</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ErrorMessagePositiveInteger</Key>
+      <Value>The value should be positive integer.</Value>
+      <Comment>Focus Display</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ErrorMessageMyFavoritesTab</Key>
+      <Value>Please select one option for MyFavoritesTab.</Value>
+      <Comment>Focus Display</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

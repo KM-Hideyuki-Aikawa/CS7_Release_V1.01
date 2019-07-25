@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemInfo>
+   <!--Simple & TileStylel-->
+  <SettingMode>
+    <Mode>0</Mode>
+    <LayoutType>
+      <Type>1</Type>
+      <LargeLevel>
+        <ID>0x00000100</ID>
+        <Caption>CS-7</Caption>
+        <MidLevel>
+          <ID>0x00000300</ID>
+          <Caption>Adjust</Caption>
+          <SmallLevel>
+            <ID>0x00000200</ID>
+            <Caption>Initialization</Caption>
+          </SmallLevel>
+        </MidLevel>
+      </LargeLevel>
+    </LayoutType>
+  </SettingMode>
+<!--Detail & TileStylel-->
+  <SettingMode>
+    <Mode>1</Mode>
+    <LayoutType>
+      <Type>1</Type>
+      <LargeLevel>
+        <ID>0x00000100</ID>
+        <Caption>CS-7</Caption>
+        <MidLevel>
+          <ID>0x00000300</ID>
+          <Caption>Adjust</Caption>
+          <SmallLevel>
+            <ID>0x00000200</ID>
+            <Caption>Initialization</Caption>
+          </SmallLevel>
+        </MidLevel>
+      </LargeLevel>
+    </LayoutType>
+  </SettingMode>
+
+</ItemInfo>

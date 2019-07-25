@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0104">
+      <Title>Chyba</Title>
+      <Message>Zahájení sekvence získání snímku neúspěšné.</Message>
+    </EventString>
+    <EventString Key="0112">
+      <Title>Chyba</Title>
+      <Message>Analýza elektrického šumu.</Message>
+    </EventString>
+    <EventString Key="0113">
+      <Title>Chyba</Title>
+      <Message>Analýza nepravidelnosti neúspěšná.</Message>
+    </EventString>
+    <EventString Key="0114">
+      <Title>Chyba</Title>
+      <Message>Aktualizace základní mapy defektů neúspěšná.</Message>
+    </EventString>
+    <EventString Key="0115">
+      <Title>Chyba</Title>
+      <Message>Analýza mapy defektů neúspěšná.</Message>
+    </EventString>
+    <EventString Key="0116">
+      <Title>Chyba</Title>
+      <Message>Získání snímku neúspěšné.</Message>
+    </EventString>
+    <EventString Key="0117">
+      <Title>Informace</Title>
+      <Message>Analýza snímku dokončena.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

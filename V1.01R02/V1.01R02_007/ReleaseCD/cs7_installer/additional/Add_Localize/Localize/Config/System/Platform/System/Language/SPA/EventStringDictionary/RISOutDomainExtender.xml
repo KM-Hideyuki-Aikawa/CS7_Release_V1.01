@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="RISOutDomainExtender0001">
+      <Title>Estado del ping</Title>
+      <Message>Conectado correctamente.</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0002">
+      <Title>Estado del ping</Title>
+      <Message>Fallo al conectar.</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0003">
+      <Title />
+      <Message>¿Cancelar la cola seleccionada?</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0004">
+      <Title>Atención</Title>
+      <Message>Seleccione la(s) cola(s) a eliminar.</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0005">
+      <Title>Confirmación</Title>
+      <Message>¿Cancelar la cola seleccionada?</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0006">
+      <Title>Información</Title>
+      <Message>Cola(s) seleccionada(s) eliminada(s)</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0007">
+      <Title>Error</Title>
+      <Message>Error al eliminar la cola.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

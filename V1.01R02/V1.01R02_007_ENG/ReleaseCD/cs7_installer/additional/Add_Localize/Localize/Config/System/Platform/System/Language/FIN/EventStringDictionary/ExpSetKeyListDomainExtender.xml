@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ExpSetKeyListDomainExtender0000">
+      <Title />
+      <Message>Sopiiko, että kuvankäsittelyparametreja muutetaan?</Message>
+    </EventString>
+    <EventString Key="ExpSetKeyListDomainExtender0001">
+      <Title />
+      <Message>Sopiiko, että rekisteröidyn kasetin viivakoodi poistetaan?</Message>
+    </EventString>
+    <EventString Key="ExpSetKeyListDomainExtender0002">
+      <Title />
+      <Message>Kuvia, joiden koko on yli {MaxSize}, ei voi rekisteröidä.</Message>
+    </EventString>
+    <EventString Key="ExpSetKeyListDomainExtender0003">
+      <Title />
+      <Message>Tälle sieppausehtoavaimelle on rekisteröity viivakoodi. Onko OK muuttaa rekisteröintiä?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

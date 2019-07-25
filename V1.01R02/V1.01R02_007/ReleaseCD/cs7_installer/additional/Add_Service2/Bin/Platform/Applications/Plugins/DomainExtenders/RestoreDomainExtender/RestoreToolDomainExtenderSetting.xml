@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RestoreToolDomainExtenderSetting>
+  <TargetFileListFolders>
+    <!--Start : Setting Files - Maintenance-->
+    <Folder>
+      <Type>SettingFiles</Type>
+      <Role>Maintenance</Role>
+      <Name>System</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\Maintenance\Setting\System</Path>
+    </Folder>
+    <Folder>
+      <Type>SettingFiles</Type>
+      <Role>Maintenance</Role>
+      <Name>CS-7</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\Maintenance\Setting\CS-7</Path>
+    </Folder>
+    <Folder>
+      <Type>SettingFiles</Type>
+      <Role>Maintenance</Role>
+      <Name>UID</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\Maintenance\Setting\UID</Path>
+    </Folder>
+    <Folder>
+      <Type>SettingFiles</Type>
+      <Role>Maintenance</Role>
+      <Name>Language</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\Maintenance\Setting\Language</Path>
+    </Folder>
+    <Folder>
+      <Type>SettingFiles</Type>
+      <Role>Maintenance</Role>
+      <Name>AeroDR</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\Maintenance\Setting\AeroDR</Path>
+    </Folder>
+    <Folder>
+      <Type>SettingFiles</Type>
+      <Role>Maintenance</Role>
+      <Name>X-RAY</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\Maintenance\Setting\X-Ray</Path>
+    </Folder>
+    <Folder>
+      <Type>SettingFiles</Type>
+      <Role>Maintenance</Role>
+      <Name>HOST</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\Maintenance\Setting\HOST</Path>
+    </Folder>
+    <Folder>
+      <Type>SettingFiles</Type>
+      <Role>Maintenance</Role>
+      <Name>PRINTER</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\Maintenance\Setting\Printer</Path>
+    </Folder>
+    <Folder>
+      <Type>SettingFiles</Type>
+      <Role>Maintenance</Role>
+      <Name>MEDIA</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\Maintenance\Setting\Media</Path>
+    </Folder>
+    <Folder>
+      <Type>SettingFiles</Type>
+      <Role>Maintenance</Role>
+      <Name>RIS-IN</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\Maintenance\Setting\RIS-IN</Path>
+    </Folder>
+    <Folder>
+      <Type>SettingFiles</Type>
+      <Role>Maintenance</Role>
+      <Name>RIS-OUT</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\Maintenance\Setting\RIS-OUT</Path>
+    </Folder>
+    <Folder>
+      <Type>SettingFiles</Type>
+      <Role>Maintenance</Role>
+      <Name>Exam Tag</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\Maintenance\Setting\ExamTagandImageProcessing</Path>
+    </Folder>
+    <Folder>
+      <Type>SettingFiles</Type>
+      <Role>Maintenance</Role>
+      <Name>Marker and Stamp</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\Maintenance\Setting\MarkerandStamp</Path>
+    </Folder>
+    <Folder>
+      <Type>SettingFiles</Type>
+      <Role>Maintenance</Role>
+      <Name>Magnetic Card</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\Maintenance\Setting\MagneticCard</Path>
+    </Folder>
+    <Folder>
+      <Type>SettingFiles</Type>
+      <Role>Maintenance</Role>
+      <Name>Screen</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\Maintenance\Setting\Screen</Path>
+    </Folder>
+    <Folder>
+      <Type>SettingFiles</Type>
+      <Role>Maintenance</Role>
+      <Name>License Key</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\Maintenance\Setting\License</Path>
+    </Folder>
+    <Folder>
+      <Type>SettingFiles</Type>
+      <Role>Maintenance</Role>
+      <Name>Service Tool PatientDB</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\Maintenance\Setting\ServiceToolPatientDB</Path>
+    </Folder>
+    <Folder>
+      <Type>SettingFiles</Type>
+      <Role>Maintenance</Role>
+      <Name>OrderList Domain</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\Maintenance\Setting\OrderListDomain</Path>
+    </Folder>
+    <Folder>
+      <Type>SettingFiles</Type>
+      <Role>Maintenance</Role>
+      <Name>RIS Code Table</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\Maintenance\Setting\RISCodeTable</Path>
+    </Folder>
+    <Folder>
+      <Type>SettingFiles</Type>
+      <Role>Maintenance</Role>
+      <Name>R2</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\Maintenance\Setting\R2</Path>
+    </Folder>
+    <!--End : Setting Files - Maintenance-->
+    
+    <!--Start : Setting Files - User-->
+    <Folder>
+      <Type>SettingFiles</Type>
+      <Role>User</Role>
+      <Name>CS-7</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\User\Setting\CS-7</Path>      
+    </Folder>
+    <Folder>
+      <Type>SettingFiles</Type>
+      <Role>User</Role>
+      <Name>Exam Tag</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\User\Setting\ExamTagandImageProcessing</Path>
+    </Folder>
+    <Folder>
+      <Type>SettingFiles</Type>
+      <Role>User</Role>
+      <Name>Marker and Stamp</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\User\Setting\MarkerandStamp</Path>
+    </Folder>
+    <Folder>
+      <Type>SettingFiles</Type>
+      <Role>User</Role>
+      <Name>RIS Code Table</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\User\Setting\RISCodeTable</Path>
+    </Folder>
+    <!--End: Setting Files - User-->
+
+    <!--Start: Data Files - Maintenance-->
+    <Folder>
+      <Type>DataFiles</Type>
+      <Role>Maintenance</Role>
+      <Name>Localmdb</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\Maintenance\Data</Path>
+    </Folder>
+    <!--End: Data Files - Maintenance-->
+
+    <!--Start: Data Files - User-->
+    <Folder>
+      <Type>DataFiles</Type>
+      <Role>User</Role>
+      <Name>Localmdb</Name>
+      <Path>Bin\Platform\Applications\Plugins\DomainExtenders\RestoreDomainExtender\CSV\User\Data</Path>
+    </Folder>
+    <!--End: Data Files - User-->
+  </TargetFileListFolders>
+  <WorkFolder>C:\KonicaMinolta\Console\WorkFolder</WorkFolder>    
+  <InstallFolder>C:\KonicaMinolta\Console</InstallFolder> 
+</RestoreToolDomainExtenderSetting>

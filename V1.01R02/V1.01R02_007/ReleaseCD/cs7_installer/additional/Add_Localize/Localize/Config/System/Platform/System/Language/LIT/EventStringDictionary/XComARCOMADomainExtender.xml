@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title />
+      <Message>Ar norite pakeisti šio kūno dydį? Patvirtinkite. </Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title />
+      <Message>Poveikio rezultatai taikyti daugiau nei vienai tvarkai.Patikrinimo gairės „{EXAM_TAGS_INFO}“</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title />
+      <Message>Negalima rasti tinkamos tvarkos, taikomos šiems poveikio rezultatams. Patikrinkite.</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title />
+      <Message>AEC, skirta CR poveikio sąlygai, negali būti įjungta (ON) Ar tikrai išjungti (OFF) AEC?</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title />
+      <Message>Paciento dydis negali būti pakeistas dėl tam tikros tvarkos. Patikrinkite.</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title />
+      <Message>Ar norite pakeisti kolimatoriaus dydį?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

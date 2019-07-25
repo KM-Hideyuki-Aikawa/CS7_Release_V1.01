@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="HostDomainExtender0001">
+      <Title>Stato ping</Title>
+      <Message>Connesso con successo.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0002">
+      <Title>Stato ping</Title>
+      <Message>Impossibile collegarsi.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0003">
+      <Title>Conferma</Title>
+      <Message>Per quale servizio il Ping(C-ECHO) deve essere eseguito?</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0004">
+      <Title>Conferma</Title>
+      <Message>Si vuole cancellare la coda selezionata?</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0005">
+      <Title>Attenzione</Title>
+      <Message>Selezionare la cosa(e) che va cancellata.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0006">
+      <Title>Informazione</Title>
+      <Message>Le code selezionate sono cancellate con successo.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0007">
+      <Title>Errore</Title>
+      <Message>Errore nella cancellazione coda.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0008">
+      <Title>Attenzione</Title>
+      <Message>Questo host specificato è duplicato con altro CH. Le immagini saranno emesse in duplicazione.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

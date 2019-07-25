@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="XRayDeviceDataAccessorDrRm7102">
+      <Title>Chyba registračního regulačního čísla</Title>
+      <Message>Zaregistrována jsou čtyři.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7103">
+      <Title>Neznámý AeroDR Detector</Title>
+      <Message>Neznámý AeroDR Detector.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7104">
+      <Title>Neznámé expoziční zařízení</Title>
+      <Message>Neznámé expoziční zařízení.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7105">
+      <Title>Chyba RM</Title>
+      <Message>Chyba správy RM. Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7106">
+      <Title>Chyba aktualizace verze</Title>
+      <Message>Aktualizace verze není odpovídající. Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7107">
+      <Title>Chyba RM</Title>
+      <Message>Chyba správy RM.Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7108">
+      <Title>Chyba RM</Title>
+      <Message>Chyba správy RM.Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7109">
+      <Title>Chyba RM</Title>
+      <Message>Chyba správy RM.Zkontrolujte síťové připojení.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7110">
+      <Title>Chyba RM</Title>
+      <Message>Chyba správy RM.Zkontrolujte síťové připojení.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7111">
+      <Title>Chyba zrušení registrace</Title>
+      <Message>Došlo k chybě při rušení registrace panelu AeroDR.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7112">
+      <Title>Chyba zapínání radiologické vyšetřovny</Title>
+      <Message>Došlo k chybě při zapínání radiologické vyšetřovny.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7113">
+      <Title>Chyba zpětného procesu komunikace</Title>
+      <Message>Nelze komunikovat.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7114">
+      <Title>Chyba nastavení aktivace konfigurace</Title>
+      <Message>Došlo k chybě v případě aktivace konfigurace panelu AeroDR.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7115">
+      <Title>Aktualizace RM</Title>
+      <Message>Byla aktualizována tabulka správy RM. Zařízení restartujte.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7116">
+      <Title>Chyba licence</Title>
+      <Message>Licence panelu, který jste se snažili zaregistrovat, neexistuje nebo máte nedostatečný počet licencí. Obstarejte si licenci nebo si panel zaregistrujte pro počet licencí, které jste získali.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7117">
+      <Title>Chyba</Title>
+      <Message>Při přenosu nastavení RM se vyskytla chyba.
+Zkontrolujte síťové připojení a opakujte akci.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7118">
+      <Title>Chyba</Title>
+      <Message>Chyba konfigurace v nastavení CS-7 .
+Potvrďte nastavení a opakujte akci.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

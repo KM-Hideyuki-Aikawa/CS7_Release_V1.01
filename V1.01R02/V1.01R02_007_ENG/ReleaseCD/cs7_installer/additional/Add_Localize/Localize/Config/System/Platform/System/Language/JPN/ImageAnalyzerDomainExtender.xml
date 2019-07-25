@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>Analysis_GroupBox</Key>
+      <Value>解析</Value>
+      <Comment>Analysis</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExpCond_GroupBox</Key>
+      <Value>撮影条件</Value>
+      <Comment>Exposure Conditions</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ElectricalNoiseAnalysis_Lbl</Key>
+      <Value>電気ノイズ解析 [目安時間 : 90 秒]</Value>
+      <Comment>Electrical Noise Analysis[Expected Time : 90 sec]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UnevenessAnalysis_Lbl</Key>
+      <Value>ムラ解析 [目安時間 : 60 秒]</Value>
+      <Comment>Uneveness Analysis[Expected Time : 60 sec]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefectAnalysis_Lbl</Key>
+      <Value>画欠解析[目安時間 : 60 秒]</Value>
+      <Comment>Defect Analysis[Expected Time : 60 sec]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefectMapAnalysis_Lbl</Key>
+      <Value>画欠解析 [目安時間 : 80 秒]</Value>
+      <Comment>Defect Map Analysis[Expected Time : 80 sec]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GainCalibSignalValue_Lbl</Key>
+      <Value>信号値 (5100-6900)</Value>
+      <Comment>Signal Value (5400-6600 (HQ)) (x-y (S))</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>3</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GainCalibExposureValue_Lbl</Key>
+      <Value>X線照射条件メモ</Value>
+      <Comment>Exposure Value</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>8</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExpCond1SignalValue_Lbl</Key>
+      <Value>信号値</Value>
+      <Comment>Signal Value (5400-6600 (HQ)) (x-y (S))</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>9</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExpCond1ExposureValue_Lbl</Key>
+      <Value>X線照射条件メモ</Value>
+      <Comment>Exposure Value</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>9</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExpCond2SignalValue_Lbl</Key>
+      <Value>信号値</Value>
+      <Comment>Signal Value (5400-6600 (HQ)) (x-y (S))</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExpCond2ExposureValue_Lbl</Key>
+      <Value>X線照射条件メモ </Value>
+      <Comment>Exposure Value</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExpCond3SignalValue_Lbl</Key>
+      <Value>信号値</Value>
+      <Comment>Signal Value (5400-6600 (HQ)) (x-y (S))</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExpCond3ExposureValue_Lbl</Key>
+      <Value>X線照射条件メモ </Value>
+      <Comment>Exposure Value </Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPDStatus_Lbl</Key>
+      <Value>FPDステータス</Value>
+      <Comment>FPD Status</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ElectricalNoiseAnalysis_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UnevenessAnalysis_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefectAnalysis_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefectMapAnalysis_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GainCalibSignalValue_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>3</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GainCalibExposureValue_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>8</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExpCond1SignalValue_Txt</Key>
+      <Value>照射時間[msec]</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>9</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExpCond1ExposureValue_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>9</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExpCond2SignalValue_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExpCond2ExposureValue_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExpCond3SignalValue_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExpCond3ExposureValue_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPDStatus_Txt</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CmdAnalyzeLbl</Key>
+      <Value>解析実行</Value>
+      <Comment>Analyze</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExitCommandLbl</Key>
+      <Value>閉じる</Value>
+      <Comment>Close</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CmdGainCalibLbl</Key>
+      <Value>ゲインキャリブレーション</Value>
+      <Comment>Gain Calibration</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CmdExpCond1Lbl</Key>
+      <Value>0.1mR/0.09μGy</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CmdExpCond2Lbl</Key>
+      <Value>1.0mR/0.9μGy</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CmdExpCond3Lbl</Key>
+      <Value>3.0mR/2.6μGy</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CmdFinishExpLbl</Key>
+      <Value>撮影完了</Value>
+      <Comment>Finish Exposure</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_PREPARING</Key>
+      <Value>AeroDRパネルが準備中です。
+しばらくお待ちください。</Value>
+      <Comment>Panel is preparing, please wait for a while</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_READY</Key>
+      <Value>AeroDRパネルの準備が出来ました。
+X線を照射してください。</Value>
+      <Comment>Panel is Ready for exposure, Please take the exposure now.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_CUTOFF</Key>
+      <Value>AeroDRパネルと接続されていません。
+接続状態を確認してください。</Value>
+      <Comment>Panel connection doest not exist</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_STANDBY</Key>
+      <Value>※AeroDRパネルの充電状態を事前確認してください。
+画像取得できます。撮影条件ボタンを押してください。</Value>
+      <Comment>Panel connection is in stand by mode</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_SLEEP</Key>
+      <Value>※AeroDRパネルの充電状態を事前確認してください。
+画像取得できます。撮影条件ボタンを押してください。</Value>
+      <Comment>Panel connection is in sleep mode</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_FINISH</Key>
+      <Value>画像の取得が完了しました。</Value>
+      <Comment>Exposure completed</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_ERROR</Key>
+      <Value>AeroDRパネルにエラーが発生しました。
+AeroDRパネルを確認し再度実行してください。
+繰り返しメッセージが表示される場合はサービスコールしてください。</Value>
+      <Comment>Panel encountered with error</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_WAKEUP</Key>
+      <Value>AeroDRパネルが準備中です。
+しばらくお待ちください。</Value>
+      <Comment>Panel is in wake up mode</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FPD_STATUS_UNKNOWN</Key>
+      <Value>FPDステータス : </Value>
+      <Comment>The fpd status : </Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GAIN_CALIB_END_SUCCESS</Key>
+      <Value>ゲインキャリブレーションは完了しました。</Value>
+      <Comment>Gain Calibration Successfully Completed.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GAIN_CALIB_END_FAIL</Key>
+      <Value>ゲインキャリブレーションに失敗しました。
+AeroDRパネルを確認し再度実行してください。
+繰り返しメッセージが表示される場合はサービスコールしてください。</Value>
+      <Comment>Gain Calibration Failed.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OFFSET_CALIB_END_SUCCESS</Key>
+      <Value>オフセットキャリブレーションは完了しました。</Value>
+      <Comment>Offset Calibration Successfully Completed.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OFFSET_CALIB_END_FAIL</Key>
+      <Value>オフセットキャリブレーションに失敗しました。
+AeroDRパネルを確認し再度実行してください。
+繰り返しメッセージが表示される場合はサービスコールしてください。</Value>
+      <Comment>Offset Calibration Failed.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ELECTRICALNOISEANALYSIS_PASS</Key>
+      <Value>Pass</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ELECTRICALNOISEANALYSIS_FAIL</Key>
+      <Value>Fail
+パネルを交換してください。</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UNEVENESSANALYSIS_PASS</Key>
+      <Value>Pass</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UNEVENESSANALYSIS_FAIL1</Key>
+      <Value>Fail
+キャリブレーションを実施し、再度解析を行ってください。</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UNEVENESSANALYSIS_FAIL2</Key>
+      <Value>Fail
+パネルを交換してください。</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DEFECTMAPANALYSIS_PASS</Key>
+      <Value>Pass</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DEFECTMAPANALYSIS_FAIL1</Key>
+      <Value>Fail
+定期キャリブレーションを実施し、再度解析を行ってください。</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DEFECTMAPANALYSIS_FAIL2</Key>
+      <Value>Fail
+パネルを交換してください。</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DEFECTMAPANALYSIS_ALERT</Key>
+      <Value>Alert
+</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WAIT_DIALOG_MESSAGE1</Key>
+      <Value>解析実行中...</Value>
+      <Comment>During Analysis...</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ECB_STATUS_CUTOFF</Key>
+      <Value>XG-BOXと接続されていません。
+接続状態を確認してください。</Value>
+      <Comment>XG-BOX Disconnect</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Do_ElectricalNoiseAnalysis</Key>
+      <Value>電気ノイズ解析を実行中です。</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Do_UniformityAnalysis</Key>
+      <Value>ムラ解析を実行中です。</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Do_CorrectedDefectAnalysis</Key>
+      <Value>欠陥マップ解析を実行中です。</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Do_ImageTransfer</Key>
+      <Value>画像を取得中です。</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Do_StartAnalyze</Key>
+      <Value>画像解析を開始できます。</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Do_FinishAnalyze</Key>
+      <Value>画像解析が終了しました。</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageTransferError</Key>
+      <Value>画像取得に失敗しました。</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ImageAcquisitionDomainExtender0000">
+      <Title>Vahvistus</Title>
+      <Message>Haluatko varmasti hylätä kuvan?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0001">
+      <Title>Vahvistus</Title>
+      <Message>Valotetaanko uudelleen?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender1001">
+      <Title>Huomio</Title>
+      <Message>Valotuksia ei voi lisätä, jos koko ylittää {MaxSize}.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0002">
+      <Title>Vahvistus</Title>
+      <Message>Haluatko varmasti peruuttaa hylkäyksen?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0003">
+      <Title>Vahvistus</Title>
+      <Message>Kuvia ei ole kaapattu.
+Haluatko varmasti päättää tutkimuksen?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0004">
+      <Title>Vahvistus</Title>
+      <Message>Haluatko jatkaa tutkimusta toisessa tutkimushuoneessa?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0005">
+      <Title>Vahvistus</Title>
+      <Message>Tälle tutkimustunnukselle on rekisteröity kasetin viivakoodi. 
+Haluatko varmasti poistaa viivakoodin rekisteröinnin?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0006">
+      <Title>Virhe</Title>
+      <Message>Kuvan lukemisen aikana tapahtui virhe.
+Tarkista verkko.
+Käynnistä lukuohjelma uudelleen.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0007">
+      <Title>virhe</Title>
+      <Message>Potilastunnus: {PATIENTID}
+Potilaan nimi: {PATIENTNAME}
+Lukuohjelman nimi: {READERNAME}
+Kuvan vastaanotto ei ole valmis.
+Tarkista verkko.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0008">
+      <Title>Varoitus</Title>
+      <Message>Lukuohjelman nimi: {READERNAME}
+Haluatko varmasti peruuttaa kuvan vastaanoton?
+ Käynnistä lukuohjelma uudelleen, jos vastaanotto peruutettiin.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0009">
+      <Title>Virhe</Title>
+      <Message>Kuvaa luetaan. Kirjaudu hetken kuluttua.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0010">
+      <Title>Virhe</Title>
+      <Message>Tutkimuksen päättäminen epäonnistui.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0011">
+      <Title>Virhe</Title>
+      <Message>Tutkimuksen keskeyttäminen epäonnistui.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0012">
+      <Title>Virhe</Title>
+      <Message>Tämä kasetti on yleisvalotusta varten.
+Tarkista tutkimustunnus.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0013">
+      <Title>Virhe</Title>
+      <Message>Tämä kasetti on kontaktimammografiaa varten.
+Tarkista tutkimustunnus.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0014">
+      <Title>Virhe</Title>
+      <Message>Tämä kasetti on PCM:ää varten.
+Tarkista tutkimustunnus.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0015">
+      <Title>Virhe</Title>
+      <Message>Tämä kasetti on jo rekisteröity.
+Rekisteröi toinen kasetti.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0016">
+      <Title>Huomio</Title>
+      <Message>Kasetin lukeminen on jo aloitettu.
+Viivakoodin rekisteröintiä ei voi poistaa.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0017">
+      <Title>Huomio</Title>
+      <Message>Kasetin lukeminen on jo aloitettu.
+Manuaalisessa rekisteröintitilassa rekisteröityjä töitä ei voi poistaa.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0018">
+      <Title>Huomio</Title>
+      <Message>Kasetin lukeminen on jo aloitettu.
+Automaattisessa rekisteröintitilassa rekisteröityjä töitä ei voi poistaa.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0019">
+      <Title>Vahvistus</Title>
+      <Message>Haluatko varmasti keskeyttää tämän tutkimuksen?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0020">
+      <Title>Vahvistus</Title>
+      <Message>Ei kaapattuja kuvia. Haluatko varmasti vaihtaa tilaksi ei aloitettu?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0021">
+      <Title>Vahvistus</Title>
+      <Message>Haluatko varmasti poistaa viivakoodin rekisteröinnin?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0022">
+      <Title>Kuvan siirto uudelleen</Title>
+      <Message>Sopiiko, että konsolin siirtämättömät kuvat poistetaan? [OK]: Poista [Peruuta]: Palaa poistamatta</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0023">
+      <Title>Kuvan siirto uudelleen</Title>
+      <Message>{READERNAME}: Kaikkia kuvia ei ole vielä siirretty. Haluatko poistaa ne?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0024">
+      <Title>Kuvansiirtovirhe</Title>
+      <Message>{READERNAME}: Tiedonsiirtovirhe kuvansiirron aikana. Tarkista tiedonsiirtokaapelin yhteystila.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0025">
+      <Title>Kuvan siirto uudelleen</Title>
+      <Message>{READERNAME}: Kohdetta {ImageAcquisitionConditionName} ei ole vielä siirretty. Haluatko noutaa kuvan?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0026">
+      <Title>Vahvistus</Title>
+      <Message>Haluatko varmasti poistaa valitun tutkimustunnuksen?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0027">
+      <Title>Vahvistus</Title>
+      <Message>Haluatko varmasti poistaa tämän tutkimuksen?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0028">
+      <Title>Virhe</Title>
+      <Message>Aikakatkaisu kuvansiirron aikana.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0029">
+      <Title />
+      <Message>Siirtämätön kuva kohteessa {ImageAcquisitionConditionName}. 
+Kuvaa ei voi hankkia uudelleen tutkimuksen modaliteettieron takia. Merkitse kuva.
+ Jos hankitaan uudelleen, vaihda paneelin tila tutkimusta vastaavaksi. Tunnus.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0030">
+      <Title />
+      <Message>Siirtämättömän kuvan hankinta epäonnistui.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0031">
+      <Title />
+      <Message>Siirtämättömän kuvan poisto epäonnistui.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0032">
+      <Title>Vahvistus</Title>
+      <Message>Haluatko varmasti keskeyttää tämän tutkimuksen?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

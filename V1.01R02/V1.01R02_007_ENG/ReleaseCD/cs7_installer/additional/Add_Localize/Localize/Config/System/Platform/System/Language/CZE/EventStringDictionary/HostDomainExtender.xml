@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="HostDomainExtender0001">
+      <Title>Stav Ping</Title>
+      <Message>Připojení bylo úspěšné.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0002">
+      <Title>Stav Ping</Title>
+      <Message>Připojení neúspěšné.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0003">
+      <Title>Potvrzení</Title>
+      <Message>Pro kterou službu má být proveden Ping(C-ECHO)？</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0004">
+      <Title>Potvrzení</Title>
+      <Message>Je správné odstranit vybranou frontu?</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0005">
+      <Title>Pozor</Title>
+      <Message>Vyberte fronty, které mají být odstraněny.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0006">
+      <Title>Informace</Title>
+      <Message>Vybrané fronty byly úspěšně odstraněny</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0007">
+      <Title>Chyba</Title>
+      <Message>Chyba při odstraňování fronty.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0008">
+      <Title>Pozor</Title>
+      <Message>Tento zadaný hostitel je duplikovaný s jiným CH. Snímky možná budou odeslány duplicitně.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

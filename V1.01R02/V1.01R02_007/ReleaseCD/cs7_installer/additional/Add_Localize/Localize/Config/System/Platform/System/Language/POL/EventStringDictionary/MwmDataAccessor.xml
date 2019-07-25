@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35500">
+      <Title>Błąd inicjowania</Title>
+      <Message>Nie można zainicjować.</Message>
+    </EventString>
+    <EventString Key="35501">
+      <Title>błąd ustawienia</Title>
+      <Message>Wystąpił błąd podczas odczytywania pliku ustawień.</Message>
+    </EventString>
+    <EventString Key="35502">
+      <Title>błąd limitu czasu</Title>
+      <Message>Przekroczono limit czasu.</Message>
+    </EventString>
+    <EventString Key="35503">
+      <Title>Błąd gniazda</Title>
+      <Message>Wystąpił błąd gniazda.</Message>
+    </EventString>
+    <EventString Key="37350">
+      <Title>Błąd wewnętrzny</Title>
+      <Message>Wystąpił błąd wewnętrzny komunikacji DICOM. Skontaktuj się z serwisem.</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>Błąd wewnętrzny</Title>
+      <Message>Wystąpił błąd wewnętrzny komunikacji DICOM. Skontaktuj się z serwisem.</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>Błąd wewnętrzny</Title>
+      <Message>Nie można pobrać ustawienia komunikacji DICOM. Sprawdź ustawienie komunikacji.</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>Błąd komunikacji</Title>
+      <Message>Wystąpił błąd komunikacji. Sprawdź ustawienia komunikacji i działanie serwera.</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>Błąd komunikacji</Title>
+      <Message>Wystąpił błąd w A-ASSOCIATE. Sprawdź ustawienia komunikacji i działanie serwera.</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>Błąd komunikacji</Title>
+      <Message>Odrzucono z serwera w A-ASSOCIATE ze względu na nieprawidłowe ustawienie. Sprawdź ustawienie komunikacji.</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>Błąd komunikacji</Title>
+      <Message>Wystąpił błąd wewnętrzny komunikacji DICOM. Skontaktuj się z serwisem.</Message>
+    </EventString>
+    <EventString Key="37357">
+      <Title>Błąd komunikacji</Title>
+      <Message>Błąd komunikacji zwolnienia. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>Błąd komunikacji</Title>
+      <Message>Otrzymano A-ABORT. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37610">
+      <Title>Błąd wewnętrzny</Title>
+      <Message>Wystąpił błąd wewnętrzny komunikacji RIS-IN. Skontaktuj się z serwisem.</Message>
+    </EventString>
+    <EventString Key="37611">
+      <Title>Błąd wewnętrzny</Title>
+      <Message>Wystąpił błąd wewnętrzny komunikacji RIS-IN. Skontaktuj się z serwisem.</Message>
+    </EventString>
+    <EventString Key="37612">
+      <Title>Błąd wewnętrzny</Title>
+      <Message>Wystąpił błąd wewnętrzny komunikacji RIS-IN. Skontaktuj się z serwisem.</Message>
+    </EventString>
+    <EventString Key="37613">
+      <Title>Błąd wewnętrzny</Title>
+      <Message>Wystąpił błąd wewnętrzny komunikacji RIS-IN. Skontaktuj się z serwisem.</Message>
+    </EventString>
+    <EventString Key="37614">
+      <Title>Communication error</Title>
+      <Message>MWM C-FIND request aborted because it exceeded the maximum number of search responses.</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-IN communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-IN communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>Błąd wewnętrzny</Title>
+      <Message>Otrzymano powiadomienie o zakończeniu.[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="27740">
+      <Title>Błąd komunikacji</Title>
+      <Message>Ocorreu erro de comunicação na comunicação RIS-IN. Sprawdź lokalizację docelową komunikacji.</Message>
+    </EventString>
+    <EventString Key="27741">
+      <Title>Błąd komunikacji</Title>
+      <Message>Ocorreu erro de comunicação na comunicação RIS-IN. Sprawdź lokalizację docelową komunikacji.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

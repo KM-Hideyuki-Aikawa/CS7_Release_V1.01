@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35540">
+      <Title>ข้อผิดพลาดในการเตรียมใช้</Title>
+      <Message>เตรียมใช้ล้มเหลว</Message>
+    </EventString>
+    <EventString Key="35541">
+      <Title>ข้อผิดพลาดในการอ่านการตั้งค่า</Title>
+      <Message>มีข้อผิดพลาดกับการอ่านไฟล์การตั้งค่า</Message>
+    </EventString>
+    <EventString Key="35542">
+      <Title>ข้อผิดพลาดการหมดเวลา</Title>
+      <Message>หมดเวลา</Message>
+    </EventString>
+    <EventString Key="35543">
+      <Title>C35543</Title>
+      <Message />
+    </EventString>
+    <EventString Key="37350">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>ข้อผิดพลาดภายในเกิดขึ้นในการสื่อสาร DICOM ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>ข้อผิดพลาดภายในเกิดขึ้นในการสื่อสาร DICOM ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>รับการตั้งค่าการสื่อสาร DICOM ล้มเหลว โปรดยืนยันการตั้งค่าการสื่อสาร</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>ข้อผิดพลาดในการสื่อสาร</Title>
+      <Message>ล้มเหลวในการสื่อสาร โปรดยืนยันการตั้งค่าการสื่อสารและเซิร์ฟเวอร์กำลังทำงาน</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>ข้อผิดพลาดในการสื่อสาร</Title>
+      <Message>ล้มเหลวใน A-ASSOCIATE โปรดยืนยันการตั้งค่าการสื่อสารและเซิร์ฟเวอร์กำลังทำงาน</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>ข้อผิดพลาดในการสื่อสาร</Title>
+      <Message>ถูกปฏิเสธจากเซิร์ฟเวอร์ใน A-ASSOCIATE เนื่องจากการตั้งค่าไม่ถูกต้อง โปรดยืนยันการตั้งค่าการสื่อสาร</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>ข้อผิดพลาดในการสื่อสาร</Title>
+      <Message>ข้อผิดพลาดภายในเกิดขึ้นในการสื่อสาร DICOM ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>ข้อผิดพลาดในการสื่อสาร</Title>
+      <Message>ได้รับ A-ABORT [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37360">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>ข้อผิดพลาดภายในเกิดขึ้นในการสื่อสาร RIS-OUT ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="37361">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>ข้อผิดพลาดภายในเกิดขึ้นในการสื่อสาร RIS-OUT ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="37362">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>ข้อผิดพลาดภายในเกิดขึ้นในการสื่อสาร RIS-OUT ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="37363">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>ข้อผิดพลาดภายในเกิดขึ้นในการสื่อสาร RIS-OUT ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="37364">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>ข้อผิดพลาดภายในเกิดขึ้นในการสื่อสาร RIS-OUT ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>ข้อผิดพลาดภายในเกิดขึ้นในการสื่อสาร RIS-OUT ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="37699">
+      <Title>ข้อผิดพลาดที่ไม่รู้จัก</Title>
+      <Message>ข้อผิดพลาดที่ไม่รู้จักเกิดขึ้น [{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37662">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>ข้อผิดพลาดภายในเกิดขึ้นในการสื่อสาร HOST ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="37365">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>ข้อผิดพลาดภายในเกิดขึ้นในการสื่อสาร RIS-OUT ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="37366">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>ข้อผิดพลาดภายในเกิดขึ้นในการสื่อสาร RIS-OUT ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="37367">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>ข้อผิดพลาดภายในเกิดขึ้นในการสื่อสาร RIS-OUT ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="37368">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>ข้อผิดพลาดภายในเกิดขึ้นในการสื่อสาร RIS-OUT ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="37369">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>ข้อผิดพลาดภายในเกิดขึ้นในการสื่อสาร RIS-OUT ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="37370">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>ข้อผิดพลาดภายในเกิดขึ้นในการสื่อสาร RIS-OUT ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="37371">
+      <Title>ข้อผิดพลาดภายใน</Title>
+      <Message>ข้อผิดพลาดภายในเกิดขึ้นในการสื่อสาร RIS-OUT ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="27700">
+      <Title>ข้อผิดพลาดในการสื่อสาร</Title>
+      <Message>ข้อผิดพลาดในการสื่อสารเกิดขึ้นในการสื่อสาร RIS-OUT ตรวจสอบปลายทางการสื่อสาร</Message>
+    </EventString>
+    <EventString Key="27701">
+      <Title>ข้อผิดพลาดในการสื่อสาร</Title>
+      <Message>ข้อผิดพลาดในการสื่อสารเกิดขึ้นในการสื่อสาร RIS-OUT ตรวจสอบปลายทางการสื่อสาร</Message>
+    </EventString>
+    <EventString Key="27702">
+      <Title>ข้อผิดพลาดในการสื่อสาร</Title>
+      <Message>ข้อผิดพลาดในการสื่อสารเกิดขึ้นในการสื่อสาร RIS-OUT ตรวจสอบปลายทางการสื่อสาร</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

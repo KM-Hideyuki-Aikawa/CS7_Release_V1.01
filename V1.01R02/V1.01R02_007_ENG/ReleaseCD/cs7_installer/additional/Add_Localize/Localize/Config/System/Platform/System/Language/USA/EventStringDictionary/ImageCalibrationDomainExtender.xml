@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title>Attention</Title>
+      <Message>Please enter numerical value.</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title>Attention</Title>
+      <Message>Please input valid data</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title>Error</Title>
+      <Message>Gain calibration start error</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title>Error</Title>
+      <Message>Offset calibration start error</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title>Confirmation</Title>
+      <Message>Do you want to abort the gain calibration process?</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title>Confirmation</Title>
+      <Message>Do you want to abort the gain calibration process??</Message>
+    </EventString>
+    <EventString Key="0107">
+      <Title>Confirmation</Title>
+      <Message>Do you want to abort the gain calibration process?</Message>
+    </EventString>
+    <EventString Key="0108">
+      <Title>Confirmation</Title>
+      <Message>Gain calibration successfully completed</Message>
+    </EventString>
+    <EventString Key="0109">
+      <Title>Confirmation</Title>
+      <Message>Offset calibration successfully completed</Message>
+    </EventString>
+    <EventString Key="0110">
+      <Title>Error</Title>
+      <Message>Gain calibration failed</Message>
+    </EventString>
+    <EventString Key="0111">
+      <Title>Error</Title>
+      <Message>Offset calibration failed</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

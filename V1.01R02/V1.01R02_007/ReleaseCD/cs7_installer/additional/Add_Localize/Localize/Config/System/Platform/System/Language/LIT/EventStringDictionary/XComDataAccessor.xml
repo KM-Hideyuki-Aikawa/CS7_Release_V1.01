@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0401">
+      <Title>Siuntimo klaida</Title>
+      <Message>Rentgeno ryšio proceso vidinė klaida.</Message>
+    </EventString>
+    <EventString Key="0402">
+      <Title>Vidinė klaida</Title>
+      <Message>Rentgeno ryšio proceso vidinė klaida.</Message>
+    </EventString>
+    <EventString Key="0403">
+      <Title>Siuntimo klaida</Title>
+      <Message>Nepavyko pasiųsti poveikio sąlygų komandos rentgeno sistemai. Iš naujo paleiskite rentgeno įrenginį.</Message>
+    </EventString>
+    <EventString Key="0404">
+      <Title>nuostatų klaida</Title>
+      <Message>Rentgeno sistemos parametrų nuostatų klaida.</Message>
+    </EventString>
+    <EventString Key="0405">
+      <Title>Įrenginio klaida</Title>
+      <Message>Aptikta rentgeno sistemos klaida.</Message>
+    </EventString>
+    <EventString Key="0406">
+      <Title>Siuntimo klaida</Title>
+      <Message>Rentgeno sistemos sujungimo klaida. Patikrinkite tinklą.</Message>
+    </EventString>
+    <EventString Key="0301">
+      <Title />
+      <Message />
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

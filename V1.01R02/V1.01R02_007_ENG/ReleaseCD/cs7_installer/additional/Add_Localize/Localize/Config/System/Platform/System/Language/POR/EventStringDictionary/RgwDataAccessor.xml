@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35560">
+      <Title>Erro de inicialização</Title>
+      <Message>Falha ao inicializar.</Message>
+    </EventString>
+    <EventString Key="35561">
+      <Title>erro de ajuste</Title>
+      <Message>Ocorreu um erro ao ler o ficheiro de ajuste.</Message>
+    </EventString>
+    <EventString Key="35562">
+      <Title>erro de timeout </Title>
+      <Message>Ocorreu um timeout.</Message>
+    </EventString>
+    <EventString Key="35563">
+      <Title>C35563</Title>
+      <Message />
+    </EventString>
+    <EventString Key="037300">
+      <Title>Erro interno</Title>
+      <Message>Estado de conclusão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037307">
+      <Title>Erro interno</Title>
+      <Message>Erro de inicialização [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037308">
+      <Title>Erro interno</Title>
+      <Message>Erro de inicialização [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037309">
+      <Title>Erro interno</Title>
+      <Message>Erro de inicialização [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037310">
+      <Title>Erro interno</Title>
+      <Message>Erro de inicialização [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037311">
+      <Title>Erro interno</Title>
+      <Message>Erro de inicialização [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037312">
+      <Title>Erro interno</Title>
+      <Message>Erro de inicialização [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037314">
+      <Title>Erro interno</Title>
+      <Message>Erro de inicialização [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037315">
+      <Title>Erro interno</Title>
+      <Message>Erro de inicialização [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037316">
+      <Title>Erro interno</Title>
+      <Message>Erro de inicialização [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037317">
+      <Title>Erro interno</Title>
+      <Message>Erro de inicialização [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037318">
+      <Title>Erro interno</Title>
+      <Message>Erro de inicialização [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037319">
+      <Title>Erro interno</Title>
+      <Message>Erro de inicialização [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037320">
+      <Title>Erro interno</Title>
+      <Message>Erro de inicialização [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037321">
+      <Title>Erro interno</Title>
+      <Message>Erro de inicialização [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037322">
+      <Title>Erro interno</Title>
+      <Message>Erro de inicialização [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037323">
+      <Title>Erro interno</Title>
+      <Message>Erro de inicialização [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037324">
+      <Title>Erro interno</Title>
+      <Message>Erro de inicialização [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037325">
+      <Title>Erro interno</Title>
+      <Message>Erro de inicialização [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037326">
+      <Title>Erro interno</Title>
+      <Message>Erro de inicialização [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037338">
+      <Title>Erro interno</Title>
+      <Message>Erro de conversão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037339">
+      <Title>Erro interno</Title>
+      <Message>Erro de conversão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037340">
+      <Title>Erro interno</Title>
+      <Message>Erro de conversão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037341">
+      <Title>Erro interno</Title>
+      <Message>Erro de conversão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037342">
+      <Title>Erro interno</Title>
+      <Message>Erro de conversão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037343">
+      <Title>Erro interno</Title>
+      <Message>Erro de conversão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037344">
+      <Title>Erro interno</Title>
+      <Message>Erro de conversão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037345">
+      <Title>Erro interno</Title>
+      <Message>Erro de conversão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037346">
+      <Title>Erro interno</Title>
+      <Message>Erro de conversão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037347">
+      <Title>Erro interno</Title>
+      <Message>Erro de conversão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037348">
+      <Title>Erro interno</Title>
+      <Message>Erro de conversão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037349">
+      <Title>Erro interno</Title>
+      <Message>Erro de conversão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037400">
+      <Title>Erro interno</Title>
+      <Message>Erro de conversão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037401">
+      <Title>Erro interno</Title>
+      <Message>Erro de conversão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037402">
+      <Title>Erro interno</Title>
+      <Message>Erro de conversão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037403">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de saúde [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037404">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de saúde [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037405">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de saúde [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037406">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de saúde [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037407">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de saúde [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037408">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de saúde [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037409">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de saúde [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037410">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de saúde [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037411">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de saúde [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037412">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de saúde [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037413">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de saúde [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037414">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de saúde [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037415">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de saúde [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037416">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de saúde [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037417">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de saúde [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037418">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de saúde[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037419">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de saúde [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037420">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de saúde [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037421">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de saúde [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037422">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de calendário [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037423">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de calendário [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037424">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de calendário [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037425">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de calendário [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037426">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de calendário [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037427">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de calendário [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037428">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de calendário [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037429">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de calendário [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037430">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de calendário [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037431">
+      <Title>Erro interno</Title>
+      <Message>Erro de conclusão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037432">
+      <Title>Erro interno</Title>
+      <Message>Erro de conclusão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037433">
+      <Title>Erro interno</Title>
+      <Message>Erro de conclusão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037434">
+      <Title>Erro interno</Title>
+      <Message>Erro de conclusão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037435">
+      <Title>Erro interno</Title>
+      <Message>Erro de conclusão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037436">
+      <Title>Erro interno</Title>
+      <Message>Erro de conclusão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037437">
+      <Title>Erro interno</Title>
+      <Message>Erro de conclusão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037438">
+      <Title>Erro interno</Title>
+      <Message>Erro de conclusão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037441">
+      <Title>Erro interno</Title>
+      <Message>Erro de conclusão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037442">
+      <Title>Erro interno</Title>
+      <Message>Erro de conclusão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037443">
+      <Title>Erro interno</Title>
+      <Message>Erro de conclusão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037444">
+      <Title>Erro interno</Title>
+      <Message>Erro de conclusão [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037454">
+      <Title>Erro interno</Title>
+      <Message>Erro de execução de estudo [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037455">
+      <Title>Erro interno</Title>
+      <Message>Erro de execução de estudo [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037456">
+      <Title>Erro interno</Title>
+      <Message>Erro de execução de estudo [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037457">
+      <Title>Erro interno</Title>
+      <Message>Erro no estudo completou notificação a RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037458">
+      <Title>Erro interno</Title>
+      <Message>Erro no estudo completou notificação a RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037459">
+      <Title>Erro interno</Title>
+      <Message>Erro no estudo completou notificação a RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037460">
+      <Title>Erro interno</Title>
+      <Message>Erro no estudo completou notificação a RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037461">
+      <Title>Erro interno</Title>
+      <Message>Erro no estudo completou notificação a RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037462">
+      <Title>Erro interno</Title>
+      <Message>Erro no estudo completou notificação a RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037463">
+      <Title>Erro interno</Title>
+      <Message>Erro no estudo completou notificação a RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037464">
+      <Title>Erro interno</Title>
+      <Message>Erro no estudo completou notificação a RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037465">
+      <Title>Erro interno</Title>
+      <Message>Erro no estudo completou notificação a RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037466">
+      <Title>Erro interno</Title>
+      <Message>Erro no estudo completou notificação a RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037467">
+      <Title>Erro interno</Title>
+      <Message>Erro no estudo completou notificação a RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037468">
+      <Title>Erro interno</Title>
+      <Message>Erro no estudo completou notificação a RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037469">
+      <Title>Erro interno</Title>
+      <Message>Erro no estudo completou notificação a RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037470">
+      <Title>Erro interno</Title>
+      <Message>Erro no estudo completou notificação a RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037471">
+      <Title>Erro interno</Title>
+      <Message>Erro no estudo completou notificação a RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037472">
+      <Title>Erro interno</Title>
+      <Message>Erro no estudo completou notificação a RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037473">
+      <Title>Erro interno</Title>
+      <Message>Erro de pesquisa de paciente [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037474">
+      <Title>Erro interno</Title>
+      <Message>Erro de pesquisa de paciente [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037475">
+      <Title>Erro interno</Title>
+      <Message>Erro de pesquisa de paciente [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037476">
+      <Title>Erro interno</Title>
+      <Message>Erro de pesquisa de paciente [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037477">
+      <Title>Erro interno</Title>
+      <Message>Erro de pesquisa de paciente [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037478">
+      <Title>Erro interno</Title>
+      <Message>Erro de pesquisa de paciente [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037479">
+      <Title>Erro interno</Title>
+      <Message>Erro de pesquisa de paciente [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037480">
+      <Title>Erro interno</Title>
+      <Message>Erro de pesquisa de paciente [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037481">
+      <Title>Erro interno</Title>
+      <Message>Erro de pesquisa de paciente [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037482">
+      <Title>Erro interno</Title>
+      <Message>Erro de pesquisa de paciente [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037483">
+      <Title>Erro interno</Title>
+      <Message>Erro de pesquisa de paciente [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037484">
+      <Title>Erro interno</Title>
+      <Message>Erro de pesquisa de paciente [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037485">
+      <Title>Erro interno</Title>
+      <Message>Erro de pesquisa de paciente [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037486">
+      <Title>Erro interno</Title>
+      <Message>Erro de pesquisa de paciente [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037487">
+      <Title>Erro interno</Title>
+      <Message>Erro de pesquisa de paciente [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027600">
+      <Title>Erro interno</Title>
+      <Message>Erro de inicialização [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027601">
+      <Title>Erro interno</Title>
+      <Message>Erro de inicialização [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027602">
+      <Title>Erro interno</Title>
+      <Message>Erro de inicialização [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027603">
+      <Title>Erro interno</Title>
+      <Message>Erro de inicialização [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027604">
+      <Title>Erro interno</Title>
+      <Message>Erro de inicialização [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027605">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de saúde [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027606">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de calendário [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027607">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de calendário [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027608">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de calendário [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027618">
+      <Title>Erro interno</Title>
+      <Message>Erro no estudo completou notificação a RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027619">
+      <Title>Erro interno</Title>
+      <Message>Erro no estudo completou notificação a RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027620">
+      <Title>Erro interno</Title>
+      <Message>Erro de pesquisa de paciente [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027621">
+      <Title>Erro interno</Title>
+      <Message>Erro de pesquisa de paciente [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027622">
+      <Title>Erro interno</Title>
+      <Message>Erro de pesquisa de paciente [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027623">
+      <Title>Erro interno</Title>
+      <Message>Erro de pesquisa de paciente [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027624">
+      <Title>Erro interno</Title>
+      <Message>Erro de pesquisa de paciente [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027625">
+      <Title>Erro interno</Title>
+      <Message>Erro de pesquisa de paciente [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027626">
+      <Title>Erro interno</Title>
+      <Message>Erro de pesquisa de paciente [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027628">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de pasta [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027629">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de pasta [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027630">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de pasta [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027631">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de pasta [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027632">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de pasta [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027633">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de pasta [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027634">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de pasta [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027635">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de pasta [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027636">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de pasta [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027637">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de pasta [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027638">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de pasta [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027639">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de pasta [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027640">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de pasta [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027641">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de pasta [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027642">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de pasta [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027643">
+      <Title>Erro interno</Title>
+      <Message>Erro de verificação de pasta [{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="FE">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação Contacte o suporte técnico.</Message>
+    </EventString>
+    <EventString Key="FF">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação Contacte o suporte técnico.</Message>
+    </EventString>
+    <EventString Key="01">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação Contacte o suporte técnico.</Message>
+    </EventString>
+    <EventString Key="02">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação Contacte o suporte técnico.</Message>
+    </EventString>
+    <EventString Key="03">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação Contacte o suporte técnico.</Message>
+    </EventString>
+    <EventString Key="04">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação Contacte o suporte técnico.</Message>
+    </EventString>
+    <EventString Key="05">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação Contacte o suporte técnico.</Message>
+    </EventString>
+    <EventString Key="06">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação Contacte o suporte técnico.</Message>
+    </EventString>
+    <EventString Key="07">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação Contacte o suporte técnico.</Message>
+    </EventString>
+    <EventString Key="08">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação Contacte o suporte técnico.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

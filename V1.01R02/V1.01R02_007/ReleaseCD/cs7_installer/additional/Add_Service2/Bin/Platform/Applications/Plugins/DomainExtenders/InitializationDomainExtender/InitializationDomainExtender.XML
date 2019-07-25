@@ -1,0 +1,406 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>InitializationDomainExtender</name>
+    </assembly>
+    <members>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.InitializationDomainExtenderModel">
+            <summary>
+            InitializationDomainExtenderModel
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.InitializationDomainExtenderModel.#ctor(Konicaminolta.Platform.CommonResources.PluginBases.DomainExtenderBase)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="extenderBase"></param>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.InitializationDomainExtenderModel.AttachDomainModel(Konicaminolta.Platform.Frameworks.Interfaces.IDomainModel)">
+            <summary>
+            Attaches the IDomainModel to ExtenderPlugin
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.InitializationDomainExtenderModel.DetachDomainModel(Konicaminolta.Platform.Frameworks.Interfaces.IDomainModel)">
+            <summary>
+            Detaches the IDomainModel from ExtenderPlugin
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.InitializationDomainExtenderModel.GetRequireCategoryInterface">
+            <summary>
+            GetRequireCategoryInterface
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.InitializationDomainExtenderModel.HasPluginBaseView">
+            <summary>
+            HasPluginBaseView
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.InitializationDomainExtenderModel.GetPluginBaseView">
+            <summary>
+            GetPluginBaseView
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.InitializationDomainExtenderModel.GetItemView(Konicaminolta.Consoles.DomainExtenders.Interfaces.MaintenanceDomain.IItemInfo)">
+            <summary>
+            GetItemView
+            </summary>
+            <param name="iteminfo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.InitializationDomainExtenderModel.GetItemInfo(Konicaminolta.Consoles.DomainExtenders.Interfaces.MaintenanceDomain.SettingMode,Konicaminolta.Consoles.DomainExtenders.Interfaces.MaintenanceDomain.LayoutType)">
+            <summary>
+            GetItemInfo
+            </summary>
+            <param name="settingMode"></param>
+            <param name="layoutType"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.InitializationDomainExtenderModel.FormatSettingRequestMessage">
+            <summary>
+            Format alternate request message here
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.InitializationDomainExtenderModel.CreateDictionary">
+            <summary>
+            Create Dictionary
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.InitializationDomainExtenderModel.SettingCompleted">
+            <summary>
+            Setting Completed
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Platform">
+            <summary>
+            Platform Wrap-Class
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Platform.Instance">
+            <summary>
+            Platform instance property
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Platform.Log">
+            <summary>
+            Log
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Platform.Loginstance">
+            <summary>
+            Login Instance
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Platform.Logger">
+            <summary>
+            Logger
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Plugin">
+            <summary>
+            Plugin Class
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Plugin.Instance">
+            <summary>
+            Plugin instance property
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.InitializationDomainExtender">
+            <summary>
+            InitializationDomainExtender
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.InitializationDomainExtender.GetAutherName">
+            <summary>
+            Plugin author
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.InitializationDomainExtender.GetDescription">
+            <summary>
+            Plugin Description
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.InitializationDomainExtender.GetOfficialName">
+            <summary>
+            OfficialName
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.InitializationDomainExtender.GetVersion">
+            <summary>
+            Plugin version
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.InitializationDomainExtender.QueryInterface``1">
+            <summary>
+            Official Name
+            </summary>
+            <typeparam name="T"></typeparam>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.InitializationDomainExtender.Initialize">
+            <summary>
+            Plugin's Initialize Override
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.InitializationDomainExtender.GetPlugin">
+            <summary>
+            Returns IPlugin
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.InitializationDomainExtender.GetDomainExtenderInstanceInfo(Konicaminolta.Platform.Frameworks.Interfaces.IDomainModel,Konicaminolta.Platform.Frameworks.Infos.DomainExtenderOption)">
+            <summary>
+            Returns DomainExtenderInfo's list
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.InitializationDomainExtender.GetDomainExtenderFeatureInfo">
+            <summary>
+            Returns DomainExtenderFeatureInfo
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.InitializationDomainExtender.GetDomainExtender(Konicaminolta.Platform.Frameworks.Infos.DomainExtenderInstanceInfo,Konicaminolta.Platform.Frameworks.Interfaces.IDomainModel)">
+            <summary>
+            Returns IDomainExtender
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.InitializationDomainExtender.InitializeEnd">
+            <summary>
+            InitializeEnd
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.InitializationItemModel">
+            <summary>
+            InitializationItemModel
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.InitializationItemModel.#ctor(Konicaminolta.Consoles.DomainExtenders.Interfaces.MaintenanceDomain.IItemInfo,Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.InitializationDomainExtenderModel)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="itemInfo"></param>
+            <param name="model"></param>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.InitializationItemModel.PreparePage">
+            <summary>
+            PreparePage
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.InitializationItemModel.DeletePage">
+            <summary>
+            DeletePage
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.InitializationItemModel.ReflectPage">
+            <summary>
+            ReflectPage
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.InitializationItemModel.ValidatePage">
+            <summary>
+            ValidatePage
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.InitializationItemModel.CloseDomainExtender">
+            <summary>
+            CloseDomainExtender function to close the DE
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.InitializationItemModel.GetPassword">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.TargetLevelID">
+            <summary>
+            TargetLevelID
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.TargetLevelID.LargeLevel">
+            <summary>
+            LargeLevel
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.TargetLevelID.MiddleLevel">
+            <summary>
+            MiddleLevel
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.ItemInfoData">
+            <summary>
+            ItemInfoData
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.ItemInfoData.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.ItemInfoData.GetItemInfo">
+            <summary>
+            GetItemInfo
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.SelectLevelID">
+            <summary>
+            SelectLevelID
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.SelectLevelID.LargeLevel">
+            <summary>
+            LargeLevel
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.SelectLevelID.MiddleLevel">
+            <summary>
+            MidLevel
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.SelectLevelID.SmallLevel">
+            <summary>
+            SmallLevel
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.ItemInfo">
+            <summary>
+            ItemInfo
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.ItemInfo.#ctor(System.UInt32)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="instanceID"></param>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.ItemInfo.PreparePage">
+            <summary>
+            PreparePage
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.ItemInfo.DeletePage">
+            <summary>
+            DeletePage
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.ItemInfo.ValidatePage">
+            <summary>
+            ValidatePage
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.ItemInfo.ReflectPage">
+            <summary>
+            ReflectPage
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.ItemInfo.Mode">
+            <summary>
+            Mode
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.ItemInfo.Type">
+            <summary>
+            Type
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.ItemInfo.LargeLevelID">
+            <summary>
+            LargeLevelID
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.ItemInfo.MiddleLevelID">
+            <summary>
+            MidLevelID
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.ItemInfo.SmallLevelID">
+            <summary>
+            SmallLevelID
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.ItemInfo.LargeLevelCaption">
+            <summary>
+            LargeLevelCaption
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.ItemInfo.MiddleLevelCaption">
+            <summary>
+            MidLevelCaption
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.ItemInfo.SmallLevelCaption">
+            <summary>
+            SmallLevelCaption
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.ItemInfo.Parent">
+            <summary>
+            Parent
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.ItemInfo.RelativeItemViewModel">
+            <summary>
+            RelativeItemViewModel
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.SettingRequestData">
+            <summary>
+            SettingRequestData
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.SettingRequestData.LargeLevelID">
+            <summary>
+            LargeLevelID
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.SettingRequestData.LayoutType">
+            <summary>
+            LayoutType
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.SettingRequestData.MiddleLevelID">
+            <summary>
+            MiddleLevelID
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.SettingRequestData.SelectLevel">
+            <summary>
+            SelectLevel
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.SettingRequestData.SelectLevelID">
+            <summary>
+            SelectLevelID
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.SettingRequestData.SettingMode">
+            <summary>
+            SettingMode
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.SettingRequestData.TargetIDNum">
+            <summary>
+            TargetIDNum
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.SettingRequestData.TargetLevel">
+            <summary>
+            TargetLevel
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.InitializationDomainExtender.Model.SettingRequestData.TargetLevelID">
+            <summary>
+            TargetLevelID
+            </summary>
+        </member>
+    </members>
+</doc>

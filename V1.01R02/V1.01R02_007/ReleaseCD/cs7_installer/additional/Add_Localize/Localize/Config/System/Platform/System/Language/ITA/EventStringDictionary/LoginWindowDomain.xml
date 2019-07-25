@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="LoginWindowDomain0000">
+      <Title />
+      <Message>Utente: "{USERNAME}" è accesso. Utente: "{USERNAME}"deve uscire prima di accedere: "{USERNAME}"?</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0001">
+      <Title />
+      <Message>Nome utente o password errata</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0002">
+      <Title>Errore</Title>
+      <Message>Accesso annullato</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0003">
+      <Title>Errore</Title>
+      <Message>Il sistema non può essere cambiato dall'attuale utente. {ERRORS}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

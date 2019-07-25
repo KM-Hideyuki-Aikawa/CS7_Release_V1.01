@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title>Atenção</Title>
+      <Message>Por favor insira um valor numérico.</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title>Atenção</Title>
+      <Message>Por favor insira dados válidos</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title>Erro</Title>
+      <Message>Erro inicial de calibragem de ganho</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title>Erro</Title>
+      <Message>Erro inicial de calibragem de desvio</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title>Confirmação</Title>
+      <Message>Pretende abortar o processo de calibragem de ganho?</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title>Confirmação</Title>
+      <Message>Pretende abortar o processo de calibragem de ganho?</Message>
+    </EventString>
+    <EventString Key="0107">
+      <Title>Confirmação</Title>
+      <Message>Pretende abortar o processo de calibragem de ganho?</Message>
+    </EventString>
+    <EventString Key="0108">
+      <Title>Confirmação</Title>
+      <Message>Calibragem de ganho concluida com sucesso.</Message>
+    </EventString>
+    <EventString Key="0109">
+      <Title>Confirmação</Title>
+      <Message>Calibragem de desvio concluida com sucesso.</Message>
+    </EventString>
+    <EventString Key="0110">
+      <Title>Erro</Title>
+      <Message>Falha de calibragem de ganho</Message>
+    </EventString>
+    <EventString Key="0111">
+      <Title>Erro</Title>
+      <Message>Falha de calibragem de desvio</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

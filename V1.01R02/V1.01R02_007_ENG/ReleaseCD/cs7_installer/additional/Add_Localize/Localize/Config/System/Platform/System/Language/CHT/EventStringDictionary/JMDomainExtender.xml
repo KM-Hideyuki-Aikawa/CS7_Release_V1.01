@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="JMDomainExtender0001">
+      <Title>Ping 狀態</Title>
+      <Message>連接成功。</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0002">
+      <Title>Ping 狀態</Title>
+      <Message>連接失敗。</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0003">
+      <Title />
+      <Message>如果故障期間讀取突然暫停，可能會導致影像消失等問題。如果暫停，請保留掃描並重新啟動 CS。</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0004">
+      <Title />
+      <Message>刪除作業失敗。</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0005">
+      <Title />
+      <Message>刪除作業成功。</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0006">
+      <Title />
+      <Message>切換作業管理系統。暗盒登錄將變成完全停用，確定嗎？</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

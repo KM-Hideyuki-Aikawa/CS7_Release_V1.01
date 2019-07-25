@@ -1,0 +1,1637 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="MES04001">
+      <Title>Σφάλμα CR </Title>
+      <Message>Αισθητήρας NG HP1 (Μονάδα μεταφοράς)</Message>
+    </EventString>
+    <EventString Key="MES04002">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας NG HP1 (Μονάδα μεταφοράς) </Message>
+    </EventString>
+    <EventString Key="MES04011">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας NG HP2 (Μονάδα μεταφοράς) </Message>
+    </EventString>
+    <EventString Key="MES04012">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας NG HP2 (Μονάδα μεταφοράς) </Message>
+    </EventString>
+    <EventString Key="MES04013">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας NG HP2 (Μονάδα μεταφοράς) </Message>
+    </EventString>
+    <EventString Key="MES04014">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας NG HP2 (Μονάδα μεταφοράς) </Message>
+    </EventString>
+    <EventString Key="MES04015">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας NG HP2 (Μονάδα μεταφοράς) </Message>
+    </EventString>
+    <EventString Key="MES04020">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ευθυγράμμισης NG (Έναρξη) </Message>
+    </EventString>
+    <EventString Key="MES04021">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ευθυγράμμισης NG (Τροφοδότης) </Message>
+    </EventString>
+    <EventString Key="MES04022">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ευθυγράμμισης NG (Πρόσφυση) </Message>
+    </EventString>
+    <EventString Key="MES04023">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ευθυγράμμισης NG (Καταφύγιο) </Message>
+    </EventString>
+    <EventString Key="MES04024">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ευθυγράμμισης NG (Εκκένωση) </Message>
+    </EventString>
+    <EventString Key="MES04025">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ευθυγράμμισης NG </Message>
+    </EventString>
+    <EventString Key="MES04026">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ευθυγράμμισης αριστερής πλευράς NG (Προετοιμασία) </Message>
+    </EventString>
+    <EventString Key="MES04027">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ευθυγράμμισης δεξιάς πλευράς NG (Προετοιμασία) </Message>
+    </EventString>
+    <EventString Key="MES04030">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης ανύψωσης NG (Έναρξη) </Message>
+    </EventString>
+    <EventString Key="MES04031">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης ανύψωσης NG (Τροφοδότης) </Message>
+    </EventString>
+    <EventString Key="MES04032">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης ανύψωσης NG (Πρόσφυση) </Message>
+    </EventString>
+    <EventString Key="MES04033">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης ανύψωσης NG (Καταφύγιο) </Message>
+    </EventString>
+    <EventString Key="MES04034">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης ανύψωσης NG (Πριν από την ανύψωση) </Message>
+    </EventString>
+    <EventString Key="MES04035">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας κλειδώματος HP NG </Message>
+    </EventString>
+    <EventString Key="MES04036">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανύψωσης HP NG </Message>
+    </EventString>
+    <EventString Key="MES04037">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης ανύψωσης NG (Μετά από την ανύψωση) </Message>
+    </EventString>
+    <EventString Key="MES04041">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανοίγματος διαφράγματος τροφοδότη NG </Message>
+    </EventString>
+    <EventString Key="MES04042">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας κλεισίματος διαφράγματος τροφοδότη NG </Message>
+    </EventString>
+    <EventString Key="MES04043">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανοίγματος διαφράγματος τροφοδότη NG </Message>
+    </EventString>
+    <EventString Key="MES04044">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας κλεισίματος διαφράγματος τροφοδότη NG </Message>
+    </EventString>
+    <EventString Key="MES04045">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας πίσω πλάκας κασέτας NG </Message>
+    </EventString>
+    <EventString Key="MES04046">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης καμπύλωσης πίσω πλάκας NG </Message>
+    </EventString>
+    <EventString Key="MES04047">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης πρόσφυσης πίσω πλάκας NG </Message>
+    </EventString>
+    <EventString Key="MES04048">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας κλεισίματος διαφράγματος εξαγωγής NG </Message>
+    </EventString>
+    <EventString Key="MES04051">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας κλεισίματος θύρας εκκένωσης NG </Message>
+    </EventString>
+    <EventString Key="MES04061">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας αργής σάρωσης HP NG </Message>
+    </EventString>
+    <EventString Key="MES04062">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης πρόσφυσης πίσω πλάκας NG </Message>
+    </EventString>
+    <EventString Key="MES04063">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης καμπύλωσης πίσω πλάκας NG </Message>
+    </EventString>
+    <EventString Key="MES04064">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας συγχρονισμού V NG </Message>
+    </EventString>
+    <EventString Key="MES04065">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης πρόσφυσης πίσω πλάκας NG </Message>
+    </EventString>
+    <EventString Key="MES04066">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης πρόσφυσης πίσω πλάκας NG </Message>
+    </EventString>
+    <EventString Key="MES04067">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης πρόσφυσης πίσω πλάκας NG </Message>
+    </EventString>
+    <EventString Key="MES04068">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης πρόσφυσης πίσω πλάκας NG </Message>
+    </EventString>
+    <EventString Key="MES04069">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης πρόσφυσης πίσω πλάκας NG </Message>
+    </EventString>
+    <EventString Key="MES04070">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης πρόσφυσης πίσω πλάκας NG </Message>
+    </EventString>
+    <EventString Key="MES04071">
+      <Title>Σφάλμα CR</Title>
+      <Message>Κεντρικός αισθητήρας ανίχνευσης τροφοδότη NG </Message>
+    </EventString>
+    <EventString Key="MES04072">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αριστερός αισθητήρας ανίχνευσης τροφοδότη NG </Message>
+    </EventString>
+    <EventString Key="MES04073">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας πίσω πλάκας κασέτας NG (Προετοιμασία) </Message>
+    </EventString>
+    <EventString Key="MES04074">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης καμπύλωσης πίσω πλάκας NG (Προετοιμασία) </Message>
+    </EventString>
+    <EventString Key="MES04075">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης πρόσφυσης πίσω πλάκας NG (Προετοιμασία) </Message>
+    </EventString>
+    <EventString Key="MES04076">
+      <Title>Σφάλμα CR</Title>
+      <Message>Ισχύς 24 V NG (Συνήθως) </Message>
+    </EventString>
+    <EventString Key="MES04077">
+      <Title>Σφάλμα CR</Title>
+      <Message>Ισχύς 24 V NG (Κλείσιμο θύρας) </Message>
+    </EventString>
+    <EventString Key="MES04081">
+      <Title>Σφάλμα CR</Title>
+      <Message>Τρέχων αισθητήρας ανίχνευσης λυχνίας διαγραφής 1 NG </Message>
+    </EventString>
+    <EventString Key="MES04082">
+      <Title>Σφάλμα CR</Title>
+      <Message>Τρέχων αισθητήρας ανίχνευσης λυχνίας διαγραφής 2 NG </Message>
+    </EventString>
+    <EventString Key="MES04091">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανοίγματος μπροστινής θύρας NG </Message>
+    </EventString>
+    <EventString Key="MES04101">
+      <Title>Σφάλμα CR</Title>
+      <Message>Μοτέρ αργής σάρωσης NG </Message>
+    </EventString>
+    <EventString Key="MES04102">
+      <Title>Σφάλμα CR</Title>
+      <Message>Μοτέρ μονάδας μεταφοράς NG </Message>
+    </EventString>
+    <EventString Key="MES04103">
+      <Title>Σφάλμα CR</Title>
+      <Message>Μοτέρ ανύψωσης NG </Message>
+    </EventString>
+    <EventString Key="MES04104">
+      <Title>Σφάλμα CR</Title>
+      <Message>Μοτέρ ευθυγράμμισης NG </Message>
+    </EventString>
+    <EventString Key="MES04105">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου ανοίγματος/κλεισίματος διαφράγματος τροφοδότη </Message>
+    </EventString>
+    <EventString Key="MES04106">
+      <Title>Σφάλμα CR</Title>
+      <Message>Χρονικό όριο λήξης κλειδώματος </Message>
+    </EventString>
+    <EventString Key="MES04107">
+      <Title>Σφάλμα CR</Title>
+      <Message>Μοτέρ φόρτωσης NG </Message>
+    </EventString>
+    <EventString Key="MES04150">
+      <Title>Σφάλμα CR</Title>
+      <Message>Κλείδωμα αρχικής επεξεργασίας </Message>
+    </EventString>
+    <EventString Key="MES04151">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αρχική επεξεργασία διαφράγματος τροφοδότη </Message>
+    </EventString>
+    <EventString Key="MES04152">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αρχική επεξεργασία ανύψωσης </Message>
+    </EventString>
+    <EventString Key="MES04153">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αρχική επεξεργασία ευθυγράμμισης </Message>
+    </EventString>
+    <EventString Key="MES04154">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αρχική επεξεργασία μονάδας μεταφοράς </Message>
+    </EventString>
+    <EventString Key="MES04155">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αρχική επεξεργασία αργής σάρωσης </Message>
+    </EventString>
+    <EventString Key="MES04156">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έναρξη ενέργειας μεταφοράς 1 NG </Message>
+    </EventString>
+    <EventString Key="MES04157">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έναρξη ενέργειας μεταφοράς 2 NG </Message>
+    </EventString>
+    <EventString Key="MES04158">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έναρξη ενέργειας εκκένωσης τροφοδότη NG </Message>
+    </EventString>
+    <EventString Key="MES04159">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έναρξη ενέργειας εκκένωσης NG </Message>
+    </EventString>
+    <EventString Key="MES04160">
+      <Title>Σφάλμα CR</Title>
+      <Message>Άνοιγμα διαφράγματος τροφοδότη NG </Message>
+    </EventString>
+    <EventString Key="MES04161">
+      <Title>Σφάλμα CR</Title>
+      <Message>Κλείσιμο διαφράγματος τροφοδότη NG </Message>
+    </EventString>
+    <EventString Key="MES04162">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έναρξη κλειδώματος NG </Message>
+    </EventString>
+    <EventString Key="MES04163">
+      <Title>Σφάλμα CR</Title>
+      <Message>Χρόνος ανίχνευσης πτώσης κασέτας NG </Message>
+    </EventString>
+    <EventString Key="MES04164">
+      <Title>Σφάλμα CR</Title>
+      <Message>Καμία ειδοποίηση άδειας για λυχνία διαγραφής ON </Message>
+    </EventString>
+    <EventString Key="MES04165">
+      <Title>Σφάλμα CR</Title>
+      <Message>Καμία ειδοποίηση άδειας για λυχνία διαγραφής OFF </Message>
+    </EventString>
+    <EventString Key="MES04167">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αρχική επεξεργασία μοτέρ φόρτωσης </Message>
+    </EventString>
+    <EventString Key="MES04200">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης κατάστασης (Προετοιμασία) </Message>
+    </EventString>
+    <EventString Key="MES04201">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης κατάστασης (Ετοιμότητα) </Message>
+    </EventString>
+    <EventString Key="MES04202">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης κατάστασης (Ανίχνευση γραμμικού κωδικού) </Message>
+    </EventString>
+    <EventString Key="MES04203">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης κατάστασης (Υψηλή τάση ON) </Message>
+    </EventString>
+    <EventString Key="MES04204">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης κατάστασης (Λέιζερ ON) </Message>
+    </EventString>
+    <EventString Key="MES04205">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης κατάστασης (Ακύρωση γραμμικού κωδικού) </Message>
+    </EventString>
+    <EventString Key="MES04206">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης κατάστασης (Επεξεργασία) </Message>
+    </EventString>
+    <EventString Key="MES04207">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης κατάστασης (Παύση) </Message>
+    </EventString>
+    <EventString Key="MES04208">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης κατάστασης (Άνοιγμα μπροστινής θύρας) </Message>
+    </EventString>
+    <EventString Key="MES04209">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης κατάστασης (Κλείσιμο μπροστινής θύρας) </Message>
+    </EventString>
+    <EventString Key="MES04210">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης κατάστασης (Σφάλμα) </Message>
+    </EventString>
+    <EventString Key="MES04211">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης κατάστασης (Αναμονή) </Message>
+    </EventString>
+    <EventString Key="MES04212">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης κατάστασης (Μεταφορά λειτουργίας διαγραφής) </Message>
+    </EventString>
+    <EventString Key="MES04213">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης κατάστασης (Απενεργοποίηση μετά από κατάσταση ετοιμότητας) </Message>
+    </EventString>
+    <EventString Key="MES04214">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης επιβεβαίωσης καταχώρισης </Message>
+    </EventString>
+    <EventString Key="MES04215">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα λήψης κατάστασης (Λέιζερ ON) </Message>
+    </EventString>
+    <EventString Key="MES04216">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης μετάβασης προς τα πίσω </Message>
+    </EventString>
+    <EventString Key="MES04217">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λέιζερ ON χωρίς αποστολή υψηλής τάσης ON (1) </Message>
+    </EventString>
+    <EventString Key="MES04218">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λέιζερ ON χωρίς αποστολή υψηλής τάσης ON (2) </Message>
+    </EventString>
+    <EventString Key="MES04219">
+      <Title>Σφάλμα CR</Title>
+      <Message>Μη έγκυρη εντολή </Message>
+    </EventString>
+    <EventString Key="MES04221">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης έναρξης υποσάρωσης </Message>
+    </EventString>
+    <EventString Key="MES04900">
+      <Title>Σφάλμα CR</Title>
+      <Message>Η κασέτα υπάρχει (Ανύψωση) </Message>
+    </EventString>
+    <EventString Key="MES04901">
+      <Title>Σφάλμα CR</Title>
+      <Message>Η κασέτα υπάρχει (Ευθυγράμμιση) </Message>
+    </EventString>
+    <EventString Key="MES04902">
+      <Title>Σφάλμα CR</Title>
+      <Message>Η κασέτα υπάρχει (Ανοικτή θύρα ή Εκκένωση) </Message>
+    </EventString>
+    <EventString Key="MES04903">
+      <Title>Σφάλμα CR</Title>
+      <Message>Η κασέτα υπάρχει (Πρόσφυση πίσω πλάκας) </Message>
+    </EventString>
+    <EventString Key="MES04904">
+      <Title>Σφάλμα CR</Title>
+      <Message>Απενεργοποίηση λυχνιών διαγραφής (2) </Message>
+    </EventString>
+    <EventString Key="MES04905">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα επικοινωνίας SCB </Message>
+    </EventString>
+    <EventString Key="MES04906">
+      <Title>Σφάλμα CR</Title>
+      <Message>Στρεβλωμένη κασέτα [%s] </Message>
+    </EventString>
+    <EventString Key="MES04907">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα ανοίγματος κασέτας [%s] </Message>
+    </EventString>
+    <EventString Key="MES04908">
+      <Title>Σφάλμα CR</Title>
+      <Message>Πτώση κασέτας [%s] </Message>
+    </EventString>
+    <EventString Key="MES04909">
+      <Title>Σφάλμα CR</Title>
+      <Message>Ανίχνευση κενού κασέτας (Μαγνητισμός πίσω πλάκας) </Message>
+    </EventString>
+    <EventString Key="MES04910">
+      <Title>Σφάλμα CR</Title>
+      <Message>Ανίχνευση κενού κασέτας (Αποκόλληση κασέτας) </Message>
+    </EventString>
+    <EventString Key="MES04914">
+      <Title>Σφάλμα CR</Title>
+      <Message>Άνοιγμα εξαγωγής (Προετοιμασία) </Message>
+    </EventString>
+    <EventString Key="MES04917">
+      <Title>Σφάλμα CR</Title>
+      <Message>Άνοιγμα διαφράγματος τροφοδότη NG (Ξεκλείδωμα) </Message>
+    </EventString>
+    <EventString Key="MES04918">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αποσύνδεση ανεμιστήρα NG 1 </Message>
+    </EventString>
+    <EventString Key="MES04920">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αποσύνδεση ανεμιστήρα NG 3 </Message>
+    </EventString>
+    <EventString Key="MES04921">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λυχνία διαγραφής NG </Message>
+    </EventString>
+    <EventString Key="MES06000">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας πλήρους στοίχισης HP NG (Μετακίνηση στο HP) </Message>
+    </EventString>
+    <EventString Key="MES06001">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ πλήρους στοίχισης NG (Μετακίνηση στο HP) </Message>
+    </EventString>
+    <EventString Key="MES06002">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας πλήρους στοίχισης HP NG (Κασέτα σε σταθερή θέση) </Message>
+    </EventString>
+    <EventString Key="MES06003">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ πλήρους στοίχισης NG (Κασέτα σε σταθερή θέση) </Message>
+    </EventString>
+    <EventString Key="MES06004">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ πλήρους στοίχισης NG (Κασέτα σε θέση στήριξης) </Message>
+    </EventString>
+    <EventString Key="MES06005">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ πλήρους στοίχισης NG (Κασέτα σε σταθερή θέση -2) </Message>
+    </EventString>
+    <EventString Key="MES06006">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας πλήρους στοίχισης HP NG (Μετακίνηση στο HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06007">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ πλήρους στοίχισης NG (Μετακίνηση στο HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06008">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας πλήρους στοίχισης HP NG (Μετακίνηση στο HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06009">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ πλήρους στοίχισης NG (Μετακίνηση στο HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06010">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας πλήρους στοίχισης HP NG (Κασέτα σε θέση στήριξης) </Message>
+    </EventString>
+    <EventString Key="MES06011">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ πλήρους στοίχισης NG (Κασέτα σε θέση στήριξης -2) </Message>
+    </EventString>
+    <EventString Key="MES06015">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας πλήρους στοίχισης HP NG (Μετακίνηση στο HP) </Message>
+    </EventString>
+    <EventString Key="MES06016">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ πλήρους στοίχισης NG (Μετακίνηση στο HP) </Message>
+    </EventString>
+    <EventString Key="MES06017">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας πλήρους στοίχισης HP NG (Κασέτα σε σταθερή θέση) </Message>
+    </EventString>
+    <EventString Key="MES06018">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ πλήρους στοίχισης NG (Κασέτα σε σταθερή θέση) </Message>
+    </EventString>
+    <EventString Key="MES06019">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ πλήρους στοίχισης NG (Κασέτα σε θέση στήριξης) </Message>
+    </EventString>
+    <EventString Key="MES06020">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ πλήρους στοίχισης NG (Κασέτα σε σταθερή θέση -2) </Message>
+    </EventString>
+    <EventString Key="MES06021">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας πλήρους στοίχισης HP NG (Μετακίνηση στο HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06022">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ πλήρους στοίχισης NG (Μετακίνηση στο HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06023">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας πλήρους στοίχισης HP NG (Μετακίνηση στο HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06024">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ πλήρους στοίχισης NG (Μετακίνηση στο HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06025">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας πλήρους στοίχισης HP NG (Κασέτα σε θέση στήριξης) </Message>
+    </EventString>
+    <EventString Key="MES06026">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ πλήρους στοίχισης NG (Κασέτα σε θέση στήριξης -2) </Message>
+    </EventString>
+    <EventString Key="MES06030">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας πλήρους στοίχισης HP NG (Μετακίνηση στο HP) </Message>
+    </EventString>
+    <EventString Key="MES06031">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ πλήρους στοίχισης NG (Μετακίνηση στο HP) </Message>
+    </EventString>
+    <EventString Key="MES06032">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας πλήρους στοίχισης HP NG (Κασέτα σε σταθερή θέση) </Message>
+    </EventString>
+    <EventString Key="MES06033">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ πλήρους στοίχισης NG (Κασέτα σε σταθερή θέση) </Message>
+    </EventString>
+    <EventString Key="MES06034">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ πλήρους στοίχισης NG (Κασέτα σε θέση στήριξης) </Message>
+    </EventString>
+    <EventString Key="MES06035">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ πλήρους στοίχισης NG (Κασέτα σε σταθερή θέση -2) </Message>
+    </EventString>
+    <EventString Key="MES06036">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας πλήρους στοίχισης HP NG (Μετακίνηση στο HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06037">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ πλήρους στοίχισης NG (Μετακίνηση στο HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06038">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας πλήρους στοίχισης HP NG (Μετακίνηση στο HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06039">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ πλήρους στοίχισης NG (Μετακίνηση στο HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06040">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας πλήρους στοίχισης HP NG (Κασέτα σε θέση στήριξης) </Message>
+    </EventString>
+    <EventString Key="MES06041">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ πλήρους στοίχισης NG (Κασέτα σε θέση στήριξης -2) </Message>
+    </EventString>
+    <EventString Key="MES06050">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη HP NG (Μετακίνηση στο HP) </Message>
+    </EventString>
+    <EventString Key="MES06051">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ ανύψωσης NG (Μετακίνηση στο HP) </Message>
+    </EventString>
+    <EventString Key="MES06052">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη HP NG (Θέση 1) </Message>
+    </EventString>
+    <EventString Key="MES06053">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ ανύψωσης NG (Θέση 1) </Message>
+    </EventString>
+    <EventString Key="MES06054">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ ανύψωσης NG (Θέση 2) </Message>
+    </EventString>
+    <EventString Key="MES06055">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ ανύψωσης NG (Ελαφριά κάθοδος στη Θέση 2) </Message>
+    </EventString>
+    <EventString Key="MES06056">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ ανύψωσης NG (Θέση 1-2) </Message>
+    </EventString>
+    <EventString Key="MES06057">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη HP NG (Μετακίνηση στο HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06058">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ ανύψωσης NG (Μετακίνηση στο HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06059">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη HP NG (Μετακίνηση στο HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06060">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ ανύψωσης NG (Μετακίνηση στο HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06061">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη HP NG (Μετακίνηση στη Θέση 2) </Message>
+    </EventString>
+    <EventString Key="MES06062">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ ανύψωσης NG (Θέση 2-2) </Message>
+    </EventString>
+    <EventString Key="MES06065">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη HP NG (Μετακίνηση στο HP) </Message>
+    </EventString>
+    <EventString Key="MES06066">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ ανύψωσης NG (Μετακίνηση στο HP) </Message>
+    </EventString>
+    <EventString Key="MES06067">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη HP NG (Θέση 1) </Message>
+    </EventString>
+    <EventString Key="MES06068">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ ανύψωσης NG (Θέση 1) </Message>
+    </EventString>
+    <EventString Key="MES06069">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ ανύψωσης NG (Θέση 2) </Message>
+    </EventString>
+    <EventString Key="MES06070">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ ανύψωσης NG (Ελαφριά κάθοδος στη Θέση 2) </Message>
+    </EventString>
+    <EventString Key="MES06071">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ ανύψωσης NG (Θέση 1-2) </Message>
+    </EventString>
+    <EventString Key="MES06072">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη HP NG (Μετακίνηση στο HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06073">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ ανύψωσης NG (Μετακίνηση στο HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06074">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη HP NG (Μετακίνηση στο HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06075">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ ανύψωσης NG (Μετακίνηση στο HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06076">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη HP NG (Θέση 2) </Message>
+    </EventString>
+    <EventString Key="MES06077">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ ανύψωσης NG (Θέση 2-2) </Message>
+    </EventString>
+    <EventString Key="MES06080">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη HP NG (Μετακίνηση στο HP) </Message>
+    </EventString>
+    <EventString Key="MES06081">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ ανύψωσης NG (Μετακίνηση στο HP) </Message>
+    </EventString>
+    <EventString Key="MES06082">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη HP NG (Θέση 1) </Message>
+    </EventString>
+    <EventString Key="MES06083">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ ανύψωσης NG (Θέση 1) </Message>
+    </EventString>
+    <EventString Key="MES06084">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ ανύψωσης NG (Θέση 2) </Message>
+    </EventString>
+    <EventString Key="MES06085">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ ανύψωσης NG (Ελαφριά κάθοδος στη Θέση 2) </Message>
+    </EventString>
+    <EventString Key="MES06086">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ ανύψωσης NG (Θέση 1-2) </Message>
+    </EventString>
+    <EventString Key="MES06087">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη HP NG (Μετακίνηση στο HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06088">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ ανύψωσης NG (Μετακίνηση στο HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06089">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη HP NG (Μετακίνηση στο HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06090">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ ανύψωσης NG (Μετακίνηση στο HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06091">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη HP NG (Θέση 2) </Message>
+    </EventString>
+    <EventString Key="MES06092">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ ανύψωσης NG (Θέση 2-2) </Message>
+    </EventString>
+    <EventString Key="MES06100">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας μεταφορέα NG (Θέση ανάγνωσης) </Message>
+    </EventString>
+    <EventString Key="MES06101">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ μεταφορέα NG (Θέση ανάγνωσης) </Message>
+    </EventString>
+    <EventString Key="MES06102">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας μεταφορέα NG (Μετακίνηση στο HP) </Message>
+    </EventString>
+    <EventString Key="MES06103">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας μεταφορέα HP NG (Μετακίνηση στο HP) </Message>
+    </EventString>
+    <EventString Key="MES06104">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ μεταφορέα NG (Μετακίνηση στο HP) </Message>
+    </EventString>
+    <EventString Key="MES06105">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας μεταφορέα HP NG (Θέση πίεσης) </Message>
+    </EventString>
+    <EventString Key="MES06106">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ μεταφορέα NG (Θέση πίεσης) </Message>
+    </EventString>
+    <EventString Key="MES06107">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας μεταφορέα NG (Θέση ανάγνωσης 2) </Message>
+    </EventString>
+    <EventString Key="MES06108">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ μεταφορέα NG (Θέση ανάγνωσης 2) </Message>
+    </EventString>
+    <EventString Key="MES06109">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας μεταφορέα NG (Θέση πίεσης 2) </Message>
+    </EventString>
+    <EventString Key="MES06110">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ μεταφορέα NG (Θέση πίεσης 2) </Message>
+    </EventString>
+    <EventString Key="MES06111">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ μεταφορέα NG (Θέση διέλευσης HP) </Message>
+    </EventString>
+    <EventString Key="MES06112">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας μεταφορέα HP NG (Μετακίνηση στο HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06113">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ μεταφορέα NG (Μετακίνηση στο HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06115">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας μεταφορέα NG (Θέση ανάγνωσης) </Message>
+    </EventString>
+    <EventString Key="MES06116">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ μεταφορέα NG (Θέση ανάγνωσης) </Message>
+    </EventString>
+    <EventString Key="MES06117">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας μεταφορέα NG (Μετακίνηση στο HP) </Message>
+    </EventString>
+    <EventString Key="MES06118">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας μεταφορέα HP NG (Μετακίνηση στο HP) </Message>
+    </EventString>
+    <EventString Key="MES06119">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ μεταφορέα NG (Μετακίνηση στο HP) </Message>
+    </EventString>
+    <EventString Key="MES06120">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας μεταφορέα HP NG (Θέση πίεσης) </Message>
+    </EventString>
+    <EventString Key="MES06121">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ μεταφορέα NG (Θέση πίεσης) </Message>
+    </EventString>
+    <EventString Key="MES06122">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας μεταφορέα NG (Θέση ανάγνωσης -2) </Message>
+    </EventString>
+    <EventString Key="MES06123">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ μεταφορέα NG (Θέση ανάγνωσης -2) </Message>
+    </EventString>
+    <EventString Key="MES06124">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας μεταφορέα NG (Θέση πίεσης -2) </Message>
+    </EventString>
+    <EventString Key="MES06125">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ μεταφορέα NG (Θέση πίεσης -2) </Message>
+    </EventString>
+    <EventString Key="MES06126">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ μεταφορέα NG (Θέση διέλευσης HP) </Message>
+    </EventString>
+    <EventString Key="MES06127">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας μεταφορέα HP NG (Μετακίνηση στο HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06128">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ μεταφορέα NG (Μετακίνηση στο HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06130">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας μεταφορέα NG (Θέση ανάγνωσης) </Message>
+    </EventString>
+    <EventString Key="MES06131">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ μεταφορέα NG (Θέση ανάγνωσης) </Message>
+    </EventString>
+    <EventString Key="MES06132">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας μεταφορέα NG (Μετακίνηση στο HP) </Message>
+    </EventString>
+    <EventString Key="MES06133">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας μεταφορέα HP NG (Μετακίνηση στο HP) </Message>
+    </EventString>
+    <EventString Key="MES06134">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ μεταφορέα NG (Μετακίνηση στο HP) </Message>
+    </EventString>
+    <EventString Key="MES06135">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας μεταφορέα HP NG (Θέση πίεσης) </Message>
+    </EventString>
+    <EventString Key="MES06136">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ μεταφορέα NG (Θέση πίεσης) </Message>
+    </EventString>
+    <EventString Key="MES06137">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας μεταφορέα NG (Θέση ανάγνωσης -2) </Message>
+    </EventString>
+    <EventString Key="MES06138">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ μεταφορέα NG (Θέση ανάγνωσης -2) </Message>
+    </EventString>
+    <EventString Key="MES06139">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας μεταφορέα NG (Θέση πίεσης -2) </Message>
+    </EventString>
+    <EventString Key="MES06140">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ μεταφορέα NG (Θέση πίεσης -2) </Message>
+    </EventString>
+    <EventString Key="MES06141">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ μεταφορέα NG (Θέση διέλευσης HP) </Message>
+    </EventString>
+    <EventString Key="MES06142">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας μεταφορέα HP NG (Μετακίνηση στο HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06143">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ μεταφορέα NG (Μετακίνηση στο HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06150">
+      <Title>Σφάλμα CR</Title>
+      <Message>Προετοιμασία κωδικοποιητή NG </Message>
+    </EventString>
+    <EventString Key="MES06151">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ υποσάρωσης NG (Μηχανικό HP) </Message>
+    </EventString>
+    <EventString Key="MES06152">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ υποσάρωσης NG (Θέση ολοκλήρωσης ανάγνωσης) </Message>
+    </EventString>
+    <EventString Key="MES06153">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ υποσάρωσης NG (Μηχανικό HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06165">
+      <Title>Σφάλμα CR</Title>
+      <Message>Προετοιμασία κωδικοποιητή NG </Message>
+    </EventString>
+    <EventString Key="MES06166">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ υποσάρωσης NG (Μηχανικό HP) </Message>
+    </EventString>
+    <EventString Key="MES06167">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ υποσάρωσης NG (Θέση ολοκλήρωσης ανάγνωσης) </Message>
+    </EventString>
+    <EventString Key="MES06168">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ υποσάρωσης NG (Μηχανικό HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06180">
+      <Title>Σφάλμα CR</Title>
+      <Message>Προετοιμασία κωδικοποιητή NG </Message>
+    </EventString>
+    <EventString Key="MES06181">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ υποσάρωσης NG (Μηχανικό HP) </Message>
+    </EventString>
+    <EventString Key="MES06182">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ υποσάρωσης NG (Θέση ολοκλήρωσης ανάγνωσης) </Message>
+    </EventString>
+    <EventString Key="MES06183">
+      <Title>Σφάλμα CR</Title>
+      <Message>Έλεγχος μοτέρ υποσάρωσης NG (Μηχανικό HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06200">
+      <Title>Σφάλμα CR</Title>
+      <Message>Άνοιγμα διαφράγματος εισαγωγής NG </Message>
+    </EventString>
+    <EventString Key="MES06201">
+      <Title>Σφάλμα CR</Title>
+      <Message>Κλείσιμο διαφράγματος εισαγωγής NG </Message>
+    </EventString>
+    <EventString Key="MES06215">
+      <Title>Σφάλμα CR</Title>
+      <Message>Άνοιγμα διαφράγματος εισαγωγής NG </Message>
+    </EventString>
+    <EventString Key="MES06216">
+      <Title>Σφάλμα CR</Title>
+      <Message>Κλείσιμο διαφράγματος εισαγωγής NG </Message>
+    </EventString>
+    <EventString Key="MES06230">
+      <Title>Σφάλμα CR</Title>
+      <Message>Άνοιγμα διαφράγματος εισαγωγής NG </Message>
+    </EventString>
+    <EventString Key="MES06231">
+      <Title>Σφάλμα CR</Title>
+      <Message>Κλείσιμο διαφράγματος εισαγωγής NG </Message>
+    </EventString>
+    <EventString Key="MES06250">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αποδέσμευση κλειδώματος μοτέρ NG (Προετοιμασία) </Message>
+    </EventString>
+    <EventString Key="MES06251">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αποδέσμευση κλειδώματος μοτέρ NG (Κλείδωμα) </Message>
+    </EventString>
+    <EventString Key="MES06252">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αποδέσμευση κλειδώματος μοτέρ NG (Αποδέσμευση) </Message>
+    </EventString>
+    <EventString Key="MES06265">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αποδέσμευση κλειδώματος μοτέρ NG (Προετοιμασία) </Message>
+    </EventString>
+    <EventString Key="MES06266">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αποδέσμευση κλειδώματος μοτέρ NG (Κλείδωμα) </Message>
+    </EventString>
+    <EventString Key="MES06267">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αποδέσμευση κλειδώματος μοτέρ NG (Αποδέσμευση) </Message>
+    </EventString>
+    <EventString Key="MES06280">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αποδέσμευση κλειδώματος μοτέρ NG (Προετοιμασία) </Message>
+    </EventString>
+    <EventString Key="MES06281">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αποδέσμευση κλειδώματος μοτέρ NG (Κλείδωμα) </Message>
+    </EventString>
+    <EventString Key="MES06282">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αποδέσμευση κλειδώματος μοτέρ NG (Αποδέσμευση) </Message>
+    </EventString>
+    <EventString Key="MES06300">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας πλήρους στοίχισης NG (Σταθερή ενέργεια) </Message>
+    </EventString>
+    <EventString Key="MES06301">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας πλήρους στοίχισης NG (Σταθερή) </Message>
+    </EventString>
+    <EventString Key="MES06302">
+      <Title>Σφάλμα CR</Title>
+      <Message>Η κασέτα υπάρχει (Αισθητήρας πλήρους στοίχισης) </Message>
+    </EventString>
+    <EventString Key="MES06303">
+      <Title>Σφάλμα CR</Title>
+      <Message>Η κασέτα υπάρχει (Αισθητήρας πλήρους στοίχισης) </Message>
+    </EventString>
+    <EventString Key="MES06315">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας πλήρους στοίχισης NG (Σταθερή ενέργεια) </Message>
+    </EventString>
+    <EventString Key="MES06316">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας πλήρους στοίχισης NG (Σταθερή) </Message>
+    </EventString>
+    <EventString Key="MES06318">
+      <Title>Σφάλμα CR</Title>
+      <Message>Η κασέτα υπάρχει (Αισθητήρας πλήρους στοίχισης) </Message>
+    </EventString>
+    <EventString Key="MES06330">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας πλήρους στοίχισης NG (Σταθερή ενέργεια) </Message>
+    </EventString>
+    <EventString Key="MES06331">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας πλήρους στοίχισης NG (Σταθερή) </Message>
+    </EventString>
+    <EventString Key="MES06333">
+      <Title>Σφάλμα CR</Title>
+      <Message>Η κασέτα υπάρχει (Αισθητήρας πλήρους στοίχισης) </Message>
+    </EventString>
+    <EventString Key="MES06350">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη NG (Τροφοδότης) </Message>
+    </EventString>
+    <EventString Key="MES06351">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη NG (Αποστολή) </Message>
+    </EventString>
+    <EventString Key="MES06352">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη NG (Εκκένωση) </Message>
+    </EventString>
+    <EventString Key="MES06353">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη NG (Αφαιρέθηκε) </Message>
+    </EventString>
+    <EventString Key="MES06354">
+      <Title>Σφάλμα CR</Title>
+      <Message>Η κασέτα υπάρχει (Δέκτης) </Message>
+    </EventString>
+    <EventString Key="MES06355">
+      <Title>Σφάλμα CR</Title>
+      <Message>Η κασέτα υπάρχει (Δέκτης) </Message>
+    </EventString>
+    <EventString Key="MES06365">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη NG (Τροφοδότης) </Message>
+    </EventString>
+    <EventString Key="MES06366">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη NG (Αποστολή) </Message>
+    </EventString>
+    <EventString Key="MES06367">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη NG (Εκκένωση) </Message>
+    </EventString>
+    <EventString Key="MES06368">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη NG (Αφαιρέθηκε) </Message>
+    </EventString>
+    <EventString Key="MES06370">
+      <Title>Σφάλμα CR</Title>
+      <Message>Η κασέτα υπάρχει (Δέκτης) </Message>
+    </EventString>
+    <EventString Key="MES06380">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη NG (Τροφοδότης) </Message>
+    </EventString>
+    <EventString Key="MES06381">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη NG (Αποστολή) </Message>
+    </EventString>
+    <EventString Key="MES06382">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη NG (Εκκένωση) </Message>
+    </EventString>
+    <EventString Key="MES06383">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας δέκτη NG (Αφαιρέθηκε) </Message>
+    </EventString>
+    <EventString Key="MES06385">
+      <Title>Σφάλμα CR</Title>
+      <Message>Η κασέτα υπάρχει (Δέκτης) </Message>
+    </EventString>
+    <EventString Key="MES06400">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης πίσω πλάκας NG (Πριν από τη μετακίνηση στη θέση ανάγνωσης) </Message>
+    </EventString>
+    <EventString Key="MES06401">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης πίσω πλάκας NG (Η θέση ανάγνωσης διακόπτεται) </Message>
+    </EventString>
+    <EventString Key="MES06402">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης πίσω πλάκας NG (Μετά από τη μετακίνηση στη θέση πίεσης) </Message>
+    </EventString>
+    <EventString Key="MES06415">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης πίσω πλάκας NG (Πριν από τη μετακίνηση στη θέση ανάγνωσης) </Message>
+    </EventString>
+    <EventString Key="MES06416">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης πίσω πλάκας NG (Η θέση ανάγνωσης διακόπτεται) </Message>
+    </EventString>
+    <EventString Key="MES06417">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης πίσω πλάκας NG (Μετά από τη μετακίνηση στη θέση πίεσης) </Message>
+    </EventString>
+    <EventString Key="MES06430">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης πίσω πλάκας NG (Πριν από τη μετακίνηση στη θέση ανάγνωσης) </Message>
+    </EventString>
+    <EventString Key="MES06431">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης πίσω πλάκας NG (Η θέση ανάγνωσης διακόπτεται) </Message>
+    </EventString>
+    <EventString Key="MES06432">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας ανίχνευσης πίσω πλάκας NG (Μετά από τη μετακίνηση στη θέση πίεσης) </Message>
+    </EventString>
+    <EventString Key="MES06450">
+      <Title>Σφάλμα CR</Title>
+      <Message>Πλάκα ανίχνευσης αποκόλλησης (Ανάγνωση ή Διαγραφή). Μη χρησιμοποιήσετε την κασέτα. </Message>
+    </EventString>
+    <EventString Key="MES06451">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας αποκόλλησης NG (Μη λειτουργία) </Message>
+    </EventString>
+    <EventString Key="MES06452">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας αποκόλλησης NG (Έναρξη) </Message>
+    </EventString>
+    <EventString Key="MES06453">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας αποκόλλησης NG (Προετοιμασία) </Message>
+    </EventString>
+    <EventString Key="MES06465">
+      <Title>Σφάλμα CR</Title>
+      <Message>Πλάκα ανίχνευσης αποκόλλησης (Ανάγνωση ή Διαγραφή) </Message>
+    </EventString>
+    <EventString Key="MES06466">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας αποκόλλησης NG (Μη λειτουργία) </Message>
+    </EventString>
+    <EventString Key="MES06468">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας αποκόλλησης NG (Προετοιμασία) </Message>
+    </EventString>
+    <EventString Key="MES06480">
+      <Title>Σφάλμα CR</Title>
+      <Message>Πλάκα ανίχνευσης αποκόλλησης (Ανάγνωση ή Διαγραφή) </Message>
+    </EventString>
+    <EventString Key="MES06481">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας αποκόλλησης NG (Μη λειτουργία) </Message>
+    </EventString>
+    <EventString Key="MES06483">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας αποκόλλησης NG (Προετοιμασία) </Message>
+    </EventString>
+    <EventString Key="MES06500">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας εισαγωγής κασέτας NG (Προετοιμασία) </Message>
+    </EventString>
+    <EventString Key="MES06501">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας εισαγωγής κασέτας NG (Κλείδωμα) </Message>
+    </EventString>
+    <EventString Key="MES06502">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας εισαγωγής κασέτας NG (Εκκένωση) </Message>
+    </EventString>
+    <EventString Key="MES06503">
+      <Title>Σφάλμα CR</Title>
+      <Message>Ανίχνευση κασέτας πίσω πλάκας </Message>
+    </EventString>
+    <EventString Key="MES06504">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας εισαγωγής κασέτας NG (Εκκένωση -2) </Message>
+    </EventString>
+    <EventString Key="MES06515">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας εισαγωγής κασέτας NG (Προετοιμασία) </Message>
+    </EventString>
+    <EventString Key="MES06516">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας εισαγωγής κασέτας NG (Κλείδωμα) </Message>
+    </EventString>
+    <EventString Key="MES06517">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας εισαγωγής κασέτας NG (Εκκένωση) </Message>
+    </EventString>
+    <EventString Key="MES06518">
+      <Title>Σφάλμα CR</Title>
+      <Message>Ανίχνευση κασέτας πίσω πλάκας </Message>
+    </EventString>
+    <EventString Key="MES06519">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας εισαγωγής κασέτας NG (Εκκένωση -2) </Message>
+    </EventString>
+    <EventString Key="MES06530">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας εισαγωγής κασέτας NG (Προετοιμασία) </Message>
+    </EventString>
+    <EventString Key="MES06531">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας εισαγωγής κασέτας NG (Κλείδωμα) </Message>
+    </EventString>
+    <EventString Key="MES06532">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας εισαγωγής κασέτας NG (Εκκένωση) </Message>
+    </EventString>
+    <EventString Key="MES06533">
+      <Title>Σφάλμα CR</Title>
+      <Message>Ανίχνευση κασέτας πίσω πλάκας </Message>
+    </EventString>
+    <EventString Key="MES06534">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας εισαγωγής κασέτας NG (Εκκένωση -2) </Message>
+    </EventString>
+    <EventString Key="MES06550">
+      <Title>Σφάλμα CR</Title>
+      <Message>Περιστροφή πολυγώνου NG </Message>
+    </EventString>
+    <EventString Key="MES06551">
+      <Title>Σφάλμα CR</Title>
+      <Message>Δεν λαμβάνεται σήμα ολοκλήρωσης ανάγνωσης </Message>
+    </EventString>
+    <EventString Key="MES06552">
+      <Title>Σφάλμα CR</Title>
+      <Message>Απενεργοποίηση 2 λυχνιών διαγραφής (Έναρξη) </Message>
+    </EventString>
+    <EventString Key="MES06553">
+      <Title>Σφάλμα CR</Title>
+      <Message>Απενεργοποίηση 2 λυχνιών διαγραφής (Διαγραφή). Η διαγραφή κασέτας δεν ολοκληρώθηκε. Προσπαθήστε ξανά. </Message>
+    </EventString>
+    <EventString Key="MES06554">
+      <Title>Σφάλμα CR</Title>
+      <Message>Απενεργοποίηση 1 λυχνίας διαγραφής (Έναρξη) </Message>
+    </EventString>
+    <EventString Key="MES06567">
+      <Title>Σφάλμα CR</Title>
+      <Message>Απενεργοποίηση 2 λυχνιών διαγραφής (Έναρξη) </Message>
+    </EventString>
+    <EventString Key="MES06568">
+      <Title>Σφάλμα CR</Title>
+      <Message>Απενεργοποίηση 2 λυχνιών διαγραφής (Διαγραφή) </Message>
+    </EventString>
+    <EventString Key="MES06569">
+      <Title>Σφάλμα CR</Title>
+      <Message>Απενεργοποίηση 1 λυχνίας διαγραφής (Έναρξη) </Message>
+    </EventString>
+    <EventString Key="MES06582">
+      <Title>Σφάλμα CR</Title>
+      <Message>Απενεργοποίηση 2 λυχνιών διαγραφής (Έναρξη) </Message>
+    </EventString>
+    <EventString Key="MES06584">
+      <Title>Σφάλμα CR</Title>
+      <Message>Απενεργοποίηση 1 λυχνίας διαγραφής (Έναρξη) </Message>
+    </EventString>
+    <EventString Key="MES06600">
+      <Title>Σφάλμα CR</Title>
+      <Message>Η παροχή ψηφιακής ισχύος του ανεμιστήρα ψύξης είναι αποσυνδεδεμένη </Message>
+    </EventString>
+    <EventString Key="MES06650">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα FPGA (Η πρόσβαση στο πρόγραμμα οδήγησης συμβάντων απέτυχε) </Message>
+    </EventString>
+    <EventString Key="MES06651">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα FPGA (Η πρόσβαση στο MDU απέτυχε) </Message>
+    </EventString>
+    <EventString Key="MES06652">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα FPGA (Η πρόσβαση στο LMC απέτυχε) </Message>
+    </EventString>
+    <EventString Key="MES06653">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα FPGA (Ο έλεγχος Ε/Ε απέτυχε) </Message>
+    </EventString>
+    <EventString Key="MES06654">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα FPGA (Το άνοιγμα του προγράμματος οδήγησης εικόνων απέτυχε) </Message>
+    </EventString>
+    <EventString Key="MES06655">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα FPGA (Η πρόσβαση στο PMU απέτυχε) </Message>
+    </EventString>
+    <EventString Key="MES06668">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα FPGA (Ο έλεγχος Ε/Ε απέτυχε) </Message>
+    </EventString>
+    <EventString Key="MES06683">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα FPGA (Ο έλεγχος Ε/Ε απέτυχε) </Message>
+    </EventString>
+    <EventString Key="MES06750">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας θέσης ανοίγματος και κλεισίματος πλάκας γραφείου υποδοχής NG </Message>
+    </EventString>
+    <EventString Key="MES06765">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας θέσης ανοίγματος και κλεισίματος πλάκας γραφείου υποδοχής NG </Message>
+    </EventString>
+    <EventString Key="MES06780">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας θέσης ανοίγματος και κλεισίματος πλάκας γραφείου υποδοχής NG </Message>
+    </EventString>
+    <EventString Key="MES06751">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας τοποθεσίας HP γραφείου υποδοχής NG </Message>
+    </EventString>
+    <EventString Key="MES06766">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας τοποθεσίας HP γραφείου υποδοχής NG </Message>
+    </EventString>
+    <EventString Key="MES06785">
+      <Title>Σφάλμα CR</Title>
+      <Message>Αισθητήρας τοποθεσίας HP γραφείου υποδοχής NG </Message>
+    </EventString>
+    <EventString Key="MES10000">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα μνήμης </Message>
+    </EventString>
+    <EventString Key="MES11000">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα υλικού </Message>
+    </EventString>
+    <EventString Key="MES12000">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης μηνύματος (Υψηλή τάση ON) </Message>
+    </EventString>
+    <EventString Key="MES12001">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης μηνύματος (Λέιζερ ON) </Message>
+    </EventString>
+    <EventString Key="MES12002">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης μηνύματος (Μηχάνημα: έτοιμο) </Message>
+    </EventString>
+    <EventString Key="MES12003">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης μηνύματος (Μηχάνημα: αναμονή) </Message>
+    </EventString>
+    <EventString Key="MES12010">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα σειριακής επικοινωνίας (Μηχάνημα: υπερχείλιση επανάληψης αποστολής) </Message>
+    </EventString>
+    <EventString Key="MES12011">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα σειριακής επικοινωνίας (Μηχάνημα: υπερχείλιση σφάλματος CRC) </Message>
+    </EventString>
+    <EventString Key="MES12012">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα σειριακής επικοινωνίας (Μηχάνημα: υπέρβαση) </Message>
+    </EventString>
+    <EventString Key="MES12013">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα σειριακής επικοινωνίας (Μηχάνημα: λήξη χρονικού ορίου) </Message>
+    </EventString>
+    <EventString Key="MES12020">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα μηνύματος (Μη έγκυρο μήνυμα μηχανήματος) </Message>
+    </EventString>
+    <EventString Key="MES12200">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης μηνύματος (Προετοιμασία δικτύου) </Message>
+    </EventString>
+    <EventString Key="MES12201">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης μηνύματος (Δίκτυο έτοιμο) </Message>
+    </EventString>
+    <EventString Key="MES12202">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης μηνύματος (Τοποθέτηση σκίασης) </Message>
+    </EventString>
+    <EventString Key="MES12203">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης μηνύματος (Έλεγχος κατάστασης) </Message>
+    </EventString>
+    <EventString Key="MES12204">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης μηνύματος (Αναζήτηση γραμμικού κωδικού) </Message>
+    </EventString>
+    <EventString Key="MES12205">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης μηνύματος (Εντολή δικτύου) </Message>
+    </EventString>
+    <EventString Key="MES12206">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης μηνύματος (Τερματισμός αναγνώστη) </Message>
+    </EventString>
+    <EventString Key="MES12207">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης μηνύματος (Τοποθέτηση QRV) </Message>
+    </EventString>
+    <EventString Key="MES12208">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης μηνύματος (Τοποθέτηση αρχείου ρύθμισης παραμέτρων) </Message>
+    </EventString>
+    <EventString Key="MES12209">
+      <Title>Σφάλμα CR</Title>
+      <Message>Λήξη χρονικού ορίου λήψης μηνύματος (Τοποθέτηση πληροφοριών) </Message>
+    </EventString>
+    <EventString Key="MES12210">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα σειριακής επικοινωνίας (Υπερχείλιση επανάληψης αποστολής στο δίκτυο) </Message>
+    </EventString>
+    <EventString Key="MES12211">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα σειριακής επικοινωνίας (Σφάλμα υπερχείλισης CRC στο δίκτυο) </Message>
+    </EventString>
+    <EventString Key="MES12212">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα σειριακής επικοινωνίας (Υπερχείλιση στο δίκτυο) </Message>
+    </EventString>
+    <EventString Key="MES12213">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα σειριακής επικοινωνίας (Λήξη χρονικού ορίου στο δίκτυο) </Message>
+    </EventString>
+    <EventString Key="MES12220">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα μηνύματος (Μη έγκυρο μήνυμα δικτύου) </Message>
+    </EventString>
+    <EventString Key="MES13000">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα οπτικής μονάδας (Συγχρονισμός H) </Message>
+    </EventString>
+    <EventString Key="MES13001">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα οπτικής μονάδας (Αναγνωριστικό πολυγώνου) </Message>
+    </EventString>
+    <EventString Key="MES13003">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα οπτικής μονάδας (Σταθερότητα πολυγώνου) </Message>
+    </EventString>
+    <EventString Key="MES13005">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα οπτικής μονάδας (Ένταση λέιζερ) </Message>
+    </EventString>
+    <EventString Key="MES13030">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα ελέγχου SCB (Μεταφορά DMA) </Message>
+    </EventString>
+    <EventString Key="MES13031">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα ελέγχου SCB (Επικοινωνία SCOM) </Message>
+    </EventString>
+    <EventString Key="MES14000">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα επεξεργασίας σήματος (Υπερχείλιση απολαβής) </Message>
+    </EventString>
+    <EventString Key="MES14001">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα επεξεργασίας σήματος (Υποχείλιση απολαβής) </Message>
+    </EventString>
+    <EventString Key="MES14002">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα επεξεργασίας σήματος (Υπερχείλιση μετατόπισης) </Message>
+    </EventString>
+    <EventString Key="MES14003">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα επεξεργασίας σήματος (Υποχείλιση μετατόπισης) </Message>
+    </EventString>
+    <EventString Key="MES14010">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα επεξεργασίας σήματος (Υπερχείλιση QRV) </Message>
+    </EventString>
+    <EventString Key="MES14011">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα επεξεργασίας σήματος (Υποχείλιση QRV) </Message>
+    </EventString>
+    <EventString Key="MES14012">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα επεξεργασίας σήματος (Καμία σύγκλιση QRV) </Message>
+    </EventString>
+    <EventString Key="MES14013">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα επεξεργασίας σήματος (Απουσία δεδομένων σκίασης) </Message>
+    </EventString>
+    <EventString Key="MES14014">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα επεξεργασίας σήματος (Απουσία δεδομένων QRV) </Message>
+    </EventString>
+    <EventString Key="MES15000">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα επεξεργασίας σήματος (Αποτυχία προετοιμασίας) </Message>
+    </EventString>
+    <EventString Key="MES22101">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα σειριακής επικοινωνίας (Υπέρβαση μέτρησης N1) </Message>
+    </EventString>
+    <EventString Key="MES22103">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα σειριακής επικοινωνίας (Υπέρβαση μέτρησης N3) </Message>
+    </EventString>
+    <EventString Key="MES22104">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα σειριακής επικοινωνίας (Υπέρβαση μέτρησης N4) </Message>
+    </EventString>
+    <EventString Key="MES23000">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα προγράμματος (Κύριος έλεγχος) </Message>
+    </EventString>
+    <EventString Key="MES23100">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα προγράμματος (Έλεγχος ακολουθίας) </Message>
+    </EventString>
+    <EventString Key="MES23200">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα προγράμματος (Μέγεθος αρχείου δεδομένων) </Message>
+    </EventString>
+    <EventString Key="MES23900">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα προγράμματος (Ενημέρωση υλικολογισμικού) </Message>
+    </EventString>
+    <EventString Key="MES24000">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα δικτύου (Σύνδεση JM) </Message>
+    </EventString>
+    <EventString Key="MES24500">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα δικτύου (Ρύθμιση παραμέτρων JM) </Message>
+    </EventString>
+    <EventString Key="MES25000">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα δικτύου (Απουσία χρονικού ορίου) </Message>
+    </EventString>
+    <EventString Key="MES25100">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα δικτύου (Λήξη χρονικού ορίου κατά τη γενική επικοινωνία) </Message>
+    </EventString>
+    <EventString Key="MES25110">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα δικτύου (Απόρριψη κατά τη γενική επικοινωνία) </Message>
+    </EventString>
+    <EventString Key="MES25200">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα δικτύου (Λήξη χρονικού ορίου κατά τη μετάδοση εικόνας) </Message>
+    </EventString>
+    <EventString Key="MES25210">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα δικτύου (Λήξη χρονικού ορίου μετά από τη σάρωση εικόνας) </Message>
+    </EventString>
+    <EventString Key="MES25300">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα δικτύου (Λήξη χρονικού ορίου/Απόρριψη κατά τη μετάδοση εικόνας) </Message>
+    </EventString>
+    <EventString Key="MES25500">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα δικτύου (Ο προορισμός δεν βρέθηκε) </Message>
+    </EventString>
+    <EventString Key="MES26000">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα λειτουργίας (Μη έγκυρη εργασία) </Message>
+    </EventString>
+    <EventString Key="MES26010">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα λειτουργίας (Μη έγκυρη παράμετρος εργασίας) </Message>
+    </EventString>
+    <EventString Key="MES26100">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα λειτουργίας (Μη αποκλειστική εργασία) </Message>
+    </EventString>
+    <EventString Key="MES26200">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα λειτουργίας (Μη έγκυρη κονσόλα) </Message>
+    </EventString>
+    <EventString Key="MES26300">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα λειτουργίας (Ο αναγνώστης είναι απασχολημένος) </Message>
+    </EventString>
+    <EventString Key="MES26900">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα λειτουργίας (Απενεργοποίηση κατά την εκτέλεση εργασίας) </Message>
+    </EventString>
+    <EventString Key="MES26999">
+      <Title>Σφάλμα CR</Title>
+      <Message>Σφάλμα λειτουργίας (Μη υποστηριζόμενη εντολή) </Message>
+    </EventString>
+    <EventString Key="MES1">
+      <Title>Σφάλμα CR</Title>
+      <Message>Ανιχνεύτηκε ανοικτή μπροστινή θύρα </Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

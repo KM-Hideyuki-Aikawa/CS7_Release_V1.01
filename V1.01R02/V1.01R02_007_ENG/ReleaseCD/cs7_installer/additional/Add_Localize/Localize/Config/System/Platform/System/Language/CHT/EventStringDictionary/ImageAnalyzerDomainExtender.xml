@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0104">
+      <Title>錯誤</Title>
+      <Message>無法啟動影像獲取程序。</Message>
+    </EventString>
+    <EventString Key="0112">
+      <Title>錯誤</Title>
+      <Message>無法分析電子雜訊。</Message>
+    </EventString>
+    <EventString Key="0113">
+      <Title>錯誤</Title>
+      <Message>無法分析粗糙度。</Message>
+    </EventString>
+    <EventString Key="0114">
+      <Title>錯誤</Title>
+      <Message>無法更新基礎缺陷圖。</Message>
+    </EventString>
+    <EventString Key="0115">
+      <Title>錯誤</Title>
+      <Message>無法分析缺陷圖。</Message>
+    </EventString>
+    <EventString Key="0116">
+      <Title>錯誤</Title>
+      <Message>無法獲取影像。</Message>
+    </EventString>
+    <EventString Key="0117">
+      <Title>資訊</Title>
+      <Message>影像分析完成。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

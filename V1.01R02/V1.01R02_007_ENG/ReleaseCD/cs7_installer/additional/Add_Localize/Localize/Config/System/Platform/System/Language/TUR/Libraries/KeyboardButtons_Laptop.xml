@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<KeybordButtons>
+  <Buttons>
+    
+    <!--Function Keys--> 
+    <Button_F1  Value ="F1"/>
+    <Button_F2  Value ="F2"/>
+    <Button_F3  Value ="F3"/>
+    <Button_F4  Value ="F4"/>
+    <Button_F5  Value ="F5"/>
+    <Button_F6  Value ="F6"/>
+    <Button_F7  Value ="F7"/>
+    <Button_F8  Value ="F8"/>
+    <Button_F9  Value ="F9"/>
+    <Button_F10 Value ="F10"/>
+    <Button_F11 Value ="F11"/>
+    <Button_F12 Value ="F12"/>
+
+    <!--Number Keys-->
+   
+    <Button_1   Value ="1"/>
+    <Button_2   Value ="2"/>
+    <Button_3   Value ="3"/>
+    <Button_4   Value ="4"/>
+    <Button_5   Value ="5"/>
+    <Button_6   Value ="6"/>
+    <Button_7   Value ="7"/>
+    <Button_8   Value ="8"/>
+    <Button_9   Value ="9"/>
+    <Button_0   Value ="0"/>
+
+
+    <!--Alphabet Keys-->
+    <Button_A Value ="a"/>
+    <Button_B Value ="b"/>
+    <Button_C Value ="c"/>
+    <Button_D Value ="d"/>
+    <Button_E Value ="e"/>
+    <Button_F Value ="f"/>
+    <Button_G Value ="g"/>
+    <Button_H Value ="h"/>
+    <Button_I Value ="i"/>
+    <Button_J Value ="j"/>
+    <Button_K Value ="k"/>
+    <Button_L Value ="l"/>
+    <Button_M Value ="m"/>
+    <Button_N Value ="n"/>
+    <Button_O Value ="o"/>
+    <Button_P Value ="p"/>
+    <Button_Q Value ="q"/>
+    <Button_R Value ="r"/>
+    <Button_S Value ="s"/>
+    <Button_T Value ="t"/>
+    <Button_U Value ="u"/>
+    <Button_V Value ="v"/>
+    <Button_W Value ="w"/>
+    <Button_X Value ="x"/>
+    <Button_Y Value ="y"/>
+    <Button_Z Value ="z"/>
+
+    <!--Special character Keys-->
+    <Button_SemiColon Value =";"/>
+    <Button_SQuot Value ="'"/>
+    <Button_Minus   Value ="-"/>
+    <Button_Plus   Value ="+"/>
+    <Button_Mul Value ="*"/>
+    <Button_Div Value ="/"/>
+    
+    <Button_OpenBrc Value ="{"/>
+    <Button_CloseBrc Value ="}"/>
+    <Button_BkSlash Value ="\"/>
+    <Button_FwSlash Value ="/"/>
+    <Button_Comma Value =","/>
+    <Button_Dot Value ="."/>
+    <Button_UndScore Value ="_"/>	
+    <Button_Alias Value = "@"/>
+    <Button_DQuot Value = "&quot;"/>
+    <Button_Hash Value = "#"/>
+    <Button_And Value = "&amp;"/>
+    <Button_Space Value = "Space" />
+    <Button_Right Value = "-&gt;"/>
+    <Button_Left Value = "&lt;-"/>
+    <Button_BackSpace Value ="BS"/>
+    <Button_Delete Value ="DEL"/>
+    
+    <!--Control Keys-->
+    <Button_Esc Value ="Esc"/>
+    <Button_Tilt Value ="~"/>
+    <Button_Tab Value ="Tab"/>
+    <Button_CapsLock Value ="Caps Lock"/>
+    <Button_Shift Value =" Shift"/>
+    <Button_Ctrl Value =" Ctrl"/>
+    <Button_Win Value ="Win"/>
+    <Button_Alt Value ="Alt"/>
+    <Button_Space Value =" "/>
+    <Button_Property Value =" Property"/>
+    <Button_Enter Value ="Enter"/>
+    <Button_BkSpace Value ="BS"/>
+   
+    
+  </Buttons>
+</KeybordButtons>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="LoginWindowDomain0000">
+      <Title />
+      <Message>Uživatel: "{USERNAME}" je přihlášen v. Uživatel: "{USERNAME}"se musí přihlásit a pak se můžete přihlásit vy. Odhlásit uživatele: "{USERNAME}"?</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0001">
+      <Title />
+      <Message>Nesprávné jméno uživatele či heslo</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0002">
+      <Title>Chyba</Title>
+      <Message>Přihlašování zrušeno</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0003">
+      <Title>Chyba</Title>
+      <Message>Systém nemůže být přepnut současným uživatelem. {ERRORS}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

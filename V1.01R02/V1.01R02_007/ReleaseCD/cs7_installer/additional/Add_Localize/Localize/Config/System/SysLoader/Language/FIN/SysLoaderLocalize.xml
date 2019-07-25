@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>1001</Key>
+      <Value>CS-7</Value>
+      <Comment>CS-7 起動</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1002</Key>
+      <Value>Asetus</Value>
+      <Comment>設定</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1003</Key>
+      <Value>Lisenssin tuonti</Value>
+      <Comment>ライセンスインポート</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1004</Key>
+      <Value>Sulkeminen</Value>
+      <Comment>シャットダウン</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1005</Key>
+      <Value>Uudelleenkäynnistys</Value>
+      <Comment>再起動</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1006</Key>
+      <Value>Windows-työpöytä</Value>
+      <Comment>Windows デスクトップ</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>13</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2001</Key>
+      <Value>Wake On Lan -asetus</Value>
+      <Comment>WOL設定</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2002</Key>
+      <Value>Etäylläpito</Value>
+      <Comment>RemoteMaintenance</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2101</Key>
+      <Value>WOL(Wake ON LAN)-asetus</Value>
+      <Comment>WOL(Wake ON LAN)設定</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2102</Key>
+      <Value>Konsolin herätys</Value>
+      <Comment>他コンソールの起動</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2103</Key>
+      <Value>WakeOnLan PÄÄLLÄ/POIS</Value>
+      <Comment>WakeOnLanの有効</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2104</Key>
+      <Value>PÄÄLLÄ</Value>
+      <Comment>ON</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2105</Key>
+      <Value>PC1-herätys</Value>
+      <Comment>PC1の起動</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2106</Key>
+      <Value>PC1 MAC-osoite</Value>
+      <Comment>PC1のMACアドレス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>8</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2107</Key>
+      <Value>PC2-herätys</Value>
+      <Comment>PC2の起動</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2108</Key>
+      <Value>PC2 MAC-osoite</Value>
+      <Comment>PC2のMACアドレス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>8</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2109</Key>
+      <Value>PC3-herätys</Value>
+      <Comment>PC3の起動</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2110</Key>
+      <Value>PC3 MAC-osoite</Value>
+      <Comment>PC3のMACアドレス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>8</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2111</Key>
+      <Value>PC4-herätys</Value>
+      <Comment>PC4の起動</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2112</Key>
+      <Value>PC4 MAC-osoite</Value>
+      <Comment>PC4のMACアドレス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>8</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2113</Key>
+      <Value>PC5-herätys</Value>
+      <Comment>PC5の起動</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2114</Key>
+      <Value>PC5 MAC-osoite</Value>
+      <Comment>PC5のMACアドレス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>8</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2115</Key>
+      <Value>PC6-herätys</Value>
+      <Comment>PC6の起動</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2116</Key>
+      <Value>PC6 MAC-osoite</Value>
+      <Comment>PC6のMACアドレス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>8</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2117</Key>
+      <Value>PC7-herätys</Value>
+      <Comment>PC7の起動</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2118</Key>
+      <Value>PC7 MAC-osoite</Value>
+      <Comment>PC7のMACアドレス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>8</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2119</Key>
+      <Value>PC8-herätys</Value>
+      <Comment>PC8の起動</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2120</Key>
+      <Value>PC8 MAC-osoite</Value>
+      <Comment>PC8のMACアドレス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>8</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2121</Key>
+      <Value>OK</Value>
+      <Comment>OK</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>7</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2122</Key>
+      <Value>Peruuta</Value>
+      <Comment>Cancel</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>7</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2201</Key>
+      <Value>Etäylläpito</Value>
+      <Comment>RemoteMaintenance</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2202</Key>
+      <Value>Suorita etäylläpito</Value>
+      <Comment>RemoteMaintenance起動</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2203</Key>
+      <Value>PÄÄLLÄ</Value>
+      <Comment>ON</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2204</Key>
+      <Value>OK</Value>
+      <Comment>OK</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2205</Key>
+      <Value>Peruuta</Value>
+      <Comment>Cancel</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2301</Key>
+      <Value>Tuo</Value>
+      <Comment>Import</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2302</Key>
+      <Value>Peruuta</Value>
+      <Comment>Cancel</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2303</Key>
+      <Value>Rekisteröi</Value>
+      <Comment>Regist</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2304</Key>
+      <Value>Asiakastiedot</Value>
+      <Comment>Customer Info</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>4</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2305</Key>
+      <Value>Asiakastunnus</Value>
+      <Comment>Customer ID</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>4</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2306</Key>
+      <Value>Laitoksen nimi</Value>
+      <Comment>InstitutionName</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>3</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2307</Key>
+      <Value>Laitoksen osoite</Value>
+      <Comment>InstitutionAddress</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>4</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2308</Key>
+      <Value>Laitoksen puh</Value>
+      <Comment>InstitutionTel</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>4</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2401</Key>
+      <Value>Yleinen koodi</Value>
+      <Comment>Common Code</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2402</Key>
+      <Value>Selitys</Value>
+      <Comment>Explanation</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2403</Key>
+      <Value>Määrä</Value>
+      <Comment>Amount</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2501</Key>
+      <Value>CS-7-VAKIO-OHJELMISTO</Value>
+      <Comment>CS-7 STANDARD SOFTWARE</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2502</Key>
+      <Value>CS-7-HQ-DETEKTORIN LISENSSI (MAKS. 4)</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>22</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2503</Key>
+      <Value>CS-7-STD-DETEKTORIN LISENSSI (MAKS. 4)</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>21</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2504</Key>
+      <Value>CS-7-RÖNTGENGENERAATTORIN LIITÄNTÄ</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>14</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2505</Key>
+      <Value>CS-7-WLAN-LIITÄNTÄ</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2506</Key>
+      <Value>CS-7 CR ALHAINEN SUORITUSTEHO</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2507</Key>
+      <Value>CS-7 CR KESKITASON SUORITUSTEHO</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2508</Key>
+      <Value>CS-7 CR KORKEA SUORITUSTEHO (MAKS. 15)</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>18</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2509</Key>
+      <Value />
+      <Comment>CS-7 電子カルテシステム接続ライセンス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>21</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2510</Key>
+      <Value>MWM/IRROTETTU LIITÄ</Value>
+      <Comment>RIS-IN接続ライセンス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>13</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2511</Key>
+      <Value>MPPS/IRROTETTU LIITÄ</Value>
+      <Comment>RIS-OUT接続ライセンス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>14</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2512</Key>
+      <Value />
+      <Comment>CS-7 RISビルトイン接続ライセンス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2513</Key>
+      <Value>DICOM-MUISTIN LÄHTÖ (MAKS. 4)</Value>
+      <Comment>CS-7 ホスト出力追加ライセンス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>17</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2514</Key>
+      <Value>DICOM-TULOSTUS (MAKS. 2)</Value>
+      <Comment>CS-7 PRINTER接続ライセンス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>19</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2515</Key>
+      <Value>CS-7 MEDIA STORAGE</Value>
+      <Comment>CS-7 メディア出力ライセンス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>16</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2516</Key>
+      <Value>CS-7 HELPPO TUNNUSAVAIMEN ASETUS</Value>
+      <Comment>簡易版条件キーライセンス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>17</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2517</Key>
+      <Value>CS-7 YKSITYISKOHTAINEN TUNNUSAVAIMEN ASETUS</Value>
+      <Comment>詳細版条件キーライセンス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>17</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2518</Key>
+      <Value>YKSITYISKOHTAINEN KUVA-ASETUS</Value>
+      <Comment>CS-7 詳細版画像処理ライセンス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>17</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2519</Key>
+      <Value>CS-7 YKSITYISKOHTAINEN HUOMAUTUS</Value>
+      <Comment>詳細版アノテーションライセンス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3001</Key>
+      <Value>Väliaikainen lisenssi on umpeutunut.  Rekisteröidy lisenssiä varten.</Value>
+      <Comment>試用期間あるいは基本ライセンスが切れています。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>23</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3002</Key>
+      <Value>Väliaikainen lisenssi on käytössä.  
+Se umpeutuu {0}päivän {1}tunnin {2}minuutin kuluttua.  
+Rekisteröidy lisenssiä varten.</Value>
+      <Comment>試用期間の期限が{0}日まで迫っています。LMSライセンスの登録をお願いします。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>9</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3003</Key>
+      <Value>CS-7-laitteiston rekisteröintiä ei ole suoritettu loppuun.  
+Suorita laitteiston rekisteröinti.</Value>
+      <Comment>CS-7の機器登録が行われていません。機器登録を行ってください。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>30</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3004</Key>
+      <Value>Lisenssi on umpeutunut.  
+Tarkista lisenssi.</Value>
+      <Comment>ライセンスが無効になっています。ライセンスを確認してください。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>33</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3005</Key>
+      <Value>CS-7 on jo käynnistetty</Value>
+      <Comment>既にCS-7は起動中です。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>11</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3006</Key>
+      <Value>Peruslisenssi on umpeutunut.</Value>
+      <Comment>基本ライセンスが切れています。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>15</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3007</Key>
+      <Value>Lisenssiä ei voi rekisteröidä epäkelvolle MAC-osoitteelle.
+Tarkista, että laitteisto vastaa lisenssiä. </Value>
+      <Comment>ライセンスのMACアドレスと機器のMACアドレスが異なるため、登録できません。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>40</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3008</Key>
+      <Value>LMS-lisenssitiedostoa ei voi lukea.</Value>
+      <Comment>LMSライセンスファイルの読み込みに失敗しました。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>26</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3009</Key>
+      <Value>LMS-lisenssitiedostoa ei voi rekisteröidä.</Value>
+      <Comment>LMSライセンスファイルの登録に失敗しました。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>26</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3010</Key>
+      <Value>WakeOnLan-määritystiedostoa ei voi lukea.</Value>
+      <Comment>WakeOnLAN設定ファイルの読み込みに失敗しました。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>29</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3011</Key>
+      <Value>WakeOnLan-määritystiedostoa ei voi rekisteröidä.</Value>
+      <Comment>WakeOnLAN設定ファイルの登録に失敗しました。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>27</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3012</Key>
+      <Value>Etäylläpidon määritystiedostoa ei voi lukea.</Value>
+      <Comment>リモートメンテナンス設定ファイルの読み込みに失敗しました。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>30</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3013</Key>
+      <Value>Etäylläpidon määritystiedostoa ei voi rekisteröidä.</Value>
+      <Comment>リモートメンテナンス設定ファイルの登録に失敗しました。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>28</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3014</Key>
+      <Value>Epäkelpo lisenssi -virhe. Rekisteröi aito lisenssi.</Value>
+      <Comment>不正なライセンスエラーです。ライセンス登録をお願いします。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>30</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>4001</Key>
+      <Value>Virhe</Value>
+      <Comment>エラー</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>3</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>4002</Key>
+      <Value>Varoitus</Value>
+      <Comment>警告</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="SystemMonitorDomain00001">
+      <Title>Komponent czytnika</Title>
+      <Message>(ReaderName) w (ComponentName) niedługo straci ważność. Skontaktuj się z serwisantem.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00002">
+      <Title>Komponent czytnika</Title>
+      <Message>(ComponentName) niedługo straci ważność. Skontaktuj się z serwisantem.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00003">
+      <Title>Komponent czytnika</Title>
+      <Message>(ReaderName) w (ComponentName) stracił ważność. Skontaktuj się z serwisantem.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00004">
+      <Title>Komponent czytnika</Title>
+      <Message>(ComponentName) stracił ważność. Skontaktuj się z serwisantem.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00005">
+      <Title />
+      <Message>Czy chcesz zakończyć pracę systemu?</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00006">
+      <Title />
+      <Message>Aktualizacja zakończona pomyślnie.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00007">
+      <Title />
+      <Message>Wylogowanie z aplikacji powiodło się.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00008">
+      <Title>Błąd</Title>
+      <Message>Nie można przetworzyć żądania wylogowania.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00009">
+      <Title>Błąd</Title>
+      <Message>Sprawdź, czy wtyczka (DomainExtenderName) jest załadowana.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00010">
+      <Title />
+      <Message>Czy na pewno chcesz się wylogować?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

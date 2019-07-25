@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="OrderListDomain0001">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ข้อผิดพลาดในการอัพเดต DB</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0002">
+      <Title>คำเตือน</Title>
+      <Message>ค่าไม่ถูกต้อง ดำเนินการไม่ได้</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0003">
+      <Title>คำเตือน</Title>
+      <Message>ต้องป้อนข้อมูล</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0004">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ดำเนินการไม่ได้</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0005">
+      <Title>ข้อผิดพลาดในการอัพเดตผู้ป่วย</Title>
+      <Message>ข้อผิดพลาดในการอัพเดตผู้ป่วย</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0006">
+      <Title>ข้อมูล</Title>
+      <Message>ข้อมูล DB ถูกอัพเดต จะแสดงการตรวจดูที่อัพเดต</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0007">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>การตรวจดูถูกลบออกจากฐานข้อมูล การดำเนินการทำไม่ได้</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0008">
+      <Title>การยืนยัน</Title>
+      <Message>ID ผู้ป่วยรายเดียวกัน: {0},ชื่อผู้ป่วย: {1},เพศ: {2},วันเกิด:{3} มีอยู่ในฐานข้อมูล คุณต้องการใช้ข้อมูล DB หรือไม่</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0009">
+      <Title>การยืนยัน</Title>
+      <Message>อยู่ระหว่างการตรวจดู คุณต้องการดำเนินการหรือไม่</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0010">
+      <Title>คำเตือน</Title>
+      <Message>การตรวจดูดำเนินการในคอนโซลอื่นแล้ว</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

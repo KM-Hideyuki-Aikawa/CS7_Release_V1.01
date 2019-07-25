@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="40001">
+      <Title>Fallo de creación de archivo de cola</Title>
+      <Message>Fallo de creación de archivo cola.</Message>
+    </EventString>
+    <EventString Key="40002">
+      <Title>Fallo de puesta en cola</Title>
+      <Message>Fallo de puesta en cola.</Message>
+    </EventString>
+    <EventString Key="40003">
+      <Title>Fallo de puesta en cola</Title>
+      <Message>Recuento límite máx. de reintentos de cola.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

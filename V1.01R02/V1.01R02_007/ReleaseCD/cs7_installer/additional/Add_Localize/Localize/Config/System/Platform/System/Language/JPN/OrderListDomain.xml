@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>BUTTON_SYSMENU</Key>
+      <Value>システム</Value>
+      <Comment>SystemMenu</Comment>
+      <Link />
+      <FontSize>13</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BUTTON_PERFORM</Key>
+      <Value>検査開始</Value>
+      <Comment>Perform</Comment>
+      <Link />
+      <FontSize>13</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BUTTON_PERFORM_CREATE</Key>
+      <Value>検査生成</Value>
+      <Comment>Perform</Comment>
+      <Link />
+      <FontSize>13</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

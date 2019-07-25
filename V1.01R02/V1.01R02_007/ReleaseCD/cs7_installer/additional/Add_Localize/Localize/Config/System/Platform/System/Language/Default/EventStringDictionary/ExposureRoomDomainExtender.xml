@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ExposureRoomDomainExtender0001">
+      <Title>Confirmation</Title>
+      <Message> Exposure room will be changed to [exposure room 2].  Is it OK? When there is a console connected to [exposure room 2] that console will be cut.  Please confirm that there is no exposure in [exposure room 2]. It requires system restart after the change. </Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0002">
+      <Title>Active room is successfully changed.</Title>
+      <Message>Active Room is changed. This requires restart of the application</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0003">
+      <Title>Error in changing the Room.</Title>
+      <Message>Cannot change the exposure room because of [XXX].</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0004">
+      <Title>Confirmation</Title>
+      <Message>The wireless use will be set Enable / disable  Is it OK?</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0005">
+      <Title>Confirmation</Title>
+      <Message>Please wait till wireless switching happens.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="JMDomainExtender0001">
+      <Title>Estado del ping</Title>
+      <Message>Conectado correctamente.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0002">
+      <Title>Estado del ping</Title>
+      <Message>Fallo al conectar.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0003">
+      <Title />
+      <Message>Si se deja en pausa la lectura durante un problema, podrían aparecer errores, como desaparición de la imagen y otros. Si lo deja en pausa, guarde el escaneo and reinicie el CS.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0004">
+      <Title />
+      <Message>No se ha eliminado el trabajo.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0005">
+      <Title />
+      <Message>El trabajo se ha eliminado.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0006">
+      <Title />
+      <Message>Cambiando el JM. El registro del cassette quedará totalmente deshabilitado. ¿Aceptar?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

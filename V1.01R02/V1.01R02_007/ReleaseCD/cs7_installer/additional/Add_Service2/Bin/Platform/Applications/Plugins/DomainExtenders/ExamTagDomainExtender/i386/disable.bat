@@ -1,0 +1,1 @@
+devcon disable USB\VID_1926*

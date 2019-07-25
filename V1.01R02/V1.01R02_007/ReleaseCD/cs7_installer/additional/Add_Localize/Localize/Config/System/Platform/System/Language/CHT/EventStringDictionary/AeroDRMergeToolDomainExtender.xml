@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0001">
+      <Title>錯誤</Title>
+      <Message>初始化錯誤</Message>
+    </EventString>
+    <EventString Key="0002">
+      <Title>資訊</Title>
+      <Message>合併成功</Message>
+    </EventString>
+    <EventString Key="0003">
+      <Title>錯誤</Title>
+      <Message>找不到目錄</Message>
+    </EventString>
+    <EventString Key="0004">
+      <Title>錯誤</Title>
+      <Message>找不到檔案</Message>
+    </EventString>
+    <EventString Key="0005">
+      <Title>錯誤</Title>
+      <Message>語法錯誤</Message>
+    </EventString>
+    <EventString Key="0006">
+      <Title>錯誤</Title>
+      <Message>備份刪除出現錯誤</Message>
+    </EventString>
+    <EventString Key="0007">
+      <Title>錯誤</Title>
+      <Message>備份建立出現錯誤</Message>
+    </EventString>
+    <EventString Key="0008">
+      <Title>錯誤</Title>
+      <Message>存取資料時出現錯誤</Message>
+    </EventString>
+    <EventString Key="0009">
+      <Title>錯誤</Title>
+      <Message>儲存時出現錯誤</Message>
+    </EventString>
+    <EventString Key="0010">
+      <Title>錯誤</Title>
+      <Message>尋找索引時出現錯誤</Message>
+    </EventString>
+    <EventString Key="0011">
+      <Title>錯誤</Title>
+      <Message>附加資料時出現錯誤</Message>
+    </EventString>
+    <EventString Key="0012">
+      <Title>錯誤</Title>
+      <Message>複製校準資料時出現錯誤</Message>
+    </EventString>
+    <EventString Key="0013">
+      <Title>錯誤</Title>
+      <Message>出現例外狀況</Message>
+    </EventString>
+    <EventString Key="0014">
+      <Title>錯誤</Title>
+      <Message>出現例外狀況</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

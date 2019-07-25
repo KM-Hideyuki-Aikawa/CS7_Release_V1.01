@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0401">
+      <Title>Invio errore</Title>
+      <Message>Errore interno nel processo di comunicazione raggi X.</Message>
+    </EventString>
+    <EventString Key="0402">
+      <Title>Errore interno</Title>
+      <Message>Errore interno nel processo di comunicazione raggi X.</Message>
+    </EventString>
+    <EventString Key="0403">
+      <Title>Invio errore</Title>
+      <Message>Comando condizioni esposizione invio per sistema raggi X fallito. Riavviare il dispositivo raggi X.</Message>
+    </EventString>
+    <EventString Key="0404">
+      <Title>Impostazione errore</Title>
+      <Message>Impostazione parametro al sistema raggi X.</Message>
+    </EventString>
+    <EventString Key="0405">
+      <Title>Errore dispositivo</Title>
+      <Message>Errore sistema raggi X rilevato.</Message>
+    </EventString>
+    <EventString Key="0406">
+      <Title>Invio errore</Title>
+      <Message>Errore connessione sistema raggi X.</Message>
+    </EventString>
+    <EventString Key="0301">
+      <Title />
+      <Message />
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

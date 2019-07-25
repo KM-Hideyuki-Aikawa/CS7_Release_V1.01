@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<HSInfoSerializer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DoseInfoList>
+    <DoseInfo>
+      <TypeID>1</TypeID>
+      <Summary>線量に依存せず、一定の強さの処理がかかります．</Summary>
+    </DoseInfo>
+    <DoseInfo>
+      <TypeID>2</TypeID>
+      <Summary>線量が少ないほど、強い処理がかかります．</Summary>
+    </DoseInfo>
+    <DoseInfo>
+      <TypeID>3</TypeID>
+      <Summary>粒状性と鮮鋭性のバランスを重視したタイプで、線量に依存せず、一定の強さの処理がかかります．</Summary>
+    </DoseInfo>
+    <DoseInfo>
+      <TypeID>4</TypeID>
+      <Summary>粒状性と鮮鋭性のバランスを重視したタイプで、線量が少ないほど、強い処理がかかります．</Summary>
+    </DoseInfo>
+    <DoseInfo>
+      <TypeID>5</TypeID>
+      <Summary>リニアック用の処理です．</Summary>
+    </DoseInfo>
+  </DoseInfoList>
+  <DensInfoList>
+    <DensInfo>
+      <TypeID>1</TypeID>
+      <Summary>濃度に依存せず、一定の強さの処理がかかります．</Summary>
+    </DensInfo>
+    <DensInfo>
+      <TypeID>2</TypeID>
+      <Summary>画像濃度によって処理の強さが変化し、低濃度の部分ほど、強い処理がかかります．</Summary>
+    </DensInfo>
+    <DensInfo>
+      <TypeID>3</TypeID>
+      <Summary>画像濃度によって処理の強さが変化し、高濃度の部分ほど、強い処理がかかります．</Summary>
+    </DensInfo>
+  </DensInfoList>
+</HSInfoSerializer>
+

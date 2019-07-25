@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="RISOutDomainExtender0001">
+      <Title>Ping Durumu</Title>
+      <Message>Başarıyla bağlandı.</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0002">
+      <Title>Ping Durumu</Title>
+      <Message>Bağlanamadı.</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0003">
+      <Title />
+      <Message>Seçilen kuyruk silinsin mi?</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0004">
+      <Title>Dikkat</Title>
+      <Message>Lütfen silinecek kuyruğu (kuyrukları) seçin.</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0005">
+      <Title>Onay</Title>
+      <Message>Seçilen kuyruk silinsin mi?</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0006">
+      <Title>Bilgi</Title>
+      <Message>Seçilen kuyruk(lar) başarıyla silindi</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0007">
+      <Title>Hata</Title>
+      <Message>Kuyruk silmede hata.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

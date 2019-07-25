@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0104">
+      <Title>Erreur</Title>
+      <Message>Échec du démarrage de séquence d'acquisition d'image.</Message>
+    </EventString>
+    <EventString Key="0112">
+      <Title>Erreur</Title>
+      <Message>Échec d'analyse du bruit électrique.</Message>
+    </EventString>
+    <EventString Key="0113">
+      <Title>Erreur</Title>
+      <Message>Échec d'analyse de la planéité.</Message>
+    </EventString>
+    <EventString Key="0114">
+      <Title>Erreur</Title>
+      <Message>Échec de mise à jour de carte de défaut de base.</Message>
+    </EventString>
+    <EventString Key="0115">
+      <Title>Erreur</Title>
+      <Message>Échec d'analyse de carte de défaut.</Message>
+    </EventString>
+    <EventString Key="0116">
+      <Title>Erreur</Title>
+      <Message>Échec d'acquisition d'image.</Message>
+    </EventString>
+    <EventString Key="0117">
+      <Title>Information</Title>
+      <Message>Analyse d'image terminée.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

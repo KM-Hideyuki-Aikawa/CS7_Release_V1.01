@@ -1,0 +1,1637 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="MES04001">
+      <Title>CR Error </Title>
+      <Message>HP1 Sensor NG(Transport Unit)</Message>
+    </EventString>
+    <EventString Key="MES04002">
+      <Title>CR Error</Title>
+      <Message>HP1 Sensor NG(Transport Unit) </Message>
+    </EventString>
+    <EventString Key="MES04011">
+      <Title>CR Error</Title>
+      <Message>HP2 Sensor NG(Transport Unit) </Message>
+    </EventString>
+    <EventString Key="MES04012">
+      <Title>CR Error</Title>
+      <Message>HP2 Sensor NG(Transport Unit) </Message>
+    </EventString>
+    <EventString Key="MES04013">
+      <Title>CR Error</Title>
+      <Message>HP2 Sensor NG(Transport Unit) </Message>
+    </EventString>
+    <EventString Key="MES04014">
+      <Title>CR Error</Title>
+      <Message>HP2 Sensor NG(Transport Unit) </Message>
+    </EventString>
+    <EventString Key="MES04015">
+      <Title>CR Error</Title>
+      <Message>HP2 Sensor NG(Transport Unit) </Message>
+    </EventString>
+    <EventString Key="MES04020">
+      <Title>CR Error</Title>
+      <Message>Alignment Sensor NG(Start) </Message>
+    </EventString>
+    <EventString Key="MES04021">
+      <Title>CR Error</Title>
+      <Message>Alignment Sensor NG(Feeder) </Message>
+    </EventString>
+    <EventString Key="MES04022">
+      <Title>CR Error</Title>
+      <Message>Alignment Sensor NG(Adhesion) </Message>
+    </EventString>
+    <EventString Key="MES04023">
+      <Title>CR Error</Title>
+      <Message>Alignment Sensor NG(Shelter) </Message>
+    </EventString>
+    <EventString Key="MES04024">
+      <Title>CR Error</Title>
+      <Message>Alignment Sensor NG(Discharge) </Message>
+    </EventString>
+    <EventString Key="MES04025">
+      <Title>CR Error</Title>
+      <Message>Alignment Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04026">
+      <Title>CR Error</Title>
+      <Message>Alignment Left-side Sensor NG(Initialize) </Message>
+    </EventString>
+    <EventString Key="MES04027">
+      <Title>CR Error</Title>
+      <Message>Alignment Right-side Sensor NG(Initialize) </Message>
+    </EventString>
+    <EventString Key="MES04030">
+      <Title>CR Error</Title>
+      <Message>Elevator Detective Sensor NG(Start) </Message>
+    </EventString>
+    <EventString Key="MES04031">
+      <Title>CR Error</Title>
+      <Message>Elevator Detective Sensor NG(Feeder) </Message>
+    </EventString>
+    <EventString Key="MES04032">
+      <Title>CR Error</Title>
+      <Message>Elevator Detective Sensor NG(Adhesion) </Message>
+    </EventString>
+    <EventString Key="MES04033">
+      <Title>CR Error</Title>
+      <Message>Elevator Detective Sensor NG(Shelter) </Message>
+    </EventString>
+    <EventString Key="MES04034">
+      <Title>CR Error</Title>
+      <Message>Elevator Detective Sensor NG(Before Elevating) </Message>
+    </EventString>
+    <EventString Key="MES04035">
+      <Title>CR Error</Title>
+      <Message>Lock HP Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04036">
+      <Title>CR Error</Title>
+      <Message>Elevator HP Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04037">
+      <Title>CR Error</Title>
+      <Message>Elevator Detective Sensor NG(After Elevating) </Message>
+    </EventString>
+    <EventString Key="MES04041">
+      <Title>CR Error</Title>
+      <Message>Feeder's Shutter Opening Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04042">
+      <Title>CR Error</Title>
+      <Message>Feeder's Shutter Closing Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04043">
+      <Title>CR Error</Title>
+      <Message>Feeder's Shutter Opening Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04044">
+      <Title>CR Error</Title>
+      <Message>Feeder's Shutter Closing Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04045">
+      <Title>CR Error</Title>
+      <Message>Cassette Back Plate Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04046">
+      <Title>CR Error</Title>
+      <Message>Backboard's Warp Detective Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04047">
+      <Title>CR Error</Title>
+      <Message>Backboard's Adhesion Detective Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04048">
+      <Title>CR Error</Title>
+      <Message>Ejection Shutter Close Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04051">
+      <Title>CR Error</Title>
+      <Message>Discharge's Door Closing Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04061">
+      <Title>CR Error</Title>
+      <Message>Slow Scan HP Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04062">
+      <Title>CR Error</Title>
+      <Message>Backboard's Adhesion Detective Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04063">
+      <Title>CR Error</Title>
+      <Message>Backboard's Warp Detective Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04064">
+      <Title>CR Error</Title>
+      <Message>V-Sync Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04065">
+      <Title>CR Error</Title>
+      <Message>Backboard's Adhesion Detective Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04066">
+      <Title>CR Error</Title>
+      <Message>Backboard's Adhesion Detective Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04067">
+      <Title>CR Error</Title>
+      <Message>Backboard's Adhesion Detective Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04068">
+      <Title>CR Error</Title>
+      <Message>Backboard's Adhesion Detective Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04069">
+      <Title>CR Error</Title>
+      <Message>Backboard's Adhesion Detective Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04070">
+      <Title>CR Error</Title>
+      <Message>Backboard's Adhesion Detective Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04071">
+      <Title>CR Error</Title>
+      <Message>Feeder's Central Detective Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04072">
+      <Title>CR Error</Title>
+      <Message>Feeder's Left Detective Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04073">
+      <Title>CR Error</Title>
+      <Message>Cassette Back Plate Sensor NG(Initialize) </Message>
+    </EventString>
+    <EventString Key="MES04074">
+      <Title>CR Error</Title>
+      <Message>Backboard's Warp Detective Sensor NG(Initialize) </Message>
+    </EventString>
+    <EventString Key="MES04075">
+      <Title>CR Error</Title>
+      <Message>Backboard's Adhesion Detective Sensor NG(Initialize) </Message>
+    </EventString>
+    <EventString Key="MES04076">
+      <Title>CR Error</Title>
+      <Message>24V Power NG(Usually) </Message>
+    </EventString>
+    <EventString Key="MES04077">
+      <Title>CR Error</Title>
+      <Message>24V Power NG(Door Close) </Message>
+    </EventString>
+    <EventString Key="MES04081">
+      <Title>CR Error</Title>
+      <Message>Erase-lamp's Current Detective Sensor 1 NG </Message>
+    </EventString>
+    <EventString Key="MES04082">
+      <Title>CR Error</Title>
+      <Message>Erase-lamp's Current Detective Sensor 2 NG </Message>
+    </EventString>
+    <EventString Key="MES04091">
+      <Title>CR Error</Title>
+      <Message>Front Door Opening Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04101">
+      <Title>CR Error</Title>
+      <Message>Slow Scan Motor NG </Message>
+    </EventString>
+    <EventString Key="MES04102">
+      <Title>CR Error</Title>
+      <Message>Transport Unit Motor NG </Message>
+    </EventString>
+    <EventString Key="MES04103">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor NG </Message>
+    </EventString>
+    <EventString Key="MES04104">
+      <Title>CR Error</Title>
+      <Message>Alignment Motor NG </Message>
+    </EventString>
+    <EventString Key="MES04105">
+      <Title>CR Error</Title>
+      <Message>Feeder's Shutter Open/Close Timeout </Message>
+    </EventString>
+    <EventString Key="MES04106">
+      <Title>CR Error</Title>
+      <Message>Lock Timeout </Message>
+    </EventString>
+    <EventString Key="MES04107">
+      <Title>CR Error</Title>
+      <Message>Load Motor NG </Message>
+    </EventString>
+    <EventString Key="MES04150">
+      <Title>CR Error</Title>
+      <Message>Lock Initial Processing </Message>
+    </EventString>
+    <EventString Key="MES04151">
+      <Title>CR Error</Title>
+      <Message>Feeder's Shutter Initial Processing </Message>
+    </EventString>
+    <EventString Key="MES04152">
+      <Title>CR Error</Title>
+      <Message>Elevator Initial Processing </Message>
+    </EventString>
+    <EventString Key="MES04153">
+      <Title>CR Error</Title>
+      <Message>Alignment Initial Processing </Message>
+    </EventString>
+    <EventString Key="MES04154">
+      <Title>CR Error</Title>
+      <Message>Transport Unit Initial Processing </Message>
+    </EventString>
+    <EventString Key="MES04155">
+      <Title>CR Error</Title>
+      <Message>Slow Scan Initial Processing </Message>
+    </EventString>
+    <EventString Key="MES04156">
+      <Title>CR Error</Title>
+      <Message>Transfer Action 1 Starting NG </Message>
+    </EventString>
+    <EventString Key="MES04157">
+      <Title>CR Error</Title>
+      <Message>Transfer Action 2 Starting NG </Message>
+    </EventString>
+    <EventString Key="MES04158">
+      <Title>CR Error</Title>
+      <Message>Feeder's Discharge Action Starting NG </Message>
+    </EventString>
+    <EventString Key="MES04159">
+      <Title>CR Error</Title>
+      <Message>Discharge Action Starting NG </Message>
+    </EventString>
+    <EventString Key="MES04160">
+      <Title>CR Error</Title>
+      <Message>Feeder's Shutter Opening NG </Message>
+    </EventString>
+    <EventString Key="MES04161">
+      <Title>CR Error</Title>
+      <Message>Feeder's Shutter Closing NG </Message>
+    </EventString>
+    <EventString Key="MES04162">
+      <Title>CR Error</Title>
+      <Message>Lock Starting NG </Message>
+    </EventString>
+    <EventString Key="MES04163">
+      <Title>CR Error</Title>
+      <Message>Cassette Falling Detective Time NG </Message>
+    </EventString>
+    <EventString Key="MES04164">
+      <Title>CR Error</Title>
+      <Message>No Notice of Permission on Erase-lamp ON </Message>
+    </EventString>
+    <EventString Key="MES04165">
+      <Title>CR Error</Title>
+      <Message>No Notice of Permission on Erase-lamp OFF </Message>
+    </EventString>
+    <EventString Key="MES04167">
+      <Title>CR Error</Title>
+      <Message>Load Motor Initial Processing </Message>
+    </EventString>
+    <EventString Key="MES04200">
+      <Title>CR Error</Title>
+      <Message>GetStatus Receiving Timeout(Initialize) </Message>
+    </EventString>
+    <EventString Key="MES04201">
+      <Title>CR Error</Title>
+      <Message>GetStatus Receiving Timeout(Ready) </Message>
+    </EventString>
+    <EventString Key="MES04202">
+      <Title>CR Error</Title>
+      <Message>GetStatus Receiving Timeout(Detect Barcode) </Message>
+    </EventString>
+    <EventString Key="MES04203">
+      <Title>CR Error</Title>
+      <Message>GetStatus Receiving Timeout(High-voltage ON) </Message>
+    </EventString>
+    <EventString Key="MES04204">
+      <Title>CR Error</Title>
+      <Message>GetStatus Receiving Timeout(Laser ON) </Message>
+    </EventString>
+    <EventString Key="MES04205">
+      <Title>CR Error</Title>
+      <Message>GetStatus Receiving Timeout(Cancel Barcode) </Message>
+    </EventString>
+    <EventString Key="MES04206">
+      <Title>CR Error</Title>
+      <Message>GetStatus Receiving Timeout(Processing) </Message>
+    </EventString>
+    <EventString Key="MES04207">
+      <Title>CR Error</Title>
+      <Message>GetStatus Receiving Timeout(Pause) </Message>
+    </EventString>
+    <EventString Key="MES04208">
+      <Title>CR Error</Title>
+      <Message>GetStatus Receiving Timeout(Open Front Door) </Message>
+    </EventString>
+    <EventString Key="MES04209">
+      <Title>CR Error</Title>
+      <Message>GetStatus Receiving Timeout(Close Front Door) </Message>
+    </EventString>
+    <EventString Key="MES04210">
+      <Title>CR Error</Title>
+      <Message>GetStatus Receiving Timeout(Error) </Message>
+    </EventString>
+    <EventString Key="MES04211">
+      <Title>CR Error</Title>
+      <Message>GetStatus Receiving Timeout(Standby) </Message>
+    </EventString>
+    <EventString Key="MES04212">
+      <Title>CR Error</Title>
+      <Message>GetStatus Receiving Timeout(Transporting of Erase Mode) </Message>
+    </EventString>
+    <EventString Key="MES04213">
+      <Title>CR Error</Title>
+      <Message>GetStatus Receiving Timeout(Power off after Ready) </Message>
+    </EventString>
+    <EventString Key="MES04214">
+      <Title>CR Error</Title>
+      <Message>Registration OK Receiving Timeout </Message>
+    </EventString>
+    <EventString Key="MES04215">
+      <Title>CR Error</Title>
+      <Message>GetStatus Receiving Error(Laser ON) </Message>
+    </EventString>
+    <EventString Key="MES04216">
+      <Title>CR Error</Title>
+      <Message>GoBackward Receiving Timeout </Message>
+    </EventString>
+    <EventString Key="MES04217">
+      <Title>CR Error</Title>
+      <Message>Laser ON without Sending High-voltage ON(1) </Message>
+    </EventString>
+    <EventString Key="MES04218">
+      <Title>CR Error</Title>
+      <Message>Laser ON without Sending High-voltage ON(2) </Message>
+    </EventString>
+    <EventString Key="MES04219">
+      <Title>CR Error</Title>
+      <Message>Invalid Command </Message>
+    </EventString>
+    <EventString Key="MES04221">
+      <Title>CR Error</Title>
+      <Message>StartSubScan Receiving Timeout </Message>
+    </EventString>
+    <EventString Key="MES04900">
+      <Title>CR Error</Title>
+      <Message>Cassette Exists(Elevator) </Message>
+    </EventString>
+    <EventString Key="MES04901">
+      <Title>CR Error</Title>
+      <Message>Cassette Exists(Alignment) </Message>
+    </EventString>
+    <EventString Key="MES04902">
+      <Title>CR Error</Title>
+      <Message>Cassette Exists(Open Door of Discharge) </Message>
+    </EventString>
+    <EventString Key="MES04903">
+      <Title>CR Error</Title>
+      <Message>Cassette Exists(Backboard Adhesion) </Message>
+    </EventString>
+    <EventString Key="MES04904">
+      <Title>CR Error</Title>
+      <Message>Turn Off Erase-lamps(2) </Message>
+    </EventString>
+    <EventString Key="MES04905">
+      <Title>CR Error</Title>
+      <Message>SCB Communication Error </Message>
+    </EventString>
+    <EventString Key="MES04906">
+      <Title>CR Error</Title>
+      <Message>Warped Cassette[%s] </Message>
+    </EventString>
+    <EventString Key="MES04907">
+      <Title>CR Error</Title>
+      <Message>Cassette Opening Error[%s] </Message>
+    </EventString>
+    <EventString Key="MES04908">
+      <Title>CR Error</Title>
+      <Message>Falling Cassette[%s] </Message>
+    </EventString>
+    <EventString Key="MES04909">
+      <Title>CR Error</Title>
+      <Message>Casette Gap Detection(Back plate magnetize) </Message>
+    </EventString>
+    <EventString Key="MES04910">
+      <Title>CR Error</Title>
+      <Message>Casette Gap Detection(Casette peeling) </Message>
+    </EventString>
+    <EventString Key="MES04914">
+      <Title>CR Error</Title>
+      <Message>Opening Extraction (Initialize) </Message>
+    </EventString>
+    <EventString Key="MES04917">
+      <Title>CR Error</Title>
+      <Message>Feeder's Shutter Opening NG(Unlock) </Message>
+    </EventString>
+    <EventString Key="MES04918">
+      <Title>CR Error</Title>
+      <Message>FAN Disconnection NG 1 </Message>
+    </EventString>
+    <EventString Key="MES04920">
+      <Title>CR Error</Title>
+      <Message>FAN Disconnection NG 3 </Message>
+    </EventString>
+    <EventString Key="MES04921">
+      <Title>CR Error</Title>
+      <Message>Erase-lamp NG </Message>
+    </EventString>
+    <EventString Key="MES06000">
+      <Title>CR Error</Title>
+      <Message>Justifier HP sensor NG (Move to HP) </Message>
+    </EventString>
+    <EventString Key="MES06001">
+      <Title>CR Error</Title>
+      <Message>Justifier Motor Control NG (Move to HP) </Message>
+    </EventString>
+    <EventString Key="MES06002">
+      <Title>CR Error</Title>
+      <Message>Justifier HP sensor NG (Cassette Fixed position) </Message>
+    </EventString>
+    <EventString Key="MES06003">
+      <Title>CR Error</Title>
+      <Message>Justifier Motor Control NG (Cassette Fixed position) </Message>
+    </EventString>
+    <EventString Key="MES06004">
+      <Title>CR Error</Title>
+      <Message>Justifier Motor Control NG (Cassette Support Position) </Message>
+    </EventString>
+    <EventString Key="MES06005">
+      <Title>CR Error</Title>
+      <Message>Justifier Motor Control NG (Cassette Fixed position -2) </Message>
+    </EventString>
+    <EventString Key="MES06006">
+      <Title>CR Error</Title>
+      <Message>Justifier HP sensor NG (Move to HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06007">
+      <Title>CR Error</Title>
+      <Message>Justifier Motor Control NG (Move to HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06008">
+      <Title>CR Error</Title>
+      <Message>Justifier HP sensor NG (Move to HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06009">
+      <Title>CR Error</Title>
+      <Message>Justifier Motor Control NG (Move to HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06010">
+      <Title>CR Error</Title>
+      <Message>Justifier HP sensor NG (Cassette Support Position) </Message>
+    </EventString>
+    <EventString Key="MES06011">
+      <Title>CR Error</Title>
+      <Message>Justifier Motor Control NG (Cassette Support Position -2) </Message>
+    </EventString>
+    <EventString Key="MES06015">
+      <Title>CR Error</Title>
+      <Message>Justifier HP sensor NG (Move to HP) </Message>
+    </EventString>
+    <EventString Key="MES06016">
+      <Title>CR Error</Title>
+      <Message>Justifier Motor Control NG (Move to HP) </Message>
+    </EventString>
+    <EventString Key="MES06017">
+      <Title>CR Error</Title>
+      <Message>Justifier HP sensor NG (Cassette Fixed position) </Message>
+    </EventString>
+    <EventString Key="MES06018">
+      <Title>CR Error</Title>
+      <Message>Justifier Motor Control NG (Cassette Fixed position) </Message>
+    </EventString>
+    <EventString Key="MES06019">
+      <Title>CR Error</Title>
+      <Message>Justifier Motor Control NG (Cassette Support Position) </Message>
+    </EventString>
+    <EventString Key="MES06020">
+      <Title>CR Error</Title>
+      <Message>Justifier Motor Control NG (Cassette Fixed position -2) </Message>
+    </EventString>
+    <EventString Key="MES06021">
+      <Title>CR Error</Title>
+      <Message>Justifier HP sensor NG (Move to HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06022">
+      <Title>CR Error</Title>
+      <Message>Justifier Motor Control NG (Move to HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06023">
+      <Title>CR Error</Title>
+      <Message>Justifier HP sensor NG (Move to HP -3 </Message>
+    </EventString>
+    <EventString Key="MES06024">
+      <Title>CR Error</Title>
+      <Message>Justifier Motor Control NG (Move to HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06025">
+      <Title>CR Error</Title>
+      <Message>Justifier HP sensor NG (Cassette Support Position) </Message>
+    </EventString>
+    <EventString Key="MES06026">
+      <Title>CR Error</Title>
+      <Message>Justifier Motor Control NG (Cassette Support Position -2) </Message>
+    </EventString>
+    <EventString Key="MES06030">
+      <Title>CR Error</Title>
+      <Message>Justifier HP sensor NG (Move to HP) </Message>
+    </EventString>
+    <EventString Key="MES06031">
+      <Title>CR Error</Title>
+      <Message>Justifier Motor Control NG (Move to HP) </Message>
+    </EventString>
+    <EventString Key="MES06032">
+      <Title>CR Error</Title>
+      <Message>Justifier HP sensor NG (Cassette Fixed position) </Message>
+    </EventString>
+    <EventString Key="MES06033">
+      <Title>CR Error</Title>
+      <Message>Justifier Motor Control NG (Cassette Fixed position) </Message>
+    </EventString>
+    <EventString Key="MES06034">
+      <Title>CR Error</Title>
+      <Message>Justifier Motor Control NG (Cassette Support Position) </Message>
+    </EventString>
+    <EventString Key="MES06035">
+      <Title>CR Error</Title>
+      <Message>Justifier Motor Control NG (Cassette Fixed position -2) </Message>
+    </EventString>
+    <EventString Key="MES06036">
+      <Title>CR Error</Title>
+      <Message>Justifier HP sensor NG (Move to HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06037">
+      <Title>CR Error</Title>
+      <Message>Justifier Motor Control NG (Move to HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06038">
+      <Title>CR Error</Title>
+      <Message>Justifier HP sensor NG (Move to HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06039">
+      <Title>CR Error</Title>
+      <Message>Justifier Motor Control NG (Move to HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06040">
+      <Title>CR Error</Title>
+      <Message>Justifier HP sensor NG (Cassette Support Position) </Message>
+    </EventString>
+    <EventString Key="MES06041">
+      <Title>CR Error</Title>
+      <Message>Justifier Motor Control NG (Cassette Support Position -2) </Message>
+    </EventString>
+    <EventString Key="MES06050">
+      <Title>CR Error</Title>
+      <Message>Reciever HP sensor NG (Move to HP) </Message>
+    </EventString>
+    <EventString Key="MES06051">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor Control NG (Move to HP) </Message>
+    </EventString>
+    <EventString Key="MES06052">
+      <Title>CR Error</Title>
+      <Message>Reciever HP sensor NG (Position 1) </Message>
+    </EventString>
+    <EventString Key="MES06053">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor Control NG (Position 1) </Message>
+    </EventString>
+    <EventString Key="MES06054">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor Control NG (Position 2) </Message>
+    </EventString>
+    <EventString Key="MES06055">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor Control NG (Slight descent at Position 2) </Message>
+    </EventString>
+    <EventString Key="MES06056">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor Control NG (Position 1 -2) </Message>
+    </EventString>
+    <EventString Key="MES06057">
+      <Title>CR Error</Title>
+      <Message>Reciever HP sensor NG (Move to HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06058">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor Control NG (Move to HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06059">
+      <Title>CR Error</Title>
+      <Message>Reciever HP sensor NG (Move to HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06060">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor Control NG (Move to HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06061">
+      <Title>CR Error</Title>
+      <Message>Reciever HP sensor NG (Move to Position 2) </Message>
+    </EventString>
+    <EventString Key="MES06062">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor Control NG (Position 2 -2) </Message>
+    </EventString>
+    <EventString Key="MES06065">
+      <Title>CR Error</Title>
+      <Message>Reciever HP sensor NG (Move to HP) </Message>
+    </EventString>
+    <EventString Key="MES06066">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor Control NG (Move to HP) </Message>
+    </EventString>
+    <EventString Key="MES06067">
+      <Title>CR Error</Title>
+      <Message>Reciever HP sensor NG (Position 1) </Message>
+    </EventString>
+    <EventString Key="MES06068">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor Control NG (Position 1) </Message>
+    </EventString>
+    <EventString Key="MES06069">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor Control NG (Position 2) </Message>
+    </EventString>
+    <EventString Key="MES06070">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor Control NG (Slight descent at Position 2) </Message>
+    </EventString>
+    <EventString Key="MES06071">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor Control NG (Position 1 -2) </Message>
+    </EventString>
+    <EventString Key="MES06072">
+      <Title>CR Error</Title>
+      <Message>Reciever HP sensor NG (Move to HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06073">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor Control NG (Move to HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06074">
+      <Title>CR Error</Title>
+      <Message>Reciever HP sensor NG (Move to HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06075">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor Control NG (Move to HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06076">
+      <Title>CR Error</Title>
+      <Message>Reciever HP sensor NG (Position 2) </Message>
+    </EventString>
+    <EventString Key="MES06077">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor Control NG (Position 2 -2) </Message>
+    </EventString>
+    <EventString Key="MES06080">
+      <Title>CR Error</Title>
+      <Message>Reciever HP sensor NG (Move to HP) </Message>
+    </EventString>
+    <EventString Key="MES06081">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor Control NG (Move to HP) </Message>
+    </EventString>
+    <EventString Key="MES06082">
+      <Title>CR Error</Title>
+      <Message>Reciever HP sensor NG (Position 1) </Message>
+    </EventString>
+    <EventString Key="MES06083">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor Control NG (Position 1) </Message>
+    </EventString>
+    <EventString Key="MES06084">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor Control NG (Position 2) </Message>
+    </EventString>
+    <EventString Key="MES06085">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor Control NG (Slight descent at Position 2) </Message>
+    </EventString>
+    <EventString Key="MES06086">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor Control NG (Position 1 -2) </Message>
+    </EventString>
+    <EventString Key="MES06087">
+      <Title>CR Error</Title>
+      <Message>Reciever HP sensor NG (Move to HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06088">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor Control NG (Move to HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06089">
+      <Title>CR Error</Title>
+      <Message>Reciever HP sensor NG (Move to HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06090">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor Control NG (Move to HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06091">
+      <Title>CR Error</Title>
+      <Message>Reciever HP sensor NG (Position 2) </Message>
+    </EventString>
+    <EventString Key="MES06092">
+      <Title>CR Error</Title>
+      <Message>Elevator Motor Control NG (Position 2 -2) </Message>
+    </EventString>
+    <EventString Key="MES06100">
+      <Title>CR Error</Title>
+      <Message>Transporter Sensor NG (Reading Position) </Message>
+    </EventString>
+    <EventString Key="MES06101">
+      <Title>CR Error</Title>
+      <Message>Transporter Motor Control NG (Reading Position) </Message>
+    </EventString>
+    <EventString Key="MES06102">
+      <Title>CR Error</Title>
+      <Message>Transporter Sensor NG (Move to HP) </Message>
+    </EventString>
+    <EventString Key="MES06103">
+      <Title>CR Error</Title>
+      <Message>Transporter HP sensor NG (Move to HP) </Message>
+    </EventString>
+    <EventString Key="MES06104">
+      <Title>CR Error</Title>
+      <Message>Transporter Motor Control NG (Move to HP) </Message>
+    </EventString>
+    <EventString Key="MES06105">
+      <Title>CR Error</Title>
+      <Message>Transporter HP sensor NG (Pressing Position) </Message>
+    </EventString>
+    <EventString Key="MES06106">
+      <Title>CR Error</Title>
+      <Message>Transporter Motor Control NG (Pressing Position) </Message>
+    </EventString>
+    <EventString Key="MES06107">
+      <Title>CR Error</Title>
+      <Message>Transporter Sensor NG (Reading Position 2) </Message>
+    </EventString>
+    <EventString Key="MES06108">
+      <Title>CR Error</Title>
+      <Message>Transporter Motor Control NG (Reading Position 2) </Message>
+    </EventString>
+    <EventString Key="MES06109">
+      <Title>CR Error</Title>
+      <Message>Transporter Sensor NG (Pressing Position 2) </Message>
+    </EventString>
+    <EventString Key="MES06110">
+      <Title>CR Error</Title>
+      <Message>Transporter Motor Control NG (Pressing Position 2) </Message>
+    </EventString>
+    <EventString Key="MES06111">
+      <Title>CR Error</Title>
+      <Message>Transporter Motor Control NG (HP Passing Position) </Message>
+    </EventString>
+    <EventString Key="MES06112">
+      <Title>CR Error</Title>
+      <Message>Transporter HP sensor NG (Move to HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06113">
+      <Title>CR Error</Title>
+      <Message>Transporter Motor Control NG (Move to HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06115">
+      <Title>CR Error</Title>
+      <Message>Transporter Sensor NG (Reading Position </Message>
+    </EventString>
+    <EventString Key="MES06116">
+      <Title>CR Error</Title>
+      <Message>Transporter Motor Control NG (Reading Position) </Message>
+    </EventString>
+    <EventString Key="MES06117">
+      <Title>CR Error</Title>
+      <Message>Transporter Sensor NG (Move to HP) </Message>
+    </EventString>
+    <EventString Key="MES06118">
+      <Title>CR Error</Title>
+      <Message>Transporter HP sensor NG (Move to HP) </Message>
+    </EventString>
+    <EventString Key="MES06119">
+      <Title>CR Error</Title>
+      <Message>Transporter Motor Control NG (Move to HP) </Message>
+    </EventString>
+    <EventString Key="MES06120">
+      <Title>CR Error</Title>
+      <Message>Transporter HP sensor NG (Pressing Position) </Message>
+    </EventString>
+    <EventString Key="MES06121">
+      <Title>CR Error</Title>
+      <Message>Transporter Motor Control NG (Pressing Position) </Message>
+    </EventString>
+    <EventString Key="MES06122">
+      <Title>CR Error</Title>
+      <Message>Transporter Sensor NG (Reading Position -2) </Message>
+    </EventString>
+    <EventString Key="MES06123">
+      <Title>CR Error</Title>
+      <Message>Transporter Motor Control NG (Reading Position -2) </Message>
+    </EventString>
+    <EventString Key="MES06124">
+      <Title>CR Error</Title>
+      <Message>Transporter Sensor NG (Pressing Position -2) </Message>
+    </EventString>
+    <EventString Key="MES06125">
+      <Title>CR Error</Title>
+      <Message>Transporter Motor Control NG (Pressing Position -2) </Message>
+    </EventString>
+    <EventString Key="MES06126">
+      <Title>CR Error</Title>
+      <Message>Transporter Motor Control NG (HP Passing Position) </Message>
+    </EventString>
+    <EventString Key="MES06127">
+      <Title>CR Error</Title>
+      <Message>Transporter HP sensor NG (Move to HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06128">
+      <Title>CR Error</Title>
+      <Message>Transporter Motor Control NG (Move to HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06130">
+      <Title>CR Error</Title>
+      <Message>Transporter Sensor NG (Reading Position) </Message>
+    </EventString>
+    <EventString Key="MES06131">
+      <Title>CR Error</Title>
+      <Message>Transporter Motor Control NG (Reading Position) </Message>
+    </EventString>
+    <EventString Key="MES06132">
+      <Title>CR Error</Title>
+      <Message>Transporter Sensor NG (Move to HP) </Message>
+    </EventString>
+    <EventString Key="MES06133">
+      <Title>CR Error</Title>
+      <Message>Transporter HP sensor NG (Move to HP) </Message>
+    </EventString>
+    <EventString Key="MES06134">
+      <Title>CR Error</Title>
+      <Message>Transporter Motor Control NG (Move to HP) </Message>
+    </EventString>
+    <EventString Key="MES06135">
+      <Title>CR Error</Title>
+      <Message>Transporter HP sensor NG (Pressing Position) </Message>
+    </EventString>
+    <EventString Key="MES06136">
+      <Title>CR Error</Title>
+      <Message>Transporter Motor Control NG (Pressing Position) </Message>
+    </EventString>
+    <EventString Key="MES06137">
+      <Title>CR Error</Title>
+      <Message>Transporter Sensor NG (Reading Position -2) </Message>
+    </EventString>
+    <EventString Key="MES06138">
+      <Title>CR Error</Title>
+      <Message>Transporter Motor Control NG (Reading Position -2) </Message>
+    </EventString>
+    <EventString Key="MES06139">
+      <Title>CR Error</Title>
+      <Message>Transporter Sensor NG (Pressing Position -2) </Message>
+    </EventString>
+    <EventString Key="MES06140">
+      <Title>CR Error</Title>
+      <Message>Transporter Motor Control NG (Pressing Position -2) </Message>
+    </EventString>
+    <EventString Key="MES06141">
+      <Title>CR Error</Title>
+      <Message>Transporter Motor Control NG (HP Passing Position) </Message>
+    </EventString>
+    <EventString Key="MES06142">
+      <Title>CR Error</Title>
+      <Message>Transporter HP sensor NG (Move to HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06143">
+      <Title>CR Error</Title>
+      <Message>Transporter Motor Control NG (Move to HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06150">
+      <Title>CR Error</Title>
+      <Message>Encoder Initializing NG </Message>
+    </EventString>
+    <EventString Key="MES06151">
+      <Title>CR Error</Title>
+      <Message>Subscan Motor Control NG (Mechanical HP) </Message>
+    </EventString>
+    <EventString Key="MES06152">
+      <Title>CR Error</Title>
+      <Message>Subscan Motor Control NG (Reading Completion Position) </Message>
+    </EventString>
+    <EventString Key="MES06153">
+      <Title>CR Error</Title>
+      <Message>Subscan Motor Control NG (Mechanical HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06165">
+      <Title>CR Error</Title>
+      <Message>Encoder Initializing NG </Message>
+    </EventString>
+    <EventString Key="MES06166">
+      <Title>CR Error</Title>
+      <Message>Subscan Motor Control NG (Mechanical HP) </Message>
+    </EventString>
+    <EventString Key="MES06167">
+      <Title>CR Error</Title>
+      <Message>Subscan Motor Control NG (Reading Completion Position) </Message>
+    </EventString>
+    <EventString Key="MES06168">
+      <Title>CR Error</Title>
+      <Message>Subscan Motor Control NG (Mechanical HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06180">
+      <Title>CR Error</Title>
+      <Message>Encoder Initializing NG </Message>
+    </EventString>
+    <EventString Key="MES06181">
+      <Title>CR Error</Title>
+      <Message>Subscan Motor Control NG (Mechanical HP) </Message>
+    </EventString>
+    <EventString Key="MES06182">
+      <Title>CR Error</Title>
+      <Message>Subscan Motor Control NG (Reading Completion Position) </Message>
+    </EventString>
+    <EventString Key="MES06183">
+      <Title>CR Error</Title>
+      <Message>Subscan Motor Control NG (Mechanical HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06200">
+      <Title>CR Error</Title>
+      <Message>Open Insertion Shutter NG </Message>
+    </EventString>
+    <EventString Key="MES06201">
+      <Title>CR Error</Title>
+      <Message>Close Insertion Shutter NG </Message>
+    </EventString>
+    <EventString Key="MES06215">
+      <Title>CR Error</Title>
+      <Message>Open Insertion Shutter NG </Message>
+    </EventString>
+    <EventString Key="MES06216">
+      <Title>CR Error</Title>
+      <Message>Close Insertion Shutter NG </Message>
+    </EventString>
+    <EventString Key="MES06230">
+      <Title>CR Error</Title>
+      <Message>Open Insertion Shutter NG </Message>
+    </EventString>
+    <EventString Key="MES06231">
+      <Title>CR Error</Title>
+      <Message>Close Insertion Shutter NG </Message>
+    </EventString>
+    <EventString Key="MES06250">
+      <Title>CR Error</Title>
+      <Message>Motor Lock Release NG (Initialize) </Message>
+    </EventString>
+    <EventString Key="MES06251">
+      <Title>CR Error</Title>
+      <Message>Motor Lock Release NG (Lock) </Message>
+    </EventString>
+    <EventString Key="MES06252">
+      <Title>CR Error</Title>
+      <Message>Motor Lock Release NG (Release) </Message>
+    </EventString>
+    <EventString Key="MES06265">
+      <Title>CR Error</Title>
+      <Message>Motor Lock Release NG (Initialize) </Message>
+    </EventString>
+    <EventString Key="MES06266">
+      <Title>CR Error</Title>
+      <Message>Motor Lock Release NG (Lock) </Message>
+    </EventString>
+    <EventString Key="MES06267">
+      <Title>CR Error</Title>
+      <Message>Motor Lock Release NG (Release) </Message>
+    </EventString>
+    <EventString Key="MES06280">
+      <Title>CR Error</Title>
+      <Message>Motor Lock Release NG (Initiale) </Message>
+    </EventString>
+    <EventString Key="MES06281">
+      <Title>CR Error</Title>
+      <Message>Motor Lock Release NG (Lock) </Message>
+    </EventString>
+    <EventString Key="MES06282">
+      <Title>CR Error</Title>
+      <Message>Motor Lock Release NG (Release) </Message>
+    </EventString>
+    <EventString Key="MES06300">
+      <Title>CR Error</Title>
+      <Message>Justifier Sensor NG (Fixed Action) </Message>
+    </EventString>
+    <EventString Key="MES06301">
+      <Title>CR Error</Title>
+      <Message>Justifier Sensor NG (Fixed) </Message>
+    </EventString>
+    <EventString Key="MES06302">
+      <Title>CR Error</Title>
+      <Message>Casette Exists(Sensor Justifier) </Message>
+    </EventString>
+    <EventString Key="MES06303">
+      <Title>CR Error</Title>
+      <Message>Casette Exists (Sensor Justifier) </Message>
+    </EventString>
+    <EventString Key="MES06315">
+      <Title>CR Error</Title>
+      <Message>Justifier Sensor NG (Fixed Action) </Message>
+    </EventString>
+    <EventString Key="MES06316">
+      <Title>CR Error</Title>
+      <Message>Justifier Sensor NG (Fixed) </Message>
+    </EventString>
+    <EventString Key="MES06318">
+      <Title>CR Error</Title>
+      <Message>Casette Exists (Sensor Justifier) </Message>
+    </EventString>
+    <EventString Key="MES06330">
+      <Title>CR Error</Title>
+      <Message>Justifier Sensor NG (Fixed Action) </Message>
+    </EventString>
+    <EventString Key="MES06331">
+      <Title>CR Error</Title>
+      <Message>Justifier Sensor NG (Fixed) </Message>
+    </EventString>
+    <EventString Key="MES06333">
+      <Title>CR Error</Title>
+      <Message>Casette Exists (Sensor Justifier) </Message>
+    </EventString>
+    <EventString Key="MES06350">
+      <Title>CR Error</Title>
+      <Message>Reciever Sensor NG (Feeder) </Message>
+    </EventString>
+    <EventString Key="MES06351">
+      <Title>CR Error</Title>
+      <Message>Reciever Sensor NG (Send) </Message>
+    </EventString>
+    <EventString Key="MES06352">
+      <Title>CR Error</Title>
+      <Message>Reciever Sensor NG (Discharge) </Message>
+    </EventString>
+    <EventString Key="MES06353">
+      <Title>CR Error</Title>
+      <Message>Reciever Sensor NG (Removed) </Message>
+    </EventString>
+    <EventString Key="MES06354">
+      <Title>CR Error</Title>
+      <Message>Casette Exists (Reciever) </Message>
+    </EventString>
+    <EventString Key="MES06355">
+      <Title>CR Error</Title>
+      <Message>Casette Exists (Reciever) </Message>
+    </EventString>
+    <EventString Key="MES06365">
+      <Title>CR Error</Title>
+      <Message>Reciever Sensor NG (Feeder) </Message>
+    </EventString>
+    <EventString Key="MES06366">
+      <Title>CR Error</Title>
+      <Message>Reciever Sensor NG (Send) </Message>
+    </EventString>
+    <EventString Key="MES06367">
+      <Title>CR Error</Title>
+      <Message>Reciever Sensor NG (Discharge) </Message>
+    </EventString>
+    <EventString Key="MES06368">
+      <Title>CR Error</Title>
+      <Message>Reciever Sensor NG (Removed) </Message>
+    </EventString>
+    <EventString Key="MES06370">
+      <Title>CR Error</Title>
+      <Message>Casette Exists (Reciever) </Message>
+    </EventString>
+    <EventString Key="MES06380">
+      <Title>CR Error</Title>
+      <Message>Reciever Sensor NG (Feeder) </Message>
+    </EventString>
+    <EventString Key="MES06381">
+      <Title>CR Error</Title>
+      <Message>Reciever Sensor NG (Send) </Message>
+    </EventString>
+    <EventString Key="MES06382">
+      <Title>CR Error</Title>
+      <Message>Reciever Sensor NG (Discharge) </Message>
+    </EventString>
+    <EventString Key="MES06383">
+      <Title>CR Error</Title>
+      <Message>Reciever Sensor NG (Removed) </Message>
+    </EventString>
+    <EventString Key="MES06385">
+      <Title>CR Error</Title>
+      <Message>Casette Exists (Reciever) </Message>
+    </EventString>
+    <EventString Key="MES06400">
+      <Title>CR Error</Title>
+      <Message>Back Plate detection Sensor NG (Before moving to Reading Position) </Message>
+    </EventString>
+    <EventString Key="MES06401">
+      <Title>CR Error</Title>
+      <Message>Back Plate detection Sensor NG (Reading Position is Stopping) </Message>
+    </EventString>
+    <EventString Key="MES06402">
+      <Title>CR Error</Title>
+      <Message>Back Plate detection Sensor NG (After moving to Pressing Position) </Message>
+    </EventString>
+    <EventString Key="MES06415">
+      <Title>CR Error</Title>
+      <Message>Back Plate detection Sensor NG (Before moving to Reading Position) </Message>
+    </EventString>
+    <EventString Key="MES06416">
+      <Title>CR Error</Title>
+      <Message>Back Plate detection Sensor NG (Reading Position is Stopping) </Message>
+    </EventString>
+    <EventString Key="MES06417">
+      <Title>CR Error</Title>
+      <Message>Back Plate detection Sensor NG (After moving to Pressing Position) </Message>
+    </EventString>
+    <EventString Key="MES06430">
+      <Title>CR Error</Title>
+      <Message>Back Plate detection Sensor NG (Before moving to Reading Position </Message>
+    </EventString>
+    <EventString Key="MES06431">
+      <Title>CR Error</Title>
+      <Message>Back Plate detection Sensor NG (Reading Position is Stopping) </Message>
+    </EventString>
+    <EventString Key="MES06432">
+      <Title>CR Error</Title>
+      <Message>Back Plate detection Sensor NG (After moving to Pressing Position) </Message>
+    </EventString>
+    <EventString Key="MES06450">
+      <Title>CR Error</Title>
+      <Message>Peel Sensor Plate (Reading or Erasing). Please refrain from using the cassette. </Message>
+    </EventString>
+    <EventString Key="MES06451">
+      <Title>CR Error</Title>
+      <Message>Peel Sensor NG (Non-operation) </Message>
+    </EventString>
+    <EventString Key="MES06452">
+      <Title>CR Error</Title>
+      <Message>Peel Sensor NG (Start) </Message>
+    </EventString>
+    <EventString Key="MES06453">
+      <Title>CR Error</Title>
+      <Message>Peel Sensor NG (Initialize) </Message>
+    </EventString>
+    <EventString Key="MES06465">
+      <Title>CR Error</Title>
+      <Message>Peel Sensor Plate (Reading or Erasing) </Message>
+    </EventString>
+    <EventString Key="MES06466">
+      <Title>CR Error</Title>
+      <Message>Peel Sensor NG (Non-operation) </Message>
+    </EventString>
+    <EventString Key="MES06468">
+      <Title>CR Error</Title>
+      <Message>Peel Sensor NG (Initialize) </Message>
+    </EventString>
+    <EventString Key="MES06480">
+      <Title>CR Error</Title>
+      <Message>Peel Sensor Plate (Reading or Erasing) </Message>
+    </EventString>
+    <EventString Key="MES06481">
+      <Title>CR Error</Title>
+      <Message>Peel Sensor NG (Non-operation) </Message>
+    </EventString>
+    <EventString Key="MES06483">
+      <Title>CR Error</Title>
+      <Message>Peel Sensor NG (Initialize) </Message>
+    </EventString>
+    <EventString Key="MES06500">
+      <Title>CR Error</Title>
+      <Message>Cassette Insertion Sensor NG (Initialize) </Message>
+    </EventString>
+    <EventString Key="MES06501">
+      <Title>CR Error</Title>
+      <Message>Cassette Insertion Sensor NG (Load) </Message>
+    </EventString>
+    <EventString Key="MES06502">
+      <Title>CR Error</Title>
+      <Message>Cassette Insertion Sensor NG (Discharge) </Message>
+    </EventString>
+    <EventString Key="MES06503">
+      <Title>CR Error</Title>
+      <Message>Back Plate Casette detection </Message>
+    </EventString>
+    <EventString Key="MES06504">
+      <Title>CR Error</Title>
+      <Message>Casette Insertion Sensor NG (Discharge -2) </Message>
+    </EventString>
+    <EventString Key="MES06515">
+      <Title>CR Error</Title>
+      <Message>Casette Insertion Sensor NG (Initialize) </Message>
+    </EventString>
+    <EventString Key="MES06516">
+      <Title>CR Error</Title>
+      <Message>Casette Insertion Sensor NG (Load) </Message>
+    </EventString>
+    <EventString Key="MES06517">
+      <Title>CR Error</Title>
+      <Message>Casette Insertion Sensor NG (Discharge) </Message>
+    </EventString>
+    <EventString Key="MES06518">
+      <Title>CR Error</Title>
+      <Message>Back Plate Casette detection </Message>
+    </EventString>
+    <EventString Key="MES06519">
+      <Title>CR Error</Title>
+      <Message>Casette Insertion Sensor NG (Discharge -2) </Message>
+    </EventString>
+    <EventString Key="MES06530">
+      <Title>CR Error</Title>
+      <Message>Casette Insertion Sensor NG (Initialize) </Message>
+    </EventString>
+    <EventString Key="MES06531">
+      <Title>CR Error</Title>
+      <Message>Casette Insertion Sensor NG (Load) </Message>
+    </EventString>
+    <EventString Key="MES06532">
+      <Title>CR Error</Title>
+      <Message>Casette Insertion Sensor NG (Discharge) </Message>
+    </EventString>
+    <EventString Key="MES06533">
+      <Title>CR Error</Title>
+      <Message>Back Plate Casette detection </Message>
+    </EventString>
+    <EventString Key="MES06534">
+      <Title>CR Error</Title>
+      <Message>Casette Insertion Sensor NG (Discharge -2) </Message>
+    </EventString>
+    <EventString Key="MES06550">
+      <Title>CR Error</Title>
+      <Message>Polygon Rotation NG </Message>
+    </EventString>
+    <EventString Key="MES06551">
+      <Title>CR Error</Title>
+      <Message>Not recieving Reading Completion signal </Message>
+    </EventString>
+    <EventString Key="MES06552">
+      <Title>CR Error</Title>
+      <Message>2 Erase lamps turn off (Start) </Message>
+    </EventString>
+    <EventString Key="MES06553">
+      <Title>CR Error</Title>
+      <Message>2 Erase lamps turn off (Erase). Cassette Erase is incomplete. Please retry. </Message>
+    </EventString>
+    <EventString Key="MES06554">
+      <Title>CR Error</Title>
+      <Message>1 Erase lamp turns off (Start) </Message>
+    </EventString>
+    <EventString Key="MES06567">
+      <Title>CR Error</Title>
+      <Message>2 Erase lamps turn off (Start) </Message>
+    </EventString>
+    <EventString Key="MES06568">
+      <Title>CR Error</Title>
+      <Message>2 Erase lamps turn off (Erase) </Message>
+    </EventString>
+    <EventString Key="MES06569">
+      <Title>CR Error</Title>
+      <Message>1 Erase lamp turns off (Start) </Message>
+    </EventString>
+    <EventString Key="MES06582">
+      <Title>CR Error</Title>
+      <Message>2 Erase lamps turn off (Start) </Message>
+    </EventString>
+    <EventString Key="MES06584">
+      <Title>CR Error</Title>
+      <Message>1 Erase lamp turns off (Start) </Message>
+    </EventString>
+    <EventString Key="MES06600">
+      <Title>CR Error</Title>
+      <Message>Cooler fan's digital power supply disconnected </Message>
+    </EventString>
+    <EventString Key="MES06650">
+      <Title>CR Error</Title>
+      <Message>FPGA Error (Event Driver Access failed) </Message>
+    </EventString>
+    <EventString Key="MES06651">
+      <Title>CR Error</Title>
+      <Message>FPGA Error (Fail to access MDU) </Message>
+    </EventString>
+    <EventString Key="MES06652">
+      <Title>CR Error</Title>
+      <Message>FPGA Error (Fail to access LMC) </Message>
+    </EventString>
+    <EventString Key="MES06653">
+      <Title>CR Error</Title>
+      <Message>FPGA Error (I/O Control failed) </Message>
+    </EventString>
+    <EventString Key="MES06654">
+      <Title>CR Error</Title>
+      <Message>FPGA Error (Fail to open Image Driver) </Message>
+    </EventString>
+    <EventString Key="MES06655">
+      <Title>CR Error</Title>
+      <Message>FPGA Error (Fail to access PMU) </Message>
+    </EventString>
+    <EventString Key="MES06668">
+      <Title>CR Error</Title>
+      <Message>FPGA Error (I/O Control failed) </Message>
+    </EventString>
+    <EventString Key="MES06683">
+      <Title>CR Error</Title>
+      <Message>FPGA Error (I/O Control failed) </Message>
+    </EventString>
+    <EventString Key="MES06750">
+      <Title>CR Error</Title>
+      <Message>Reception desk board opening and shutting position sensor NG </Message>
+    </EventString>
+    <EventString Key="MES06765">
+      <Title>CR Error</Title>
+      <Message>Reception desk board opening and shutting position sensor NG </Message>
+    </EventString>
+    <EventString Key="MES06780">
+      <Title>CR Error</Title>
+      <Message>Reception desk board opening and shutting position sensor NG </Message>
+    </EventString>
+    <EventString Key="MES06751">
+      <Title>CR Error</Title>
+      <Message>Reception desk board HP location sensor NG </Message>
+    </EventString>
+    <EventString Key="MES06766">
+      <Title>CR Error</Title>
+      <Message>Reception desk board HP location sensor NG </Message>
+    </EventString>
+    <EventString Key="MES06785">
+      <Title>CR Error</Title>
+      <Message>Reception desk board HP location sensor NG </Message>
+    </EventString>
+    <EventString Key="MES10000">
+      <Title>CR Error</Title>
+      <Message>Memory Error </Message>
+    </EventString>
+    <EventString Key="MES11000">
+      <Title>CR Error</Title>
+      <Message>Hardware Error </Message>
+    </EventString>
+    <EventString Key="MES12000">
+      <Title>CR Error</Title>
+      <Message>Msg Receiving Timeout (High Voltage ON) </Message>
+    </EventString>
+    <EventString Key="MES12001">
+      <Title>CR Error</Title>
+      <Message>Msg Receiving Timeout (Laser ON) </Message>
+    </EventString>
+    <EventString Key="MES12002">
+      <Title>CR Error</Title>
+      <Message>Msg Receiving Timeout (Mech. Ready) </Message>
+    </EventString>
+    <EventString Key="MES12003">
+      <Title>CR Error</Title>
+      <Message>Msg Receiving Timeout (Mech. Standby) </Message>
+    </EventString>
+    <EventString Key="MES12010">
+      <Title>CR Error</Title>
+      <Message>Serial communication Error (Mech. Resend Overflow) </Message>
+    </EventString>
+    <EventString Key="MES12011">
+      <Title>CR Error</Title>
+      <Message>Serial communication Error (Mech. CRC error Overflow) </Message>
+    </EventString>
+    <EventString Key="MES12012">
+      <Title>CR Error</Title>
+      <Message>Serial communication Error (Mech. Overrun) </Message>
+    </EventString>
+    <EventString Key="MES12013">
+      <Title>CR Error</Title>
+      <Message>Serial communication Error (Mech. Timeout) </Message>
+    </EventString>
+    <EventString Key="MES12020">
+      <Title>CR Error</Title>
+      <Message>Msg Error (Mech. illegal Msg) </Message>
+    </EventString>
+    <EventString Key="MES12200">
+      <Title>CR Error</Title>
+      <Message>Msg Receiving Timeout (Net Initialize) </Message>
+    </EventString>
+    <EventString Key="MES12201">
+      <Title>CR Error</Title>
+      <Message>Msg Receiving Timeout (Net Ready) </Message>
+    </EventString>
+    <EventString Key="MES12202">
+      <Title>CR Error</Title>
+      <Message>Msg Receiving Timeout (Put Shading) </Message>
+    </EventString>
+    <EventString Key="MES12203">
+      <Title>CR Error</Title>
+      <Message>Msg Receiving Timeout (Status Check) </Message>
+    </EventString>
+    <EventString Key="MES12204">
+      <Title>CR Error</Title>
+      <Message>Msg Receiving Timeout (Barcode Seek) </Message>
+    </EventString>
+    <EventString Key="MES12205">
+      <Title>CR Error</Title>
+      <Message>Msg Receiving Timeout (Net Command) </Message>
+    </EventString>
+    <EventString Key="MES12206">
+      <Title>CR Error</Title>
+      <Message>Msg Receiving Timeout (Reader End) </Message>
+    </EventString>
+    <EventString Key="MES12207">
+      <Title>CR Error</Title>
+      <Message>Msg Receiving Timeout (Put Qrv) </Message>
+    </EventString>
+    <EventString Key="MES12208">
+      <Title>CR Error</Title>
+      <Message>Msg Receiving Timeout (Put Config) </Message>
+    </EventString>
+    <EventString Key="MES12209">
+      <Title>CR Error</Title>
+      <Message>Msg Receiving Timeout (Put Information) </Message>
+    </EventString>
+    <EventString Key="MES12210">
+      <Title>CR Error</Title>
+      <Message>Serial communication Error (Net Resend Overflow) </Message>
+    </EventString>
+    <EventString Key="MES12211">
+      <Title>CR Error</Title>
+      <Message>Serial communication Error (Net CRC error Overflow) </Message>
+    </EventString>
+    <EventString Key="MES12212">
+      <Title>CR Error</Title>
+      <Message>Serial communication Error (Net Overrun) </Message>
+    </EventString>
+    <EventString Key="MES12213">
+      <Title>CR Error</Title>
+      <Message>Serial communication Error (Net Timeout) </Message>
+    </EventString>
+    <EventString Key="MES12220">
+      <Title>CR Error</Title>
+      <Message>Msg Error (Net illegal Msg) </Message>
+    </EventString>
+    <EventString Key="MES13000">
+      <Title>CR Error</Title>
+      <Message>Optical Unit Error (H_Sync) </Message>
+    </EventString>
+    <EventString Key="MES13001">
+      <Title>CR Error</Title>
+      <Message>Optical Unit Error (Polygon ID) </Message>
+    </EventString>
+    <EventString Key="MES13003">
+      <Title>CR Error</Title>
+      <Message>Optical Unit Error (Polygon Stability) </Message>
+    </EventString>
+    <EventString Key="MES13005">
+      <Title>CR Error</Title>
+      <Message>Optical Unit Error (Laser Intensity) </Message>
+    </EventString>
+    <EventString Key="MES13030">
+      <Title>CR Error</Title>
+      <Message>SCB Control Error (DMA transfer) </Message>
+    </EventString>
+    <EventString Key="MES13031">
+      <Title>CR Error</Title>
+      <Message>SCB Control Error (SCOM communication) </Message>
+    </EventString>
+    <EventString Key="MES14000">
+      <Title>CR Error</Title>
+      <Message>Signal Proc Error (Gain Overflow) </Message>
+    </EventString>
+    <EventString Key="MES14001">
+      <Title>CR Error</Title>
+      <Message>Signal Proc Error (Gain Underflow) </Message>
+    </EventString>
+    <EventString Key="MES14002">
+      <Title>CR Error</Title>
+      <Message>Signal Proc Error (Offset Overflow) </Message>
+    </EventString>
+    <EventString Key="MES14003">
+      <Title>CR Error</Title>
+      <Message>Signal Proc Error (Offset Underflow) </Message>
+    </EventString>
+    <EventString Key="MES14010">
+      <Title>CR Error</Title>
+      <Message>Signal Proc Error (QRV Overflow) </Message>
+    </EventString>
+    <EventString Key="MES14011">
+      <Title>CR Error</Title>
+      <Message>Signal Proc Error (QRV Underflow) </Message>
+    </EventString>
+    <EventString Key="MES14012">
+      <Title>CR Error</Title>
+      <Message>Signal Proc Error (QRV No Convergency) </Message>
+    </EventString>
+    <EventString Key="MES14013">
+      <Title>CR Error</Title>
+      <Message>Signal Proc Error (Shading No Data) </Message>
+    </EventString>
+    <EventString Key="MES14014">
+      <Title>CR Error</Title>
+      <Message>Signal Proc Error (QRV No Data) </Message>
+    </EventString>
+    <EventString Key="MES15000">
+      <Title>CR Error</Title>
+      <Message>Signal Proc Error (Initialization Failure) </Message>
+    </EventString>
+    <EventString Key="MES22101">
+      <Title>CR Error</Title>
+      <Message>Serial Communication Error (N1 Counter Over) </Message>
+    </EventString>
+    <EventString Key="MES22103">
+      <Title>CR Error</Title>
+      <Message>Serial Communication Error (N3 Counter Over) </Message>
+    </EventString>
+    <EventString Key="MES22104">
+      <Title>CR Error</Title>
+      <Message>Serial Communication Error (N4 Counter Over) </Message>
+    </EventString>
+    <EventString Key="MES23000">
+      <Title>CR Error</Title>
+      <Message>Program Error (Main Control) </Message>
+    </EventString>
+    <EventString Key="MES23100">
+      <Title>CR Error</Title>
+      <Message>Program Error (Sequence Control) </Message>
+    </EventString>
+    <EventString Key="MES23200">
+      <Title>CR Error</Title>
+      <Message>Program Error (Data File Size) </Message>
+    </EventString>
+    <EventString Key="MES23900">
+      <Title>CR Error</Title>
+      <Message>Program Error (Firmware Update) </Message>
+    </EventString>
+    <EventString Key="MES24000">
+      <Title>CR Error</Title>
+      <Message>Network Error (JM Connection) </Message>
+    </EventString>
+    <EventString Key="MES24500">
+      <Title>CR Error</Title>
+      <Message>Network Error (JM Configuration) </Message>
+    </EventString>
+    <EventString Key="MES25000">
+      <Title>CR Error</Title>
+      <Message>Network Error (Non-Timeout) </Message>
+    </EventString>
+    <EventString Key="MES25100">
+      <Title>CR Error</Title>
+      <Message>Network Error (Timeout:in General Communication) </Message>
+    </EventString>
+    <EventString Key="MES25110">
+      <Title>CR Error</Title>
+      <Message>Network Error (Rejection:in General Communication) </Message>
+    </EventString>
+    <EventString Key="MES25200">
+      <Title>CR Error</Title>
+      <Message>Network Error (Timeout:in Image Transmission) </Message>
+    </EventString>
+    <EventString Key="MES25210">
+      <Title>CR Error</Title>
+      <Message>Network Error (Timeout:after Image Scanning) </Message>
+    </EventString>
+    <EventString Key="MES25300">
+      <Title>CR Error</Title>
+      <Message>Network Error (Timeout/Rejection:in Image Transmission) </Message>
+    </EventString>
+    <EventString Key="MES25500">
+      <Title>CR Error</Title>
+      <Message>Network Error (Destination:Not Found) </Message>
+    </EventString>
+    <EventString Key="MES26000">
+      <Title>CR Error</Title>
+      <Message>Operation Error (Invalid Job) </Message>
+    </EventString>
+    <EventString Key="MES26010">
+      <Title>CR Error</Title>
+      <Message>Operation Error (Invalid Job Parameter) </Message>
+    </EventString>
+    <EventString Key="MES26100">
+      <Title>CR Error</Title>
+      <Message>Operation Error (Modeless Job) </Message>
+    </EventString>
+    <EventString Key="MES26200">
+      <Title>CR Error</Title>
+      <Message>Operation Error (Invalid Console) </Message>
+    </EventString>
+    <EventString Key="MES26300">
+      <Title>CR Error</Title>
+      <Message>Operation Error (Reader Busy) </Message>
+    </EventString>
+    <EventString Key="MES26900">
+      <Title>CR Error</Title>
+      <Message>Operation Error (PowerOFF under Job Execution) </Message>
+    </EventString>
+    <EventString Key="MES26999">
+      <Title>CR Error</Title>
+      <Message>Operation Error (Not-Supported Command) </Message>
+    </EventString>
+    <EventString Key="MES1">
+      <Title>CR Error</Title>
+      <Message>Opened front door is detected </Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

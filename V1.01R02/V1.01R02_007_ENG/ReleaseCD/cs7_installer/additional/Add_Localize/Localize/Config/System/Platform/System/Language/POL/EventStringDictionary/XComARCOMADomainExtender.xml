@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title />
+      <Message>Czy chcesz zmienić rozmiar rozmiar treści, potwierdź?</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title />
+      <Message>Wyniki naświetlenia dotyczyły więcej niż jednego zlecenia. Znaczniki badania "{EXAM_TAGS_INFO}"</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title />
+      <Message>Nie można znaleźć zlecenia do zastosowania wyników naświetlania. Sprawdź dane.</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title />
+      <Message>Nie można włączyć AEC dla warunku naświetlania CR. Czy chcesz wyłączyć AEC?</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title />
+      <Message>Nie można zmienić rozmiaru pacjenta dla zlecenia. Sprawdź dane.</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title />
+      <Message>Czy chcesz nadpisać rozmiar kolimatora?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

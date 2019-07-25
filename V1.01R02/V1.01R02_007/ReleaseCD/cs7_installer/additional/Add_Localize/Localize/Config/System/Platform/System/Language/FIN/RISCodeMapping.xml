@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>RisCodeMappingTitle</Key>
+      <Value>RIS-koodin liittäminen</Value>
+      <Comment>RisCodeMapping</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblUserMasterHeader</Key>
+      <Value>Käyttäjäisäntä</Value>
+      <Comment>User Master</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblProcedureCodeMappingTable</Key>
+      <Value>RIS-koodin liittäminen</Value>
+      <Comment>Procedure Code Mapping Table</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblStatusFilter</Key>
+      <Value>Tilasuodatin</Value>
+      <Comment>Status Filter</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblFreeWorldFilter</Key>
+      <Value>Vapaa sana -suodatin</Value>
+      <Comment>Free World Filter</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvDataHeader</Key>
+      <Value>Kehon osien luettelo</Value>
+      <Comment>Data</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvInformationHeader</Key>
+      <Value>RIS-koodin liittäminen</Value>
+      <Comment>Information</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnFilter</Key>
+      <Value>Suodata</Value>
+      <Comment>Filter</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnRISCode</Key>
+      <Value>Vain RIS-koodi</Value>
+      <Comment>RIS Code</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnIncorrect</Key>
+      <Value>Kaksinkertainen RIS-koodi</Value>
+      <Comment>RIS Code Incorrect</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnUnRegistered</Key>
+      <Value>Käyttäjäisäntää ei rekisteröity</Value>
+      <Comment>UnRegistered</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnRelease</Key>
+      <Value>Vapauta</Value>
+      <Comment>Release</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnAdd</Key>
+      <Value>Lisää...</Value>
+      <Comment>Add</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnImport</Key>
+      <Value>Tuo...</Value>
+      <Comment>Import</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnExport</Key>
+      <Value>Vie...</Value>
+      <Comment>Export</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnDelete</Key>
+      <Value>Poista</Value>
+      <Comment>Delete</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnOk</Key>
+      <Value>OK</Value>
+      <Comment>OK</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnCancel</Key>
+      <Value>Peruuta</Value>
+      <Comment>Cancel</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnAdapt</Key>
+      <Value>Käytä</Value>
+      <Comment>Adapt</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderUserMasterGroup</Key>
+      <Value>Ryhmä</Value>
+      <Comment>Group</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderUserMasterName</Key>
+      <Value>Tutkimuksen tunnus</Value>
+      <Comment>Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderRISCodeCategory</Key>
+      <Value>Koodausmenetelmän määritys</Value>
+      <Comment>Category</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderRISCodeCode</Key>
+      <Value>RIS-koodi</Value>
+      <Comment>Code</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderRISCodeDescription</Key>
+      <Value>Huomautuksia</Value>
+      <Comment>Description</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderRISCodeSerialNo</Key>
+      <Value>Sarjanumero</Value>
+      <Comment>Serial No</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderRISCodeGroup</Key>
+      <Value>Ryhmä</Value>
+      <Comment>Group</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderRISCodeName</Key>
+      <Value>Tutkimuksen tunnus</Value>
+      <Comment>Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DetailRisScreenTitle</Key>
+      <Value>Yksityiskohta</Value>
+      <Comment>Detail RIS Screen</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImportScreenTitle</Key>
+      <Value>Tuo</Value>
+      <Comment>RIS Import</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnReplaceProcedure</Key>
+      <Value>Vaihda RIS-koodin liittäminen</Value>
+      <Comment>Replace Procedure Code Mapping Table</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblReplaceProcedureContent</Key>
+      <Value />
+      <Comment>Current entries are disgarded and content available in source is added.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnAddProcedure</Key>
+      <Value>Lisää RIS-koodin liittämiseen</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblAddProcedureContent</Key>
+      <Value />
+      <Comment>Content available in source file are imported and appended to current table.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExportScreenTitle</Key>
+      <Value>Vie</Value>
+      <Comment>RIS Export</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnImportInto</Key>
+      <Value>Vie tuontitiedot muita CS-7-konsoleja varten</Value>
+      <Comment>Import into other Console.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblImportIntoContent</Key>
+      <Value />
+      <Comment>Import Into Other Console</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnVerifyCode</Key>
+      <Value>Vie RIS-koodin liittämisen vahvistustietoja varten</Value>
+      <Comment>Verify code mapping contents table.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblVerifyCodeContent</Key>
+      <Value />
+      <Comment>Verify code mapping contents table.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NewRisCodeMappingTitle</Key>
+      <Value>Lisää RIS-koodin liittäminen</Value>
+      <Comment>Add</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblSelectItemContent</Key>
+      <Value>Valitse vietävä kohde</Value>
+      <Comment>Select Item to Export</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IntermediateExportScreenTitle</Key>
+      <Value>Vie RIS-koodin liittämisen vahvistusta varten</Value>
+      <Comment>Select Item</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxsaveCaption</Key>
+      <Value>Haluatko tallentaa?</Value>
+      <Comment>New RIS Code Mapping</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxcancelCaption</Key>
+      <Value>Haluatko sulkea tallentamatta?</Value>
+      <Comment>Select Item to Export</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxRisCodeIncorrectCaption</Key>
+      <Value>Virheellisiä syöttöjä löytyi. Korjaa ne.</Value>
+      <Comment>Select Item</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxNewValiadtionCaption</Key>
+      <Value>Koodausmenetelmän määritys tai RIS-koodi on tyhjä.</Value>
+      <Comment>New RIS Code Mapping</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxImportSucccessCaption</Key>
+      <Value>RIS-koodin liittäminen voidaan tuoda onnistuneesti.</Value>
+      <Comment>Select Item to Export</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxImportFailureCaption</Key>
+      <Value>RIS-koodin liittämistä ei voi tuoda.</Value>
+      <Comment>Select Item</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxExportSucccessCaption</Key>
+      <Value>RIS-koodin liittäminen voidaan viedä onnistuneesti.</Value>
+      <Comment>New RIS Code Mapping</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxExportFailureCaption</Key>
+      <Value>RIS-koodin liittämistä ei voi viedä.</Value>
+      <Comment>Select Item to Export</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxDeleteCaption</Key>
+      <Value>Haluatko varmasti poistaa?</Value>
+      <Comment>Select Item</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxExportconfirmationCaption</Key>
+      <Value>Haluatko varmasti viedä?</Value>
+      <Comment>New RIS Code Mapping</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxImportAppendCaption</Key>
+      <Value>Haluatko varmasti lisätä RIS-koodin liittämisen?</Value>
+      <Comment>Select Item to Export</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxImportReplaceCaption</Key>
+      <Value>Haluatko varmasti korvata RIS-koodin liittämisen?</Value>
+      <Comment>Select Item</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxmaxaddCaption</Key>
+      <Value>Tutkimustunniste ylittää 128, ei voi lisätä.</Value>
+      <Comment>Select Item</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderRISPriorty</Key>
+      <Value>Ensisijaisuus</Value>
+      <Comment>Select Item</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

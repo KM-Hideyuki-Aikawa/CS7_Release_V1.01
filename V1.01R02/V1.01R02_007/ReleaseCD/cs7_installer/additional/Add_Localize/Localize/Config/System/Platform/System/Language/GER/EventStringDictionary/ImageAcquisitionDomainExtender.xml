@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ImageAcquisitionDomainExtender0000">
+      <Title>Bestätigung</Title>
+      <Message>Bild wird verworfen... sind Sie sicher?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0001">
+      <Title>Bestätigung</Title>
+      <Message>Erneut belichten?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender1001">
+      <Title>Achtung</Title>
+      <Message>Hinzufügen von Aufnahmen über {MaxSize} nicht möglich.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0002">
+      <Title>Bestätigung</Title>
+      <Message>Bildverwerfung wird annulliert... sind Sie sicher?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0003">
+      <Title>Bestätigung</Title>
+      <Message>Bilder wurden nicht erfasst.
+Befundung wird abgeschlossen... sind Sie sicher?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0004">
+      <Title>Bestätigung</Title>
+      <Message>Möchten Sie die Befundung im anderen Untersuchungsraum fortsetzen?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0005">
+      <Title>Bestätigung</Title>
+      <Message>Ein Kassetten-Barcode ist mit dem Unters.schlüssel registriert. 
+Barcode-Registrierung wird gelöscht... sind Sie sicher?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0006">
+      <Title>Fehler</Title>
+      <Message>Beim Bildlesevorgang ist ein Fehler aufgetreten.
+Prüfen Sie das Netzwerk.
+Starten Sie das Lesegerät neu.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0007">
+      <Title>Fehler</Title>
+      <Message>Patienten-ID: {PATIENTID}
+Patientenname: {PATIENTNAME}
+Lesegerätename: {READERNAME}
+Bildempfang ist nicht abgeschlossen.
+Prüfen Sie das Netzwerk.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0008">
+      <Title>Warnung</Title>
+      <Message>Lesegerätename: {READERNAME}
+Bildempfang wird annulliert... sind Sie sicher?
+ Bitte starten Sie bei Annullierung des Empfangs das Lesegerät neu.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0009">
+      <Title>Fehler</Title>
+      <Message>Bild wird gelesen. Melden Sie sich nach einer Weile an.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0010">
+      <Title>Fehler</Title>
+      <Message>Abschließen der Befundung fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0011">
+      <Title>Fehler</Title>
+      <Message>Aussetzen der Befundung fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0012">
+      <Title>Fehler</Title>
+      <Message>Diese Kassette ist für allgem. Belichtung.
+Prüfen Sie den Unters.schlüssel.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0013">
+      <Title>Fehler</Title>
+      <Message>Diese Kassette ist für Kontakt-Mammografie.
+Prüfen Sie den Unters.schlüssel.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0014">
+      <Title>Fehler</Title>
+      <Message>Diese Kassette ist für PCM.
+Prüfen Sie den Unters.schlüssel.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0015">
+      <Title>Fehler</Title>
+      <Message>Diese Kassette ist bereits registriert.
+Registrieren Sie eine andere Kassette.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0016">
+      <Title>Achtung</Title>
+      <Message>Diese Kassette wird bereits gelesen.
+Löschen der Barcode-Registrierung nicht möglich.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0017">
+      <Title>Achtung</Title>
+      <Message>Diese Kassette wird bereits gelesen.
+Löschen von im manuellen Registriermodus registrierten Jobs nicht möglich.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0018">
+      <Title>Achtung</Title>
+      <Message>Diese Kassette wird bereits gelesen.
+Löschen von im automatischen Registriermodus registrierten Jobs nicht möglich.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0019">
+      <Title>Bestätigung</Title>
+      <Message>Diese Befundung wird ausgesetzt... sind Sie sicher?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0020">
+      <Title>Bestätigung</Title>
+      <Message>Keine erfassten Bilder vorhanden. Status wird auf nicht gestartet geändert... sind Sie sicher?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0021">
+      <Title>Bestätigung</Title>
+      <Message>Barcode-Registrierung wird gelöscht... sind Sie sicher?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0022">
+      <Title>Bild-Neuübermittlung</Title>
+      <Message>OK zum Löschen nicht übermittelter Bilder von der Konsole? [OK]: Löschen [Abbrechen]: Zurück ohne Löschen</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0023">
+      <Title>Bild-Neuübermittlung</Title>
+      <Message>{READERNAME}: Einige Bilder wurden noch nicht übermittelt. Sollen sie gelöscht werden?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0024">
+      <Title>Fehler bei Bildübermittlung</Title>
+      <Message>{READERNAME}: Ein Kommunikationsfehler ist bei der Bildübermittlung aufgetreten. Prüfen Sie den Anschlusszustand des Kommunikationskabels.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0025">
+      <Title>Bild-Neuübermittlung</Title>
+      <Message>{READERNAME}: "{ImageAcquisitionConditionName}" sind noch nicht übermittelt. Soll das Bild beibehalten werden?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0026">
+      <Title>Bestätigung</Title>
+      <Message>Ausgewählter Unters.schlüssel wird gelöscht... sind Sie sicher?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0027">
+      <Title>Bestätigung</Title>
+      <Message>Diese Befundung wird gelöscht... sind Sie sicher?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0028">
+      <Title>Fehler</Title>
+      <Message>Timeout bei Bildübermittlung aufgetreten.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0029">
+      <Title />
+      <Message>Ein nicht übermitteltes Bild "{ImageAcquisitionConditionName}" ist vorhanden. 
+Bild kann nicht neu erfasst werden wegen des Unterschieds in Modalität zwischen Unters.schlüssel und Bild.
+ Im Fall einer Neuerfassung ändern Sie den Bildschirmstatus gemäß dem Unters.- schlüssel.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0030">
+      <Title />
+      <Message>Erfassen nicht übermittelten Bildes fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0031">
+      <Title />
+      <Message>Löschen nicht übermittelten Bildes fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0032">
+      <Title>Bestätigung</Title>
+      <Message>Diese Befundung wird ausgesetzt... sind Sie sicher?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

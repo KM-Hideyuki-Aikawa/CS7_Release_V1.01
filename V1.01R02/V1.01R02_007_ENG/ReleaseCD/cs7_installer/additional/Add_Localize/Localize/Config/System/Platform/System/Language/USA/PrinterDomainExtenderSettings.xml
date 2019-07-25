@@ -1,0 +1,2138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>EquipmentSettingView</Key>
+      <Value>Equipment setting</Value>
+      <Comment>Equipment setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresetLabelData</Key>
+      <Value>Preset selection. To load internal configurations, please select preset before start to setup</Value>
+      <Comment>Preset selection</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresetLabelExplanationData</Key>
+      <Value>Select the target product when connecting to our product.</Value>
+      <Comment>Select the target product when connecting to our product.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MakerLabelData</Key>
+      <Value>Maker name</Value>
+      <Comment>Maker name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MakerLabelExplanationData</Key>
+      <Value>Input the maker name of to be connected printer</Value>
+      <Comment>Input the maker name of to be connected printer</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ModelLabelData</Key>
+      <Value>Model name</Value>
+      <Comment>Model name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ModelLabelExplanationData</Key>
+      <Value>Input the model name of to be connected printer</Value>
+      <Comment>Input the model name of to be connected printer</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NameLabelData</Key>
+      <Value>Name</Value>
+      <Comment>Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NameLabelExplanationData</Key>
+      <Value>Specify the name to be displayed on system monitor etc.</Value>
+      <Comment>Specify the name to be displayed on system monitor etc.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CommandSettingView</Key>
+      <Value>Command setting</Value>
+      <Comment>Command setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ServicesClassLabelData</Key>
+      <Value>Service class</Value>
+      <Comment>Service class</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresentationLUTLabelData</Key>
+      <Value>Presentation LUT</Value>
+      <Comment>Presentation LUT</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresentationLUTLabelExplanationData</Key>
+      <Value>Select whether to send a LUT for matching the monitor display attributed and printer outout density.</Value>
+      <Comment>Select whether to send a LUT for matching the monitor display attributed and printer outout density.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AcquireStatusLabelData</Key>
+      <Value>Status get</Value>
+      <Comment>Status get</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AcquireStatusLabelExplanationData</Key>
+      <Value>Specify the status get method of printer</Value>
+      <Comment>Specify the status get method of printer</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestedImageSizeLabelData</Key>
+      <Value>Requested image size</Value>
+      <Comment>Requested image size</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestedImageSizeLabelExplanationData</Key>
+      <Value>Specify the requested image size.  After turning ON to OFF, Please restart to setup from preset selection.</Value>
+      <Comment>Specify the requested image size.  After turning ON to OFF, Please restart to setup from preset selection.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageLabelData</Key>
+      <Value>Image</Value>
+      <Comment>Image</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PhotometricLabelData</Key>
+      <Value>Photometry interpretation</Value>
+      <Comment>Photometry interpretation</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PhotometricLabelExplanationData</Key>
+      <Value>Specify the brighness measuring method.  Specify monochrome 1(Pixel minimum value = white color) in case of our product.</Value>
+      <Comment>Specify the brighness measuring method.  Specify monochrome 1(Pixel minimum value = white color) in case of our product.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageProcessingLabelData</Key>
+      <Value>Image processing</Value>
+      <Comment>Image processing</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageProcessingLabelExplanationData</Key>
+      <Value>Specify the image processing method.</Value>
+      <Comment>Specify the image processing method.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CommunicationSettingView</Key>
+      <Value>Communication Settings</Value>
+      <Comment>Communication Settings</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TCPIPLabelData</Key>
+      <Value>TCP/IP</Value>
+      <Comment>TCP/IP</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IPAddress1LabelData</Key>
+      <Value>IP Address</Value>
+      <Comment>IP Address</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IPAddress1LabelExplanationData</Key>
+      <Value>Specify the printer IP address</Value>
+      <Comment>Specify the printer IP address</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IPAddress2LabelData</Key>
+      <Value>IP Address（N-EVENT）</Value>
+      <Comment>IP Address（N-EVENT）</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IPAddress2LabelExplanationData</Key>
+      <Value>Specify the printer IP address during N-EVENT</Value>
+      <Comment>Specify the printer IP address during N-EVENT</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Port1LabelData</Key>
+      <Value>Port Number </Value>
+      <Comment>Port Number </Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Port1LabelExplanationData</Key>
+      <Value>Specify the printer communication port number</Value>
+      <Comment>Specify the printer communication port number</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Port2LabelData</Key>
+      <Value>Port number（N-EVENT）</Value>
+      <Comment>Port number（N-EVENT）</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Port2LabelExplanationData</Key>
+      <Value>Specify the printer communication port number during N-EVENT</Value>
+      <Comment>Specify the printer communication port number during N-EVENT</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IntervalLabelData</Key>
+      <Value>Status get interval</Value>
+      <Comment>Status get interval</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IntervalLabelExplanationData</Key>
+      <Value>Specify the interval when implementing the status get（N-GET or N-EVENT-REPORT）.[0 - 2^31msec]</Value>
+      <Comment>Specify the interval when implementing the status get（N-GET or N-EVENT-REPORT）.[0 - 2^31msec]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DICOMLabelData</Key>
+      <Value>DICOM</Value>
+      <Comment>DICOM</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransferSyntax1LabelData</Key>
+      <Value>Transfer Syntax</Value>
+      <Comment>Transfer Syntax</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransferSyntax1LabelExplanationData</Key>
+      <Value>Specify transfer syntax</Value>
+      <Comment>Specify transfer syntax</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransferSyntax2LabelData</Key>
+      <Value>Transfer Syntax (N-EVENT)</Value>
+      <Comment>Transfer Syntax (N-EVENT)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransferSyntax2LabelExplanationData</Key>
+      <Value>Specify transfer syntax</Value>
+      <Comment>Specify transfer syntax</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PrinterAE1LabelData</Key>
+      <Value>Printer AE title</Value>
+      <Comment>Printer AE title</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PrinterAE1LabelExplanationData</Key>
+      <Value>Specify the AE title of printer side[within 16 single byte char]</Value>
+      <Comment>Specify the AE title of printer side[within 16 single byte char]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PrinterAE2LabelData</Key>
+      <Value>Printer AE title (N-Event)</Value>
+      <Comment>Printer AE title (N-Event)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PrinterAE2LabelExplanationData</Key>
+      <Value>Specify the AE title of printer side[within 16 single byte char]</Value>
+      <Comment>Specify the AE title of printer side[within 16 single byte char]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CS7AETitle1LabelData</Key>
+      <Value>CS-7 AE title</Value>
+      <Comment>CS-7 AE title</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CS7AETitle1LabelExplanationData</Key>
+      <Value>Specify the AE title of CS-7. [within 16 single byte char]</Value>
+      <Comment>Specify the AE title of CS-7. [within 16 single byte char]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CS7AETitle2LabelData</Key>
+      <Value>CS-7 AE title (N-Event)</Value>
+      <Comment>CS-7 AE title (N-Event)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CS7AETitle2LabelExplanationData</Key>
+      <Value>Specify the AE title of CS-7. [within 16 single byte char]</Value>
+      <Comment>Specify the AE title of CS-7. [within 16 single byte char]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CharacterCode1LabelData</Key>
+      <Value>Char set</Value>
+      <Comment>Char set</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CharacterCode1LabelExplanationData</Key>
+      <Value>Specify the char set used in communication.</Value>
+      <Comment>Specify the char set used in communication.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CharacterCode2LabelData</Key>
+      <Value>Char set (N-Event)</Value>
+      <Comment>Char set (N-Event)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CharacterCode2LabelExplanationData</Key>
+      <Value>Specify the char set used in communication.</Value>
+      <Comment>Specify the char set used in communication.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageSettingView</Key>
+      <Value>Image Settings</Value>
+      <Comment>Image Settings</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageReductionModeLabelData</Key>
+      <Value>Reduction method</Value>
+      <Comment>Reduction method</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageReductionModeLabelExplanationData</Key>
+      <Value>Specify the reduction method when you reduce and sent the image.</Value>
+      <Comment>Specify the reduction method when you reduce and sent the image.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputSettingView</Key>
+      <Value>Output setting</Value>
+      <Comment>Output setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SkipErrorQueueLabelExplanationData</Key>
+      <Value>Specify error queue O/P.</Value>
+      <Comment>Specify error queue O/P.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SkipErrorQueueLabelData</Key>
+      <Value>Error queue output</Value>
+      <Comment>Error queue output</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StartEndCooperationSettingView</Key>
+      <Value>Start End cooperation setting</Value>
+      <Comment>Start End cooperation setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WakeOnLANLabelExplanationData</Key>
+      <Value>Specify ON when coordinating the console start and printer start.</Value>
+      <Comment>Specify ON when coordinating the console start and printer start.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WakeOnLANLabelData</Key>
+      <Value>WakeOnLAN</Value>
+      <Comment>WakeOnLAN</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RemoteShutdownLabelExplanationData</Key>
+      <Value>Specify ON when coordinating the console end and printer end</Value>
+      <Comment>Specify ON when coordinating the console end and printer end</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RemoteShutdownLabelData</Key>
+      <Value>Remote shutdown</Value>
+      <Comment>Remote shutdown</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MacAddressLabelExplanationData</Key>
+      <Value>Input the MAC address of printer</Value>
+      <Comment>Input the MAC address of printer</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MacAddressLabelData</Key>
+      <Value>MAC address</Value>
+      <Comment>MAC address</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilmSettingView</Key>
+      <Value>Film information setting</Value>
+      <Comment>Film information setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLabelExplanationData</Key>
+      <Value>Enable - Specify ON for film size which printer can be output. 1 or more film sizes must be specified to ON</Value>
+      <Comment>Enable - Specify ON for film size which printer can be output. 1 or more film sizes must be specified to ON</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilmSizeLabelData</Key>
+      <Value>Film Size</Value>
+      <Comment>Film Size</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLabelData</Key>
+      <Value>Existence</Value>
+      <Comment>Existence</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SizeConversionLabelExplanationData</Key>
+      <Value>Size Conversion - In case of output request of a size which cannot be output, the substitute film size will be specified</Value>
+      <Comment>Size Conversion - In case of output request of a size which cannot be output, the substitute film size will be specified</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SizeConversionLabelData</Key>
+      <Value>Coordinated film</Value>
+      <Comment>Coordinated film</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SupplyFilmTypeLabelExplanationData</Key>
+      <Value>Supply Film - Film type implemented by printer will be specified</Value>
+      <Comment>Supply Film - Film type implemented by printer will be specified</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SupplyFilmTypeLabelData</Key>
+      <Value>Mounted film</Value>
+      <Comment>Mounted film</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WidthLabelExplanationData</Key>
+      <Value>Specify the film type that has been mounted on printer</Value>
+      <Comment>Specify the film type that has been mounted on printer</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WidthLabelData</Key>
+      <Value>Short side[mm]</Value>
+      <Comment>Short side[mm]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HeightLabelExplanationData</Key>
+      <Value>Specify the film type that has been mounted on printer</Value>
+      <Comment>Specify the film type that has been mounted on printer</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HeightLabelData</Key>
+      <Value>Long side[mm]</Value>
+      <Comment>Long side[mm]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLB1LabelData</Key>
+      <Value>8x10 inches</Value>
+      <Comment>8x10 inches</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLB2LabelData</Key>
+      <Value>10x12 inches</Value>
+      <Comment>10x12 inches</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLB3LabelData</Key>
+      <Value>11x14 inches</Value>
+      <Comment>11x14 inches</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLB4LabelData</Key>
+      <Value>14x14 inches</Value>
+      <Comment>14x14 inches</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLB5LabelData</Key>
+      <Value>14x17 inches</Value>
+      <Comment>14x17 inches</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLB6LabelData</Key>
+      <Value>17x17inch</Value>
+      <Comment>17x17inch</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLB7LabelData</Key>
+      <Value>18x24cm(Regular)</Value>
+      <Comment>18x24cm(Regular)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLB8LabelData</Key>
+      <Value>18x24cm(Mammo)</Value>
+      <Comment>18x24cm(Mammo)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLB9LabelData</Key>
+      <Value>24x30cm(Regular)</Value>
+      <Comment>24x30cm(Regular)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLB10LabelData</Key>
+      <Value>24x30cm(Mammo)</Value>
+      <Comment>24x30cm(Mammo)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLB11LabelData</Key>
+      <Value>15x30cm(Regular)</Value>
+      <Comment>15x30cm(Regular)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PrintInfoSettingView</Key>
+      <Value>Printer information setting</Value>
+      <Comment>Printer information setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TrimLabelData</Key>
+      <Value>Trim information</Value>
+      <Comment>Trim information</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TrimLabelExplanationData</Key>
+      <Value>Specify available when performing the trim at printer.</Value>
+      <Comment>Specify available when performing the trim at printer.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BorderLabelData</Key>
+      <Value>Border</Value>
+      <Comment>Border</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BorderLabelExplanationData</Key>
+      <Value>Specify the color of frame border</Value>
+      <Comment>Specify the color of frame border</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LUTLabelData</Key>
+      <Value>Inner LUT</Value>
+      <Comment>Inner LUT</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LUTLabelExplanationData</Key>
+      <Value>Specify the inner LUT of printer</Value>
+      <Comment>Specify the inner LUT of printer</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ContrastLabelData</Key>
+      <Value>Contrast adjustment</Value>
+      <Comment>Contrast adjustment</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ContrastLabelExplanationData</Key>
+      <Value>Select from +7 to -7</Value>
+      <Comment>Select from +7 to -7</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DensityLabelData</Key>
+      <Value>Density adjustment</Value>
+      <Comment>Density adjustment</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DensityLabelExplanationData</Key>
+      <Value>Select from +7 to -7</Value>
+      <Comment>Select from +7 to -7</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampLabelData</Key>
+      <Value>Print stamp transmission</Value>
+      <Comment>Print stamp transmission</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampLabelExplanationData</Key>
+      <Value>Specify the transmission existence of stamp information to the printer. Specify the transmission existence of the following 4 when ON is selected.</Value>
+      <Comment>Specify the transmission existence of stamp information to the printer. Specify the transmission existence of the following 4 when ON is selected.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DateLabelData</Key>
+      <Value>Print date time</Value>
+      <Comment>Print date time</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DateLabelExplanationData</Key>
+      <Value>Print date time</Value>
+      <Comment>Print date time</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageLabelData</Key>
+      <Value>Message</Value>
+      <Comment>Message</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageLabelExplanationData</Key>
+      <Value>Message</Value>
+      <Comment>Message</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CopiesLabelData</Key>
+      <Value>Number of copies</Value>
+      <Comment>Number of copies</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CopiesLabelExplanationData</Key>
+      <Value>Number of copies</Value>
+      <Comment>Number of copies</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ModalityIDLabelData</Key>
+      <Value>Modality ID</Value>
+      <Comment>Modality ID</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ModalityIDLabelExplanationData</Key>
+      <Value>Modality ID</Value>
+      <Comment>Modality ID</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SmoothingLevelLabelData</Key>
+      <Value>Magnification Type</Value>
+      <Comment>Smoothing Level</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SmoothingLevelLabelExplanationData</Key>
+      <Value>Specify the image interpolation method for the image magnification</Value>
+      <Comment>Specify the image smoothing method and level</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MagnificationLabelData</Key>
+      <Value>Magnification Type</Value>
+      <Comment>Magnification Type</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MagnificationLabelExplanationData</Key>
+      <Value>Input smoothing type with single byte char. Refer to Conformance Statement of each printer</Value>
+      <Comment>Input the name of smoothing type[within 16 single byte char]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PolarityLabelData</Key>
+      <Value>Polarity</Value>
+      <Comment>Polarity</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PolarityLabelExplanationData</Key>
+      <Value>Specify the negative / positive of image</Value>
+      <Comment>Specify the negative / positive of image</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PriorityLabelData</Key>
+      <Value>Priority</Value>
+      <Comment>Priority</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PriorityLabelExplanationData</Key>
+      <Value>Specify the priority of printer</Value>
+      <Comment>Specify the priority of printer</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilmTypeRLabelData</Key>
+      <Value>Film type for general</Value>
+      <Comment>Film type for general</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilmTypeRLabelExplanationData</Key>
+      <Value>Specify the film size for general exposure of printer</Value>
+      <Comment>Specify the film size for general exposure of printer</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MaxDensityRLabelData</Key>
+      <Value>Dmax</Value>
+      <Comment>Dmax</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MaxDensityLabelRExplanationData</Key>
+      <Value>[0 - 65535]</Value>
+      <Comment>[0 - 65535]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FogDensityRLabelData</Key>
+      <Value>Dmin</Value>
+      <Comment>Dmin</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FogDensityRLabelExplanationData</Key>
+      <Value>[0 - 65535]</Value>
+      <Comment>[0 - 65535]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IlluminationRLabelData</Key>
+      <Value>Brightness L0</Value>
+      <Comment>Brightness L0</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IlluminationRLabelExplanationData</Key>
+      <Value>[0 - 65535]</Value>
+      <Comment>[0 - 65535]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReflectiveAmbientLightRLabelData</Key>
+      <Value>Surrounding light La</Value>
+      <Comment>Surrounding light La</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReflectiveAmbientLightRLabelExplanationData</Key>
+      <Value>[0 - 65535]</Value>
+      <Comment>[0 - 65535]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilmTypeMLabelData</Key>
+      <Value>Film type for mammo</Value>
+      <Comment>Film type for mammo</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilmTypeMLabelExplanationData</Key>
+      <Value>Specify the film type for mammo exposure of printer</Value>
+      <Comment>Specify the film type for mammo exposure of printer</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MaxDensityMLabelData</Key>
+      <Value>Dmax</Value>
+      <Comment>Dmax</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MaxDensityMLabelExplanationData</Key>
+      <Value>[0 - 65535]</Value>
+      <Comment>[0 - 65535]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FogDensityMLabelData</Key>
+      <Value>Dmin</Value>
+      <Comment>Dmin</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FogDensityMLabelExplanationData</Key>
+      <Value>[0 - 65535]</Value>
+      <Comment>[0 - 65535]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IlluminationMLabelData</Key>
+      <Value>Brightness L0</Value>
+      <Comment>Brightness L0</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IlluminationMLabelExplanationData</Key>
+      <Value>[0 - 65535]</Value>
+      <Comment>[0 - 65535]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReflectiveAmbientLightMLabelData</Key>
+      <Value>Reflection surrounding light La</Value>
+      <Comment>Reflection surrounding light La</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReflectiveAmbientLightMLabelExplanationData</Key>
+      <Value>[0 - 65535]</Value>
+      <Comment>[0 - 65535]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ResolutionLabelData</Key>
+      <Value>Resolution</Value>
+      <Comment>Resolution</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ResolutionLabelExplanationData</Key>
+      <Value>Resolution</Value>
+      <Comment>Resolution</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilmDestinationLabelData</Key>
+      <Value>Film address</Value>
+      <Comment>Film address</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FilmDestinationLabelExplanationData</Key>
+      <Value>Specify film outout destination</Value>
+      <Comment>Specify film outout destination</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DRYPRO75x</Key>
+      <Value>DRYPRO 75x</Value>
+      <Comment>DRYPRO 75x</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DRYPRO771</Key>
+      <Value>DRYPRO 771</Value>
+      <Comment>DRYPRO 771</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DRYPRO793</Key>
+      <Value>DRYPRO 793</Value>
+      <Comment>DRYPRO 793</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DRYPRO793-25</Key>
+      <Value>DRYPRO 793-25</Value>
+      <Comment>DRYPRO 793</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DRYPRO832</Key>
+      <Value>DRYPRO 832</Value>
+      <Comment>DRYPRO 832</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DRYPRO873</Key>
+      <Value>DRYPRO 873</Value>
+      <Comment>DRYPRO 873</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OTHER</Key>
+      <Value>OTHER</Value>
+      <Comment>Other</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OFF</Key>
+      <Value>OFF</Value>
+      <Comment>OFF</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ON</Key>
+      <Value>ON</Value>
+      <Comment>ON</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>N-GET</Key>
+      <Value>N-GET (Not Available)</Value>
+      <Comment>N-GET</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>N-EVENT REPORT</Key>
+      <Value>N-EVENT REPORT (Not Available)</Value>
+      <Comment>N-EVENT REPORT</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>N-GET+N-EVENT REPORT</Key>
+      <Value>N-GET+N-EVENT REPORT (Not Available)</Value>
+      <Comment>N-GET+N-EVENT REPORT</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MONOCHROME1</Key>
+      <Value>MONOCHROME1 (Not Available)</Value>
+      <Comment>MONOCHROME1</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MONOCHROME2</Key>
+      <Value>MONOCHROME2</Value>
+      <Comment>MONOCHROME2</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>D-Values</Key>
+      <Value>D-Values</Value>
+      <Comment>D-Values</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>P-Values</Key>
+      <Value>P-Values</Value>
+      <Comment>P-Values</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Implicit VR Little Endian</Key>
+      <Value>Implicit VR Little Endian</Value>
+      <Comment>Implicit VR Little Endian</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Explicit VR Little Endian</Key>
+      <Value>Explicit VR Little Endian</Value>
+      <Comment>Explicit VR Little Endian</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Explicit VR Big Endian</Key>
+      <Value>Explicit VR Big Endian</Value>
+      <Comment>Explicit VR Big Endian</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>JPEG Lossless</Key>
+      <Value>JPEG Lossless</Value>
+      <Comment>JPEG Lossless</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ASCII</Key>
+      <Value>ASCII</Value>
+      <Comment>ASCII</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ASCII\kanji\hiragana</Key>
+      <Value>ASCII\kanji\hiragana</Value>
+      <Comment>ASCII\kanji\hiragana</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>kana \kanji\hiragana</Key>
+      <Value>kana \kanji\hiragana</Value>
+      <Comment>kana \kanji\hiragana</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ASCII\kanji\kana</Key>
+      <Value>ASCII\kanji\kana</Value>
+      <Comment>ASCII\kanji\kana</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Latin1</Key>
+      <Value>Latin1</Value>
+      <Comment>Latin1</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Shift-JIS</Key>
+      <Value>Shift-JIS</Value>
+      <Comment>Shift-JIS</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Sprine</Key>
+      <Value>Sprine</Value>
+      <Comment>Sprine</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Decimate/Crop</Key>
+      <Value>Decimate/Crop</Value>
+      <Comment>Decimate/Crop</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Bilinear</Key>
+      <Value>Bilinear</Value>
+      <Comment>Bilinear</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SINC</Key>
+      <Value>SINC</Value>
+      <Comment>SINC</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Available</Key>
+      <Value>Available</Value>
+      <Comment>Available</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UnAvailable</Key>
+      <Value>UnAvailable</Value>
+      <Comment>UnAvailable</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Black</Key>
+      <Value>Black</Value>
+      <Comment>Black</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>White</Key>
+      <Value>White</Value>
+      <Comment>White</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Use printer inner LUT1</Key>
+      <Value>Use printer inner LUT1</Value>
+      <Comment>Use printer inner LUT1</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Use printer inner LUT2</Key>
+      <Value>Use printer inner LUT2</Value>
+      <Comment>Use printer inner LUT2</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Use printer inner LUT3</Key>
+      <Value>Use printer inner LUT3</Value>
+      <Comment>Use printer inner LUT3</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Use printer inner LUT4</Key>
+      <Value>Use printer inner LUT4</Value>
+      <Comment>Use printer inner LUT4</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Use printer inner LUT5</Key>
+      <Value>Use printer inner LUT5</Value>
+      <Comment>Use printer inner LUT5</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Use printer inner LUT6</Key>
+      <Value>Use printer inner LUT6</Value>
+      <Comment>Use printer inner LUT6</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Use printer inner LUT7</Key>
+      <Value>Use printer inner LUT7</Value>
+      <Comment>Use printer inner LUT7</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>-7</Key>
+      <Value>-7</Value>
+      <Comment>-7</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>-6</Key>
+      <Value>-6</Value>
+      <Comment>-6</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>-5</Key>
+      <Value>-5</Value>
+      <Comment>-5</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>-4</Key>
+      <Value>-4</Value>
+      <Comment>-4</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>-3</Key>
+      <Value>-3</Value>
+      <Comment>-3</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>-2</Key>
+      <Value>-2</Value>
+      <Comment>-2</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>-1</Key>
+      <Value>-1</Value>
+      <Comment>-1</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>0</Key>
+      <Value>0</Value>
+      <Comment>0</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1</Key>
+      <Value>1</Value>
+      <Comment>1</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2</Key>
+      <Value>2</Value>
+      <Comment>2</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3</Key>
+      <Value>3</Value>
+      <Comment>3</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>4</Key>
+      <Value>4</Value>
+      <Comment>4</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>5</Key>
+      <Value>5</Value>
+      <Comment>5</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>6</Key>
+      <Value>6</Value>
+      <Comment>6</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>7</Key>
+      <Value>7</Value>
+      <Comment>7</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CUBIX(CS-X)</Key>
+      <Value>CUBIX(CS-X)</Value>
+      <Comment>CUBIX(CS-X)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>REPLICATE</Key>
+      <Value>REPLICATE</Value>
+      <Comment>REPLICATE</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BLINEAR</Key>
+      <Value>BLINEAR</Value>
+      <Comment>BLINEAR</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CUBIC</Key>
+      <Value>CUBIC</Value>
+      <Comment>CUBIC</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NONE</Key>
+      <Value>NONE</Value>
+      <Comment>NONE</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>REVERSE</Key>
+      <Value>REVERSE</Value>
+      <Comment>REVERSE</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NORMAL</Key>
+      <Value>NORMAL</Value>
+      <Comment>NORMAL</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LOW</Key>
+      <Value>LOW</Value>
+      <Comment>LOW</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MED</Key>
+      <Value>MED</Value>
+      <Comment>MED</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HIGH</Key>
+      <Value>HIGH</Value>
+      <Comment>HIGH</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Blue</Key>
+      <Value>Blue</Value>
+      <Comment>Blue</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Clear</Key>
+      <Value>Clear</Value>
+      <Comment>Clear</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DRBlue</Key>
+      <Value>DR Blue</Value>
+      <Comment>DRBlue</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DRClear</Key>
+      <Value>DRClear</Value>
+      <Comment>DRClear</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Standard Resolution</Key>
+      <Value>Standard Resolution</Value>
+      <Comment>Standard Resolution</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>High Resolution</Key>
+      <Value>High Resolution</Value>
+      <Comment>High Resolution</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>auto processor</Key>
+      <Value>auto processor</Value>
+      <Comment>auto processor</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Processor Magazine</Key>
+      <Value>Magazine</Value>
+      <Comment>Processor Magazine</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BIN1</Key>
+      <Value>BIN1</Value>
+      <Comment>BIN1</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BIN2</Key>
+      <Value>BIN2</Value>
+      <Comment>BIN2</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BIN3</Key>
+      <Value>BIN3</Value>
+      <Comment>BIN3</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BIN4</Key>
+      <Value>BIN4</Value>
+      <Comment>BIN4</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BIN5</Key>
+      <Value>BIN5</Value>
+      <Comment>BIN5</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BIN6</Key>
+      <Value>BIN6</Value>
+      <Comment>BIN6</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BIN7</Key>
+      <Value>BIN7</Value>
+      <Comment>BIN7</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BIN8</Key>
+      <Value>BIN8</Value>
+      <Comment>BIN8</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BIN9</Key>
+      <Value>BIN9</Value>
+      <Comment>BIN9</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Regular</Key>
+      <Value>Regular</Value>
+      <Comment>Regular</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Mammo</Key>
+      <Value>Mammo</Value>
+      <Comment>Mammo</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Regular/Mammo</Key>
+      <Value>Regular/Mammo</Value>
+      <Comment>Regular/Mammo</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>8x10 inches</Key>
+      <Value>8x10 inches</Value>
+      <Comment>8x10 inches</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>10x12 inches</Key>
+      <Value>10x12 inches</Value>
+      <Comment>10x12 inches</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>11x14 inches</Key>
+      <Value>11x14 inches</Value>
+      <Comment>11x14 inches</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>14x14 inches</Key>
+      <Value>14x14 inches</Value>
+      <Comment>14x14 inches</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>14x17 inches</Key>
+      <Value>14x17 inches</Value>
+      <Comment>14x17 inches</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>17x17inch</Key>
+      <Value>17x17inch</Value>
+      <Comment>17x17inch</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>18x24cm(Regular)</Key>
+      <Value>18x24cm(Regular)</Value>
+      <Comment>18x24cm(Regular)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>18x24cm(Mammo)</Key>
+      <Value>18x24cm(Mammo)</Value>
+      <Comment>18x24cm(Mammo)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>24x30cm(Regular)</Key>
+      <Value>24x30cm(Regular)</Value>
+      <Comment>24x30cm(Regular)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>24x30cm(Mammo)</Key>
+      <Value>24x30cm(Mammo)</Value>
+      <Comment>24x30cm(Mammo)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>15x30cm(Regular)</Key>
+      <Value>15x30cm(Regular)</Value>
+      <Comment>15x30cm(Regular)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

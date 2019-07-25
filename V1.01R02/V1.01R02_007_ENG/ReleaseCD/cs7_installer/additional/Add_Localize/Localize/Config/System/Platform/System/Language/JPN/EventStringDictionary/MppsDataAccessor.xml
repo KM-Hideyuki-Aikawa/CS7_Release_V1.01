@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35520">
+      <Title>初期化エラー</Title>
+      <Message>初期化に失敗しました。</Message>
+    </EventString>
+    <EventString Key="35521">
+      <Title>設定読込エラー</Title>
+      <Message>設定ファイルの読込みに失敗しました。</Message>
+    </EventString>
+    <EventString Key="35522">
+      <Title>タイムアウトエラー</Title>
+      <Message>タイムアウトが発生しました。</Message>
+    </EventString>
+    <EventString Key="">
+      <Title />
+      <Message>[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37350">
+      <Title>内部エラー</Title>
+      <Message>DICOM通信で内部エラーが発生しました。サービスコールしてください。</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>内部エラー</Title>
+      <Message>DICOM通信で内部エラーが発生しました。サービスコールしてください。</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>内部エラー</Title>
+      <Message>DICOM通信の設定取得に失敗しました。通信設定を確認してください。</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>通信エラー</Title>
+      <Message>接続に失敗しました。通信設定およびサーバーの確認をしてください。</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>通信エラー</Title>
+      <Message>A-ASSOCIATEに失敗しました。通信設定およびサーバーの確認をしてください。</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>通信エラー</Title>
+      <Message>A-ASSOCIATEでサーバーから許可された設定がありません。通信設定を確認してください。</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>通信エラー</Title>
+      <Message>DICOM通信で内部エラーが発生しました。サービスコールしてください。</Message>
+    </EventString>
+    <EventString Key="37357">
+      <Title>通信エラー</Title>
+      <Message>リリースの通信に失敗しました。[{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>通信エラー</Title>
+      <Message>A-ABORTを受信しました。[{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37600">
+      <Title>内部エラー</Title>
+      <Message>RIS-OUT通信で内部エラーが発生しました。サービスコールしてください。</Message>
+    </EventString>
+    <EventString Key="37601">
+      <Title>内部エラー</Title>
+      <Message>RIS-OUT通信で内部エラーが発生しました。サービスコールしてください。</Message>
+    </EventString>
+    <EventString Key="37602">
+      <Title>内部エラー</Title>
+      <Message>RIS-OUT通信で内部エラーが発生しました。サービスコールしてください。</Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>内部エラー</Title>
+      <Message>終了通知を受信しました[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37699">
+      <Title>内部エラー</Title>
+      <Message>未定義なエラーが発生しました。[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37603">
+      <Title>内部エラー</Title>
+      <Message>RIS-OUT通信で内部エラーが発生しました。サービスコールしてください。</Message>
+    </EventString>
+    <EventString Key="37604">
+      <Title>内部エラー</Title>
+      <Message>RIS-OUT通信で内部エラーが発生しました。サービスコールしてください。</Message>
+    </EventString>
+    <EventString Key="37605">
+      <Title>内部エラー</Title>
+      <Message>RIS-OUT通信で内部エラーが発生しました。サービスコールしてください。</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>通信エラー</Title>
+      <Message>RIS-OUT通信のA-ASSOCIATE要求で永続的拒否を受けました。</Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>通信エラー</Title>
+      <Message>RIS-OUT通信のA-ASSOCIATE要求で一時的拒否を受けました。</Message>
+    </EventString>
+    <EventString Key="27730">
+      <Title>通信エラー</Title>
+      <Message>RIS-OUT通信で通信エラーが発生しました。通信先を確認してください。</Message>
+    </EventString>
+    <EventString Key="27731">
+      <Title>通信エラー</Title>
+      <Message>RIS-OUT通信で通信エラーが発生しました。通信先を確認してください。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

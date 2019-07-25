@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="40001">
+      <Title>대기열 파일 생성 실패</Title>
+      <Message>대기열 파일 생성에 실패했습니다.</Message>
+    </EventString>
+    <EventString Key="40002">
+      <Title>대기열 생성 실패</Title>
+      <Message>대기열 생성에 실패했습니다.</Message>
+    </EventString>
+    <EventString Key="40003">
+      <Title>대기열 생성 실패</Title>
+      <Message>큐 재시도 한계수에 도달함</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

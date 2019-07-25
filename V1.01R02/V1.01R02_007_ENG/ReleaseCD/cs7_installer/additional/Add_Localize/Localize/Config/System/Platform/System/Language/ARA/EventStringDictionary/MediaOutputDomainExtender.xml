@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="MediaOutputDomainExtender0000">
+      <Title />
+      <Message>العام المُدخل غير صالح</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0001">
+      <Title />
+      <Message>الشهر المُدخل غير صالح</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0002">
+      <Title />
+      <Message>اليوم المُدخل غير صالح</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0003">
+      <Title />
+      <Message>القيمة خارج النطاق</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0004">
+      <Title />
+      <Message>الطول أكبر من MaxLength</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0005">
+      <Title />
+      <Message>الطول أقل من MinLength</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0006">
+      <Title />
+      <Message>القيمة المدخلة غير رقمية</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0007">
+      <Title />
+      <Message>القيمة المدخلة غير صالحة</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0008">
+      <Title />
+      <Message>يسمح فقط بالحروف الأبجدية</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0009">
+      <Title />
+      <Message>يسمح فقط بحروف كانا</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0010">
+      <Title />
+      <Message>قيمة غير صالحة. لا يمكن استخدام '\\'، '^' ، '=' هنا</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0011">
+      <Title />
+      <Message>غير مسموح بالحروف ثنائية البايت</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0012">
+      <Title />
+      <Message>الحرف المُدخل غير صالح</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0013">
+      <Title />
+      <Message>خطأ كتابة الوسائط</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0014">
+      <Title />
+      <Message>لم يتم إدراج وسائط</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0015">
+      <Title />
+      <Message>البيانات موجودة بالفعل</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0016">
+      <Title />
+      <Message>مساحة غير كافية</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0017">
+      <Title />
+      <Message>إسم المجلد المحدد غير صالح.</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0018">
+      <Title />
+      <Message>لا يمكن استخدام الأحرف المتتابعة في إسم المجلد. ‎‎‎
+.\/:*?"&amp;lt;&amp;gt;|‎‎</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0019">
+      <Title />
+      <Message>يوجد نفس إسم المجلد. استبدال؟</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0020">
+      <Title />
+      <Message>الإلغاء قيد التنفيذ. الرجاء الانتظار.</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0021">
+      <Title />
+      <Message>لهذا العنصر، لا يمكن استخدام '\','='.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

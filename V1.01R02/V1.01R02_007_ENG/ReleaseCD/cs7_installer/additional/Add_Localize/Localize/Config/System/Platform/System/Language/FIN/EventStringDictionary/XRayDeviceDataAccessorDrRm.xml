@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="XRayDeviceDataAccessorDrRm7102">
+      <Title>Rekisteröintisäännösnumerovirhe</Title>
+      <Message>Neljä on rekisteröity.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7103">
+      <Title>Tuntematon AeroDR-detektori</Title>
+      <Message>Tuntematon AeroDR-detektori.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7104">
+      <Title>Tuntematon valotuslaite</Title>
+      <Message>Tuntematon valotuslaite.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7105">
+      <Title>RM-virhe</Title>
+      <Message>RM-hallintataulukon virhe. Ota yhteys huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7106">
+      <Title>Version päivitysvirhe</Title>
+      <Message>Version päivitys ei täsmää. Ota yhteyttä huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7107">
+      <Title>RM-virhe</Title>
+      <Message>RM-hallintataulukon virhe. Ota yhteyttä huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7108">
+      <Title>RM-virhe</Title>
+      <Message>RM-hallintataulukon virhe. Ota yhteyttä huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7109">
+      <Title>RM-virhe</Title>
+      <Message>RM-hallintataulukon virhe. Tarkista verkkoyhteys.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7110">
+      <Title>RM-virhe</Title>
+      <Message>RM-hallintataulukon virhe. Tarkista verkkoyhteys.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7111">
+      <Title>Rekisteröinnin peruutusvirhe</Title>
+      <Message>Virhe peruutettaessa AeroDR-paneelin rekisteröintiä.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7112">
+      <Title>Radiologiahuoneen vaihtovirhe</Title>
+      <Message>Tapahtui virhe radiologiahuoneen vaihdon aikana.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7113">
+      <Title>Taustaprosessin tiedonsiirtovirhe</Title>
+      <Message>Tiedonsiirto ei mahdollista.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7114">
+      <Title>Konfiguraation aktivoinnin asetusvirhe</Title>
+      <Message>Virhe AeroDR-paneelin konfiguraation aktivoinnissa.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7115">
+      <Title>RM-päivitys</Title>
+      <Message>RM-hallintataulukko päivitettiin. Käynnistä laite uudelleen.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7116">
+      <Title>Lisenssivirhe</Title>
+      <Message>Rekisteröitävän paneelin lisenssiä ei ole, tai lisenssien määrä ei riitä. Hanki lisenssi tai rekisteröi paneeli hankittujen lisenssien määrän mukaisesti.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7117">
+      <Title>Virhe</Title>
+      <Message>RM-asetuksen siirrossa tapahtui virhe.
+Tarkista verkkoyhteys ja yritä uudelleen.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7118">
+      <Title>Virhe</Title>
+      <Message>CS-7-asetuksen määritysvirhe.
+Tarkista asetus ja yritä uudelleen.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

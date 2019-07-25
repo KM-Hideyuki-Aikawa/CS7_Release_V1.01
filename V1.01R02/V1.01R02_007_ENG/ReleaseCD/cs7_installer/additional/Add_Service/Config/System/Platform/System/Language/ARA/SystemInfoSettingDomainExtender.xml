@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>InstitutionInfoItemView</Key>
+      <Value>إعدادات معلومات المؤسسة</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionNameLabelData</Key>
+      <Value>اسم المؤسسة</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionNameLabelExplanationData</Key>
+      <Value>إدخال اسم المؤسسة (حتى 64 حرفاً)</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionLocationLabelData</Key>
+      <Value>عنوان المؤسسة</Value>
+      <Comment>Facility Address</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionLocationLabelExplanationData</Key>
+      <Value>إدخال عنوان المؤسسة (حتى 1024 حرفاً)</Value>
+      <Comment>Input facility name Output in film or image data (upto 1024 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionTelephoneLabelData</Key>
+      <Value>رقم الهاتف</Value>
+      <Comment>Telephone Number</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionTelephoneLabelExplanationData</Key>
+      <Value>إدخال رقم هاتف المؤسسة (حتى 64 حرفاً)</Value>
+      <Comment>Institution Telephone Number will be entered.It will be output to film or image data.(Max 64 characters)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionDepartmentNameLabelData</Key>
+      <Value>اسم الإدارة</Value>
+      <Comment>Department Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionDepartmentNameLabelExplanationData</Key>
+      <Value>إدخال اسم إدارة المؤسسة (حتى 64 حرفاً)</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceInfoSettingItemView</Key>
+      <Value>إعداد معلومات الجهاز</Value>
+      <Comment>Device Information Setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceManufacturerLabelData</Key>
+      <Value>اسم الصانع</Value>
+      <Comment>Maker</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceManufacturerLabelExplanationData</Key>
+      <Value>اسم الصانع المعروض</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceModelNameLabelData</Key>
+      <Value>اسم الطراز</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceModelNameLabelExplanationData</Key>
+      <Value>اسم الطراز معروض</Value>
+      <Comment>Model name will be displayed.Output in film or image data</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceSerialNumberLabelData</Key>
+      <Value>رقم مسلسل</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceSerialNumberLabelExplanationData</Key>
+      <Value>الرقم التسلسلي معروض</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DevicePharmaceuticalLabelData</Key>
+      <Value>رقم ترخيص مؤقت</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DevicePharmaceuticalLabelExplanationData</Key>
+      <Value>بيانات رقم ترخيص مؤقت</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceConsoleNameLabelData</Key>
+      <Value>اسم وحدة التحكم</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceConsoleNameLabelExplanationData</Key>
+      <Value />
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceUniqueIDLabelData</Key>
+      <Value>مُعرّف فريد</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceUniqueIDLabelExplanationData</Key>
+      <Value>إدخال بيانات مُعرّف فريد (1-255). لا تكرر المُعرّف الفريد</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceExamRoomNameLabelData</Key>
+      <Value>اسم غرفة الفحص</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceExamRoomNameLabelExplanationData</Key>
+      <Value>اسم غرفة الفحص معروض لا تكرر اسم غرفة الفحص</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceVersionLabelData</Key>
+      <Value>الإصدار</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceVersionLabelExplanationData</Key>
+      <Value>إصدار CS-7 معروض</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkSettingItemView</Key>
+      <Value>إعدادات الشبكة</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkAdapterLabelData</Key>
+      <Value>مهايئ الشبكة</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkAdapterLabelExplanationData</Key>
+      <Value />
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkIPAddressLabelData</Key>
+      <Value>عنوان IP</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkDefaultGatewayLabelData</Key>
+      <Value>بوابة افتراضية</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkSubnetMaskLabelData</Key>
+      <Value>قناع الشبكة الفرعية</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkApolloSystemLabelData</Key>
+      <Value>مهايئ الشبكة مستخدم في نظام Apollo</Value>
+      <Comment>Network adaptor used in Apollo system</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkCRSystemLabelData</Key>
+      <Value>مهايئ الشبكة مستخدَم في نظام التصوير الإشعاعي بالكمبيوتر</Value>
+      <Comment>Network adaptor used in CR system</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LoginInfoSettingItemView</Key>
+      <Value>إعداد تسجيل الدخول</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LoginSelectLoginModeLabelData</Key>
+      <Value>وضع تسجيل دخول تلقائي</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LoginSelectLoginModeLabelExplanationData</Key>
+      <Value />
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LoginSelectLoginModeLabelExplanationData1</Key>
+      <Value />
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LoginchckModeLabelData</Key>
+      <Value>تمكين وضع تسجيل دخول تلقائي</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionInfoSettingItemView</Key>
+      <Value>إعداد معلومات الدراسة</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionCountervalueLbl</Key>
+      <Value>قيمة عداد مُعرّف الدراسة للإصدار التالي</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionCountervalueLblMsg</Key>
+      <Value>إدخال قيمة عداد مُعرّف الدراسة للإصدار التالي</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionIssueMethodLabelData</Key>
+      <Value>طريقة إصدار سلسلة المعلومات</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionIssueMethodExplanationData</Key>
+      <Value>تحديد طريقة إصدار رقم السلسلة</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionReservationRequiredLblMsg</Key>
+      <Value>PatientID Zero Padding</Value>
+      <Comment>PatientID Zero Padding.</Comment>
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionPatientIdLengthLbl</Key>
+      <Value>Patient Id Padding Length</Value>
+      <Comment>Patient Id Length</Comment>
+      <FontSize>12</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionPatientIdLengthLblMsg</Key>
+      <Value>Adds the specified number of digits to be 0</Value>
+      <Comment>Patient Id length Explanition.</Comment>
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputSettingItemView</Key>
+      <Value>إعداد الإخراج</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputRequireLabelData</Key>
+      <Value>جهاز إخراج قلب العلامة</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputRequireLabelDataMsg</Key>
+      <Value>تحديد الجهاز الذي يقلب العلامة كمخرج</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputHost1ChckData</Key>
+      <Value>المضيف 1</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputHost2ChckData</Key>
+      <Value>المضيف 2</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputHost3ChckData</Key>
+      <Value>المضيف 3</Value>
+      <Comment>Host 3</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputHost4ChckData</Key>
+      <Value>المضيف 4</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputPrinter1ChckData</Key>
+      <Value>Print 1</Value>
+      <Comment>Facility Name</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputPrinter2ChckData</Key>
+      <Value>Print 2</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputFilpMarkOnOffLabelData</Key>
+      <Value>تمكين الإخراج التلقائي</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputFilpMarkOnOffExplanationData</Key>
+      <Value>إعداد الإخراج التلقائي</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputFilpMarkSizeLabelData</Key>
+      <Value>حجم العلامة</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputFilpMarkSizeExplanationData</Key>
+      <Value>تحديد حجم علامة القلب</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputFilpMarkPositionLabelData</Key>
+      <Value>موضع الإخراج</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputFilpMarkPositionExplanationData</Key>
+      <Value>تحديد موضع علامة القلب</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputAutoOutputLabelData</Key>
+      <Value>وقت انتظار الإخراج</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputAutoOutputExplanationData</Key>
+      <Value>وقت انتظار الإدخال بعد التقاط صورة في الثانية</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EmergencySettingItemView</Key>
+      <Value>إعداد الطوارئ</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EmergencyDiscreminationItemsLabelData</Key>
+      <Value>تحديد دراسة الطوارئ</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EmergencyDiscreminationItemsExplanationData</Key>
+      <Value>إدخال الأحرف البادئة التي تم تحديدها كدراسة طوارئ</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EmergencyDiscreminationcharStringLabelData</Key>
+      <Value>إدخال الأحرف اللاحقة التي تم تحديدها كدراسة طوارئ</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EmergencyDiscreminationcharStringExplanationData</Key>
+      <Value>إخراج المضيف للصورة في دراسة الطوارئ</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskCapacitySettingItemView</Key>
+      <Value>إعداد حذف الصور</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskFullcapacityLabelData</Key>
+      <Value>حجم المساحة الفارغة</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskFullcapacityExplanationData</Key>
+      <Value>عرض المساحة الفارغة [جيجابايت] من القرص الصلب على هذا النظام</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskAutoDeleteLblData</Key>
+      <Value>الحساب التلقائي لسعة الحذف</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskAutoDeleteLblDatamsg</Key>
+      <Value />
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskAutoDeleteChckData</Key>
+      <Value>الحذف التلقائي</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskImageDeletevalueLabelData</Key>
+      <Value>سعة الحذف الثابت</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskImageDeletevalueExplanationData</Key>
+      <Value>تحديد الحجم [جيجابايت] الذي يجب حذفه في حالة تعطيل سعة الحذف التلقائية</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskManualSettingChckData</Key>
+      <Value>الإعداد اليدوي</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSaverSettingItemView</Key>
+      <Value>إعدادات شاشة التوقف</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSaverAutoLogin</Key>
+      <Value>تسجيل خروج تلقائي بعد الخروج من شاشة التوقف</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSaverAutoLoginMsg</Key>
+      <Value />
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSaverExposureScreenLbl</Key>
+      <Value>يجب تعطيل شاشة التوقف عند عرض شاشة التعرض</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSaverExposureScreenLblMsg</Key>
+      <Value />
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Upper Left</Key>
+      <Value>أعلى اليسار</Value>
+      <Comment>Upper Left</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Upper Right</Key>
+      <Value>أعلى اليمين</Value>
+      <Comment>Upper Right</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Lower Left</Key>
+      <Value>أسفل اليسار</Value>
+      <Comment>Lower Left</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Lower Right</Key>
+      <Value>أسفل اليمين</Value>
+      <Comment>Lower Right</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>7x7mm</Key>
+      <Value>7×7ملليمتر</Value>
+      <Comment>7x7mm</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>10x10mm</Key>
+      <Value>10×10ملليمتر</Value>
+      <Comment>10x10mm</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DICOM Compliance</Key>
+      <Value>التوافق مع R150</Value>
+      <Comment>DICOM Compliance</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Order Sequence</Key>
+      <Value>التوافق مع أجهزة التصوير والاتصالات الرقمية الطبية (DICOM)</Value>
+      <Comment>Order Sequence</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>R150 compatible</Key>
+      <Value>تسلسل الطلب</Value>
+      <Comment>R150 compatible</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskAutoRemovalLabelData</Key>
+      <Value>自動削除開始閾値</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskAutoRemovalExplanation</Key>
+      <Value>空き容量がこの値を下回ると、コンソール終了時に画像削除を行います</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

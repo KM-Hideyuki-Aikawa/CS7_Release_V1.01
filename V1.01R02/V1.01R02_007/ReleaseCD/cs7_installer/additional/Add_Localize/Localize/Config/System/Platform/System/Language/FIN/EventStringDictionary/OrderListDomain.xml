@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="OrderListDomain0001">
+      <Title>Virhe</Title>
+      <Message>Tietokannan päivitysvirhe.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0002">
+      <Title>Varoitus</Title>
+      <Message>Virheellinen arvo, ei voi suorittaa.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0003">
+      <Title>Varoitus</Title>
+      <Message>Syöte on pakollinen.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0004">
+      <Title>Virhe</Title>
+      <Message>Ei voi suorittaa.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0005">
+      <Title>Potilaan päivitysvirhe</Title>
+      <Message>Potilaan päivitysvirhe.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0006">
+      <Title>Informaatio</Title>
+      <Message>DB-tiedot päivitettiin, päivitetty tutkimus näytetään.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0007">
+      <Title>Virhe</Title>
+      <Message>Tutkimus poistettu tietokannasta, toimenpidettä ei voi suorittaa.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0008">
+      <Title>Vahvistus</Title>
+      <Message>Sama potilastunnus: {0}, potilaan nimi: {1}, sukupuoli: {2}, syntymäaika:{3} saatavilla tietokannassa, haluatko käyttää tietokannan tietoja?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0009">
+      <Title>Vahvistus</Title>
+      <Message>Tutkimus on käynnissä. Haluatko suorittaa?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0010">
+      <Title>Varoitus</Title>
+      <Message>Tutkimusta suoritetaan jo toisessa konsolissa.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

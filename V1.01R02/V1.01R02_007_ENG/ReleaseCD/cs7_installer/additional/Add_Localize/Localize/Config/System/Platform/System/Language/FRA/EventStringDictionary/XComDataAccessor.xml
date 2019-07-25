@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0401">
+      <Title>Envoi d'erreur</Title>
+      <Message>Erreur interne du processus de communication de rayon X.</Message>
+    </EventString>
+    <EventString Key="0402">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne du processus de communication de rayon X.</Message>
+    </EventString>
+    <EventString Key="0403">
+      <Title>Envoi d'erreur</Title>
+      <Message>Échec de l'envoi de commande de conditions d'exposition pour système rayon X. Redémarrez l'appareil de rayon X.</Message>
+    </EventString>
+    <EventString Key="0404">
+      <Title>Erreur de paramétrage</Title>
+      <Message>Erreur de configuration de paramètre du système de rayon X.</Message>
+    </EventString>
+    <EventString Key="0405">
+      <Title>Erreur d'appareil</Title>
+      <Message>Erreur de système de rayon X détectée.</Message>
+    </EventString>
+    <EventString Key="0406">
+      <Title>Envoi d'erreur</Title>
+      <Message>Erreur de connexion du système de rayon X. Vérifiez le réseau.</Message>
+    </EventString>
+    <EventString Key="0301">
+      <Title />
+      <Message />
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

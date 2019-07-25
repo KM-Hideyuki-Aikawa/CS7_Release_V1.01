@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="OrderListDomain0001">
+      <Title>Erro</Title>
+      <Message>Erro de atualização da BD.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0002">
+      <Title>Aviso</Title>
+      <Message>Valor inválido, execução não possível.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0003">
+      <Title>Aviso</Title>
+      <Message>Entrada é obrigatória.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0004">
+      <Title>Erro</Title>
+      <Message>Execução não possível.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0005">
+      <Title>Erro de atualização de paciente</Title>
+      <Message>Erro de atualização de paciente.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0006">
+      <Title>Informação</Title>
+      <Message>Dados da BD atualizados, será apresentado o estudo atualizado.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0007">
+      <Title>Erro</Title>
+      <Message>Estudo foi apagado da base de dados, não é possível operação de execução.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0008">
+      <Title>Confirmação</Title>
+      <Message>ID do mesmo paciente: {0},Nome do paciente: {1},Sexo: {2},DOB:{3} disponível na base de dados, pretende usar os dados da BD?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0009">
+      <Title>Confirmação</Title>
+      <Message>Estudo em estado de progresso, pretende executar?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0010">
+      <Title>Aviso</Title>
+      <Message>O estudo já está executado noutra consola.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

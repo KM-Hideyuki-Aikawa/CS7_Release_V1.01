@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="OrderListDomain0001">
+      <Title>Error</Title>
+      <Message>Error actualización BD.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0002">
+      <Title>Advertencia</Title>
+      <Message>Valor inválido, ejecución imposible.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0003">
+      <Title>Advertencia</Title>
+      <Message>Es obligatorio introducir.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0004">
+      <Title>Error</Title>
+      <Message>Ejecución imposible.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0005">
+      <Title>Error actualización de paciente</Title>
+      <Message>Error actualización de paciente</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0006">
+      <Title>Información</Title>
+      <Message>Datos de BD actualizados, se mostrará estudio actualizado.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0007">
+      <Title>Error</Title>
+      <Message>Estudio eliminado de base de datos, operación de ejecución imposible.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0008">
+      <Title>Confirmación</Title>
+      <Message>Mismo ID paciente: {0},Nombre paciente: {1},Sexo: {2},FN:{3} disponible en base datos, ¿quiere utilizar los datos de la BD?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0009">
+      <Title>Confirmación</Title>
+      <Message>Estudio en progreso, ¿quiere ejecutar?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0010">
+      <Title>Advertencia</Title>
+      <Message>Estudio ya ejecutado en otra consola.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

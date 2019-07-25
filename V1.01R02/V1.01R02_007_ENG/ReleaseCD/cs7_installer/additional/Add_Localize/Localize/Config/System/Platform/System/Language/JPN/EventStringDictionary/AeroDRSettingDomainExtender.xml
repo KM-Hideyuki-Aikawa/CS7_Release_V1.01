@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="AeroDRSettingDomainExtender0003">
+      <Title>補正データエラー</Title>
+      <Message>選択された補正データが不正です。</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0004">
+      <Title>補正データ上書き確認</Title>
+      <Message>補正データがすでに存在します。上書きしてもよろしいですか？</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0005">
+      <Title>AeroDRパネルエラー</Title>
+      <Message>AeroDRパネルの接続追加ができません。</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0006">
+      <Title>AeroDRパネルエラー</Title>
+      <Message>AeroDRパネルの情報が取得できません。</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0007">
+      <Title>AeroDRパネルエラー</Title>
+      <Message>AeroDRパネルの設定ができません。</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0008">
+      <Title>XG BOXエラー</Title>
+      <Message>XG BOXの接続追加ができません。</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0009">
+      <Title>XG BOXエラー</Title>
+      <Message>XG BOXの情報が取得できません。</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0010">
+      <Title>XG BOXエラー</Title>
+      <Message>XG BOXの設定ができません。</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0011">
+      <Title>AeroDRパネル削除エラー</Title>
+      <Message>AeroDRパネルの登録解除ができません。</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0012">
+      <Title>AeroDRパネル削除確認</Title>
+      <Message>AeroDRパネルの登録を削除してもよろしいですか？</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0013">
+      <Title>AeroDRパネル削除確認</Title>
+      <Message>ダウンロードが行われていないAeroDRパネルの登録を削除してもよろしいですか？</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0014">
+      <Title>登録確認</Title>
+      <Message>アップロードが行われていないAeroDRパネルまたはXG BOXが存在します。保存してもよろしいですか？</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0015">
+      <Title>登録確認</Title>
+      <Message>アップロード済みのAeroDRパネルまたはXG BOXが存在するため、キャンセルできません。</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0016">
+      <Title>設定エラー</Title>
+      <Message>不正なデータが存在します。入力を確認してください。</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0017">
+      <Title>AeroDRパネルエラー</Title>
+      <Message>AeroDRパネルの設定を変更してください。</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0018">
+      <Title>設定データ送信確認</Title>
+      <Message>設定をサーバーに転送します。よろしいですか？</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0019">
+      <Title>設定データ送信エラー</Title>
+      <Message>設定の送信エラーです。ネットワークを確認し、再度操作を行ってください。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35520">
+      <Title>Σφάλμα προετοιμασίας</Title>
+      <Message>Η προετοιμασία απέτυχε.</Message>
+    </EventString>
+    <EventString Key="35521">
+      <Title>σφάλμα ανάγνωσης ρύθμισης</Title>
+      <Message>Παρουσιάστηκε σφάλμα κατά την ανάγνωση του αρχείου ρύθμισης.</Message>
+    </EventString>
+    <EventString Key="35522">
+      <Title>σφάλμα χρονικού ορίου</Title>
+      <Message>Παρουσιάστηκε λήξη χρονικού ορίου.</Message>
+    </EventString>
+    <EventString Key="">
+      <Title />
+      <Message>[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37350">
+      <Title>Εσωτερικό σφάλμα</Title>
+      <Message>Παρουσιάστηκε εσωτερικό σφάλμα στην επικοινωνία DICOM. Επικοινωνήστε με τον αντιπρόσωπο σέρβις.</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>Εσωτερικό σφάλμα</Title>
+      <Message>Παρουσιάστηκε εσωτερικό σφάλμα στην επικοινωνία DICOM. Επικοινωνήστε με τον αντιπρόσωπο σέρβις.</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>Εσωτερικό σφάλμα</Title>
+      <Message>Δεν ήταν δυνατή η λήψη της ρύθμισης επικοινωνίας DICOM. Επιβεβαιώστε τη ρύθμιση επικοινωνίας.</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>Σφάλμα επικοινωνίας</Title>
+      <Message>Αποτυχία κατά την επικοινωνία. Επαληθεύστε ότι η ρύθμιση επικοινωνίας και ο διακομιστής λειτουργούν.</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>Σφάλμα επικοινωνίας</Title>
+      <Message>Αποτυχία στο A-ASSOCIATE. Επαληθεύστε ότι η ρύθμιση επικοινωνίας και ο διακομιστής λειτουργούν.</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>Σφάλμα επικοινωνίας</Title>
+      <Message>Απόρριψη από τον διακομιστή στο A-ASSOCIATE λόγω μη έγκυρης ρύθμισης. Επιβεβαιώστε τη ρύθμιση επικοινωνίας.</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>Σφάλμα επικοινωνίας</Title>
+      <Message>Παρουσιάστηκε εσωτερικό σφάλμα στην επικοινωνία DICOM. Επικοινωνήστε με τον αντιπρόσωπο σέρβις.</Message>
+    </EventString>
+    <EventString Key="37357">
+      <Title>Σφάλμα επικοινωνίας</Title>
+      <Message>Απέτυχε κατά την επικοινωνία της αποδέσμευσης. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>Σφάλμα επικοινωνίας</Title>
+      <Message>Ελήφθη εντολή A-ABORT. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37600">
+      <Title>Εσωτερικό σφάλμα</Title>
+      <Message>Παρουσιάστηκε εσωτερικό σφάλμα στην επικοινωνία RIS-OUT. Επικοινωνήστε με τον αντιπρόσωπο σέρβις.</Message>
+    </EventString>
+    <EventString Key="37601">
+      <Title>Εσωτερικό σφάλμα</Title>
+      <Message>Παρουσιάστηκε εσωτερικό σφάλμα στην επικοινωνία RIS-OUT. Επικοινωνήστε με τον αντιπρόσωπο σέρβις.</Message>
+    </EventString>
+    <EventString Key="37602">
+      <Title>Εσωτερικό σφάλμα</Title>
+      <Message>Παρουσιάστηκε εσωτερικό σφάλμα στην επικοινωνία RIS-OUT. Επικοινωνήστε με τον αντιπρόσωπο σέρβις.</Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>Εσωτερικό σφάλμα</Title>
+      <Message>Η ειδοποίηση τερματισμού ελήφθη. [{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37699">
+      <Title>Εσωτερικό σφάλμα</Title>
+      <Message>Προέκυψε απροσδιόριστο σφάλμα. [{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37603">
+      <Title>Εσωτερικό σφάλμα</Title>
+      <Message>Παρουσιάστηκε εσωτερικό σφάλμα στην επικοινωνία RIS-OUT. Επικοινωνήστε με τον αντιπρόσωπο σέρβις.</Message>
+    </EventString>
+    <EventString Key="37604">
+      <Title>Εσωτερικό σφάλμα</Title>
+      <Message>Παρουσιάστηκε εσωτερικό σφάλμα στην επικοινωνία RIS-OUT. Επικοινωνήστε με τον αντιπρόσωπο σέρβις.</Message>
+    </EventString>
+    <EventString Key="37605">
+      <Title>Εσωτερικό σφάλμα</Title>
+      <Message>Παρουσιάστηκε εσωτερικό σφάλμα στην επικοινωνία RIS-OUT. Επικοινωνήστε με τον αντιπρόσωπο σέρβις.</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="27730">
+      <Title>Σφάλμα επικοινωνίας</Title>
+      <Message>Παρουσιάστηκε σφάλμα επικοινωνίας στην επικοινωνία RIS-OUT. Ελέγξτε τον προορισμό επικοινωνίας.</Message>
+    </EventString>
+    <EventString Key="27731">
+      <Title>Σφάλμα επικοινωνίας</Title>
+      <Message>Παρουσιάστηκε σφάλμα επικοινωνίας στην επικοινωνία RIS-OUT. Ελέγξτε τον προορισμό επικοινωνίας.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

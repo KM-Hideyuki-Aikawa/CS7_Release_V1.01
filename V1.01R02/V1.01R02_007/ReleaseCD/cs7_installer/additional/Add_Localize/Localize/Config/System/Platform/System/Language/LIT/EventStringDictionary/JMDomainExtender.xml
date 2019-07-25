@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="JMDomainExtender0001">
+      <Title>Ryšio užklausos būsena</Title>
+      <Message>Prisijungta sėkmingai.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0002">
+      <Title>Ryšio užklausos būsena</Title>
+      <Message>Prisijungti nepavyko.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0003">
+      <Title />
+      <Message>Jei vykstantis skaitymas netikėtai pristabdomas, gali atsirasti kliūčių, pavyzdžiui, dings vaizdas ir panašiai. Kuomet jis pristabdomas, rezervuokite šį skenavimą ir iš naujo paleiskite CS.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0004">
+      <Title />
+      <Message>Nepavyko pašalinti užduoties.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0005">
+      <Title />
+      <Message>Užduotis sėkmingai pašalinta.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0006">
+      <Title />
+      <Message>JM keitimas.Kasetės registravimas bus visiškai uždraustas. Ar tikrai taip?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

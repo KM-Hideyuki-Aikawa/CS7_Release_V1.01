@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0001">
+      <Title>Ошибка</Title>
+      <Message>Ошибка инициализации</Message>
+    </EventString>
+    <EventString Key="0002">
+      <Title>Информация</Title>
+      <Message>Объединение завершено</Message>
+    </EventString>
+    <EventString Key="0003">
+      <Title>Ошибка</Title>
+      <Message>Директория не найдена</Message>
+    </EventString>
+    <EventString Key="0004">
+      <Title>Ошибка</Title>
+      <Message>Файл не найден</Message>
+    </EventString>
+    <EventString Key="0005">
+      <Title>Ошибка</Title>
+      <Message>Синтаксическая ошибка</Message>
+    </EventString>
+    <EventString Key="0006">
+      <Title>Ошибка</Title>
+      <Message>Ошибка при удалении резервной копии</Message>
+    </EventString>
+    <EventString Key="0007">
+      <Title>Ошибка</Title>
+      <Message>Ошибка при создании резервной копии</Message>
+    </EventString>
+    <EventString Key="0008">
+      <Title>Ошибка</Title>
+      <Message>Ошибка при доступе к данным</Message>
+    </EventString>
+    <EventString Key="0009">
+      <Title>Ошибка</Title>
+      <Message>Ошибка при сохранении</Message>
+    </EventString>
+    <EventString Key="0010">
+      <Title>Ошибка</Title>
+      <Message>Ошибка при поиске индекса</Message>
+    </EventString>
+    <EventString Key="0011">
+      <Title>Ошибка</Title>
+      <Message>Ошибка в добавляемых данных</Message>
+    </EventString>
+    <EventString Key="0012">
+      <Title>Ошибка</Title>
+      <Message>Ошибка при копировании данных калибровки</Message>
+    </EventString>
+    <EventString Key="0013">
+      <Title>Ошибка</Title>
+      <Message>Вызвано исключение</Message>
+    </EventString>
+    <EventString Key="0014">
+      <Title>Ошибка</Title>
+      <Message>Вызвано исключение</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

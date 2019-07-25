@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientListDomainExtender0000">
+      <Title />
+      <Message>年の値が間違っています。</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0001">
+      <Title />
+      <Message>月の値が間違っています。</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0002">
+      <Title />
+      <Message>日の値が間違っています。</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0003">
+      <Title />
+      <Message>範囲外の値が入力されています。</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0004">
+      <Title />
+      <Message>文字数を超えています。</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0005">
+      <Title />
+      <Message>文字数が不足しています。</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0006">
+      <Title />
+      <Message>数字を入力してください。</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0007">
+      <Title />
+      <Message>無効な値が入力されました。</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0008">
+      <Title />
+      <Message>英数字を入力してください。</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0009">
+      <Title />
+      <Message>カナを入力してください。</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0010">
+      <Title />
+      <Message>この項目は"\"を使用できません。</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0011">
+      <Title />
+      <Message>この文字は入力できません。</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0012">
+      <Title>確認</Title>
+      <Message>検査を削除します。よろしいですか?</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0013">
+      <Title />
+      <Message>この項目は'\', '^', '='を使用できません。</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0014">
+      <Title />
+      <Message>この項目は'\','='を使用できません。</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0015">
+      <Title />
+      <Message>この検査を保留に戻しますか？</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0016">
+      <Title>バーコード検索</Title>
+      <Message>指定した条件の検査が複数{0}あります。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

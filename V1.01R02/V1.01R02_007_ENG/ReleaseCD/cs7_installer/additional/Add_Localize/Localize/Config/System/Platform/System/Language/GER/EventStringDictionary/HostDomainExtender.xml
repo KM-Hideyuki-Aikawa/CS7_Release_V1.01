@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="HostDomainExtender0001">
+      <Title>Ping-Status</Title>
+      <Message>Erfolgreich verbunden.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0002">
+      <Title>Ping-Status</Title>
+      <Message>Verbindung fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0003">
+      <Title>Bestätigung</Title>
+      <Message>Für welchen Dienst soll Ping (C-ECHO) ausgeführt werden?</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0004">
+      <Title>Bestätigung</Title>
+      <Message>OK zum Löschen der ausgewählten Warteschlange?</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0005">
+      <Title>Achtung</Title>
+      <Message>Wählen Sie die zu löschende(n) Warteschlange(n).</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0006">
+      <Title>Information</Title>
+      <Message>Ausgewählte Warteschlange(n) erfolgreich gelöscht.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0007">
+      <Title>Fehler</Title>
+      <Message>Fehler beim Löschen der Warteschlange.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0008">
+      <Title>Achtung</Title>
+      <Message>Der angegebene Host ist mit anderem CH dupliziert. Bilder werden möglicherweise doppelt ausgegeben.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35540">
+      <Title>Errore inizializzazione</Title>
+      <Message>Impossibile inizializzare.</Message>
+    </EventString>
+    <EventString Key="35541">
+      <Title>Impostazione errore lettura</Title>
+      <Message>Si è verificato un errore con la lettura dell'impostazione file.</Message>
+    </EventString>
+    <EventString Key="35542">
+      <Title>Errore time-out</Title>
+      <Message>Si è verificato un time-out.</Message>
+    </EventString>
+    <EventString Key="35543">
+      <Title>C35543</Title>
+      <Message />
+    </EventString>
+    <EventString Key="37350">
+      <Title>Errore interno</Title>
+      <Message>Si è verificato un errore interno nella comunicazione DICOM. Contattare un rappresentante dell'assistenza.</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>Errore interno</Title>
+      <Message>Si è verificato un errore interno nella comunicazione DICOM. Contattare un rappresentante dell'assistenza.</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>Errore interno</Title>
+      <Message>Impossibile ottenere l'impostazione di comunicazione DICOM. Confermare l'impostazione di comunicazione.</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>Errore di comunicazione</Title>
+      <Message>Impossibile comunicare. Confermare l'impostazione di comunicazione e che il server funziona.</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>Errore di comunicazione</Title>
+      <Message>Fallito in A-ASSOCIATE. Confermare l'impostazione di comunicazione e che il server funziona.</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>Errore di comunicazione</Title>
+      <Message>Rifiutato dal server in A-ASSOCIATE a causa di impostazione non valida. Confermare l'impostazione di comunicazione.</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>Errore di comunicazione</Title>
+      <Message>Si è verificato un errore interno nella comunicazione DICOM. Contattare un rappresentante dell'assistenza.</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>Errore di comunicazione</Title>
+      <Message>A-ABORT è stato ricevuto [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37360">
+      <Title>Errore interno</Title>
+      <Message>Verificato errore interno nella comunicazione RIS-OUT. Contattare un rappresentante di assistenza.</Message>
+    </EventString>
+    <EventString Key="37361">
+      <Title>Errore interno</Title>
+      <Message>Verificato errore interno nella comunicazione RIS-OUT. Contattare un rappresentante di assistenza.</Message>
+    </EventString>
+    <EventString Key="37362">
+      <Title>Errore interno</Title>
+      <Message>Verificato errore interno nella comunicazione RIS-OUT. Contattare un rappresentante di assistenza.</Message>
+    </EventString>
+    <EventString Key="37363">
+      <Title>Errore interno</Title>
+      <Message>Verificato errore interno nella comunicazione RIS-OUT. Contattare un rappresentante di assistenza.</Message>
+    </EventString>
+    <EventString Key="37364">
+      <Title>Errore interno</Title>
+      <Message>Verificato errore interno nella comunicazione RIS-OUT. Contattare un rappresentante di assistenza.</Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>Errore interno</Title>
+      <Message>Verificato errore interno nella comunicazione RIS-OUT. Contattare un rappresentante di assistenza.</Message>
+    </EventString>
+    <EventString Key="37699">
+      <Title>Errore sconosciuto</Title>
+      <Message>Errore ignoto verificatosi.[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37662">
+      <Title>Errore interno</Title>
+      <Message>Errore interno verificatori in comunicazione HOST. Contattare un rappresentante di assistenza.</Message>
+    </EventString>
+    <EventString Key="37365">
+      <Title>Errore interno</Title>
+      <Message>Verificato errore interno nella comunicazione RIS-OUT. Contattare un rappresentante di assistenza.</Message>
+    </EventString>
+    <EventString Key="37366">
+      <Title>Errore interno</Title>
+      <Message>Verificato errore interno nella comunicazione RIS-OUT. Contattare un rappresentante di assistenza.</Message>
+    </EventString>
+    <EventString Key="37367">
+      <Title>Errore interno</Title>
+      <Message>Verificato errore interno nella comunicazione RIS-OUT. Contattare un rappresentante di assistenza.</Message>
+    </EventString>
+    <EventString Key="37368">
+      <Title>Errore interno</Title>
+      <Message>Verificato errore interno nella comunicazione RIS-OUT. Contattare un rappresentante di assistenza.</Message>
+    </EventString>
+    <EventString Key="37369">
+      <Title>Errore interno</Title>
+      <Message>Verificato errore interno nella comunicazione RIS-OUT. Contattare un rappresentante di assistenza.</Message>
+    </EventString>
+    <EventString Key="37370">
+      <Title>Errore interno</Title>
+      <Message>Verificato errore interno nella comunicazione RIS-OUT. Contattare un rappresentante di assistenza.</Message>
+    </EventString>
+    <EventString Key="37371">
+      <Title>Errore interno</Title>
+      <Message>Verificato errore interno nella comunicazione RIS-OUT. Contattare un rappresentante di assistenza.</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="27700">
+      <Title>Errore di comunicazione</Title>
+      <Message>Errore di comunicazione verificatori nella comunicazione RIS-OUT. Contattare un rappresentante di assistenza.</Message>
+    </EventString>
+    <EventString Key="27701">
+      <Title>Errore di comunicazione</Title>
+      <Message>Errore di comunicazione verificatori nella comunicazione RIS-OUT. Contattare un rappresentante di assistenza.</Message>
+    </EventString>
+    <EventString Key="27702">
+      <Title>Errore di comunicazione</Title>
+      <Message>Errore di comunicazione verificatori nella comunicazione RIS-OUT. Contattare un rappresentante di assistenza.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

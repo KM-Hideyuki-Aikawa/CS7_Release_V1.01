@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0001">
+      <Title>Error</Title>
+      <Message>Error de inicialización</Message>
+    </EventString>
+    <EventString Key="0002">
+      <Title>Información</Title>
+      <Message>Combinación correcta</Message>
+    </EventString>
+    <EventString Key="0003">
+      <Title>Error</Title>
+      <Message>Directorio no encontrado</Message>
+    </EventString>
+    <EventString Key="0004">
+      <Title>Error</Title>
+      <Message>Archivo no encontrado</Message>
+    </EventString>
+    <EventString Key="0005">
+      <Title>Error</Title>
+      <Message>Error de sintaxis</Message>
+    </EventString>
+    <EventString Key="0006">
+      <Title>Error</Title>
+      <Message>Error al eliminar copia de seguridad</Message>
+    </EventString>
+    <EventString Key="0007">
+      <Title>Error</Title>
+      <Message>Error al crear copia de seguridad</Message>
+    </EventString>
+    <EventString Key="0008">
+      <Title>Error</Title>
+      <Message>Error al acceder a los datos</Message>
+    </EventString>
+    <EventString Key="0009">
+      <Title>Error</Title>
+      <Message>Error al guardar</Message>
+    </EventString>
+    <EventString Key="0010">
+      <Title>Error</Title>
+      <Message>Error al buscar índice</Message>
+    </EventString>
+    <EventString Key="0011">
+      <Title>Error</Title>
+      <Message>Error al adjuntar datos</Message>
+    </EventString>
+    <EventString Key="0012">
+      <Title>Error</Title>
+      <Message>Error al copiar datos de calibración</Message>
+    </EventString>
+    <EventString Key="0013">
+      <Title>Error</Title>
+      <Message>Ha ocurrido una excepción</Message>
+    </EventString>
+    <EventString Key="0014">
+      <Title>Error</Title>
+      <Message>Ha ocurrido una excepción</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

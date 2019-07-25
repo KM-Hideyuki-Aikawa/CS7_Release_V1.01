@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ApolloDomainExtender0001">
+      <Title>Status de Ping</Title>
+      <Message>Ligado com sucesso.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0002">
+      <Title>Status de Ping</Title>
+      <Message>Falha ao ligar.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0003">
+      <Title>Confirmação</Title>
+      <Message>Concorda com o cancelamento do registo?</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0004">
+      <Title>Erro</Title>
+      <Message>Falhou cancelamento do dispositivo.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0005">
+      <Title>Erro</Title>
+      <Message>Não é possível processar o pedido pois o dispositivo não está selecionado.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0006">
+      <Title>Informação</Title>
+      <Message>Sem fios</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0007">
+      <Title>Informação</Title>
+      <Message>Com fios</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

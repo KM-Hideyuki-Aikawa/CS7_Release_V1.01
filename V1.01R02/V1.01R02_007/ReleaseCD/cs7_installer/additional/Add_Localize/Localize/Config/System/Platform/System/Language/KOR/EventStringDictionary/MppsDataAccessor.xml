@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35520">
+      <Title>초기화 오류</Title>
+      <Message>초기화에 실패했습니다.</Message>
+    </EventString>
+    <EventString Key="35521">
+      <Title>설정 읽기 오류</Title>
+      <Message>설정 파일 판독 오류가 발생했습니다.</Message>
+    </EventString>
+    <EventString Key="35522">
+      <Title>타임아웃 오류</Title>
+      <Message>시간이 초과되었습니다.</Message>
+    </EventString>
+    <EventString Key="">
+      <Title />
+      <Message>[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37350">
+      <Title>내부 오류</Title>
+      <Message>DICOM 통신 중 내부 오류가 발생했습니다. 서비스 직원에게 문의하십시오.</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>내부 오류</Title>
+      <Message>DICOM 통신 중 내부 오류가 발생했습니다. 서비스 직원에게 문의하십시오.</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>내부 오류</Title>
+      <Message>DICOM 통신 설정을 확보하지 못했습니다. 통신 설정을 확인해 주십시오.</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>통신 오류</Title>
+      <Message>통신에 실패했습니다. 통신 설정 및 서버 작동 상태를 확인해 주십시오.</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>통신 오류</Title>
+      <Message>A-ASSOCIATE에 실패했습니다. 통신 설정 및 서버 작동 상태를 확인해 주십시오.</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>통신 오류</Title>
+      <Message>무효한 설정으로 인해 A-ASSOCIATE의 서버에서 거부되었습니다. 통신 설정을 확인해 주십시오.</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>통신 오류</Title>
+      <Message>DICOM 통신 중 내부 오류가 발생했습니다. 서비스 직원에게 문의하십시오.</Message>
+    </EventString>
+    <EventString Key="37357">
+      <Title>통신 오류</Title>
+      <Message>방출 통신에 실패했습니다. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>통신 오류</Title>
+      <Message>A-ABORT가 수신되었습니다. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37600">
+      <Title>내부 오류</Title>
+      <Message>RIS-OUT 통신 중 내부 오류가 발생했습니다. 서비스 직원에게 문의하십시오.</Message>
+    </EventString>
+    <EventString Key="37601">
+      <Title>내부 오류</Title>
+      <Message>RIS-OUT 통신 중 내부 오류가 발생했습니다. 서비스 직원에게 문의하십시오.</Message>
+    </EventString>
+    <EventString Key="37602">
+      <Title>내부 오류</Title>
+      <Message>RIS-OUT 통신 중 내부 오류가 발생했습니다. 서비스 직원에게 문의하십시오.</Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>내부 오류</Title>
+      <Message>종료 통보가 수신되었습니다. [{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37699">
+      <Title>내부 오류</Title>
+      <Message>미지정 오류가 발생했습니다. [{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37603">
+      <Title>내부 오류</Title>
+      <Message>RIS-OUT 통신 중 내부 오류가 발생했습니다. 서비스 직원에게 문의하십시오.</Message>
+    </EventString>
+    <EventString Key="37604">
+      <Title>내부 오류</Title>
+      <Message>RIS-OUT 통신 중 내부 오류가 발생했습니다. 서비스 직원에게 문의하십시오.</Message>
+    </EventString>
+    <EventString Key="37605">
+      <Title>내부 오류</Title>
+      <Message>RIS-OUT 통신 중 내부 오류가 발생했습니다. 서비스 직원에게 문의하십시오.</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="27730">
+      <Title>통신 오류</Title>
+      <Message>RIS-OUT 통신 중 내부 오류가 발생했습니다. 통신 수신지를 확인하십시오.</Message>
+    </EventString>
+    <EventString Key="27731">
+      <Title>통신 오류</Title>
+      <Message>RIS-OUT 통신 중 내부 오류가 발생했습니다. 통신 수신지를 확인하십시오.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

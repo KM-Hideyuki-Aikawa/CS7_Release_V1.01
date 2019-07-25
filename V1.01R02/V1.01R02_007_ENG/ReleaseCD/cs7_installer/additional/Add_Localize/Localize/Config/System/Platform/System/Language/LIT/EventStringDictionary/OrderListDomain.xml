@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="OrderListDomain0001">
+      <Title>Klaida</Title>
+      <Message>DB atnaujinimo klaida.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0002">
+      <Title>Įspėjimas</Title>
+      <Message>Negaliojanti reikšmė. Vykdyti neįmanoma.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0003">
+      <Title>Įspėjimas</Title>
+      <Message>Įvestis yra privaloma.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0004">
+      <Title>Klaida</Title>
+      <Message>Vykdyti neįmanoma.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0005">
+      <Title>Paciento atnaujinimo klaida</Title>
+      <Message>Paciento atnaujinimo klaida.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0006">
+      <Title>Informacija</Title>
+      <Message>DB duomenys atnaujinti, bus rodomas atnaujintas tyrimas.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0007">
+      <Title>Klaida</Title>
+      <Message>Tyrimas pašalintas iš duomenų bazės, neįmanoma vykdyti operacijos.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0008">
+      <Title>Patvirtinimas</Title>
+      <Message>Tas pat paciento ID:{0}, paciento vardas, pavardė: {1}, lytis: {2}, gimimo data:{3} yra prieinami duomenų bazėje, ar norite panaudoti DB duomenis?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0009">
+      <Title>Patvirtinimas</Title>
+      <Message>Tyrimas atliekamas. Ar norite tęsti?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0010">
+      <Title>Įspėjimas</Title>
+      <Message>Tyrimas jau įvykdytas kitoje konsolėje.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

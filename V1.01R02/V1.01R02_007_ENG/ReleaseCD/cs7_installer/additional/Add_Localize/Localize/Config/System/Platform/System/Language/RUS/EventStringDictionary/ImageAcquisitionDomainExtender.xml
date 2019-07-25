@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ImageAcquisitionDomainExtender0000">
+      <Title>Подтверждение</Title>
+      <Message>Вы действительно хотите удалить изображение?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0001">
+      <Title>Подтверждение</Title>
+      <Message>Экспонировать повторно?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender1001">
+      <Title>Внимание</Title>
+      <Message>Невозможно увеличить дозу свыше {MaxSize} .</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0002">
+      <Title>Подтверждение</Title>
+      <Message>Вы действительно хотите отменить удаление?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0003">
+      <Title>Подтверждение</Title>
+      <Message>Изображения не получены.
+Вы действительно хотите завершить исследование?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0004">
+      <Title>Подтверждение</Title>
+      <Message>Продолжить исследование в другом кабинете?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0005">
+      <Title>Подтверждение</Title>
+      <Message>Штрих-код кассеты зарегистрирован с этой меткой исслед. 
+Вы действительно хотите удалить регистрацию штрих-кода?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0006">
+      <Title>Ошибка</Title>
+      <Message>Ошибка во время чтения изображения.
+Проверьте сеть.
+Перезапустите устройство чтения.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0007">
+      <Title>ошибка</Title>
+      <Message>ID пациента: {PATIENTID}
+Имя пациента: {PATIENTNAME}
+Имя устройства чтения: {READERNAME}
+Прием изображения не завершен.
+Проверьте сеть.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0008">
+      <Title>Предупреждение</Title>
+      <Message>Имя устройства чтения: {READERNAME}
+Вы действительно хотите отменить прием изображения?
+ В случае отмены перезапустите устройство чтения.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0009">
+      <Title>Ошибка</Title>
+      <Message>Выполняется чтение изображения. Войдите в систему немного позднее.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0010">
+      <Title>Ошибка</Title>
+      <Message>Не удалось завершить исследование.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0011">
+      <Title>Ошибка</Title>
+      <Message>Не удалось приостановить исследование.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0012">
+      <Title>Ошибка</Title>
+      <Message>Эта кассета предназначена для обычного экспонирования.
+Проверьте метку исслед.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0013">
+      <Title>Ошибка</Title>
+      <Message>Эта кассета предназначена для контактной маммографии.
+Проверьте метку исслед.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0014">
+      <Title>Ошибка</Title>
+      <Message>Эта кассета предназначена для PCM.
+Проверьте метку исслед.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0015">
+      <Title>Ошибка</Title>
+      <Message>Эта кассета уже зарегистрирована.
+Зарегистрируйте др. кассету.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0016">
+      <Title>Внимание</Title>
+      <Message>Чтение этой кассеты уже началось.
+Невозможно удалить регистрацию штрих-кода.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0017">
+      <Title>Внимание</Title>
+      <Message>Чтение этой кассеты уже началось.
+Невозможно удалить задания, зарегистрированные в режиме ручной регистрации.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0018">
+      <Title>Внимание</Title>
+      <Message>Чтение этой кассеты уже началось.
+Невозможно удалить задания, зарегистрированные в режиме ручной регистрации.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0019">
+      <Title>Подтверждение</Title>
+      <Message>Вы действительно хотите приостановить исследование?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0020">
+      <Title>Подтверждение</Title>
+      <Message>Полученные изображения отсутствуют. Вы действительно хотите изменить состояние на "не начато"?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0021">
+      <Title>Подтверждение</Title>
+      <Message>Вы действительно хотите удалить регистрацию штрих-кода?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0022">
+      <Title>Повторная передача изображения</Title>
+      <Message>Удалить непереданные изображения с консоли? [OK]: удалить [Отмена]: возврат без удаления</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0023">
+      <Title>Повторная передача изображения</Title>
+      <Message>{READERNAME}: Некоторые изображения еще не переданы. Удалить их?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0024">
+      <Title>Ошибка передачи изображения</Title>
+      <Message>{READERNAME}: Ошибка связи во время передачи изображения. Проверьте состояние подключения кабеля связи.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0025">
+      <Title>Повторная передача изображения</Title>
+      <Message>{READERNAME}: "{ImageAcquisitionConditionName}" еще не переданы. Извлечь изображение?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0026">
+      <Title>Подтверждение</Title>
+      <Message>Вы действительно хотите удалить выбранную метку исслед.?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0027">
+      <Title>Подтверждение</Title>
+      <Message>Вы действительно хотите удалить исследование?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0028">
+      <Title>Ошибка</Title>
+      <Message>Тайм-аут при передаче изображения.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0029">
+      <Title />
+      <Message>Не передано изображение для условий "{ImageAcquisitionConditionName}".
+Невозможно повторно получить изображение из-за различия в методах исследования. Отметьте изображение.
+ В случае повторного получения установите состояние панели, соответствующее исследованию. Отметка.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0030">
+      <Title />
+      <Message>Не удалось получить непереданное изображение.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0031">
+      <Title />
+      <Message>Не удалось удалить непереданное изображение.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0032">
+      <Title>Подтверждение</Title>
+      <Message>Вы действительно хотите приостановить исследование?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

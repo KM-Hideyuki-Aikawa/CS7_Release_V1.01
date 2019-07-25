@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="XRayDeviceDataAccessorDrRm7102">
+      <Title>등록 규제 번호 오류</Title>
+      <Message>4개가 등록되었습니다.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7103">
+      <Title>알 수 없는 AeroDR 검출기</Title>
+      <Message>알 수 없는 AeroDR 검출기</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7104">
+      <Title>알 수 없는 노출 장치</Title>
+      <Message>알 수 없는 노출 장치</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7105">
+      <Title>RM 오류</Title>
+      <Message>RM 관리표 오류 서비스 직원에게 문의하십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7106">
+      <Title>버전 업 오류</Title>
+      <Message>버전 업이 일치하지 않습니다. 서비스 직원에게 문의하십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7107">
+      <Title>RM 오류</Title>
+      <Message>RM 관리표 오류입니다. 서비스 직원에게 문의하십시오</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7108">
+      <Title>RM 오류</Title>
+      <Message>RM 관리표 오류입니다. 서비스 직원에게 문의하십시오</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7109">
+      <Title>RM 오류</Title>
+      <Message>RM 관리표 오류입니다. 네트워크 연결 상태를 확인하십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7110">
+      <Title>RM 오류</Title>
+      <Message>RM 관리표 오류입니다. 네트워크 연결 상태를 확인하십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7111">
+      <Title>등록 취소 오류</Title>
+      <Message>AeroDR 패널 등록을 취소할 때 오류가 발생했습니다.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7112">
+      <Title>방사선실 전환 오류</Title>
+      <Message>방사선실 전환 중 오류가 발생했습니다.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7113">
+      <Title>백 프로세스 통신 오류</Title>
+      <Message>통신할 수 없습니다.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7114">
+      <Title>구성 작동 설정 오류</Title>
+      <Message>AeroDR 패널의 구성 작동 시 오류가 발생했습니다.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7115">
+      <Title>RM 업데이트</Title>
+      <Message>RM 관리표가 업데이트되었습니다. 장치를 재시작하십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7116">
+      <Title>라이선스 오류</Title>
+      <Message>등록하려고 했던 패널의 라이선스가 존재하지 않거나 라이선스의 수가 충분하지 않습니다. 라이선스를 확보하거나 확보한 라이선스 수에 맞게 패널을 등록하십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7117">
+      <Title>오류</Title>
+      <Message>RM 설정 전송 중 에러가 발생했습니다.
+네트워크 연결 확인 후 다시 시도해 주십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7118">
+      <Title>오류</Title>
+      <Message>CS-7 설정 구성 에러입니다.
+설정 확인 후 다시 시도해 주십시오.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

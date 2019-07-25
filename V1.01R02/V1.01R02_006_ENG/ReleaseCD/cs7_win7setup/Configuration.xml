@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Setup>
+  <Language>ENG</Language>
+  <Version>V100R00E</Version>
+  <Title>CS-7</Title>
+  <InstallationTasks>
+
+    <Task ID="ConfigureNetwork">Configure Network</Task>
+    <Task ID ="SetUacOff">Set UAC off</Task>
+    <Task ID ="ActivateAdministratorAccount">Activate Administrator Account</Task>
+    <Task ID ="SetPasswordandProperties">Set Password and Properties</Task>
+    <Task ID ="SetAutoLogon">Set Auto Logon</Task>
+    <Task ID="SetPowerManage">Set PowerManage</Task>
+    <Task ID ="DisableFirewall">Disable Firewall</Task>
+    <Task ID ="DisableWindowsUpdate">Disable Windows Update</Task>
+    <Task ID ="DisplayFileIconOnThumbnails">Display file icon on thumbnails</Task>
+    <Task ID ="DisableRemoteAssistant">Disable Remote Assistant</Task>
+    <Task ID="SetWallPaper">Set Wall Paper</Task>
+    <Task ID ="DisableSynchronizeWithAnInternetTimeServer">Disable Synchronize with an Internet time server</Task>
+    <Task ID="SetWorkgroup">Set Workgroup</Task>
+    <Task ID="SetStartMenu">Set Start Menu</Task>
+    <Task ID ="EnableServices">Enable Services</Task>
+    <Task ID="SetIIS">Set IIS</Task>
+
+    <!-- <Task ID ="SetMediaplayer">Set Media player</Task>-->
+    <!-- 2011.03.18 CS-7 -->
+    <!--
+    <Task ID ="CheckAdobeReaderInstallation">Check Adobe Reader Installation</Task>
+    <Task ID ="CheckAdobeFlashInstallation">Check Adobe Flash Installation</Task>
+    <Task ID ="CheckFrameworkInstallation">Check Framework 4.0 Installation</Task>
+    <Task ID ="CheckPostgreSQL84Installation">Check PostgreSQL 8.4 Installation</Task>
+    <Task ID ="CheckVC2010RuntimeInstallation">Check VC2010 Runtime Installation</Task>
+    -->
+  </InstallationTasks>
+</Setup>

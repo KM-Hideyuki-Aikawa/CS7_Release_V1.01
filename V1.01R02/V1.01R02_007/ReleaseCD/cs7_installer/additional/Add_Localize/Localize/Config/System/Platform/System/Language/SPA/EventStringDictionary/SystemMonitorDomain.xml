@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="SystemMonitorDomain00001">
+      <Title>Componente de lector</Title>
+      <Message>(NombreLector) en (NombreComponente) va a expirar. Llame a mantenimiento.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00002">
+      <Title>Componente de lector</Title>
+      <Message>(NombreComponente) va a expirar. Llame a mantenimiento.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00003">
+      <Title>Componente de lector</Title>
+      <Message>(NombreLector) en (NombreComponente) ha expirado. Llame a mantenimiento.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00004">
+      <Title>Componente de lector</Title>
+      <Message>(NombreComponente) ha expirado. Llame a mantenimiento.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00005">
+      <Title />
+      <Message>¿Quiere finalizar el sistema?</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00006">
+      <Title />
+      <Message>Actualización correcta.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00007">
+      <Title />
+      <Message>Ha cerrado la sesión en la aplicación correctamente.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00008">
+      <Title>Error</Title>
+      <Message>No puede procesarse solicitud de cierre sesión.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00009">
+      <Title>Error</Title>
+      <Message>Compruebe PlugIn (NombreAmpliadorDominio) no cargado.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00010">
+      <Title />
+      <Message>¿Seguro que desea cerrar sesión?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

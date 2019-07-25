@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title>Pozor</Title>
+      <Message>Zadejte numerickou hodnotu.</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title>Pozor</Title>
+      <Message>Zadejte platná data</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title>Chyba</Title>
+      <Message>Chyba při startu Gain kalibrace</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title>Chyba</Title>
+      <Message>Chyba při startu offset kalibrace</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title>Potvrzení</Title>
+      <Message>Chcete přerušit proces Gain kalibrace?</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title>Potvrzení</Title>
+      <Message>Chcete přerušit proces Gain kalibrace??</Message>
+    </EventString>
+    <EventString Key="0107">
+      <Title>Potvrzení</Title>
+      <Message>Chcete přerušit proces Gain kalibrace?</Message>
+    </EventString>
+    <EventString Key="0108">
+      <Title>Potvrzení</Title>
+      <Message>Gain kalibrace úspěšně dokončena</Message>
+    </EventString>
+    <EventString Key="0109">
+      <Title>Potvrzení</Title>
+      <Message>Offset kalibrace úspěšně dokončena</Message>
+    </EventString>
+    <EventString Key="0110">
+      <Title>Chyba</Title>
+      <Message>Gain kalibrace neúspěšná</Message>
+    </EventString>
+    <EventString Key="0111">
+      <Title>Chyba</Title>
+      <Message>Offset kalibrace neúspěšná</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

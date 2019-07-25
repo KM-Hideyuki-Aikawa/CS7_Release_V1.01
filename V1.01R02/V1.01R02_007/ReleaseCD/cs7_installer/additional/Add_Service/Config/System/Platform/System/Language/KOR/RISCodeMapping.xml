@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>RisCodeMappingTitle</Key>
+      <Value>RIS 코드 매핑</Value>
+      <Comment>RisCodeMapping</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblUserMasterHeader</Key>
+      <Value>사용자 마스터</Value>
+      <Comment>User Master</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblProcedureCodeMappingTable</Key>
+      <Value>RIS 코드 매핑</Value>
+      <Comment>Procedure Code Mapping Table</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblStatusFilter</Key>
+      <Value>상태 필터</Value>
+      <Comment>Status Filter</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblFreeWorldFilter</Key>
+      <Value>자유 의견 필터</Value>
+      <Comment>Free World Filter</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvDataHeader</Key>
+      <Value>신체 부위 목록</Value>
+      <Comment>Data</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvInformationHeader</Key>
+      <Value>RIS 코드 매핑</Value>
+      <Comment>Information</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnFilter</Key>
+      <Value>필터</Value>
+      <Comment>Filter</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnRISCode</Key>
+      <Value>RIS 코드만 해당</Value>
+      <Comment>RIS Code</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnIncorrect</Key>
+      <Value>중복 RIS 코드</Value>
+      <Comment>RIS Code Incorrect</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnUnRegistered</Key>
+      <Value>사용자 마스터 미등록</Value>
+      <Comment>UnRegistered</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnRelease</Key>
+      <Value>해제</Value>
+      <Comment>Release</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnAdd</Key>
+      <Value>추가...</Value>
+      <Comment>Add</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnImport</Key>
+      <Value>가져오기...</Value>
+      <Comment>Import</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnExport</Key>
+      <Value>내보내기...</Value>
+      <Comment>Export</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnDelete</Key>
+      <Value>삭제</Value>
+      <Comment>Delete</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnOk</Key>
+      <Value>OK</Value>
+      <Comment>OK</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnCancel</Key>
+      <Value>취소</Value>
+      <Comment>Cancel</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnAdapt</Key>
+      <Value>적용</Value>
+      <Comment>Adapt</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderUserMasterGroup</Key>
+      <Value>그룹</Value>
+      <Comment>Group</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderUserMasterName</Key>
+      <Value>Exam. Tag(검사 태그)</Value>
+      <Comment>Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderRISCodeCategory</Key>
+      <Value>코딩 계획 지정자</Value>
+      <Comment>Category</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderRISCodeCode</Key>
+      <Value>RIS 코드</Value>
+      <Comment>Code</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderRISCodeDescription</Key>
+      <Value>비고</Value>
+      <Comment>Description</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderRISCodeSerialNo</Key>
+      <Value>일련 번호</Value>
+      <Comment>Serial No</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderRISCodeGroup</Key>
+      <Value>그룹</Value>
+      <Comment>Group</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderRISCodeName</Key>
+      <Value>Exam. Tag(검사 태그)</Value>
+      <Comment>Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DetailRisScreenTitle</Key>
+      <Value>상세</Value>
+      <Comment>Detail RIS Screen</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImportScreenTitle</Key>
+      <Value>가져오기</Value>
+      <Comment>RIS Import</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnReplaceProcedure</Key>
+      <Value>RIS 코드 맵핑 교체</Value>
+      <Comment>Replace Procedure Code Mapping Table</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblReplaceProcedureContent</Key>
+      <Value />
+      <Comment>Current entries are disgarded and content available in source is added.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnAddProcedure</Key>
+      <Value>RIS 코드 맵핑 추가</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblAddProcedureContent</Key>
+      <Value />
+      <Comment>Content available in source file are imported and appended to current table.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExportScreenTitle</Key>
+      <Value>내보내기</Value>
+      <Comment>RIS Export</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnImportInto</Key>
+      <Value>다른 SC-7 콘솔의 가져오기 데이터 내보내기</Value>
+      <Comment>Import into other Console.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblImportIntoContent</Key>
+      <Value />
+      <Comment>Import Into Other Console</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>btnVerifyCode</Key>
+      <Value>RIS 코드 맵핑 검증 데이터 내보내기</Value>
+      <Comment>Verify code mapping contents table.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblVerifyCodeContent</Key>
+      <Value />
+      <Comment>Verify code mapping contents table.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NewRisCodeMappingTitle</Key>
+      <Value>RIS 코드 맵핑 추가</Value>
+      <Comment>Add</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lblSelectItemContent</Key>
+      <Value>내보내기 항목 선택</Value>
+      <Comment>Select Item to Export</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IntermediateExportScreenTitle</Key>
+      <Value>RIS 코드 맵핑 검증 내보내기</Value>
+      <Comment>Select Item</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxsaveCaption</Key>
+      <Value>저장하시겠습니까?</Value>
+      <Comment>New RIS Code Mapping</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxcancelCaption</Key>
+      <Value>저장하지 않고 닫으시겠습니까?</Value>
+      <Comment>Select Item to Export</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxRisCodeIncorrectCaption</Key>
+      <Value>몇 개의 입력 항목이 잘못 되었습니다. 수정해 주십시오.</Value>
+      <Comment>Select Item</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxNewValiadtionCaption</Key>
+      <Value>코딩 계획 지정자 또는 RIS 코드가 비어있습니다.</Value>
+      <Comment>New RIS Code Mapping</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxImportSucccessCaption</Key>
+      <Value>RIS 코드 맵핑을 성공적으로 가져오기할 수 있습니다.</Value>
+      <Comment>Select Item to Export</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxImportFailureCaption</Key>
+      <Value>RIS 코드 맵핑을 가져오기할 수 없습니다.</Value>
+      <Comment>Select Item</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxExportSucccessCaption</Key>
+      <Value>RIS 코드 맵핑을 성공적으로 내보내기할 수 있습니다.</Value>
+      <Comment>New RIS Code Mapping</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxExportFailureCaption</Key>
+      <Value>RIS 코드 맵핑을 내보내기할 수 없습니다.</Value>
+      <Comment>Select Item to Export</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxDeleteCaption</Key>
+      <Value>정말 삭제하시겠습니까?</Value>
+      <Comment>Select Item</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxExportconfirmationCaption</Key>
+      <Value>정말 내보내기하시겠습니까?</Value>
+      <Comment>New RIS Code Mapping</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxImportAppendCaption</Key>
+      <Value>정말 RIS 코드 맵핑에 추가하시겠습니까?</Value>
+      <Comment>Select Item to Export</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxImportReplaceCaption</Key>
+      <Value>정말 RIS 코드 맵핑을 교체하시겠습니까?</Value>
+      <Comment>Select Item</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxmaxaddCaption</Key>
+      <Value>검사 태그는 128을 초과하면 추가할 수 없습니다.</Value>
+      <Comment>Select Item</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>lvColumnHeaderRISPriorty</Key>
+      <Value>우선순위</Value>
+      <Comment>Select Item</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxExportValidationCaption</Key>
+      <Value>Do you want to save the changes and continue the process</Value>
+      <Comment>Select Item</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxImportValidationCaption</Key>
+      <Value>Do you want to save the changes and continue the process</Value>
+      <Comment>Select Item</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxExportValidationHeaderCaption</Key>
+      <Value>CS-7</Value>
+      <Comment>Select Item</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxImportValidationHeaderCaption</Key>
+      <Value>CS-7</Value>
+      <Comment>Select Item</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+<LocalizeInfo>
+      <Key>btnClose</Key>
+      <Value>Close</Value>
+      <Comment>Select Item</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxDeleteMsgCaption</Key>
+      <Value>Do you want to Delete ?</Value>
+      <Comment>Select Item</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxPriortyValidationCaption</Key>
+      <Value>Only numbers can be entered.</Value>
+      <Comment>Select Item</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxExportCaption</Key>
+      <Value>Do you want to Export ?</Value>
+      <Comment>Select Item</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxImportCaption</Key>
+      <Value>Do you want to Import ?</Value>
+      <Comment>Select Item</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxCommaValidationCaption</Key>
+      <Value>Comma cannot be entered.</Value>
+      <Comment>Select Item</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

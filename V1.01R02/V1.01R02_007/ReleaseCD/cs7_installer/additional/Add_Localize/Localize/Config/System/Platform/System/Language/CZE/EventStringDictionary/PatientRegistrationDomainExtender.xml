@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientRegistrationDomainExtender0001">
+      <Title>Chyba</Title>
+      <Message>Zadaný rok je neplatný.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0002">
+      <Title>Chyba</Title>
+      <Message>Zadaný měsíc je neplatný.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0003">
+      <Title>Chyba</Title>
+      <Message>Zadaný den je neplatný.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0004">
+      <Title>Chyba</Title>
+      <Message>Zadaná hodnota je neplatná.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0005">
+      <Title>Chyba</Title>
+      <Message>Není dosaženo maximálního počtu znaků.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0006">
+      <Title>Chyba</Title>
+      <Message>Není dosaženo minimálního počtu znaků.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0007">
+      <Title>Chyba</Title>
+      <Message>Zadejte číslo.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0008">
+      <Title>Chyba</Title>
+      <Message>Zadaná hodnota je neplatná</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0009">
+      <Title>Chyba</Title>
+      <Message>Zadejte alfanumerický znak.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0010">
+      <Title>Chyba</Title>
+      <Message>Povolena pouze kana.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0011">
+      <Title>Chyba</Title>
+      <Message>Neplatná hodnota. Zde nelze použít "\".</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0012">
+      <Title>Chyba</Title>
+      <Message>Zadaný rok je neplatný.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0013">
+      <Title>Chyba</Title>
+      <Message>Zadaný rok je neplatný.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0014">
+      <Title>Chyba</Title>
+      <Message>Zadaný rok je neplatný. Zadejte hodnotu 1800 nebo vyšší.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0015">
+      <Title>Chyba</Title>
+      <Message>Chyba rozsahu data. Zkontrolujte.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0016">
+      <Title>Chyba</Title>
+      <Message>Zadaná hodina je neplatná.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0017">
+      <Title>Chyba</Title>
+      <Message>Zadané minuty jsou neplatné.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0018">
+      <Title>Chyba</Title>
+      <Message>Zadané vteřiny jsou neplatné.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0019">
+      <Title>Chyba</Title>
+      <Message>Zadejte celé číslo.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0020">
+      <Title>Chyba</Title>
+      <Message>Došlo k chybě vyhledávání</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0021">
+      <Title>Upozornění</Title>
+      <Message>Změna informací o pacientovi může způsobit chyby ve shodě studie PACS.Bezprostředně potvrďte všechny změněné údaje týkající se PACS.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0022">
+      <Title>Potvrzení</Title>
+      <Message>IDPacienta je povinné, Zadejte IDPacienta.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0023">
+      <Title>Potvrzení</Title>
+      <Message>ID studie je povinné, Zadejte ID studie.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0024">
+      <Title>Potvrzení</Title>
+      <Message>JménoPacienta je povinné, Zadejte JménoPacienta.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0025">
+      <Title>Potvrzení</Title>
+      <Message>JménoPacienta je povinné, Zadejte JménoPacienta.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0026">
+      <Title>Potvrzení</Title>
+      <Message>JménoPacienta je povinné, Zadejte JménoPacienta.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0027">
+      <Title>Potvrzení</Title>
+      <Message>Pohlaví je povinné, Zadejte pohlaví.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0028">
+      <Title>Potvrzení</Title>
+      <Message>Datum narození je povinné, Zadejte datum narození.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0029">
+      <Title>Chyba</Title>
+      <Message>Nelze přečíst magnetickou kartu. Restartujte systém.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0030">
+      <Title>Chyba</Title>
+      <Message>Není zadáno povinné pole. Nelze provést.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0031">
+      <Title>Potvrzení</Title>
+      <Message>Studie obsahuje exponovaný snímek, chcete studii upravit?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0032">
+      <Title>Potvrzení</Title>
+      <Message>Je správné zavřít probíhající náhled dr.?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0033">
+      <Title>Potvrzení</Title>
+      <Message>Chcete restartovat náhled dr.? </Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0034">
+      <Title>Potvrzení</Title>
+      <Message>Studie se vrátí do pozastaveného stavu. Je to v pořádku?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0035">
+      <Title>Chyba</Title>
+      <Message>Není odpovídající studie, info o pacientovi.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0036">
+      <Title>Potvrzení</Title>
+      <Message>Studie už je v DB. Chcete tuto studii použít?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0037">
+      <Title>Potvrzení</Title>
+      <Message>Informace o pacientovi už je v DB. Chcete tyto informace o pacientovi použít?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0038">
+      <Title>Chyba</Title>
+      <Message>Nelze vybrat více pacientů.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0039">
+      <Title>Chyba</Title>
+      <Message>Chyba DB - Vytvoření objednávky neúspěšné.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0040">
+      <Title>Chyba</Title>
+      <Message>Chyba aktualizace DB pacienta.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0041">
+      <Title>Chyba</Title>
+      <Message>Příslušný pacient není v DB</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0042">
+      <Title>Chyba</Title>
+      <Message>Tento znak není povolen</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0046">
+      <Title>Chyba</Title>
+      <Message>Budoucí rok nelze uvést.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0047">
+      <Title>Chyba</Title>
+      <Message>Budoucí měsíc nelze uvést.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0048">
+      <Title>Chyba</Title>
+      <Message>Budoucí datum nelze uvést.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0049">
+      <Title>Chyba</Title>
+      <Message>Zadaný rok není přestupný. Zkontrolujte datum.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0052">
+      <Title>Potvrzení</Title>
+      <Message>Objednávka je registrována. Chcete ji přepsat?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0053">
+      <Title>Potvrzení</Title>
+      <Message>ID téhož pacienta: {0},Jméno pacienta {1},Pohlaví: {2},DOB:{3} dostupný v databázi, chcete přepsat?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0054">
+      <Title>Chyba</Title>
+      <Message>Neplatná hodnota. Zde nelze použít "\", "^" nebo"=".</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0055">
+      <Title>Chyba</Title>
+      <Message>Neplatná hodnota. Zde nelze použít "\" nebo "=".</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0056">
+      <Title>Chyba</Title>
+      <Message>Operace není možná</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0057">
+      <Title>Potvrzení</Title>
+      <Message>Chcete vymazat všechny?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0058">
+      <Title>Chyba</Title>
+      <Message>Zadejte povinná pole</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0059">
+      <Title>Potvrzení</Title>
+      <Message>Chcete studii zaregistrovat?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0060">
+      <Title>Chyba</Title>
+      <Message>Registrace neúspěšná</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0061">
+      <Title>Potvrzení</Title>
+      <Message>Chcete data přepsat?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0062">
+      <Title>Chyba</Title>
+      <Message>Není odpovídající studie, pacient.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0063">
+      <Title>Chyba</Title>
+      <Message>Zadejte obsah pro vyhledávání.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0064">
+      <Title>Chyba</Title>
+      <Message>Zadejte hodnotu do pole Datum obsahu a Čas obsahu</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ExposureRoomDomainExtender0001">
+      <Title>Onay</Title>
+      <Message>Çekim odası [çekim odası 2] olarak değiştirilecek. Onaylıyor musunuz? [Çekim odası 2]'ye bağlı bir konsol olduğunda, o konsol kesilecek. Lütfen [çekim odası 2]'de çekim olmadığını teyit edin. Değişiklikten sonra sistemin yeniden başlatılmasını gerektirir. </Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0002">
+      <Title>Etkin oda başarıyla değiştirildi.</Title>
+      <Message>Etkin Oda değiştirildi. Bu uygulamanın yeniden başlatılmasını gerektirir</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0003">
+      <Title>Oda değişikliğinde hata.</Title>
+      <Message>[XXX] nedeniyle çekim odası değiştirilemiyor.</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0004">
+      <Title>Onay</Title>
+      <Message>Kablosuz kullanımı Etkin / devre dışı olacak. Onaylıyor musunuz?</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0005">
+      <Title>Confirmation</Title>
+      <Message>Please wait till wireless switching happens.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

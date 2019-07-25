@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title>ข้อควรพิจารณา</Title>
+      <Message>โปรดป้อนค่าตัวเลข</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title>ข้อควรพิจารณา</Title>
+      <Message>โปรดป้อนข้อมูลที่ถูกต้อง</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ข้อผิดพลาดเริ่มการปรับเทียบอัตราขยาย</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ข้อผิดพลาดเริ่มการปรับเทียบชดเชย</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title>การยืนยัน</Title>
+      <Message>คุณต้องการยกเลิกกระบวนการปรับเทียบอัตราขยายหรือไม่</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title>การยืนยัน</Title>
+      <Message>คุณต้องการยกเลิกกระบวนการปรับเทียบอัตราขยายหรือไม่</Message>
+    </EventString>
+    <EventString Key="0107">
+      <Title>การยืนยัน</Title>
+      <Message>คุณต้องการยกเลิกกระบวนการปรับเทียบอัตราขยายหรือไม่</Message>
+    </EventString>
+    <EventString Key="0108">
+      <Title>การยืนยัน</Title>
+      <Message>การปรับเทียบอัตราขยายเสร็จสมบูรณ์เรียบร้อย</Message>
+    </EventString>
+    <EventString Key="0109">
+      <Title>การยืนยัน</Title>
+      <Message>การปรับเทียบชดเชยเสร็จสมบูรณ์เรียบร้อย</Message>
+    </EventString>
+    <EventString Key="0110">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>การปรับเทียบอัตราขยายล้มเหลว</Message>
+    </EventString>
+    <EventString Key="0111">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>การปรับเทียบชดเชยล้มเหลว</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

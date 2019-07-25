@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>StudyDate</Key>
+      <Value>検査日付</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>30</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientID</Key>
+      <Value>患者ID</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>30</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OrderLid</Key>
+      <Value>内部オーダー番号</Value>
+      <Comment />
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientNameRomaji</Key>
+      <Value>患者名（ローマ字）</Value>
+      <Comment />
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>30</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Sex</Key>
+      <Value>性別</Value>
+      <Comment />
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>30</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BirthDate</Key>
+      <Value>生年月日</Value>
+      <Comment />
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>30</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RequestingService</Key>
+      <Value>依頼科</Value>
+      <Comment />
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>30</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientResidence</Key>
+      <Value>病棟</Value>
+      <Comment />
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>30</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Study_Instance_Uid</Key>
+      <Value>条件キー</Value>
+      <Comment />
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>30</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OrderImgSize</Key>
+      <Value>画像数</Value>
+      <Comment />
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>30</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Status</Key>
+      <Value>状態</Value>
+      <Comment />
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>30</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MediaOutput</Key>
+      <Value>メディア出力</Value>
+      <Comment />
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>30</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BUTTON_RUN</Key>
+      <Value>実行</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamRoom1</Key>
+      <Value>ExamRoom1</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamRoom2</Key>
+      <Value>ExamRoom2</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamRoom3</Key>
+      <Value>ExamRoom3</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Ward1</Key>
+      <Value>Ward1</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Ward2</Key>
+      <Value>Ward2</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Ward3</Key>
+      <Value>Ward3</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Operator1</Key>
+      <Value>Operator1</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Operator2</Key>
+      <Value>Operator2</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Operator3</Key>
+      <Value>Operator3</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SearchString</Key>
+      <Value>検索</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ClearString</Key>
+      <Value>クリア</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NoOfSelectedString</Key>
+      <Value>選択済：</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SelectAllString</Key>
+      <Value>全選択</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeSelectAllString</Key>
+      <Value>全選択解除</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AreaSelectString</Key>
+      <Value>領域選択</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputString</Key>
+      <Value>出力機器</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DVDCDString</Key>
+      <Value>DVD / CD</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HDDString</Key>
+      <Value>HDD</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageFormatString</Key>
+      <Value>画像フォーマット</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>JPEGString</Key>
+      <Value>JPEG</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PDIString</Key>
+      <Value>PDI</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TwentyFiveString</Key>
+      <Value>25%</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FiftyString</Key>
+      <Value>50%</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SeventyFiveString</Key>
+      <Value>75%</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HundredString</Key>
+      <Value>100%</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LowString</Key>
+      <Value>低</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StandardString</Key>
+      <Value>標準</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HighString</Key>
+      <Value>高</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MediaString</Key>
+      <Value>メディア :</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CapacityString</Key>
+      <Value>容量 :</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EmptySpaceString</Key>
+      <Value>空き容量 :</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FolderNameString</Key>
+      <Value>フォルダ名 :</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CancelButtonString</Key>
+      <Value>キャンセル</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OKButtonString</Key>
+      <Value>OK</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SetButtonString</Key>
+      <Value>設定</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SizeString</Key>
+      <Value>サイズ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageQualityString</Key>
+      <Value>画像品質</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MediaDialogTitle</Key>
+      <Value>メディア出力設定</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceSelectionTitle</Key>
+      <Value>出力先</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageSelectionTitle</Key>
+      <Value>画像形式</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>JPEGDialogTitle</Key>
+      <Value>DVD-R 書込</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>JPEGDialogText</Key>
+      <Value>JPEG画像を読影の診断には使用しないで下さい</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Preparing_Info</Key>
+      <Value>PreparingFiles</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DVDWrite</Key>
+      <Value>Writing Media Files</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FreeSpace</Key>
+      <Value>FreeSpace</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DataSize</Key>
+      <Value>DataSize</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Preparing</Key>
+      <Value>Preparing</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Preparing_Caption</Key>
+      <Value>PreparingFiles</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HDDWrite</Key>
+      <Value>Writing to HDD</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>USBWrite</Key>
+      <Value>Writing to USB</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CDWrite</Key>
+      <Value>Writing to CD_R</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DVDRWrite</Key>
+      <Value>Writing to DVD_R</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DVDRAMWrite</Key>
+      <Value>Writing to DVD_RAM</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Copying_Files</Key>
+      <Value>Copying Files …</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FA_RequestingService</Key>
+      <Value>依頼科</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AreaSelectStartString</Key>
+      <Value>範囲選択中</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DriveString</Key>
+      <Value>ドライブ</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>STUDY_NOT_EXPOSED</Key>
+      <Value>未撮影</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>STUDY_COMPLETED</Key>
+      <Value>完了</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>STUDY_SUSPENDED</Key>
+      <Value>保留</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>STUDY_INPROGRESS</Key>
+      <Value>検査中</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>STUDY_QAWAITING</Key>
+      <Value>QA待ち</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>STUDY_INTERRUPTED</Key>
+      <Value>中断</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>STUDY_DELETED</Key>
+      <Value>削除</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Year</Key>
+      <Value>年</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Month</Key>
+      <Value>月</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Week</Key>
+      <Value>週</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AgeMonth</Key>
+      <Value>ヶ月</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Day</Key>
+      <Value>日</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Guard</Key>
+      <Value>G</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Smoker</Key>
+      <Value>喫煙している</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NonSmoker</Key>
+      <Value>喫煙していない</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Unknown</Key>
+      <Value>不明</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Male</Key>
+      <Value>男性</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Female</Key>
+      <Value>女性</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Unidentified</Key>
+      <Value>不明</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>None</Key>
+      <Value>妊娠していない</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Possible</Key>
+      <Value>妊娠の可能性がある</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Pregnant</Key>
+      <Value>妊娠している</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Standard</Key>
+      <Value>STAT</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>High</Key>
+      <Value>HIGH</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Routine</Key>
+      <Value>ROUTINE</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Medium</Key>
+      <Value>MEDIUM</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Low</Key>
+      <Value>LOW</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageCount</Key>
+      <Value>予約数</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AgeYear</Key>
+      <Value>才</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SPS_INPROGRESS</Key>
+      <Value>検査中</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SPS_PENDING</Key>
+      <Value>保留</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Hour</Key>
+      <Value>時</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Minute</Key>
+      <Value>分</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Second</Key>
+      <Value>秒</Value>
+      <Comment />
+      <Link />
+      <FontSize>15</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="40001">
+      <Title>Creazione coda file fallita</Title>
+      <Message>Impossibile creare file coda.</Message>
+    </EventString>
+    <EventString Key="40002">
+      <Title>Coa dallita</Title>
+      <Message>Impossibile mettere in coda.</Message>
+    </EventString>
+    <EventString Key="40003">
+      <Title>Coa dallita</Title>
+      <Message>Raggiunto il conteggio di limite</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

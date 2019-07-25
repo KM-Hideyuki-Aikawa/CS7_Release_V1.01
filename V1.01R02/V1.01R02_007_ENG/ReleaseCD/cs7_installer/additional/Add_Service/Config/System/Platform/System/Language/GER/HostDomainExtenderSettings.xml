@@ -1,0 +1,1463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>AutoResizeSettingsView</Key>
+      <Value>Auto Size Setting</Value>
+      <Comment>Auto Size Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoResizeLabelExplanationData</Key>
+      <Value>Specify the upper threshold size for size when there is a restriction for maximum reception size in HOST side.</Value>
+      <Comment>Specify the upper threshold size for size when there is a restriction for maximum reception size in HOST side.</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLabelData</Key>
+      <Value>Enble Resizing (Not allow to use in this version)</Value>
+      <Comment>Resize existence</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FileSizeLabelData</Key>
+      <Value>Byte</Value>
+      <Comment>Maximum size [Byte]</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputSettingsView</Key>
+      <Value>Output Setting</Value>
+      <Comment>Output Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SkipErrorQueueLabelData</Key>
+      <Value>Error Queue Output</Value>
+      <Comment>Error Queue Output.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SkipErrorQueueLabelExplanationData</Key>
+      <Value>Specify ON when performing the following queue process during output error generation.</Value>
+      <Comment>Specify ON when performing the following queue process during output error generation.</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SameSOPInstanceUIDLabelData</Key>
+      <Value>Identical UID Number</Value>
+      <Comment>Identical UID Number</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SameSOPInstanceUIDLabelExplanationData</Key>
+      <Value>Speicfy ON when making the SOP instance UID identical when delivering identical image to multiple host.</Value>
+      <Comment>Speicfy ON when making the SOP instance UID identical when delivering identical image to multiple host.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StoredDaysTimeoutLabelData</Key>
+      <Value>Time out days</Value>
+      <Comment>Time out days</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StoredDaysTimeoutLabelExplanationData</Key>
+      <Value>Specify the timeout days of Storage Commitment</Value>
+      <Comment>Specify the timeout days of Storage Commitment</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TimeoutActionLabelData</Key>
+      <Value>Action During Timeout</Value>
+      <Comment>Action During Timeout</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TimeoutActionLabelExplanationData</Key>
+      <Value>Specify the operation during the timeout generation</Value>
+      <Comment>Specify the operation during the timeout generation</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DICOMSettingsView</Key>
+      <Value>DICOM Expansion Stettings</Value>
+      <Comment>DICOM Expansion Stettings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyDescriptionLabelData</Key>
+      <Value>Inspection Descriptor</Value>
+      <Comment>Inspection Descriptor</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ProtocolNameLabelData</Key>
+      <Value>Protocol Name</Value>
+      <Comment>Protocol Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SeriesDescriptionLabelData</Key>
+      <Value>Series Descriptor</Value>
+      <Comment>Series Descriptor</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PixelSpacingLabelData</Key>
+      <Value>Pixel Interval</Value>
+      <Comment>Pixel Interval</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RelativeXrayExposureLabelData</Key>
+      <Value>Relative X Ray Dosage</Value>
+      <Comment>Relative X Ray Dosage</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WindowCenterLabelData</Key>
+      <Value>Window Center</Value>
+      <Comment>Window Center</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WindowWidthLabelData</Key>
+      <Value>Window Width</Value>
+      <Comment>Window Width</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageSettingsView</Key>
+      <Value>Image Settings</Value>
+      <Comment>Image Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageReductionModeLabelData</Key>
+      <Value>Reduction Mode</Value>
+      <Comment>Reduction Mode</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageReductionModeLabelExplanationData</Key>
+      <Value>Specify the reduction method in case of reducing and sending the image.</Value>
+      <Comment>Specify the reduction method in case of reducing and sending the image.</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresentationSizeModeLabelData</Key>
+      <Value>Presentation Size Mode</Value>
+      <Comment>Presentation Size Mode</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresentationSizeModeLabelExplanationData</Key>
+      <Value>Specify the display method that will be requested from host.</Value>
+      <Comment>Specify the display method that will be requested from host.</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HostDisplaySettingsView</Key>
+      <Value>Device Settings</Value>
+      <Comment>Device Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresetSelectionLabelData</Key>
+      <Value>Preset Selection</Value>
+      <Comment>Preset Selection</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresetSelectionLabelExplanationData</Key>
+      <Value>Target manufactured goods will be selected when associated with in-house product</Value>
+      <Comment>Target manufactured goods will be selected when associated with in-house product</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MarkerNameLabelData</Key>
+      <Value>Maker Name</Value>
+      <Comment>Maker Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MarkerNameLabelExplanationData</Key>
+      <Value>Input the maker name of to be connected host.</Value>
+      <Comment>Input the maker name of to be connected host.</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ModelNameLabelData</Key>
+      <Value>Model Name</Value>
+      <Comment>Model Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ModelNameLabelExplanationData</Key>
+      <Value>Input the model name of to be connected host</Value>
+      <Comment>Input the model name of to be connected host</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NameLabelData</Key>
+      <Value>Name</Value>
+      <Comment>Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NameLabelExplanationData</Key>
+      <Value>Specify the name to be displayed on system monitor etc</Value>
+      <Comment>Specify the name to be displayed on system monitor etc</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GeneralSettingsView</Key>
+      <Value>Command Setting</Value>
+      <Comment>Command Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ServicesClassLabelData</Key>
+      <Value>Service Class</Value>
+      <Comment>Service Class</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageIODLabelData</Key>
+      <Value>Image IOD</Value>
+      <Comment>Image IOD</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageIODLabelExplanationData</Key>
+      <Value>Process method of image will be specified. No process will be specified in case of in-house products</Value>
+      <Comment>Process method of image will be specified. No process will be specified in case of in-house products</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StorageCommitmentLabelData</Key>
+      <Value>Storage Commitment</Value>
+      <Comment>Storage Commitment</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StorageCommitmentLabelExplanationData</Key>
+      <Value>Specify On when using the Storage Commitment</Value>
+      <Comment>Specify On when using the Storage Commitment</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GSPSLabelData</Key>
+      <Value>GSPS</Value>
+      <Comment>GSPS</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GSPSLabelExplanationData</Key>
+      <Value>Specify ON when using GSPS</Value>
+      <Comment>Specify ON when using GSPS</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageLabelData</Key>
+      <Value>Image</Value>
+      <Comment>Image</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PhotometricLabelData</Key>
+      <Value>Photometric Interpretation</Value>
+      <Comment>Photometric Interpretation</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PhotometricLabelExplanationData</Key>
+      <Value>Specify how to measure the brightness. Specify monochrome 1(pixel minimum vlue = white color) in case of in-house product.)</Value>
+      <Comment>Specify how to measure the brightness. Specify monochrome 1(pixel minimum vlue = white color) in case of in-house product.)</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageProcessingLabelData</Key>
+      <Value>Image Processing</Value>
+      <Comment>Image Processing</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageProcessingLabelExplanationData</Key>
+      <Value>Specify how to process image. Specify no processing in case of in-house product.</Value>
+      <Comment>Specify how to process image. Specify no processing in case of in-house product.</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DICOMClientSettingsView</Key>
+      <Value>Communication Settings</Value>
+      <Comment>Communication Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TCPIPLabelData</Key>
+      <Value>TCP/IP</Value>
+      <Comment>TCP/IP</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IPAddress1LabelData</Key>
+      <Value>IP Address</Value>
+      <Comment>IP Address</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IPAddress1LabelExplanationData</Key>
+      <Value>Specify host IP address</Value>
+      <Comment>Specify host IP address</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IPAddress2LabelData</Key>
+      <Value>IP Address (Storage Commitment)</Value>
+      <Comment>IP Address (Storage Commitment)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IPAddress2LabelExplanationData</Key>
+      <Value>Specify host IP address</Value>
+      <Comment>Specify host IP address</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Port1LabelData</Key>
+      <Value>Port Number</Value>
+      <Comment>Port Number</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Port1LabelExplanationData</Key>
+      <Value>Specify communication port with host</Value>
+      <Comment>Specify communication port with host</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Port2LabelData</Key>
+      <Value>Port Number (Storage Commitment)</Value>
+      <Comment>Port Number (Storage Commitment)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Port2LabelExplanationData</Key>
+      <Value>Specify  communication port with host</Value>
+      <Comment>Specify  communication port with host</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DICOMLabelData</Key>
+      <Value>DICOM</Value>
+      <Comment>DICOM</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransferSyntax1LabelData</Key>
+      <Value>Transfer Syntax</Value>
+      <Comment>Transfer Syntax</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransferSyntax1LabelExplanationData</Key>
+      <Value>Specify transfer syntax</Value>
+      <Comment>Specify transfer syntax</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransferSyntax2LabelData</Key>
+      <Value>Transfer Syntax ( Storage Commitment)</Value>
+      <Comment>Transfer Syntax ( Storage Commitment)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransferSyntax2LabelExplanationData</Key>
+      <Value>Specify transfer syntax</Value>
+      <Comment>Specify transfer syntax</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ServerAE1LabelData</Key>
+      <Value>HOST Side AE Title</Value>
+      <Comment>HOST Side AE Title</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ServerAE1LabelExplanationData</Key>
+      <Value>Specify host side AE title</Value>
+      <Comment>Specify host side AE title</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ServerAE2LabelData</Key>
+      <Value>HOST Side AE Title(Storage Commitment)</Value>
+      <Comment>HOST Side AE Title(Storage Commitment)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ServerAE2ExplanationData</Key>
+      <Value>Specify AE title of host side</Value>
+      <Comment>Specify AE title of host side</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ClientAE1LabelData</Key>
+      <Value>CS-7 Side AE Title</Value>
+      <Comment>CS-7 Side AE Title</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ClientAE1LabelExplanationData</Key>
+      <Value>Specify console side AE title</Value>
+      <Comment>Specify console side AE title</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ClientAE2LabelData</Key>
+      <Value>CS-7 Side AE Title(Storage Commitment)</Value>
+      <Comment>CS-7 Side AE Title(Storage Commitment)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ClientAE2LabelExplanationData</Key>
+      <Value>Specify console side AE title</Value>
+      <Comment>Specify console side AE title</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CharacterCode1LabelData</Key>
+      <Value>Character Set</Value>
+      <Comment>Character Set</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CharacterCode1LabelExplanationData</Key>
+      <Value>Specify the character set used in communication</Value>
+      <Comment>Specify the character set used in communication</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CharacterCode2LabelData</Key>
+      <Value>Character Set ( Storage Commitment)</Value>
+      <Comment>Character Set ( Storage Commitment)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CharacterCode2LabelExplanationData</Key>
+      <Value>Specify character set used in communication</Value>
+      <Comment>Specify character set used in communication</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>I-PACS</Key>
+      <Value>I-PACS</Value>
+      <Comment>I-PACS</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>I-PACS EX</Key>
+      <Value>I-PACS EX</Value>
+      <Comment>I-PACS EX</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>I-PACS QA</Key>
+      <Value>I-PACS QA</Value>
+      <Comment>I-PACS QA</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Acies</Key>
+      <Value>Acies</Value>
+      <Comment>Acies</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OTHER</Key>
+      <Value>OTHER</Value>
+      <Comment>OTHER</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CR</Key>
+      <Value>CR</Value>
+      <Comment>CR</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DX</Key>
+      <Value>DX</Value>
+      <Comment>DX</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CR+MG</Key>
+      <Value>CR+MG (Not Available)</Value>
+      <Comment>CR+MG</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DX+MG</Key>
+      <Value>DX+MG (Not Available)</Value>
+      <Comment>DX+MG</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CR+DX</Key>
+      <Value>CR+DX</Value>
+      <Comment>CR+DX (Not Available)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CR+DX+MG</Key>
+      <Value>CR+DX+MG (Not Available)</Value>
+      <Comment>CR+DX+MG</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OFF</Key>
+      <Value>OFF</Value>
+      <Comment>OFF</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ON</Key>
+      <Value>ON</Value>
+      <Comment>ON</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MONOCHROME1</Key>
+      <Value>MONOCHROME1</Value>
+      <Comment>MONOCHROME1 (Not Available)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MONOCHROME2</Key>
+      <Value>MONOCHROME2</Value>
+      <Comment>MONOCHROME2</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>P-Val.Presentation</Key>
+      <Value>P-Val.Presentation</Value>
+      <Comment>P-Val.Presentation</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Normarized</Key>
+      <Value>Normarized</Value>
+      <Comment>Normarized</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>E/F/H Processed</Key>
+      <Value>E/F/H Processed (Not Available)</Value>
+      <Comment>E/F/H Processed</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Corrected</Key>
+      <Value>Corrected (Not Available)</Value>
+      <Comment>Corrected</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Implicit VR Little Endian</Key>
+      <Value>Implicit VR Little Endian</Value>
+      <Comment>Implicit VR Little Endian</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Explicit VR Little Endian</Key>
+      <Value>Explicit VR Little Endian</Value>
+      <Comment>Explicit VR Little Endian</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Explicit VR Big Endian</Key>
+      <Value>Explicit VR Big Endian</Value>
+      <Comment>Explicit VR Big Endian</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>JPEG Lossless</Key>
+      <Value>JPEG Lossless</Value>
+      <Comment>JPEG Lossless</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ASCII</Key>
+      <Value>ASCII</Value>
+      <Comment>ASCII</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ASCII\kanji\hiragana</Key>
+      <Value>ASCII\kanji\hiragana</Value>
+      <Comment>ASCII\kanji\hiragana</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>kana \kanji\hiragana</Key>
+      <Value>kana \kanji\hiragana</Value>
+      <Comment>kana \kanji\hiragana</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ASCII\kanji\kana</Key>
+      <Value>ASCII\kanji\kana</Value>
+      <Comment>ASCII\kanji\kana</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Latin1</Key>
+      <Value>Latin1</Value>
+      <Comment>Latin1</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Shift-JIS</Key>
+      <Value>Shift-JIS</Value>
+      <Comment>Shift-JIS</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Sprine</Key>
+      <Value>Sprine</Value>
+      <Comment>Sprine</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Decimate/Crop</Key>
+      <Value>Decimate/Crop</Value>
+      <Comment>Decimate/Crop</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Bilinear</Key>
+      <Value>Bilinear</Value>
+      <Comment>Bilinear</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SINC</Key>
+      <Value>SINC</Value>
+      <Comment>SINC</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MAGNIFY</Key>
+      <Value>MAGNIFY</Value>
+      <Comment>MAGNIFY</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SCALE TO FIT</Key>
+      <Value>SCALE TO FIT</Value>
+      <Comment>SCALE TO FIT</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TRUE SIZE</Key>
+      <Value>TRUE SIZE</Value>
+      <Comment>TRUE SIZE</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>None</Key>
+      <Value>None</Value>
+      <Comment>None</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExpName</Key>
+      <Value>ExpName</Value>
+      <Comment>ExpName</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IppName</Key>
+      <Value>IppName</Value>
+      <Comment>IppName</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExpName(Exam Tag)</Key>
+      <Value>ExpName(Exam Tag)</Value>
+      <Comment>ExpName(Exam Tag)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExpName(Group Name)</Key>
+      <Value>ExpName(Group Name)</Value>
+      <Comment>ExpName(Group Name)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExpName(BodyParts)</Key>
+      <Value>ExpName(BodyParts)</Value>
+      <Comment>ExpName(BodyParts)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Reading Pixel Size</Key>
+      <Value>Reading Pixel Size</Value>
+      <Comment>Reading Pixel Size</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Imager Pixel Spacing:Reading Pixel Size,Pixel Spacing:Output Pixel Size</Key>
+      <Value>Imager Pixel Spacing:Reading Pixel Size,Pixel Spacing:Output Pixel Size</Value>
+      <Comment>Imager Pixel Spacing:Reading Pixel Size,Pixel Spacing:Output Pixel Size</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Output Pixel Size</Key>
+      <Value>Output Pixel Size</Value>
+      <Comment>Output Pixel Size</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Modified</Key>
+      <Value>Modified</Value>
+      <Comment>Modified</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Auto</Key>
+      <Value>Auto</Value>
+      <Comment>Auto</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1</Key>
+      <Value>1</Value>
+      <Comment>1</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2</Key>
+      <Value>2</Value>
+      <Comment>2</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3</Key>
+      <Value>3</Value>
+      <Comment>3</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>4</Key>
+      <Value>4</Value>
+      <Comment>4</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>5</Key>
+      <Value>5</Value>
+      <Comment>5</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>6</Key>
+      <Value>6</Value>
+      <Comment>6</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>7</Key>
+      <Value>7</Value>
+      <Comment>7</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>8</Key>
+      <Value>8</Value>
+      <Comment>8</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>9</Key>
+      <Value>9</Value>
+      <Comment>9</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>10</Key>
+      <Value>10</Value>
+      <Comment>10</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>11</Key>
+      <Value>11</Value>
+      <Comment>11</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>12</Key>
+      <Value>12</Value>
+      <Comment>12</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>13</Key>
+      <Value>13</Value>
+      <Comment>13</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>14</Key>
+      <Value>14</Value>
+      <Comment>14</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>15</Key>
+      <Value>15</Value>
+      <Comment>15</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>16</Key>
+      <Value>16</Value>
+      <Comment>16</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>17</Key>
+      <Value>17</Value>
+      <Comment>17</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>18</Key>
+      <Value>18</Value>
+      <Comment>18</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>19</Key>
+      <Value>19</Value>
+      <Comment>19</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>20</Key>
+      <Value>20</Value>
+      <Comment>20</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>21</Key>
+      <Value>21</Value>
+      <Comment>21</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>22</Key>
+      <Value>22</Value>
+      <Comment>22</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>23</Key>
+      <Value>23</Value>
+      <Comment>23</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>24</Key>
+      <Value>24</Value>
+      <Comment>24</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>25</Key>
+      <Value>25</Value>
+      <Comment>25</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>26</Key>
+      <Value>26</Value>
+      <Comment>26</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>27</Key>
+      <Value>27</Value>
+      <Comment>27</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>28</Key>
+      <Value>28</Value>
+      <Comment>28</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>29</Key>
+      <Value>29</Value>
+      <Comment>29</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>30</Key>
+      <Value>30</Value>
+      <Comment>30</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>31</Key>
+      <Value>31</Value>
+      <Comment>31</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Retry of Storage(Inherit SOP Inst.)</Key>
+      <Value>Retry of Storage (Inherit SOP Inst.)</Value>
+      <Comment>Retry of Storage(Inherit SOP Inst.)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Retry of Storage(Discard SOP Inst.)</Key>
+      <Value>Retry of Storage(Discard SOP Inst.)</Value>
+      <Comment>Retry of Storage(Discard SOP Inst.)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Retry of Storage Commitment</Key>
+      <Value>Retry of Storage Commitment</Value>
+      <Comment>Retry of Storage Commitment</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>No Retry(Outputting Queue OFF)</Key>
+      <Value>No Retry(Outputting Queue OFF)</Value>
+      <Comment>No Retry(Outputting Queue OFF)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IPACS EX</Key>
+      <Value>IPACS EX</Value>
+      <Comment>IPACS EX</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>P-Val.Presentation(Others)</Key>
+      <Value>P-Val.Presentation(Others)</Value>
+      <Comment>P-Val.Presentation(Others)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Raw Data(Konica Host)</Key>
+      <Value>Raw Data(Konica Host)</Value>
+      <Comment>Raw Data(Konica Host)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Raw Data HS ON(Konica Host)</Key>
+      <Value>Raw Data HS ON(Konica Host)</Value>
+      <Comment>Raw Data HS ON(Konica Host)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>D-Val.Presentation(Others)</Key>
+      <Value>D-Val.Presentation(Others)</Value>
+      <Comment>D-Val.Presentation(Others)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

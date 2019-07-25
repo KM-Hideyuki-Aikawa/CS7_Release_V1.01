@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientRegistrationDomainExtender0001">
+      <Title>Σφάλμα</Title>
+      <Message>Το έτος που εισάχθηκε δεν είναι έγκυρο.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0002">
+      <Title>Σφάλμα</Title>
+      <Message>Ο μήνας που εισάχθηκε δεν είναι έγκυρος.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0003">
+      <Title>Σφάλμα</Title>
+      <Message>Η ημέρα που εισάχθηκε δεν είναι έγκυρη.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0004">
+      <Title>Σφάλμα</Title>
+      <Message>Η τιμή που εισάχθηκε δεν είναι έγκυρη.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0005">
+      <Title>Σφάλμα</Title>
+      <Message>Δεν έχει συμπληρωθεί ο μέγιστος αριθμός χαρακτήρων.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0006">
+      <Title>Σφάλμα</Title>
+      <Message>Δεν έχει συμπληρωθεί ο ελάχιστος αριθμός χαρακτήρων.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0007">
+      <Title>Σφάλμα</Title>
+      <Message>Εισαγάγετε αριθμό.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0008">
+      <Title>Σφάλμα</Title>
+      <Message>Η τιμή που εισάχθηκε δεν είναι έγκυρη</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0009">
+      <Title>Σφάλμα</Title>
+      <Message>Εισαγάγετε τον αλφαριθμητικό χαρακτήρα.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0010">
+      <Title>Σφάλμα</Title>
+      <Message>Επιτρέπονται μόνο χαρακτήρες kana.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0011">
+      <Title>Σφάλμα</Title>
+      <Message>Μη έγκυρη τιμή. Δεν είναι δυνατή η χρήση του "\" εδώ.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0012">
+      <Title>Σφάλμα</Title>
+      <Message>Το έτος που εισάχθηκε δεν είναι έγκυρο.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0013">
+      <Title>Σφάλμα</Title>
+      <Message>Το έτος που εισάχθηκε δεν είναι έγκυρο.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0014">
+      <Title>Σφάλμα</Title>
+      <Message>Το έτος που εισάχθηκε δεν είναι έγκυρο. Εισαγάγετε μια τιμή 1800 ή υψηλότερη.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0015">
+      <Title>Σφάλμα</Title>
+      <Message>Σφάλμα εύρους ημερομηνιών. Ελέγξτε.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0016">
+      <Title>Σφάλμα</Title>
+      <Message>Η ώρα που εισάχθηκε δεν είναι έγκυρη.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0017">
+      <Title>Σφάλμα</Title>
+      <Message>Τα λεπτά που εισάχθηκαν δεν είναι έγκυρα.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0018">
+      <Title>Σφάλμα</Title>
+      <Message>Τα δευτερόλεπτα που εισάχθηκαν δεν είναι έγκυρα.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0019">
+      <Title>Σφάλμα</Title>
+      <Message>Εισαγάγετε τον ακέραιο αριθμό.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0020">
+      <Title>Σφάλμα</Title>
+      <Message>Παρουσιάστηκε σφάλμα κατά την αναζήτηση</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0021">
+      <Title>Προειδοποίηση</Title>
+      <Message>Η τροποποίηση των στοιχείων ασθενούς μπορεί να προκαλέσει σφάλματα στην αντιστοίχιση της μελέτης PACS. Επιβεβαιώστε αμέσως όλα τα στοιχεία που τροποποιήθηκαν στο PACS.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0022">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Το αναγνωριστικό ασθενούς είναι υποχρεωτικό. Εισαγάγετε το αναγνωριστικό ασθενούς.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0023">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Το αναγνωριστικό μελέτης είναι υποχρεωτικό. Εισαγάγετε το αναγνωριστικό μελέτης.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0024">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Το όνομα ασθενούς είναι υποχρεωτικό. Εισαγάγετε το όνομα ασθενούς.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0025">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Το όνομα ασθενούς είναι υποχρεωτικό. Εισαγάγετε το όνομα ασθενούς.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0026">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Το όνομα ασθενούς είναι υποχρεωτικό. Εισαγάγετε το όνομα ασθενούς.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0027">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Το φύλο είναι υποχρεωτικό. Εισαγάγετε το φύλο.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0028">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Η ημερομηνία γέννησης είναι υποχρεωτική. Εισαγάγετε την ημερομηνία γέννησης.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0029">
+      <Title>Σφάλμα</Title>
+      <Message>Δεν είναι δυνατή η ανάγνωση της μαγνητικής κάρτας. Επανεκκινήστε το σύστημα.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0030">
+      <Title>Σφάλμα</Title>
+      <Message>Δεν έχουν εισαχθεί δεδομένα στο υποχρεωτικό πεδίο. Δεν είναι δυνατή η εκτέλεση.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0031">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Υπάρχει μια εκτεθειμένη εικόνα στη μελέτη, επιθυμείτε να επεξεργαστείτε τη μελέτη;</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0032">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Συμφωνείτε να κλείσει η Προβολή ιατρού που εκτελείται;</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0033">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Επιθυμείτε να γίνει επανεκκίνηση της Προβολής ιατρού; </Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0034">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Πρέπει να γίνει επαναφορά της μελέτης σε κατάσταση αναστολής. Συμφωνείτε;</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0035">
+      <Title>Σφάλμα</Title>
+      <Message>Δεν υπάρχουν αντίστοιχες μελέτες, στοιχεία ασθενούς.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0036">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Η μελέτη υπάρχει ήδη στη βάση δεδομένων. Θέλετε να χρησιμοποιήσετε αυτήν τη μελέτη;</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0037">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Ο ασθενής υπάρχει ήδη στη βάση δεδομένων. Θέλετε να χρησιμοποιήσετε αυτά τα στοιχεία ασθενούς;</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0038">
+      <Title>Σφάλμα</Title>
+      <Message>Δεν είναι δυνατή η επιλογή πολλαπλών ασθενών.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0039">
+      <Title>Σφάλμα</Title>
+      <Message>Σφάλμα βάσης δεδομένων - Η δημιουργία εντολής απέτυχε.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0040">
+      <Title>Σφάλμα</Title>
+      <Message>Σφάλμα κατά την ενημέρωση της βάσης δεδομένων ασθενών.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0041">
+      <Title>Σφάλμα</Title>
+      <Message>Ο συγκεκριμένος ασθενής δεν υπάρχει στη βάση δεδομένων</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0042">
+      <Title>Σφάλμα</Title>
+      <Message>Αυτός ο χαρακτήρας δεν επιτρέπεται</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0046">
+      <Title>Σφάλμα</Title>
+      <Message>Δεν είναι δυνατή η εισαγωγή μελλοντικού έτους.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0047">
+      <Title>Σφάλμα</Title>
+      <Message>Δεν είναι δυνατή η εισαγωγή μελλοντικού μήνα.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0048">
+      <Title>Σφάλμα</Title>
+      <Message>Δεν είναι δυνατή η εισαγωγή μελλοντικής ημερομηνίας.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0049">
+      <Title>Σφάλμα</Title>
+      <Message>Το έτος που εισάχθηκε δεν είναι δίσεκτο έτος. Ελέγξτε την ημερομηνία.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0052">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Η εντολή καταχωρίστηκε. Θέλετε να αντικατασταθεί;</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0053">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Τα ίδια εξής στοιχεία: Αναγνωριστικό ασθενούς: {0}, Όνομα ασθενούς: {1}, Φύλο: {2}, Ημερομηνία γέννησης:{3} υπάρχουν στη βάση δεδομένων, θέλετε να αντικατασταθούν;</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0054">
+      <Title>Σφάλμα</Title>
+      <Message>Μη έγκυρη τιμή. Δεν είναι δυνατή η χρήση των χαρακτήρων "\", "^" ή "=" εδώ.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0055">
+      <Title>Σφάλμα</Title>
+      <Message>Μη έγκυρη τιμή. Δεν είναι δυνατή η χρήση των χαρακτήρων "\" ή "=" εδώ.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0056">
+      <Title>Σφάλμα</Title>
+      <Message>Η λειτουργία δεν είναι δυνατή</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0057">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Θέλετε να γίνει απαλοιφή όλων;</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0058">
+      <Title>Σφάλμα</Title>
+      <Message>Συμπληρώστε τα υποχρεωτικά πεδία</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0059">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Θέλετε να καταχωρίσετε τη μελέτη;</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0060">
+      <Title>Σφάλμα</Title>
+      <Message>Η καταχώριση απέτυχε</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0061">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Θέλετε να αντικατασταθούν τα δεδομένα;</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0062">
+      <Title>Σφάλμα</Title>
+      <Message>Δεν υπάρχει καμία αντίστοιχη μελέτη, ασθενής.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0063">
+      <Title>Σφάλμα</Title>
+      <Message>Εισαγάγετε το περιεχόμενο για αναζήτηση.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0064">
+      <Title>Σφάλμα</Title>
+      <Message>Εισαγάγετε τιμές στα πεδία Ημερομηνία περιεχομένου και Ώρα περιεχομένου</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

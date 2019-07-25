@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PrinterDomainExtender0001">
+      <Title>Ping-Status</Title>
+      <Message>Erfolgreich verbunden.</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0002">
+      <Title>Ping-Status</Title>
+      <Message>Verbindung fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0003">
+      <Title />
+      <Message>Für welchen Dienst soll Ping (C-ECHO) ausgeführt werden?</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0004">
+      <Title>Bestätigung</Title>
+      <Message>OK zum Löschen der ausgewählten Warteschlange?</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0005">
+      <Title>Achtung</Title>
+      <Message>Wählen Sie die zu löschende(n) Warteschlange(n).</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0006">
+      <Title>Information</Title>
+      <Message>Ausgewählte Warteschlange(n) erfolgreich gelöscht.</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0007">
+      <Title>Fehler</Title>
+      <Message>Fehler beim Löschen der Warteschlange.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

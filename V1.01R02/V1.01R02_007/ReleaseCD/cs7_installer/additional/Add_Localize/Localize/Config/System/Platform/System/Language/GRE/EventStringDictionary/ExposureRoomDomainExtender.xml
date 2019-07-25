@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ExposureRoomDomainExtender0001">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Το δωμάτιο έκθεσης θα αλλάξει σε [δωμάτιο έκθεσης 2]. Συμφωνείτε; Όταν συνδεθεί μια κονσόλα στο [δωμάτιο έκθεσης 2], η συγκεκριμένη κονσόλα θα αποκοπεί. Επιβεβαιώστε ότι δεν υπάρχει έκθεση στο [δωμάτιο έκθεσης 2]. Απαιτείται επανεκκίνηση του συστήματος μετά από την αλλαγή. </Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0002">
+      <Title>Το ενεργό δωμάτιο τροποποιήθηκε επιτυχώς.</Title>
+      <Message>Το ενεργό δωμάτιο τροποποιήθηκε. Απαιτείται επανεκκίνηση της εφαρμογής</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0003">
+      <Title>Σφάλμα κατά την αλλαγή δωματίου.</Title>
+      <Message>Δεν είναι δυνατή η αλλαγή του δωματίου έκθεσης λόγω [XXX].</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0004">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Η ασύρματη χρήση θα οριστεί σε Ενεργοποίηση/Απενεργοποίηση. Συμφωνείτε;</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0005">
+      <Title>Confirmation</Title>
+      <Message>Please wait till wireless switching happens.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

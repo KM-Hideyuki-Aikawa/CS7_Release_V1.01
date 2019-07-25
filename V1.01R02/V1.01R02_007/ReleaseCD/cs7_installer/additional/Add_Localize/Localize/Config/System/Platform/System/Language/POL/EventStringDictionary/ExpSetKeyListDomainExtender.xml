@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ExpSetKeyListDomainExtender0000">
+      <Title />
+      <Message>Czy chcesz zmienić parametry przetwarzania obrazu?</Message>
+    </EventString>
+    <EventString Key="ExpSetKeyListDomainExtender0001">
+      <Title />
+      <Message>Czy chcesz usunąć zapisany kod kreskowy kasety?</Message>
+    </EventString>
+    <EventString Key="ExpSetKeyListDomainExtender0002">
+      <Title />
+      <Message>Nie można zarejestrować więcej niż {MaxSize} obrazów.</Message>
+    </EventString>
+    <EventString Key="ExpSetKeyListDomainExtender0003">
+      <Title />
+      <Message>Do tego klucza warunkowego rejestracji przypisany jest kod kreskowy. Czy chcesz zmienić rejestrację?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

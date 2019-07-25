@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title>Attention</Title>
+      <Message>Veuillez saisir une valeur numérique.</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title>Attention</Title>
+      <Message>Veuillez saisir une donnée valide</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title>Erreur</Title>
+      <Message>Erreur début étalonnage de gain</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title>Erreur</Title>
+      <Message>Erreur début étalonnage de décalage</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title>Confirmation</Title>
+      <Message>Voulez-vous abandonner le processus d'étalonnage de gain ?</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title>Confirmation</Title>
+      <Message>Voulez-vous abandonner le processus d'étalonnage de gain ?</Message>
+    </EventString>
+    <EventString Key="0107">
+      <Title>Confirmation</Title>
+      <Message>Voulez-vous abandonner le processus d'étalonnage de gain ?</Message>
+    </EventString>
+    <EventString Key="0108">
+      <Title>Confirmation</Title>
+      <Message>Étalonnage de gain terminé avec succès</Message>
+    </EventString>
+    <EventString Key="0109">
+      <Title>Confirmation</Title>
+      <Message>Étalonnage de décalage terminé avec succès</Message>
+    </EventString>
+    <EventString Key="0110">
+      <Title>Erreur</Title>
+      <Message>Échec de l'étalonnage de gain</Message>
+    </EventString>
+    <EventString Key="0111">
+      <Title>Erreur</Title>
+      <Message>Échec de l'étalonnage de décalage</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ExpSetKeyListDomainExtender0000">
+      <Title />
+      <Message>เปลี่ยนพารามิเตอร์การประมวลผลภาพได้หรือไม่</Message>
+    </EventString>
+    <EventString Key="ExpSetKeyListDomainExtender0001">
+      <Title />
+      <Message>ลบบาร์โค้ดของตลับทึบแสงที่ลงทะเบียนไว้ได้หรือไม่</Message>
+    </EventString>
+    <EventString Key="ExpSetKeyListDomainExtender0002">
+      <Title />
+      <Message>คุณไม่สามารถลงทะเบียนได้มากกว่า {MaxSize} ภาพ</Message>
+    </EventString>
+    <EventString Key="ExpSetKeyListDomainExtender0003">
+      <Title />
+      <Message>บาร์โค้ดถูกลงทะเบียนลงในคีย์เงื่อนไขการจับภาพนี้ เปลี่ยนการลงทะเบียนได้หรือไม่</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

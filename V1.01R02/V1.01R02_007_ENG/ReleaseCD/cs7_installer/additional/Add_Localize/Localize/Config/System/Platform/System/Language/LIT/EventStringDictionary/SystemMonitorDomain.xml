@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="SystemMonitorDomain00001">
+      <Title>Skaitytuvo komponentas </Title>
+      <Message>(ReaderName), esančio (ComponentName), galiojimas netrukus baigsis.Kreipkitės į priežiūros tarnybą.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00002">
+      <Title>Skaitytuvo komponentas </Title>
+      <Message>(ComponentName) galiojimas netrukus baigsis.Kreipkitės į priežiūros tarnybą.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00003">
+      <Title>Skaitytuvo komponentas </Title>
+      <Message>(ReaderName), esančio (ComponentName), galiojimas baigėsi.Kreipkitės į priežiūros tarnybą.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00004">
+      <Title>Skaitytuvo komponentas </Title>
+      <Message>(ComponentName) galiojimas baigėsi.Kreipkitės į priežiūros tarnybą.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00005">
+      <Title />
+      <Message>Ar norite norite baigti šią sistemą?</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00006">
+      <Title />
+      <Message>Atnaujinta sėkmingai.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00007">
+      <Title />
+      <Message>Sėkmingai išsiregistravote iš taikomosios programos.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00008">
+      <Title>Klaida</Title>
+      <Message>Negalima įvykdyti Jūsų išsiregistravimo užklausos. </Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00009">
+      <Title>Klaida</Title>
+      <Message>Patikrinkite (DomainExtenderName) Įskiepis neįkeltas.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00010">
+      <Title />
+      <Message>Ar tikrai norite išsiregistruoti?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

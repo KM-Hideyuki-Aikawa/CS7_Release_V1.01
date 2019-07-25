@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35500">
+      <Title>Chyba inicializace</Title>
+      <Message>Inicializace neúspěšná.</Message>
+    </EventString>
+    <EventString Key="35501">
+      <Title>chyba nastavení</Title>
+      <Message>Došlo k chybě při čtení souboru nastavení.</Message>
+    </EventString>
+    <EventString Key="35502">
+      <Title>chyba časového limitu</Title>
+      <Message>Došlo k vypršení časového limitu.</Message>
+    </EventString>
+    <EventString Key="35503">
+      <Title>Chyba zásuvky</Title>
+      <Message>Došlo k chybě zásuvky.</Message>
+    </EventString>
+    <EventString Key="37350">
+      <Title>Interní chyba</Title>
+      <Message>K interní chybě došlo při komunikaci DICOM. Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>Interní chyba</Title>
+      <Message>K interní chybě došlo při komunikaci DICOM. Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>Interní chyba</Title>
+      <Message>Neúspěšné nastavení komunikace DICOM. Potvrďte nastavení komunikace.</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>Chyba komunikace</Title>
+      <Message>Neúspěšná komunikace. Potvrďte nastavení komunikace a funkci serveru.</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>Chyba komunikace</Title>
+      <Message>Neúspěšné A-ASSOCIATE. Potvrďte nastavení komunikace a funkci serveru.</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>Chyba komunikace</Title>
+      <Message>Odmítnuto serverem v A-ASSOCIATE kvůli neplatnému nastavení. Potvrďte nastavení komunikace.</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>Chyba komunikace</Title>
+      <Message>K interní chybě došlo při komunikaci DICOM. Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="37357">
+      <Title>Chyba komunikace</Title>
+      <Message>Neúspěšná komunikace verze. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>Chyba komunikace</Title>
+      <Message>Přijat A-ABORT. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37610">
+      <Title>Interní chyba</Title>
+      <Message>Došlo k interní chybě v komunikaci RIS-OUT. Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="37611">
+      <Title>Interní chyba</Title>
+      <Message>Došlo k interní chybě v komunikaci RIS-OUT. Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="37612">
+      <Title>Interní chyba</Title>
+      <Message>Došlo k interní chybě v komunikaci RIS-OUT. Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="37613">
+      <Title>Interní chyba</Title>
+      <Message>Došlo k interní chybě v komunikaci RIS-OUT. Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="37614">
+      <Title>Communication error</Title>
+      <Message>MWM C-FIND request aborted because it exceeded the maximum number of search responses.</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-IN communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-IN communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>Interní chyba</Title>
+      <Message>Bylo přijato koncové upozornění.[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="27740">
+      <Title>Chyba komunikace</Title>
+      <Message>Došlo k chybě komunikace v komunikaci RIS-IN. Zkontrolujte cíl komunikace.</Message>
+    </EventString>
+    <EventString Key="27741">
+      <Title>Chyba komunikace</Title>
+      <Message>Došlo k chybě komunikace v komunikaci RIS-IN. Zkontrolujte cíl komunikace.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

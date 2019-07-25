@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientListDomainExtender0000">
+      <Title />
+      <Message>Το έτος που εισάχθηκε δεν είναι έγκυρο</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0001">
+      <Title />
+      <Message>Ο μήνας που εισάχθηκε δεν είναι έγκυρος</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0002">
+      <Title />
+      <Message>Η ημέρα που εισάχθηκε δεν είναι έγκυρη</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0003">
+      <Title />
+      <Message>Η τιμή είναι εκτός εύρους</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0004">
+      <Title />
+      <Message>Το μήκος είναι μεγαλύτερο από το μέγιστο μήκος</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0005">
+      <Title />
+      <Message>Το μήκος είναι μικρότερο από το ελάχιστο μήκος</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0006">
+      <Title />
+      <Message>Η τιμή που εισάχθηκε δεν είναι αριθμητική</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0007">
+      <Title />
+      <Message>Η τιμή που εισάχθηκε δεν είναι έγκυρη</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0008">
+      <Title />
+      <Message>Επιτρέπονται μόνο χαρακτήρες αλφάβητου</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0009">
+      <Title />
+      <Message>Επιτρέπονται μόνο χαρακτήρες kana</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0010">
+      <Title />
+      <Message>Μη έγκυρη τιμή. Δεν είναι δυνατή η χρήση του "\" εδώ.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0011">
+      <Title />
+      <Message>Αυτός ο χαρακτήρας δεν επιτρέπεται</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0012">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Θέλετε να διαγραφεί η επιλεγμένη εγγραφή;</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0013">
+      <Title />
+      <Message>Μη έγκυρη τιμή. Δεν είναι δυνατή η χρήση των χαρακτήρων "\", "^" ή "=" εδώ.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0014">
+      <Title />
+      <Message>Μη έγκυρη τιμή. Δεν είναι δυνατή η χρήση των χαρακτήρων "\" ή "=" εδώ.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0015">
+      <Title />
+      <Message>Θέλετε να ανασταλεί η μελέτη;</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0016">
+      <Title>Αναζήτηση γραμμικού κωδικού</Title>
+      <Message>Υπάρχουν {0} μελέτες με τις δεδομένες πληροφορίες.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

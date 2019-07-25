@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="AeroDRSettingDomainExtender0003">
+      <Title>오류</Title>
+      <Message>유효하지 않은 교정 데이터가 선택되었습니다.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0004">
+      <Title>확인</Title>
+      <Message>교정 데이터가 이미 존재합니다. 정말로 덮어쓰시겠습니까?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0005">
+      <Title>오류</Title>
+      <Message>AeroDR 패널을 추가하지 못했습니다.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0006">
+      <Title>오류</Title>
+      <Message>AeroDR 패널 정보를 확보하지 못했습니다.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0007">
+      <Title>오류</Title>
+      <Message>AeroDR 패널을 구성하지 못했습니다.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0008">
+      <Title>오류</Title>
+      <Message>XG BOX를 추가하지 못했습니다.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0009">
+      <Title>오류</Title>
+      <Message>XG BOX를 확보하지 못했습니다.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0010">
+      <Title>오류</Title>
+      <Message>XG BOX를 구성하지 못했습니다.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0011">
+      <Title>오류</Title>
+      <Message>AeroDR 패널을 삭제하지 못했습니다.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0012">
+      <Title>확인</Title>
+      <Message>정말로 AeroDR 패널을 등록해제하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0013">
+      <Title>확인</Title>
+      <Message>AeroDR 패널 구성이 다운로드되지 않았습니다. 정말로 AeroDR 패널을 등록해제하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0014">
+      <Title>확인</Title>
+      <Message>구성이 업로드되지 않은 AeroDR 패널 또는 XG BOX가 존재합니다. 정말로 구성을 저장하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0015">
+      <Title>주의</Title>
+      <Message>변경 취소는 불가능합니다. AeroDR 패널 또는 XG BOX 구성이 이미 업로드되었기 때문입니다.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0016">
+      <Title>오류</Title>
+      <Message>유효하지 않은 데이터입니다. 입력 내용을 확인해 주십시오.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0017">
+      <Title>오류</Title>
+      <Message>AeroDR 패널 구성을 변경해 주십시오.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0018">
+      <Title>확인</Title>
+      <Message>정말로 설정을 서버로 전송하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0019">
+      <Title>오류</Title>
+      <Message>설정 전송 중에 에러가 발생했습니다. 네트워크 연결을 확인 후 다시 시도해 주십시오.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

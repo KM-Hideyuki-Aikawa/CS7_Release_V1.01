@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title />
+      <Message>Haluatko muuttaa kehon kokoa? Vahvista.</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title />
+      <Message>Valotustuloksia käytetty useampaan kuin yhteen tilaukseen. Tutkimustunnukset {EXAM_TAGS_INFO}</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title />
+      <Message>Vastaavaa tilausta valotustulosten käyttämistä varten ei löytynyt. Tarkista.</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title />
+      <Message>CR-valotusolosuhteen AEC ei voinut käynnistyä. Sopiiko, että AEC sammutetaan?</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title />
+      <Message>Potilaan kokoa ei voitu muuttaa eräässä tilauksessa. Tarkista.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

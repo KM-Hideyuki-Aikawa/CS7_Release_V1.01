@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PrinterDomainExtender0001">
+      <Title>Ryšio užklausos būsena</Title>
+      <Message>Prisijungta sėkmingai.</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0002">
+      <Title>Ryšio užklausos būsena</Title>
+      <Message>Prisijungti nepavyko.</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0003">
+      <Title />
+      <Message>Kuriai tarnybai atlikti ryšio užklausą (C-ECHO)？</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0004">
+      <Title>Patvirtinimas</Title>
+      <Message>Ar tikrai pašalinti pažymėtą eilę?</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0005">
+      <Title>Dėmesio</Title>
+      <Message>Pažymėkite eilę (-es), kurią (-as) reikia pašalinti.</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0006">
+      <Title>Informacija</Title>
+      <Message>Pažymėta (-os) eilė (-s) sėkmingai pašalinta (-os)</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0007">
+      <Title>Klaida</Title>
+      <Message>Klaida šalinant eilę.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

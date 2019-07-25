@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ImageAcquisitionDomainExtender0000">
+      <Title>Confirmation</Title>
+      <Message>Are you sure you want to discard image?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0001">
+      <Title>Confirmation</Title>
+      <Message>Expose again?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender1001">
+      <Title>Attention</Title>
+      <Message>Cannot add exposures beyond {MaxSize} .</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0002">
+      <Title>Confirmation</Title>
+      <Message>Are you sure you want to cancel discard?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0003">
+      <Title>Confirmation</Title>
+      <Message>Images have not been captured.
+Are you sure you want to complete study?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0004">
+      <Title>Confirmation</Title>
+      <Message>Do you want to continue the study in a different exam room?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0005">
+      <Title>Confirmation</Title>
+      <Message>A cassette barcode is registered with this Exam. Tag. 
+Are you sure you want to delete barcode registration?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0006">
+      <Title>Error</Title>
+      <Message>An error occurred during image reading.
+Check the network.
+Restart the reader.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0007">
+      <Title>error</Title>
+      <Message>Patient ID: {PATIENTID}
+Patient name: {PATIENTNAME}
+Reader name: {READERNAME}
+Image reception is not completed.
+Check the network.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0008">
+      <Title>Warning</Title>
+      <Message>Reader name: {READERNAME}
+Are you sure you want to cancel image reception?
+ Please restart the reader in case of reception canceled.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0009">
+      <Title>Error</Title>
+      <Message>Now reading image. Please login after a while.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0010">
+      <Title>Error</Title>
+      <Message>Failed to complete study.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0011">
+      <Title>Error</Title>
+      <Message>Failed to suspend study.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0012">
+      <Title>Error</Title>
+      <Message>This cassette is for general exposure.
+Check the Exam. Tag.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0013">
+      <Title>Error</Title>
+      <Message>This cassette is for contact mammography.
+Check the Exam. Tag.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0014">
+      <Title>Error</Title>
+      <Message>This cassette is for PCM.
+Check the Exam. Tag.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0015">
+      <Title>Error</Title>
+      <Message>This cassette is already registered.
+Register a different cassette.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0016">
+      <Title>Attention</Title>
+      <Message>This cassette has already been started reading.
+Unable to delete barcode registration.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0017">
+      <Title>Attention</Title>
+      <Message>This cassette has already been started reading.
+Unable to delete jobs registered with manual registration mode.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0018">
+      <Title>Attention</Title>
+      <Message>This cassette has already been started reading.
+Unable to delete jobs registered with auto registration mode.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0019">
+      <Title>Confirmation</Title>
+      <Message>Are you sure you want to suspend this study?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0020">
+      <Title>Confirmation</Title>
+      <Message>There are no captured images. Are you sure you want to change status to not started?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0021">
+      <Title>Confirmation</Title>
+      <Message>Are you sure you want to delete barcode registration?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0022">
+      <Title>Image re-transfer</Title>
+      <Message>Is it OK to delete the untransferred image(s) on the console? [OK]: Delete [Cancel]: Return without deleting</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0023">
+      <Title>Image re-transfer</Title>
+      <Message>{READERNAME}： Some images are not transferred yet.  Do you delete them?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0024">
+      <Title>Image transfer error</Title>
+      <Message>{READERNAME}: A communication error occurred during image transfer. Check the connection status of the communication cable.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0025">
+      <Title>Image re-transfer</Title>
+      <Message>{READERNAME}："{ImageAcquisitionConditionName}" are not transferred yet.  Do you retrieve the image?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0026">
+      <Title>Confirmation</Title>
+      <Message>Are you sure you want to delete selected Exam. Tag?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0027">
+      <Title>Confirmation</Title>
+      <Message>Are you sure you want to delete this study?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0028">
+      <Title>Error</Title>
+      <Message>Timeout occurred in image transfer.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0029">
+      <Title />
+      <Message>There is untransferred image of "{ImageAcquisitionConditionName}".
+Unable to reacquire image due to difference in  modality of Exam. Tag and of the image.
+ In case of reacquisition, please change panel status corresponding to Exam. Tag.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0030">
+      <Title />
+      <Message>Failed to acquire untransferred image.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0031">
+      <Title />
+      <Message>Failed to delete untransferred image.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0032">
+      <Title>Confirmation</Title>
+      <Message>Are you sure you want to suspend this study?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

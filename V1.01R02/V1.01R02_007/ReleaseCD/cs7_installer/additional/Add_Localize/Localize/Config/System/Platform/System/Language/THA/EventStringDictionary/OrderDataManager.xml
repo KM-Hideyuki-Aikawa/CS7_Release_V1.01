@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="40001">
+      <Title>การสร้างไฟล์คิวล้มเหลว</Title>
+      <Message>สร้างไฟล์คิวล้มเหลว</Message>
+    </EventString>
+    <EventString Key="40002">
+      <Title>การจัดคิวล้มเหลว</Title>
+      <Message>จัดคิวล้มเหลว</Message>
+    </EventString>
+    <EventString Key="40003">
+      <Title>การจัดคิวล้มเหลว</Title>
+      <Message>ครบจำนวนครั้งที่จำกัดการลองจัดคิวใหม่แล้ว</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

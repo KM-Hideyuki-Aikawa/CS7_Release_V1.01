@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ApolloDomainExtender0001">
+      <Title>Ping 結果</Title>
+      <Message>接続に成功しました。</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0002">
+      <Title>Ping 結果</Title>
+      <Message>接続に失敗しました。</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0003">
+      <Title>確認</Title>
+      <Message>登録を解除してもよろしいですか？</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0004">
+      <Title>エラー</Title>
+      <Message>登録の解除に失敗しました。</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0005">
+      <Title>エラー</Title>
+      <Message>装置が選択されていないため、要求を処理できません。</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0006">
+      <Title>情報</Title>
+      <Message>無線</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0007">
+      <Title>情報</Title>
+      <Message>有線</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

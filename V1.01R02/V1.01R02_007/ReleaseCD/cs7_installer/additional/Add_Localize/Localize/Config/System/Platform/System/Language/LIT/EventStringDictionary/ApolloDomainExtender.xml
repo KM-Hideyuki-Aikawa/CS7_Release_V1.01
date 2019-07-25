@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ApolloDomainExtender0001">
+      <Title>Ryšio užklausos būsena</Title>
+      <Message>Prisijungta sėkmingai.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0002">
+      <Title>Ryšio užklausos būsena</Title>
+      <Message>Prisijungti nepavyko.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0003">
+      <Title>Patvirtinimas</Title>
+      <Message>Ar tikrai atsisakyti registravimo?</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0004">
+      <Title>Klaida</Title>
+      <Message>Atsisakyti įrenginio nepavyko.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0005">
+      <Title>Klaida</Title>
+      <Message>Užklausa negali būti vykdoma, nes įrenginys nepažymėtas</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0006">
+      <Title>Informacija</Title>
+      <Message>Belaidis</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0007">
+      <Title>Informacija</Title>
+      <Message>Laidinis</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

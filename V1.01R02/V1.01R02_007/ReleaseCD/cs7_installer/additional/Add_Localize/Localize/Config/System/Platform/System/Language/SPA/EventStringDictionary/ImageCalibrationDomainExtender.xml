@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title>Atención</Title>
+      <Message>Introduzca valor numérico.</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title>Atención</Title>
+      <Message>Introduzca datos válidos</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title>Error</Title>
+      <Message>Error inicial de calibración de ganancia</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title>Error</Title>
+      <Message>Error inicial de calibración offset</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title>Confirmación</Title>
+      <Message>¿Quiere abortar el proceso de calibración de ganancia?</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title>Confirmación</Title>
+      <Message>¿Quiere abortar el proceso de calibración de ganancia?</Message>
+    </EventString>
+    <EventString Key="0107">
+      <Title>Confirmación</Title>
+      <Message>¿Quiere abortar el proceso de calibración de ganancia?</Message>
+    </EventString>
+    <EventString Key="0108">
+      <Title>Confirmación</Title>
+      <Message>Calibración de ganancia terminada</Message>
+    </EventString>
+    <EventString Key="0109">
+      <Title>Confirmación</Title>
+      <Message>Calibración offset terminada</Message>
+    </EventString>
+    <EventString Key="0110">
+      <Title>Error</Title>
+      <Message>Fallo de calibración de ganancia</Message>
+    </EventString>
+    <EventString Key="0111">
+      <Title>Error</Title>
+      <Message>Fallo de calibración offset</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

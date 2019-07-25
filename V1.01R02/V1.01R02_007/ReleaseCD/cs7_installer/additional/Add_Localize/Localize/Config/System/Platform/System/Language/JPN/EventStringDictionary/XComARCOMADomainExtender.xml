@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title />
+      <Message>患者サイズを変更しますか。確認してください。</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title />
+      <Message>撮影結果が複数のオーダーに適用されました。検査タグ "{EXAM_TAGS_INFO}"</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title />
+      <Message>撮影結果の適用対象となる該当オーダーが見つかりません。確認してください。</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title />
+      <Message>CR撮影条件のAECをONにできません。AECをOFFにしてもよろしいですか？</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title />
+      <Message>患者サイズを変更できないオーダーがありました。確認してください。</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title />
+      <Message>変更した読取条件に合わせてコリメータサイズを変更します。よろしいですか？</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

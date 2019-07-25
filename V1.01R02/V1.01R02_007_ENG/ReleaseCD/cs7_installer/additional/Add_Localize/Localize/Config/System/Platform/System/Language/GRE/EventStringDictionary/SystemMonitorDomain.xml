@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="SystemMonitorDomain00001">
+      <Title>Συσκευή αναγνώστη</Title>
+      <Message>Ο αναγνώστης (ReaderName) στη συσκευή (ComponentName) πρόκειται να λήξει. Καλέστε το τμήμα συντήρησης.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00002">
+      <Title>Συσκευή αναγνώστη</Title>
+      <Message>Η συσκευή (ComponentName) πρόκειται να λήξει. Καλέστε το τμήμα συντήρησης.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00003">
+      <Title>Συσκευή αναγνώστη</Title>
+      <Message>Ο αναγνώστης (ReaderName) στη συσκευή (ComponentName) έληξε. Καλέστε το τμήμα συντήρησης.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00004">
+      <Title>Συσκευή αναγνώστη</Title>
+      <Message>Η συσκευή (ComponentName) έληξε. Καλέστε το τμήμα συντήρησης.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00005">
+      <Title />
+      <Message>Επιθυμείτε να πραγματοποιήσετε τερματισμός του συστήματος;</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00006">
+      <Title />
+      <Message>Η ενημέρωση ολοκληρώθηκε επιτυχώς.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00007">
+      <Title />
+      <Message>Αποσυνδεθήκατε επιτυχώς από την εφαρμογή.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00008">
+      <Title>Σφάλμα</Title>
+      <Message>Δεν είναι δυνατή η επεξεργασία του αιτήματος αποσύνδεσής σας.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00009">
+      <Title>Σφάλμα</Title>
+      <Message>Ελέγξτε τον τομέα (DomainExtenderName). Η φόρτωση της προσθήκης δεν ολοκληρώθηκε.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00010">
+      <Title />
+      <Message>Είστε βέβαιοι ότι επιθυμείτε να αποσυνδεθείτε;;</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

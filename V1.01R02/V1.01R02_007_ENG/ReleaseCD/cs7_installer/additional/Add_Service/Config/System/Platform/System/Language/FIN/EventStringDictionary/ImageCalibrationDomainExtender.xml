@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title>Huomio</Title>
+      <Message>Anna numeroarvo.</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title>Huomio</Title>
+      <Message>Syötä kelvolliset tiedot</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title>Virhe</Title>
+      <Message>Vahvistuksen kalibroinnin käynnistysvirhe</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title>Virhe</Title>
+      <Message>Poikkeaman kalibroinnin käynnistysvirhe</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title>Vahvistus</Title>
+      <Message>Haluatko lopettaa vahvistuksen kalibrointiprosessin?</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title>Vahvistus</Title>
+      <Message>Haluatko lopettaa vahvistuksen kalibrointiprosessin?</Message>
+    </EventString>
+    <EventString Key="0107">
+      <Title>Vahvistus</Title>
+      <Message>Haluatko lopettaa vahvistuksen kalibrointiprosessin?</Message>
+    </EventString>
+    <EventString Key="0108">
+      <Title>Vahvistus</Title>
+      <Message>Vahvistuksen kalibrointi onnistui</Message>
+    </EventString>
+    <EventString Key="0109">
+      <Title>Vahvistus</Title>
+      <Message>Poikkeaman kalibrointi onnistui</Message>
+    </EventString>
+    <EventString Key="0110">
+      <Title>Virhe</Title>
+      <Message>Vahvistuksen kalibrointi epäonnistui</Message>
+    </EventString>
+    <EventString Key="0111">
+      <Title>Virhe</Title>
+      <Message>Poikkeaman kalibrointi epäonnistui</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

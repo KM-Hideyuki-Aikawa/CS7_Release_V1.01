@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="40001">
+      <Title>فشل إنشاء ملف قائمة الانتظار</Title>
+      <Message>فشل إنشاء ملف قائمة الانتظار.</Message>
+    </EventString>
+    <EventString Key="40002">
+      <Title>فشل الوضع في قائمة انتظار</Title>
+      <Message>فشل الوضع في قائمة انتظار.</Message>
+    </EventString>
+    <EventString Key="40003">
+      <Title>فشل الوضع في قائمة انتظار</Title>
+      <Message>بلوغ العدد المحددد لمحاولات الوضع في قائمة الانتظار </Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

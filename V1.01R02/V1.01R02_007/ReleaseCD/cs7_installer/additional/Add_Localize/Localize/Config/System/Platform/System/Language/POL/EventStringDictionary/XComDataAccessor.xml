@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0401">
+      <Title>Błąd przesyłania</Title>
+      <Message>Wystąpił błąd wewnętrzny w procesie komunikacji rentgena.</Message>
+    </EventString>
+    <EventString Key="0402">
+      <Title>Błąd wewnętrzny</Title>
+      <Message>Wystąpił błąd wewnętrzny w procesie komunikacji rentgena.</Message>
+    </EventString>
+    <EventString Key="0403">
+      <Title>Błąd przesyłania</Title>
+      <Message>Błąd przesyłania polecenia warunku naświetlania dla systemu rentgenowskiego. Uruchom ponownie aparat rentgenowski.</Message>
+    </EventString>
+    <EventString Key="0404">
+      <Title>Błąd ustawienia</Title>
+      <Message>Błąd ustawienia parametru do systemu rentgenowskiego.</Message>
+    </EventString>
+    <EventString Key="0405">
+      <Title>Błąd urządzenia</Title>
+      <Message>Wykryto błąd systemu rentgenowskiego.</Message>
+    </EventString>
+    <EventString Key="0406">
+      <Title>Błąd przesyłania</Title>
+      <Message>Błąd połączenia systemu rentgenowskiego. Sprawdź sieć.</Message>
+    </EventString>
+    <EventString Key="0301">
+      <Title />
+      <Message />
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

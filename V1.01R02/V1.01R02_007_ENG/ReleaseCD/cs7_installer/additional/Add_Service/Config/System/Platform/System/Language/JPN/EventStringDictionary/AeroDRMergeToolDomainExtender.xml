@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0001">
+      <Title>エラー</Title>
+      <Message>初期化エラー</Message>
+    </EventString>
+    <EventString Key="0002">
+      <Title>情報</Title>
+      <Message>マージ成功</Message>
+    </EventString>
+    <EventString Key="0003">
+      <Title>エラー</Title>
+      <Message>ディレクトリが見つかりません</Message>
+    </EventString>
+    <EventString Key="0004">
+      <Title>エラー</Title>
+      <Message>ファイルが見つかりません</Message>
+    </EventString>
+    <EventString Key="0005">
+      <Title>エラー</Title>
+      <Message>シンタックスエラー</Message>
+    </EventString>
+    <EventString Key="0006">
+      <Title>エラー</Title>
+      <Message>バックアップ削除エラー</Message>
+    </EventString>
+    <EventString Key="0007">
+      <Title>エラー</Title>
+      <Message>バックアップ作成エラー</Message>
+    </EventString>
+    <EventString Key="0008">
+      <Title>エラー</Title>
+      <Message>データアクセスエラー</Message>
+    </EventString>
+    <EventString Key="0009">
+      <Title>エラー</Title>
+      <Message>データ保存エラー</Message>
+    </EventString>
+    <EventString Key="0010">
+      <Title>エラー</Title>
+      <Message>インデックスエラー</Message>
+    </EventString>
+    <EventString Key="0011">
+      <Title>エラー</Title>
+      <Message>データ追加エラー</Message>
+    </EventString>
+    <EventString Key="0012">
+      <Title>エラー</Title>
+      <Message>キャリブデータコピーエラー</Message>
+    </EventString>
+    <EventString Key="0013">
+      <Title>エラー</Title>
+      <Message>例外発生</Message>
+    </EventString>
+    <EventString Key="0014">
+      <Title>エラー</Title>
+      <Message>例外発生</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

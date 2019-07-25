@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1000">
+      <Title>AeroDR XG BOX接続エラー</Title>
+      <Message>ネットワーク機器とケーブル接続を確認してください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1001">
+      <Title>AeroDR - AeroDR XG BOX接続エラー</Title>
+      <Message>ネットワーク機器とケーブル接続を確認してください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1002">
+      <Title>照射野連動エラー</Title>
+      <Message>照射野の設定エラーです。
+ネットワーク接続を確認し、この撮影条件をタッチしてください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1003">
+      <Title>曝射エラー</Title>
+      <Message>曝射操作をやり直してください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1004">
+      <Title>バージョンアップエラー</Title>
+      <Message>バージョンアップに失敗しました。
+ネットワーク接続を確認し、AeroDR XGボックス、CS-7を再起動してください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1005">
+      <Title>設定値エラー</Title>
+      <Message>設定データの設定エラーです。
+ネットワーク接続を確認し、再設定してください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1006">
+      <Title>設定値エラー</Title>
+      <Message>設定データの取得エラーです。
+ネットワーク接続を確認し、再取得してください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1007">
+      <Title>曝射連動設定エラー</Title>
+      <Message>曝射連動の設定エラーです。
+ネットワーク接続を確認し、この撮影条件をタッチしてください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2000">
+      <Title>[AeroDR XG]起動エラー</Title>
+      <Message>起動エラーです。
+曝射スイッチを解放してください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2001">
+      <Title>[AeroDR XG]起動エラー</Title>
+      <Message>起動エラーです。
+曝射スイッチを解放してください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2002">
+      <Title>[AeroDR XG]起動エラー</Title>
+      <Message>起動エラーです。
+サービスコールしてください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2003">
+      <Title>[AeroDR XG]起動エラー</Title>
+      <Message>起動エラーです。
+曝射スイッチを解放してください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2004">
+      <Title>[AeroDR XG]起動エラー</Title>
+      <Message>起動エラーです。
+曝射スイッチを解放してください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2005">
+      <Title>[AeroDR XG]起動エラー</Title>
+      <Message>起動エラーです。
+サービスコールしてください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2006">
+      <Title>[AeroDR XG]起動エラー</Title>
+      <Message>起動エラーです。
+曝射スイッチを解放してください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2007">
+      <Title>[AeroDR XG]起動エラー</Title>
+      <Message>起動エラーです。曝射スイッチを解放してください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2008">
+      <Title>[AeroDR XG]起動エラー</Title>
+      <Message>起動エラーです。
+サービスコールしてください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2200">
+      <Title>[AeroDR XG]曝射エラー</Title>
+      <Message>X線装置の曝射連携エラーです。
+X線装置、AeroDRボックスを再起動してください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2201">
+      <Title>[AeroDR XG]曝射エラー</Title>
+      <Message>X線装置の曝射連携エラーです。
+サービスコールしてください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2500">
+      <Title>[AeroDR XG]曝射エラー</Title>
+      <Message>内部デバイスのエラーです。
+AeroDRボックスを再起動してください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2300">
+      <Title>[AeroDR XG]曝射エラー</Title>
+      <Message>内部デバイス、または通信のエラーです。
+AeroDRパネル、AeroDRボックス、CS-7を再起動してください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2301">
+      <Title>[AeroDR XG]曝射エラー</Title>
+      <Message>内部デバイス、または通信のエラーです。AeroDRパネル、AeroDRボックス、CS-7を再起動してください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2302">
+      <Title>[AeroDR XG]曝射エラー</Title>
+      <Message>内部デバイス、または通信のエラーです。
+AeroDRパネル、AeroDRボックス、CS-7を再起動してください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2400">
+      <Title>AeroDR XG BOXネットワークエラー</Title>
+      <Message>AeroDR XG BOXをリセットしてください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2401">
+      <Title>AeroDR XG BOXネットワークエラー</Title>
+      <Message>AeroDR XG BOXをリセットしてください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2402">
+      <Title>AeroDR XG BOXネットワークエラー</Title>
+      <Message>AeroDR XG BOXをリセットしてください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2403">
+      <Title>AeroDR XG BOXネットワークエラー</Title>
+      <Message>AeroDR XG BOXをリセットしてください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2501">
+      <Title>[AeroDR XG]曝射エラー</Title>
+      <Message>内部デバイス、または通信のエラーです。
+サービスコールしてください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4100">
+      <Title>[AeroDR XG]曝射エラー</Title>
+      <Message>曝射スイッチが解放されていません。
+曝射スイッチを解放してください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4101">
+      <Title>[AeroDR XG]曝射エラー</Title>
+      <Message>曝射スイッチが解放されていません。
+曝射スイッチを解放してください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4102">
+      <Title>[AeroDR XG]曝射エラー</Title>
+      <Message>曝射スイッチが解放されていません。
+曝射スイッチを解放してください。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

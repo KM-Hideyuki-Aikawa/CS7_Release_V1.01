@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="LoginWindowDomain0000">
+      <Title />
+      <Message>Naudotojas: „{USERNAME}“ yra užsiregistravęs. Naudotojas: „{USERNAME}“ turi išsiregistruoti, tuomet galėsite užsiregistruoti. Ar išregistruoti naudotoją: „{USERNAME}“?</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0001">
+      <Title />
+      <Message>Neteisingas naudotojo vardas arba slaptažodis</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0002">
+      <Title>Klaida</Title>
+      <Message>Atsisakyta užregistruoti</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0003">
+      <Title>Klaida</Title>
+      <Message>Dabartinis naudotojas negali perjungti sistemos. {ERRORS}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

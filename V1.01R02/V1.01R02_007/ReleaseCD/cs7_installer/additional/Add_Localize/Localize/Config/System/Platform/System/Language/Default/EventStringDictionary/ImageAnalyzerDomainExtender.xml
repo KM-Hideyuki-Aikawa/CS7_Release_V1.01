@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0104">
+      <Title>Error</Title>
+      <Message>Failed to start image acquisition sequence.</Message>
+    </EventString>
+    <EventString Key="0112">
+      <Title>Error</Title>
+      <Message>Failed to analyze erectric noise.</Message>
+    </EventString>
+    <EventString Key="0113">
+      <Title>Error</Title>
+      <Message>Failed to analyze unevenness.</Message>
+    </EventString>
+    <EventString Key="0114">
+      <Title>Error</Title>
+      <Message>Failed to update base defect map.</Message>
+    </EventString>
+    <EventString Key="0115">
+      <Title>Error</Title>
+      <Message>Failed to analyze defect map.</Message>
+    </EventString>
+    <EventString Key="0116">
+      <Title>Error</Title>
+      <Message>Failed to acquire image.</Message>
+    </EventString>
+    <EventString Key="0117">
+      <Title>Information</Title>
+      <Message>Image analysis completed.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

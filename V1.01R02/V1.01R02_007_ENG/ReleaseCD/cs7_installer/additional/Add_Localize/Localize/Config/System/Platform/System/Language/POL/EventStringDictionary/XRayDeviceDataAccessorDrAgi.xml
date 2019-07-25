@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1000">
+      <Title>Błąd połączenia AeroDR XG BOX</Title>
+      <Message>Sprawdź połączenie urządzenia i kabla sieciowego.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1001">
+      <Title>Błąd połączenia AeroDR - AeroDR XG BOX</Title>
+      <Message>Sprawdź połączenie urządzenia i kabla sieciowego.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1002">
+      <Title>Błąd synchronizacji pola naświetlania</Title>
+      <Message>Błąd ustawienia pola naświetlania.
+Sprawdź połączenie sieciowe i naciśnij ten warunek naświetlania.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1003">
+      <Title>Błąd naświetlania</Title>
+      <Message>Błąd komunikacji przy naświetlaniu. Sprawdź połączenie sieciowe i naciśnij ten warunek naświetlania.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1004">
+      <Title>Błąd wersji</Title>
+      <Message>Wystąpił błąd wersji.
+Sprawdź połączenie i uruchom ponownie jednostki interfejsu generatora AeroDR oraz CS-7.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1005">
+      <Title>Błąd ustawienia wartości</Title>
+      <Message>Nie można ustawić danych ustawienia. 
+Sprawdź połączenie sieciowe i spróbuj ponownie.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1006">
+      <Title>Błąd ustawienia wartości</Title>
+      <Message>Nie można pobrać danych ustawienia. 
+Sprawdź połączenie sieciowe i spróbuj ponownie.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1007">
+      <Title>Błąd ustawienia synchronizacji naświetlania</Title>
+      <Message>Błąd ustawienia synchronizacji naświetlania Sprawdź połączenie sieciowe i naciśnij ten warunek naświetlania.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2000">
+      <Title>Błąd uruchamiania [AeroDR XG]</Title>
+      <Message>błąd uruchamiania.
+Zwolnij przełącznik naświetlania.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2001">
+      <Title>Błąd uruchamiania [AeroDR XG]</Title>
+      <Message>Wystąpił błąd uruchamiania.
+Zwolnij przełącznik naświetlania.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2002">
+      <Title>Błąd uruchamiania [AeroDR XG]</Title>
+      <Message>Wystąpił błąd uruchamiania.
+Skontaktuj się z serwisem.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2003">
+      <Title>Błąd uruchamiania [AeroDR XG]</Title>
+      <Message>Wystąpił błąd uruchamiania.
+Zwolnij przełącznik naświetlania.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2004">
+      <Title>Błąd uruchamiania [AeroDR XG]</Title>
+      <Message>Wystąpił błąd uruchamiania.
+Zwolnij przełącznik naświetlania.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2005">
+      <Title>Błąd uruchamiania [AeroDR XG]</Title>
+      <Message>Wystąpił błąd uruchamiania.
+Skontaktuj się z serwisem.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2006">
+      <Title>Błąd uruchamiania [AeroDR XG]</Title>
+      <Message>Wystąpił błąd uruchamiania.
+Zwolnij przełącznik naświetlania.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2007">
+      <Title>Błąd uruchamiania [AeroDR XG]</Title>
+      <Message>Wystąpił błąd uruchamiania.
+Zwolnij przełącznik naświetlania.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2008">
+      <Title>Błąd uruchamiania [AeroDR XG]</Title>
+      <Message>Wystąpił błąd uruchamiania.
+Skontaktuj się z serwisem.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2200">
+      <Title>Błąd naświetlania [AeroDR XG]</Title>
+      <Message>Existe um erro da ligação de exposição do dispositivo do raio-X. Reinicie o dispositivo de raio-X e unidade de interface AeroDR.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2201">
+      <Title>Błąd naświetlania [AeroDR XG]</Title>
+      <Message>Existe um erro da ligação de exposição do dispositivo do raio-X. Contacte o suporte técnico.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2500">
+      <Title>Błąd naświetlania [AeroDR XG]</Title>
+      <Message>Wystąpił wewnętrzny błąd urządzenia.
+Uruchom ponownie jednostkę interfejsu AeroDR.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2300">
+      <Title>Błąd naświetlania [AeroDR XG]</Title>
+      <Message>Existe um erro de dispositivo interno ou um erro de comunicação. Reinicie o detetor AeroDR, unidade de interface AeroDR e CS-7.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2301">
+      <Title>Błąd naświetlania [AeroDR XG]</Title>
+      <Message>Wystąpił wewnętrzny błąd urządzenia lub błąd komunikacji. Reinicie o detetor AeroDR, unidade de interface AeroDR e CS-7.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2302">
+      <Title>Błąd naświetlania [AeroDR XG]</Title>
+      <Message>Existe um erro de dispositivo interno ou um erro de comunicação. Reinicie o detetor AeroDR, unidade de interface AeroDR e CS-7.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2400">
+      <Title>Błąd sieci AeroDR XG BOX</Title>
+      <Message>Zresetuj AeroDR XG BOX.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2401">
+      <Title>Błąd sieci AeroDR XG BOX</Title>
+      <Message>Zresetuj AeroDR XG BOX.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2402">
+      <Title>Błąd sieci AeroDR XG BOX</Title>
+      <Message>Zresetuj AeroDR XG BOX.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2403">
+      <Title>Błąd sieci AeroDR XG BOX</Title>
+      <Message>Zresetuj AeroDR XG BOX.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2501">
+      <Title>Błąd naświetlania [AeroDR XG]</Title>
+      <Message>Wystąpił wewnętrzny błąd urządzenia lub błąd komunikacji. Skontaktuj się z serwisem.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4100">
+      <Title>Błąd naświetlania [AeroDR XG]</Title>
+      <Message>Nie zwolniono przełącznika naświetlania. Zwolnij przełącznik naświetlania.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4101">
+      <Title>Błąd naświetlania [AeroDR XG]</Title>
+      <Message>Nie zwolniono przełącznika naświetlania.
+Zwolnij przełącznik naświetlania.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4102">
+      <Title>Błąd naświetlania [AeroDR XG]</Title>
+      <Message>Nie zwolniono przełącznika naświetlania.
+Zwolnij przełącznik naświetlania.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

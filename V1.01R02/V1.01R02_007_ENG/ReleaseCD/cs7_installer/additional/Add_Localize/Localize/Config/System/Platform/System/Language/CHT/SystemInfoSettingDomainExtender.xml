@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>InstitutionInfoItemView</Key>
+      <Value>機構資訊設定</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionNameLabelData</Key>
+      <Value>機構名稱</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionNameLabelExplanationData</Key>
+      <Value>輸入機構名稱 (最多 64 個字元)</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionLocationLabelData</Key>
+      <Value>機構地址</Value>
+      <Comment>Facility Address</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionLocationLabelExplanationData</Key>
+      <Value>輸入機構地址 (最多 1024 個字元)</Value>
+      <Comment>Input facility name Output in film or image data (upto 1024 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionTelephoneLabelData</Key>
+      <Value>電話號碼</Value>
+      <Comment>Telephone Number</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionTelephoneLabelExplanationData</Key>
+      <Value>輸入機構電話號碼 (最多 64 個字元)</Value>
+      <Comment>Institution Telephone Number will be entered.It will be output to film or image data.(Max 64 characters)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionDepartmentNameLabelData</Key>
+      <Value>科辦公室名稱</Value>
+      <Comment>Department Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionDepartmentNameLabelExplanationData</Key>
+      <Value>輸入機構科辦公室名稱 (最多 64 個字元)</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceInfoSettingItemView</Key>
+      <Value>設備資訊設定</Value>
+      <Comment>Device Information Setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceManufacturerLabelData</Key>
+      <Value>製造商名稱</Value>
+      <Comment>Maker</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceManufacturerLabelExplanationData</Key>
+      <Value>顯示製造商名稱</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceModelNameLabelData</Key>
+      <Value>型號名稱</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceModelNameLabelExplanationData</Key>
+      <Value>顯示型號名稱</Value>
+      <Comment>Model name will be displayed.Output in film or image data</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceSerialNumberLabelData</Key>
+      <Value>序列號</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceSerialNumberLabelExplanationData</Key>
+      <Value>顯示序列號</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DevicePharmaceuticalLabelData</Key>
+      <Value>臨時授權號</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DevicePharmaceuticalLabelExplanationData</Key>
+      <Value>臨時授權號資料</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceConsoleNameLabelData</Key>
+      <Value>主控台名稱</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceConsoleNameLabelExplanationData</Key>
+      <Value />
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceUniqueIDLabelData</Key>
+      <Value>唯一 ID</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceUniqueIDLabelExplanationData</Key>
+      <Value>輸入唯一 ID 資料 (1-255)。請勿使用重複的唯一 ID</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceExamRoomNameLabelData</Key>
+      <Value>檢查室名稱</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceExamRoomNameLabelExplanationData</Key>
+      <Value>顯示檢查室名稱。請勿使用重複的檢查室名稱</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceVersionLabelData</Key>
+      <Value>版本</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceVersionLabelExplanationData</Key>
+      <Value>顯示 CS-7 版本</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkSettingItemView</Key>
+      <Value>網路設定</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkAdapterLabelData</Key>
+      <Value>網路介面卡</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkAdapterLabelExplanationData</Key>
+      <Value />
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkIPAddressLabelData</Key>
+      <Value>IP 位址</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkDefaultGatewayLabelData</Key>
+      <Value>預設閘道</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkSubnetMaskLabelData</Key>
+      <Value>子網路遮罩</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkApolloSystemLabelData</Key>
+      <Value>Apollo 系統使用的網路介面卡</Value>
+      <Comment>Network adaptor used in Apollo system</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkCRSystemLabelData</Key>
+      <Value>CR 系統使用的網路介面卡</Value>
+      <Comment>Network adaptor used in CR system</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LoginInfoSettingItemView</Key>
+      <Value>登錄設定</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LoginSelectLoginModeLabelData</Key>
+      <Value>自動登錄模式</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LoginSelectLoginModeLabelExplanationData</Key>
+      <Value />
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LoginSelectLoginModeLabelExplanationData1</Key>
+      <Value />
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LoginchckModeLabelData</Key>
+      <Value>啟用自動登錄模式</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionInfoSettingItemView</Key>
+      <Value>檢查資訊設定</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionCountervalueLbl</Key>
+      <Value>下一次發佈的檢查 ID 計數器值</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionCountervalueLblMsg</Key>
+      <Value>輸入下一次發佈的檢查 ID 計數器值</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionIssueMethodLabelData</Key>
+      <Value>系列資訊的發佈方法</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionIssueMethodExplanationData</Key>
+      <Value>指定序列號的發佈方法</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputSettingItemView</Key>
+      <Value>輸出設定</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputRequireLabelData</Key>
+      <Value>翻轉標記輸出設備</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputRequireLabelDataMsg</Key>
+      <Value>指定翻轉標記的輸出設備</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputHost1ChckData</Key>
+      <Value>主機 1</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputHost2ChckData</Key>
+      <Value>主機 2</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputHost3ChckData</Key>
+      <Value>主機 3</Value>
+      <Comment>Host 3</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputHost4ChckData</Key>
+      <Value>主機 4</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputPrinter1ChckData</Key>
+      <Value>列印</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputFilpMarkOnOffLabelData</Key>
+      <Value>啟用自動輸出</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputFilpMarkOnOffExplanationData</Key>
+      <Value>自動輸出設定</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputFilpMarkSizeLabelData</Key>
+      <Value>標記尺寸</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputFilpMarkSizeExplanationData</Key>
+      <Value>指定翻轉標記尺寸</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputFilpMarkPositionLabelData</Key>
+      <Value>輸出位置</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputFilpMarkPositionExplanationData</Key>
+      <Value>指定翻轉標記位置</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputAutoOutputLabelData</Key>
+      <Value>輸出等待時間</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputAutoOutputExplanationData</Key>
+      <Value>輸入採集影像後的等待時間 (單位：秒)</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EmergencySettingItemView</Key>
+      <Value>急診設定</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EmergencyDiscreminationItemsLabelData</Key>
+      <Value>識別急診檢查</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EmergencyDiscreminationItemsExplanationData</Key>
+      <Value>輸入急診檢查的首碼識別字</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EmergencyDiscreminationcharStringLabelData</Key>
+      <Value>輸入急診檢查的尾碼識別字</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EmergencyDiscreminationcharStringExplanationData</Key>
+      <Value>急診檢查影像的主機輸出</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskCapacitySettingItemView</Key>
+      <Value>影像刪除設定</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskFullcapacityLabelData</Key>
+      <Value>可用空間大小</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskFullcapacityExplanationData</Key>
+      <Value>顯示該系統硬碟的可用空間 [GB]</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskAutoDeleteLblData</Key>
+      <Value>刪除容量自動計算</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskAutoDeleteLblDatamsg</Key>
+      <Value />
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskAutoDeleteChckData</Key>
+      <Value>自動刪除</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskImageDeletevalueLabelData</Key>
+      <Value>固定刪除容量</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskImageDeletevalueExplanationData</Key>
+      <Value>指定在自動刪除容量關閉情況下刪除的容量大小 [GB]</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskManualSettingChckData</Key>
+      <Value>手動設定</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSaverSettingItemView</Key>
+      <Value>螢幕保護程式設定</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSaverAutoLogin</Key>
+      <Value>退出螢幕保護程式後自動登出</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSaverAutoLoginMsg</Key>
+      <Value />
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSaverExposureScreenLbl</Key>
+      <Value>在顯示曝光螢幕時應停用螢幕保護程式</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSaverExposureScreenLblMsg</Key>
+      <Value />
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Upper Left</Key>
+      <Value>左上</Value>
+      <Comment>Upper Left</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Upper Right</Key>
+      <Value>右上</Value>
+      <Comment>Upper Right</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Lower Left</Key>
+      <Value>左下</Value>
+      <Comment>Lower Left</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Lower Right</Key>
+      <Value>右下</Value>
+      <Comment>Lower Right</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>7x7mm</Key>
+      <Value>7x7mm</Value>
+      <Comment>7x7mm</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>10x10mm</Key>
+      <Value>10x10mm</Value>
+      <Comment>10x10mm</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DICOM Compliance</Key>
+      <Value>DICOM 相容性</Value>
+      <Comment>DICOM Compliance</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Order Sequence</Key>
+      <Value>預約順序</Value>
+      <Comment>Order Sequence</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>R150 compatible</Key>
+      <Value>R150 相容</Value>
+      <Comment>R150 compatible</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskAutoRemovalLabelData</Key>
+      <Value>自動削除開始閾値</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskAutoRemovalExplanation</Key>
+      <Value>空き容量がこの値を下回ると、コンソール終了時に画像削除を行います</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

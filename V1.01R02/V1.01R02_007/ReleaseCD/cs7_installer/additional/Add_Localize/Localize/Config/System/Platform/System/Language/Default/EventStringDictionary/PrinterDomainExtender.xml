@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PrinterDomainExtender0001">
+      <Title>Ping Status</Title>
+      <Message>Connected successfully.</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0002">
+      <Title>Ping Status</Title>
+      <Message>Failed to connect.</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0003">
+      <Title />
+      <Message>For which service the Ping(C-ECHO) has to be executed？</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0004">
+      <Title>Confirmation</Title>
+      <Message>Is it OK to delete the selected queue?</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0005">
+      <Title>Attention</Title>
+      <Message>Please select queue(s) that is to be deleted.</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0006">
+      <Title>Information</Title>
+      <Message>Selected queue(s) are deleted successfully</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0007">
+      <Title>Error</Title>
+      <Message>Error in queue deletion.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

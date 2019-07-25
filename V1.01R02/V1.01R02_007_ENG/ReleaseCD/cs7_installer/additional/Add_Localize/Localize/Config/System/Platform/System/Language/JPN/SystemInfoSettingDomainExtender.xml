@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>InstitutionInfoItemView</Key>
+      <Value>施設情報設定</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionNameLabelData</Key>
+      <Value>施設名</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionNameLabelExplanationData</Key>
+      <Value>施設名を入力します。（64文字まで）</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionLocationLabelData</Key>
+      <Value>施設住所</Value>
+      <Comment>Facility Address</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionLocationLabelExplanationData</Key>
+      <Value>施設住所を入力します。（1024文字まで）</Value>
+      <Comment>Input facility name Output in film or image data (upto 1024 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionTelephoneLabelData</Key>
+      <Value>電話番号</Value>
+      <Comment>Telephone Number</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionTelephoneLabelExplanationData</Key>
+      <Value>施設の電話番号を入力します。</Value>
+      <Comment>Institution Telephone Number will be entered.It will be output to film or image data.(Max 64 characters)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionDepartmentNameLabelData</Key>
+      <Value>部門名称</Value>
+      <Comment>Department Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionDepartmentNameLabelExplanationData</Key>
+      <Value>部門名称を入力します。（64文字まで）</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceInfoSettingItemView</Key>
+      <Value>装置情報設定</Value>
+      <Comment>Device Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceManufacturerLabelData</Key>
+      <Value>製造者</Value>
+      <Comment>Maker</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceManufacturerLabelExplanationData</Key>
+      <Value>製造者名が表示されます。</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceModelNameLabelData</Key>
+      <Value>モデル名</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceModelNameLabelExplanationData</Key>
+      <Value>モデル名が表示されます。</Value>
+      <Comment>Model name will be displayed.Output in film or image data</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceSerialNumberLabelData</Key>
+      <Value>シリアル番号</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceSerialNumberLabelExplanationData</Key>
+      <Value>シリアル番号が表示されます。</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DevicePharmaceuticalLabelData</Key>
+      <Value>薬事銘版のシリアル番号</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DevicePharmaceuticalLabelExplanationData</Key>
+      <Value>薬事銘板のシリアル番号が表示されます。</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceConsoleNameLabelData</Key>
+      <Value>コンソール名</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceConsoleNameLabelExplanationData</Key>
+      <Value />
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceUniqueIDLabelData</Key>
+      <Value>ユニークID</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceUniqueIDLabelExplanationData</Key>
+      <Value>撮影室番号入力します（1-255）。撮影室が複数ある場合はIDが重複しないように注意してください</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceExamRoomNameLabelData</Key>
+      <Value>撮影室名</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceExamRoomNameLabelExplanationData</Key>
+      <Value>撮影室名を入力します。撮影室が複数ある場合は撮影室名が重複しないように注意してください</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceVersionLabelData</Key>
+      <Value>バージョン</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceVersionLabelExplanationData</Key>
+      <Value>CS-7のバージョンが表示されます。</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkSettingItemView</Key>
+      <Value>ネットワーク設定</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkAdapterLabelData</Key>
+      <Value>ネットワークアダプタ</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkAdapterLabelExplanationData</Key>
+      <Value />
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkIPAddressLabelData</Key>
+      <Value>IPアドレス</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkDefaultGatewayLabelData</Key>
+      <Value>デフォルトゲートウェイ</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkSubnetMaskLabelData</Key>
+      <Value>サブネットマスク</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkApolloSystemLabelData</Key>
+      <Value>AeroDRシステムで使用するネットワークアダプタ</Value>
+      <Comment>Network adaptor used in Apollo system</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkCRSystemLabelData</Key>
+      <Value>CRシステムで使用するネットワークアダプタ</Value>
+      <Comment>Network adaptor used in CR system</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LoginInfoSettingItemView</Key>
+      <Value>ログイン設定</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LoginSelectLoginModeLabelData</Key>
+      <Value>自動ログインモード</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LoginSelectLoginModeLabelExplanationData</Key>
+      <Value />
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LoginSelectLoginModeLabelExplanationData1</Key>
+      <Value />
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LoginchckModeLabelData</Key>
+      <Value>自動ログインを有効にする</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionInfoSettingItemView</Key>
+      <Value>検査情報設定</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionCountervalueLbl</Key>
+      <Value>検査ID発行時のカウント値</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionCountervalueLblMsg</Key>
+      <Value>検査IDカウント値の現在値を入力します</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionIssueMethodLabelData</Key>
+      <Value>シリーズ情報の発行方法</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionIssueMethodExplanationData</Key>
+      <Value>シリーズ番号の発行方法を選択します。</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputSettingItemView</Key>
+      <Value>出力設定</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputRequireLabelData</Key>
+      <Value>反転マーク出力装置</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputRequireLabelDataMsg</Key>
+      <Value>反転マークを出力する装置を選択します。</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputHost1ChckData</Key>
+      <Value>Host 1</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputHost2ChckData</Key>
+      <Value>Host 2</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputHost3ChckData</Key>
+      <Value>Host 3</Value>
+      <Comment>Host 3</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputHost4ChckData</Key>
+      <Value>Host 4</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputPrinter1ChckData</Key>
+      <Value>Print</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputFilpMarkOnOffLabelData</Key>
+      <Value>自動出力する</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputFilpMarkOnOffExplanationData</Key>
+      <Value>自動出力設定</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputFilpMarkSizeLabelData</Key>
+      <Value>反転マーク　埋め込みサイズ</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputFilpMarkSizeExplanationData</Key>
+      <Value>反転マークの埋め込みサイズを選択します。</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputFilpMarkPositionLabelData</Key>
+      <Value>反転マーク　埋め込み位置</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputFilpMarkPositionExplanationData</Key>
+      <Value>反転マークの埋め込み位置を選択します。</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputAutoOutputLabelData</Key>
+      <Value>自動出力待機時間</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputAutoOutputExplanationData</Key>
+      <Value>自動出力待機時間を秒の単位で入力します。</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EmergencySettingItemView</Key>
+      <Value>救急設定</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EmergencyDiscreminationItemsLabelData</Key>
+      <Value>患者IDをもとに救急検査の判定を行う</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EmergencyDiscreminationItemsExplanationData</Key>
+      <Value>救急検査として判定する患者IDの先頭文字列</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EmergencyDiscreminationcharStringLabelData</Key>
+      <Value>救急検査として判定する患者IDの末尾文字列</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EmergencyDiscreminationcharStringExplanationData</Key>
+      <Value>救急検査の画像をHOST出力する</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskCapacitySettingItemView</Key>
+      <Value>画像削除設定</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskFullcapacityLabelData</Key>
+      <Value>システム空き容量サイズ</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskFullcapacityExplanationData</Key>
+      <Value>本装置が使用するHDDの空き容量サイズをGB単位で表示します。</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskAutoDeleteLblData</Key>
+      <Value>削除容量を自動算出する</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskAutoDeleteLblDatamsg</Key>
+      <Value />
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskAutoDeleteChckData</Key>
+      <Value>システム終了時に画像削除を行う</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskImageDeletevalueLabelData</Key>
+      <Value>削除容量サイズ</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskImageDeletevalueExplanationData</Key>
+      <Value>自動削除を行わない場合の容量サイズをGB単位で入力します。</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskManualSettingChckData</Key>
+      <Value />
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSaverSettingItemView</Key>
+      <Value>スクリーンセーバー設定</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSaverAutoLogin</Key>
+      <Value>スクリーンセーバーを解除したらログイン画面を表示する</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSaverAutoLoginMsg</Key>
+      <Value />
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSaverExposureScreenLbl</Key>
+      <Value>撮影画面表示中はスクリーンセーバーの起動を制限する</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSaverExposureScreenLblMsg</Key>
+      <Value />
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Upper Left</Key>
+      <Value>左上</Value>
+      <Comment>Upper Left</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Upper Right</Key>
+      <Value>右上</Value>
+      <Comment>Upper Right</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Lower Left</Key>
+      <Value>左下</Value>
+      <Comment>Lower Left</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Lower Right</Key>
+      <Value>右下</Value>
+      <Comment>Lower Right</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>7x7mm</Key>
+      <Value>7x7mm</Value>
+      <Comment>7x7mm</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>10x10mm</Key>
+      <Value>10x10mm</Value>
+      <Comment>10x10mm</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DICOM Compliance</Key>
+      <Value>検査単位</Value>
+      <Comment>DICOM Compliance</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Order Sequence</Key>
+      <Value>部位単位</Value>
+      <Comment>Order Sequence</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>R150 compatible</Key>
+      <Value>画像単位</Value>
+      <Comment>R150 compatible</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskAutoRemovalLabelData</Key>
+      <Value>自動削除開始閾値</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskAutoRemovalExplanation</Key>
+      <Value>空き容量がこの値を下回ると、コンソール終了時に画像削除を行います</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

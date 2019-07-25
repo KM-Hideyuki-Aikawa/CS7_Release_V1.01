@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="SystemMonitorDomain00001">
+      <Title>Компонент устройства чтения</Title>
+      <Message>Скоро выйдет срок службы (ReaderName) в (ComponentName). Обратитесь в службу тех. обуслуживания.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00002">
+      <Title>Компонент устройства чтения</Title>
+      <Message>Скоро выйдет срок службы (ComponentName). Обратитесь в службу тех. обуслуживания.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00003">
+      <Title>Компонент устройства чтения</Title>
+      <Message>Истек срок службы (ReaderName) в (ComponentName). Обратитесь в службу тех. обуслуживания.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00004">
+      <Title>Компонент устройства чтения</Title>
+      <Message>Истек срок службы (ComponentName). Обратитесь в службу тех. обуслуживания.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00005">
+      <Title />
+      <Message>Завершить работу системы?</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00006">
+      <Title />
+      <Message>Обновление выполнено.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00007">
+      <Title />
+      <Message>Вы успешно вышли из приложения.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00008">
+      <Title>Ошибка</Title>
+      <Message>Не удается обработать запрос на выход из системы.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00009">
+      <Title>Ошибка</Title>
+      <Message>Проверьте (DomainExtenderName). Модуль не загружен.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00010">
+      <Title />
+      <Message>Вы действительно хотите выйти из системы?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="AeroDRSettingDomainExtender0003">
+      <Title>Erro</Title>
+      <Message>Selecionados dados de correção incorretos.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0004">
+      <Title>Confirmação</Title>
+      <Message>Já existem dados de correção. Tem a certeza que pretende sobrescreve-los?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0005">
+      <Title>Erro</Title>
+      <Message>Falha ao adicionar o painel AeroDR.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0006">
+      <Title>Erro</Title>
+      <Message>Falha ao adquirir informação do painel AeroDR.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0007">
+      <Title>Erro</Title>
+      <Message>Falha ao configurar o painel AeroDR.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0008">
+      <Title>Erro</Title>
+      <Message>Falha ao adicionar XG BOX.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0009">
+      <Title>Erro</Title>
+      <Message>Falha ao adquirir XG BOX.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0010">
+      <Title>Erro</Title>
+      <Message>Falha ao configurar XG BOX.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0011">
+      <Title>Erro</Title>
+      <Message>Falha ao apagar o painel AeroDR.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0012">
+      <Title>Confirmação</Title>
+      <Message>Tem a certeza que pretende anular o registo do painel AeroDR?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0013">
+      <Title>Confirmação</Title>
+      <Message>Não foi efetuado o download da configuração do painel AeroDR. Tem a certeza que pretende anular o registo do painel AeroDR?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0014">
+      <Title>Confirmação</Title>
+      <Message>Existem paineis AeroDR ou XG BOX dos quais não foi efetuado o upload da configuração. Tem a certeza que pretende guardar a configuração?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0015">
+      <Title>Atenção</Title>
+      <Message>Não é possível cancelar alterações. Porque já foi realizado o upload da configuração do painel AeroDR ou XG BOX.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0016">
+      <Title>Erro</Title>
+      <Message>Existem dados inválidos. Por favor confirme as suas entradas.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0017">
+      <Title>Erro</Title>
+      <Message>Por favor altere a configuração do painel AeroDR.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0018">
+      <Title>Confirmação</Title>
+      <Message>Tem a certeza que pretende enviar o ajuste ao servidor?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0019">
+      <Title>Erro</Title>
+      <Message>Ocorreu erro ao transferir o ajuste. Por favor verifique a ligação de rede e tente de novo.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

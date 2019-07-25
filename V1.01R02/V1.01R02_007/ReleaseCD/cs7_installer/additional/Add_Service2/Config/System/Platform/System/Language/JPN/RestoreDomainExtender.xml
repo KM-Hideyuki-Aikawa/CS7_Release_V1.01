@@ -1,0 +1,239 @@
+﻿<?xml version="1.0"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <!--Start:Radio Button Captions-->
+      <Key>Setting</Key>
+      <Value>設定</Value>
+      <Comment>Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Data</Key>
+      <Value>DB</Value>
+      <Comment>Data</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Study</Key>
+      <Value>検査(完了していない検査はリストアできません)</Value>
+      <Comment>Study</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <!--End:Radio Button Captions-->
+
+    <!--Start:Restore List Title-->
+    <LocalizeInfo>
+      <Key>RestoreListTitle</Key>
+      <Value></Value>
+      <Comment>Restore List Title</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <!--End:Restore List Title-->
+    
+    <LocalizeInfo>
+      <Key>RestoreLocation</Key>
+      <Value>リストア元</Value>
+      <Comment>Restore Location</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    
+    <!--Start:Setting List Column Headers-->
+    <LocalizeInfo>
+      <Key>SettingNameHeader</Key>
+      <Value>設定</Value>
+      <Comment>SettingNameHeader</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <!--End:Setting List Column Headers-->
+    
+    <!--Start:Study List Column Headers-->
+    <LocalizeInfo>
+      <Key>StudyInstanceIDHeader</Key>
+      <Value>検査UID</Value>
+      <Comment>Study Instance ID</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientNameHeader</Key>
+      <Value>氏名</Value>
+      <Comment>Patient Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientIDHeader</Key>
+      <Value>患者ID</Value>
+      <Comment>Patient ID</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyDateHeader</Key>
+      <Value>検査日付</Value>
+      <Comment>Study Date</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyTimeHeader</Key>
+      <Value>検査時刻</Value>
+      <Comment>Study Time</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AccessionNoHeader</Key>
+      <Value>受付番号</Value>
+      <Comment>Accession No</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageCountHeader</Key>
+      <Value>撮影枚数</Value>
+      <Comment>Image Count</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <!--End:Study List Column Headers-->
+
+    <!--Start:Button Captions-->
+    <LocalizeInfo>
+      <Key>Browse</Key>
+      <Value>．．．</Value>
+      <Comment>Browse</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Execute</Key>
+      <Value>実行</Value>
+      <Comment>Execute</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Close</Key>
+      <Value>閉じる</Value>
+      <Comment>Close</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SelectAll</Key>
+      <Value>Select All</Value>
+      <Comment>Select All</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReleaseAll</Key>
+      <Value>Release All</Value>
+      <Comment>Release All</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <!--End:Button Captions-->
+
+    <!--Start:Messagebox Captions-->
+    <LocalizeInfo>
+      <Key>RestoreMessageBoxTitle</Key>
+      <Value>リストア</Value>
+      <Comment>RestoreMessageBoxTitle</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RestoreConfirmationMessage</Key>
+      <Value>選択した項目をリストアします。設定をリストアした場合、元に戻せませんがよろしいですか？</Value>
+      <Comment>RestoreConfirmationMessage</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SelectRecordMessage</Key>
+      <Value>リストアする項目を選択してください。</Value>
+      <Comment>SelectRecordMessage</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PatientTblXMLNotFound</Key>
+      <Value>患者テーブルのリストアが失敗しました。</Value>
+      <Comment>PatientTblXMLNotFound</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RestoreCompletedMessage</Key>
+      <Value>リストアが完了しました。</Value>
+      <Comment>RestoreCompletedMessage</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyAlreadyExistMessage</Key>
+      <Value>Study Already Exists.</Value>
+      <Comment>StudyAlreadyExistMessage</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <!--End:Messagebox Captions-->
+  </LocalizeList>
+</LocalizeDictionary>

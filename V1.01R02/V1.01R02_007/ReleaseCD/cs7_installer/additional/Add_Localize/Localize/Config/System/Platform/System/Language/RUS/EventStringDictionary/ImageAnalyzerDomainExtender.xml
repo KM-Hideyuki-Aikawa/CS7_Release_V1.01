@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0104">
+      <Title>Ошибка</Title>
+      <Message>Не удалось запустить последовательность получения изображений.</Message>
+    </EventString>
+    <EventString Key="0112">
+      <Title>Ошибка</Title>
+      <Message>Не удалось проанализировать электрический шум.</Message>
+    </EventString>
+    <EventString Key="0113">
+      <Title>Ошибка</Title>
+      <Message>Не удалось проанализировать неровность.</Message>
+    </EventString>
+    <EventString Key="0114">
+      <Title>Ошибка</Title>
+      <Message>Не удалось обновить базовую карту дефектов.</Message>
+    </EventString>
+    <EventString Key="0115">
+      <Title>Ошибка</Title>
+      <Message>Не удалось проанализировать карту дефектов.</Message>
+    </EventString>
+    <EventString Key="0116">
+      <Title>Ошибка</Title>
+      <Message>Не удалось получить изображение.</Message>
+    </EventString>
+    <EventString Key="0117">
+      <Title>Информация</Title>
+      <Message>Анализ изображения завершен.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

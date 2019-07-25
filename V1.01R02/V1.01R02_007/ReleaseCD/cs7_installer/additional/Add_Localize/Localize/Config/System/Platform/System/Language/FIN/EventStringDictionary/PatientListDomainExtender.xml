@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientListDomainExtender0000">
+      <Title />
+      <Message>Annettu vuosi ei kelpaa</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0001">
+      <Title />
+      <Message>Annettu kuukausi ei kelpaa</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0002">
+      <Title />
+      <Message>Annettu päivä ei kelpaa</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0003">
+      <Title />
+      <Message>Arvo on alueen ulkopuolella</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0004">
+      <Title />
+      <Message>Pituus on suurempi kuin MaxLength</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0005">
+      <Title />
+      <Message>Pituus on pienempi kuin MinLength</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0006">
+      <Title />
+      <Message>Annettu arvo ei ole numeerinen</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0007">
+      <Title />
+      <Message>Annettu arvo ei kelpaa</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0008">
+      <Title />
+      <Message>Vain kirjaimet sallitaan</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0009">
+      <Title />
+      <Message>Vain Kana sallitaan</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0010">
+      <Title />
+      <Message>Virheellinen arvo. Tässä ei voi käyttää merkkiä "\".</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0011">
+      <Title />
+      <Message>Tätä merkkiä ei saa käyttää</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0012">
+      <Title>Vahvistus</Title>
+      <Message>Haluatko poistaa valitun tietueen?</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0013">
+      <Title />
+      <Message>Virheellinen arvo. Tässä ei voi käyttää merkkejä "\", "^" tai "=".</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0014">
+      <Title />
+      <Message>Virheellinen arvo. Tässä ei voi käyttää merkkejä "\" tai "=".</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0015">
+      <Title />
+      <Message>Haluatko keskeyttää tutkimuksen?</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0016">
+      <Title>Viivakoodihaku</Title>
+      <Message>Useita {0} Tutkimus olemassa annettujen tietojen kanssa.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="JMDomainExtender0001">
+      <Title>Stav Ping</Title>
+      <Message>Připojení bylo úspěšné.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0002">
+      <Title>Stav Ping</Title>
+      <Message>Připojení neúspěšné.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0003">
+      <Title />
+      <Message>Pokud je snímání při potížích nečekaně pozastaveno, může dojít k problémům, například ke zmizení snímku atd. Pokud dojde k pozastavení, zálohujte skenování a restartujte CS.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0004">
+      <Title />
+      <Message>Odstranění úlohy není úspěšné.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0005">
+      <Title />
+      <Message>Úloha úspěšně odstraněna.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0006">
+      <Title />
+      <Message>Změna JM. Registrace kazety bude zcela zakázána. Je to v pořádku？</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

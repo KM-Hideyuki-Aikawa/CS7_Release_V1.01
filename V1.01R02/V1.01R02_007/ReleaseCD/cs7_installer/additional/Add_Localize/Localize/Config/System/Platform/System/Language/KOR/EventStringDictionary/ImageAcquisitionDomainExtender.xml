@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ImageAcquisitionDomainExtender0000">
+      <Title>확인</Title>
+      <Message>정말 이미지를 삭제하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0001">
+      <Title>확인</Title>
+      <Message>다시 노출하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender1001">
+      <Title>주의</Title>
+      <Message>{MaxSize} 이상으로 노출량을 추가할 수 없습니다.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0002">
+      <Title>확인</Title>
+      <Message>정말 삭제를 취소하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0003">
+      <Title>확인</Title>
+      <Message>이미지가 캡쳐되었습니다.
+정말 연구를 완료하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0004">
+      <Title>확인</Title>
+      <Message>다른 검사실에서 연구를 계속 하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0005">
+      <Title>확인</Title>
+      <Message>이 검사 태그에는 카세트 바코드가 등록되어 있습니다. 
+정말 바코드 등록을 삭제하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0006">
+      <Title>오류</Title>
+      <Message>이미지 판독 중 오류가 발생했습니다.
+네트워크를 확인하십시오.
+리더기를 다시 시작하십시오.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0007">
+      <Title>오류</Title>
+      <Message>환자 ID: {PATIENTID}
+환자 이름: {PATIENTNAME}
+리더기 이름: {READERNAME}
+이미지 수신이 완료되지 않았습니다.
+네트워크를 확인하십시오.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0008">
+      <Title>경고</Title>
+      <Message>리더기 이름: {READERNAME}
+정말 이미지 수신을 취소하시겠습니까?
+ 수신이 취소된 경우 리더기를 다시 시작하십시오.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0009">
+      <Title>오류</Title>
+      <Message>이제 이미지를 판독 중입니다. 잠시 후 로그인해 주십시오.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0010">
+      <Title>오류</Title>
+      <Message>연구 완료가 실패하였습니다.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0011">
+      <Title>오류</Title>
+      <Message>검사를 중지하지 못했습니다.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0012">
+      <Title>오류</Title>
+      <Message>이 카세트는 일반 노출용입니다.
+검사 태그를 확인하십시오.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0013">
+      <Title>오류</Title>
+      <Message>이 카세트는 유방조영술용입니다.
+검사 태그를 확인하십시오.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0014">
+      <Title>오류</Title>
+      <Message>이 카세트는 PCM용입니다.
+검사 태그를 확인하십시오.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0015">
+      <Title>오류</Title>
+      <Message>이 카세트는 이미 등록되어 있습니다.
+다른 카세트를 등록하십시오.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0016">
+      <Title>주의</Title>
+      <Message>이 카세트는 이미 판독을 시작했습니다.
+바코드 등록을 삭제할 수 없습니다.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0017">
+      <Title>주의</Title>
+      <Message>이 카세트는 이미 판독을 시작했습니다.
+수동 등록 모드로 등록된 작업은 삭제할 수 없습니다.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0018">
+      <Title>주의</Title>
+      <Message>이 카세트는 이미 판독을 시작했습니다.
+자동 등록 모드로 등록된 작업은 삭제할 수 없습니다.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0019">
+      <Title>확인</Title>
+      <Message>정말 이 연구를 보류하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0020">
+      <Title>확인</Title>
+      <Message>캡쳐된 이미지가 없습니다. 정말 상태를 시작되지 않음으로 변경하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0021">
+      <Title>확인</Title>
+      <Message>정말 바코드 등록을 삭제하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0022">
+      <Title>이미지 재전송</Title>
+      <Message>콘솔에 저장된 미전송 이미지를 삭제하시겠습니까? [OK]: 삭제 [Cancel]: 삭제 없이 되돌아가기</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0023">
+      <Title>이미지 재전송</Title>
+      <Message>{READERNAME}: 일부 이미지가 아직 전송되지 않았습니다. 삭제하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0024">
+      <Title>이미지 전송 오류</Title>
+      <Message>{READERNAME}: 이미지 전송 중 통신 오류가 발생했습니다. 통신 케이블의 연결 상태를 확인하십시오.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0025">
+      <Title>이미지 재전송</Title>
+      <Message>{READERNAME}: "{ImageAcquisitionConditionName}"이 아직 전송되지 않았습니다. 이미지를 검색하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0026">
+      <Title>확인</Title>
+      <Message>정말 선택한 검사 태그를 삭제하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0027">
+      <Title>확인</Title>
+      <Message>정말 이 연구를 삭제하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0028">
+      <Title>오류</Title>
+      <Message>이미지 전송 중 타임아웃이 발생했습니다.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0029">
+      <Title />
+      <Message>{ImageAcquisitionConditionName}에 대한 전송되지 않은 이미지가 존재합니다.
+검사 태그 및 이미지 양식 차이로 인해 이미지를 다시 확보할 수 없습니다..
+ 이미지를 다시 확보하려는 경우 검사 태그와 일치하는 패널 상태를 변경해 주십시오.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0030">
+      <Title />
+      <Message>미전송된 이미지를 확보하지 못했습니다.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0031">
+      <Title />
+      <Message>미전송된 이미지를 삭제하지 못했습니다.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0032">
+      <Title>확인</Title>
+      <Message>정말 이 연구를 보류하시겠습니까?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0104">
+      <Title>Virhe</Title>
+      <Message>Kuvantuontisekvenssin käynnistys epäonnistui.</Message>
+    </EventString>
+    <EventString Key="0112">
+      <Title>Virhe</Title>
+      <Message>Sähkökohinan analysointi epäonnistui.</Message>
+    </EventString>
+    <EventString Key="0113">
+      <Title>Virhe</Title>
+      <Message>Epätasaisuuden analysointi epäonnistui.</Message>
+    </EventString>
+    <EventString Key="0114">
+      <Title>Virhe</Title>
+      <Message>Perusvirhekartan päivitys epäonnistui.</Message>
+    </EventString>
+    <EventString Key="0115">
+      <Title>Virhe</Title>
+      <Message>Puutekartan analysointi epäonnistui.</Message>
+    </EventString>
+    <EventString Key="0116">
+      <Title>Virhe</Title>
+      <Message>Kuvan hankinta epäonnistui.</Message>
+    </EventString>
+    <EventString Key="0117">
+      <Title>Informaatio</Title>
+      <Message>Kuva-analyysi suoritettu.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

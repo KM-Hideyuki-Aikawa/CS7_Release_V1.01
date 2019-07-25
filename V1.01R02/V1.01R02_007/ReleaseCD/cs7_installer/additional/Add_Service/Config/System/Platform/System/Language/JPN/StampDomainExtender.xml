@@ -1,0 +1,2291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>LineWidthErrMessage</Key>
+      <Value>最小文字数は1以上で設定してください</Value>
+      <Comment>Outline</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampItem</Key>
+      <Value>スタンプアイテム</Value>
+      <Comment>Outline</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FontSizeErrMessage</Key>
+      <Value>フォントサイズ（s）は、1～20の範囲で設定してください</Value>
+      <Comment>Outline</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ValueOf</Key>
+      <Value></Value>
+      <Comment>Outline</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutofRange</Key>
+      <Value>は範囲外です。範囲内となるように修正します</Value>
+      <Comment>Outline</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Width</Key>
+      <Value>幅</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Date</Key>
+      <Value>日</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Month</Key>
+      <Value>月</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Year</Key>
+      <Value>年</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DA010oo</Key>
+      <Value>昭和</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DA011@</Key>
+      <Value>H</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Hour</Key>
+      <Value>時</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Minutes</Key>
+      <Value>分</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Seconds</Key>
+      <Value>秒</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AM</Key>
+      <Value>午前</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PM</Key>
+      <Value>午後</Value>
+      <Comment>Stamp Width(Test Preview TextBox)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Filename</Key>
+      <Value />
+      <Comment>File Name : nmprint p1.ini</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BackgroundDensity</Key>
+      <Value>背景画素値 [%]</Value>
+      <Comment>Background Density [Dmin - Dmax (Default : 2.5)]</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CharacterDensity</Key>
+      <Value>文字画素値 [%]</Value>
+      <Comment>Character Density [Dmin - Dmax (Default : 2.5)]</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Offset</Key>
+      <Value>配置設定</Value>
+      <Comment>Offset</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Position</Key>
+      <Value>位置</Value>
+      <Comment>Position</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Enable</Key>
+      <Value>有効設定</Value>
+      <Comment>Enable</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Xmm</Key>
+      <Value>X [mm]</Value>
+      <Comment>X[mm]</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Ymm</Key>
+      <Value>Y [mm]</Value>
+      <Comment>Y[mm]</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UpperLeft</Key>
+      <Value>左上</Value>
+      <Comment>Upper-Left</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UpperCenter</Key>
+      <Value>上</Value>
+      <Comment>Upper-Left</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UpperRight</Key>
+      <Value>右上</Value>
+      <Comment>Upper-Right</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Left</Key>
+      <Value>左</Value>
+      <Comment>Upper-Right</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Right</Key>
+      <Value>右</Value>
+      <Comment>Upper-Right</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LowerLeft</Key>
+      <Value>左下</Value>
+      <Comment>Lower-Left</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LowerCenter</Key>
+      <Value>下</Value>
+      <Comment>Lower-Left</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LowerRight</Key>
+      <Value>右下</Value>
+      <Comment>Lower-Right</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Refresh</Key>
+      <Value>更新</Value>
+      <Comment>Refresh</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Preview</Key>
+      <Value>プレビュー</Value>
+      <Comment>Preview</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampSettings</Key>
+      <Value>スタンプ設定</Value>
+      <Comment>Stamp Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SNo</Key>
+      <Value>No.</Value>
+      <Comment>S.No</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Edit</Key>
+      <Value>編集...</Value>
+      <Comment>Edit...</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Copy</Key>
+      <Value>コピー...</Value>
+      <Comment>Copy...</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp1</Key>
+      <Value>スタンプ 1</Value>
+      <Comment>Stamp 1</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp2</Key>
+      <Value>スタンプ 2</Value>
+      <Comment>Stamp 2</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp3</Key>
+      <Value>スタンプ 3</Value>
+      <Comment>Stamp 3</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp4</Key>
+      <Value>スタンプ 4</Value>
+      <Comment>Stamp 4</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp5</Key>
+      <Value>スタンプ 5</Value>
+      <Comment>Stamp 5</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp6</Key>
+      <Value>スタンプ 6</Value>
+      <Comment>Stamp 6</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp7</Key>
+      <Value>スタンプ 7</Value>
+      <Comment>Stamp 7</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp8</Key>
+      <Value>スタンプ 8</Value>
+      <Comment>Stamp 8</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp9</Key>
+      <Value>スタンプ 9</Value>
+      <Comment>Stamp 9</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Stamp10</Key>
+      <Value>スタンプ 10</Value>
+      <Comment>Stamp 10</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OK</Key>
+      <Value>OK</Value>
+      <Comment>OK</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Cancel</Key>
+      <Value>キャンセル</Value>
+      <Comment>Cancel</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Prefix</Key>
+      <Value>接頭辞</Value>
+      <Comment>Prefix</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Suffix</Key>
+      <Value>接尾辞</Value>
+      <Comment>Suffix</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Sample</Key>
+      <Value>表示サンプル</Value>
+      <Comment>Sample</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Alignment</Key>
+      <Value>文字列の配置方法</Value>
+      <Comment>Alignment</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Contents</Key>
+      <Value>詳細設定</Value>
+      <Comment>Contents</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Item</Key>
+      <Value>項目名</Value>
+      <Comment>Item</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Line</Key>
+      <Value>行</Value>
+      <Comment>Line</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Lengths</Key>
+      <Value>最小文字数</Value>
+      <Comment>Length</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Options</Key>
+      <Value>表示形式</Value>
+      <Comment>Options</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampNumber</Key>
+      <Value />
+      <Comment>Stamp Number : Printer - Stamp 1</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GeneralSettings</Key>
+      <Value>基本設定</Value>
+      <Comment>General Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Parameter</Key>
+      <Value>項目</Value>
+      <Comment>Parameter</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Values</Key>
+      <Value>設定値</Value>
+      <Comment>Value</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TotalLines</Key>
+      <Value>行数 ( 1 - 6 )</Value>
+      <Comment>Total Lines ( 1 - 6 )</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Default</Key>
+      <Value>左寄せ</Value>
+      <Comment>Default Alignment in Stamp Edit model</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Center</Key>
+      <Value>中寄せ</Value>
+      <Comment>center alignemnt key in Stamp Edit Model</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FontSizeText</Key>
+      <Value>フォントサイズ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FisrtLineFontSize</Key>
+      <Value>1st</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SecondLineFontSize</Key>
+      <Value>2nd</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ThirdLineFontSize</Key>
+      <Value>3rd</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ForthLineFontSize</Key>
+      <Value>4th</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FifthLineFontSize</Key>
+      <Value>5th</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SixthLineFontSize</Key>
+      <Value>6th</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LineNumber</Key>
+      <Value>行番号</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Value</Key>
+      <Value>値</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_undefined</Key>
+      <Value>（未定義）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0069</Key>
+      <Value>検査日</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00080023</Key>
+      <Value>画像日</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0070</Key>
+      <Value>検査時刻</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00080033</Key>
+      <Value>画像時刻</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0095</Key>
+      <Value>受付番号</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00080080</Key>
+      <Value>施設名</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00080081</Key>
+      <Value>施設の住所</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0043</Key>
+      <Value>照会医師名(ローマ字）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0044</Key>
+      <Value>照会医師名（漢字）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0045</Key>
+      <Value>照会医師名（カナ）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00081010</Key>
+      <Value>ｽﾃｰｼｮﾝ名</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00081040</Key>
+      <Value>施設部門名</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0046</Key>
+      <Value>記録担当医師(ローマ字）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0047</Key>
+      <Value>記録担当医師（漢字）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0048</Key>
+      <Value>記録担当医師</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPSE0015</Key>
+      <Value>実施医師(ローマ字）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPSE0016</Key>
+      <Value>実施医師（漢字）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPSE0017</Key>
+      <Value>実施医師（カナ）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0049</Key>
+      <Value>検査読影医師名(ローマ字）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0050</Key>
+      <Value>検査読影医師名（漢字）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0051</Key>
+      <Value>検査読影医師名（カナ）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPSE0012</Key>
+      <Value>操作者の名前(ローマ字）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPSE0013</Key>
+      <Value>操作者の名前（漢字）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPSE0014</Key>
+      <Value>操作者の名前（カナ）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0052</Key>
+      <Value>受診時診断記述</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00081090</Key>
+      <Value>製造者のﾓﾃﾞﾙ名</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0033</Key>
+      <Value>患者の名前(ローマ字）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0034</Key>
+      <Value>患者の名前（漢字）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0035</Key>
+      <Value>患者の名前（カナ）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0032</Key>
+      <Value>患者ID</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0036</Key>
+      <Value>患者の誕生日</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0037</Key>
+      <Value>患者の誕生時刻</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0038</Key>
+      <Value>患者の性別</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0081</Key>
+      <Value>患者の他のID</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0082</Key>
+      <Value>患者の他の名前(ローマ字）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0083</Key>
+      <Value>患者の他の名前（漢字）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0084</Key>
+      <Value>患者の他の名前（カナ）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0011</Key>
+      <Value>患者の年齢</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0053</Key>
+      <Value>患者身長</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0054</Key>
+      <Value>患者体重</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0058</Key>
+      <Value>医療警告</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0059</Key>
+      <Value>造影剤ｱﾚﾙｷﾞｰ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0085</Key>
+      <Value>民族ｸﾞﾙｰﾌﾟ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0055</Key>
+      <Value>患者の職業</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0061</Key>
+      <Value>患者の追加病歴</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0062</Key>
+      <Value>妊娠の状態</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0039</Key>
+      <Value>患者ｺﾒﾝﾄ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00180010:0</Key>
+      <Value>造影剤薬剤名</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GEIM0021</Key>
+      <Value>検査部位</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00180060</Key>
+      <Value>管電圧</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181000</Key>
+      <Value>装置ｼﾘｱﾙ番号</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181020:0</Key>
+      <Value>ｿﾌﾄｳｪｱ版</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181040</Key>
+      <Value>造影剤経路</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181041</Key>
+      <Value>造影剤容量(cm3)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181042</Key>
+      <Value>造影剤開始時刻</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181043</Key>
+      <Value>造影剤停止時刻</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181044</Key>
+      <Value>造影剤全投与量</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181046</Key>
+      <Value>造影剤流量</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181047</Key>
+      <Value>造影剤流れ期間</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181048</Key>
+      <Value>造影剤成分</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311107;00181049</Key>
+      <Value>造影剤成分濃度</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181110</Key>
+      <Value>線源検出器距離</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181111</Key>
+      <Value>線源患者間距離</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181114</Key>
+      <Value>拡大率(x100倍)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181147</Key>
+      <Value>視野形状</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181150</Key>
+      <Value>曝射時間</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181151</Key>
+      <Value>X線管電流</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181152</Key>
+      <Value>曝射量</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181156</Key>
+      <Value>整流ﾀｲﾌﾟ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_0018115E</Key>
+      <Value>画像面積線量積</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181160</Key>
+      <Value>ﾌｨﾙﾀﾀｲﾌﾟ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181164:0</Key>
+      <Value>画像画素間隔-行</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181164:1</Key>
+      <Value>画像画素間隔-列</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181166</Key>
+      <Value>ｸﾞﾘｯﾄﾞ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181190</Key>
+      <Value>焦点</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181191</Key>
+      <Value>陽極ﾀｰｹﾞｯﾄ材料</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_001811A0</Key>
+      <Value>圧迫時乳房厚</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_001811A2</Key>
+      <Value>圧迫圧</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181004:0</Key>
+      <Value>プレートID</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181402</Key>
+      <Value>ｶｾｯﾃ方向</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181403</Key>
+      <Value>撮影ｻｲｽﾞ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00181510:0</Key>
+      <Value>撮影支持装置ｱｰﾑ角度</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00185101:0</Key>
+      <Value>視野位置</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00186000</Key>
+      <Value>感度</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_0018700A</Key>
+      <Value>検出器ID</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187040</Key>
+      <Value>ｸﾞﾘｯﾄﾞ吸収材料</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187041</Key>
+      <Value>ｸﾞﾘｯﾄﾞ間隙材料</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187042</Key>
+      <Value>ｸﾞﾘｯﾄﾞ厚さ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187044</Key>
+      <Value>ｸﾞﾘｯﾄﾞﾋﾟｯﾁ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187046:0</Key>
+      <Value>ｸﾞﾘｯﾄﾞ縦横比-縦</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187046:1</Key>
+      <Value>ｸﾞﾘｯﾄﾞ縦横比-横</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_0018704C</Key>
+      <Value>ｸﾞﾘｯﾄﾞ焦点距離</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187050</Key>
+      <Value>ﾌｨﾙﾀ材料</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187052</Key>
+      <Value>最小ﾌｨﾙﾀ厚さ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187054</Key>
+      <Value>最大ﾌｨﾙﾀ厚さ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187060</Key>
+      <Value>曝射制御ﾓｰﾄﾞ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00187064</Key>
+      <Value>曝射状態</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0003</Key>
+      <Value>検査ｲﾝｽﾀﾝｽUID</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPSE0005</Key>
+      <Value>ｼﾘｰｽﾞｲﾝｽﾀﾝｽUID</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0012</Key>
+      <Value>検査ID</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPSE0006</Key>
+      <Value>ｼﾘｰｽﾞ番号</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00200013</Key>
+      <Value>画像番号</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00200060:0</Key>
+      <Value>左右</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00200062:0</Key>
+      <Value>画像側性</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00204000</Key>
+      <Value>画像ｺﾒﾝﾄ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00280010</Key>
+      <Value>行</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00280011</Key>
+      <Value>列</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00280300</Key>
+      <Value>品質管理画像</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0074</Key>
+      <Value>依頼医師名(ローマ字）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0075</Key>
+      <Value>依頼医師名（漢字）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0076</Key>
+      <Value>依頼医師名（カナ）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0026</Key>
+      <Value>依頼元診療科</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0096</Key>
+      <Value>検査ｺﾒﾝﾄ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0064</Key>
+      <Value>特別な介助</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0067</Key>
+      <Value>患者の現在所在</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0029</Key>
+      <Value>施設内居住地</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0065</Key>
+      <Value>患者状態</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00400300</Key>
+      <Value>X線透視総時間</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00400302</Key>
+      <Value>入射面線量</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00400303:0</Key>
+      <Value>曝射領域</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00400306</Key>
+      <Value>線源入射面距離</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GSPR0006</Key>
+      <Value>発注側ｵｰﾀﾞ番号</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GSPR0005</Key>
+      <Value>受注側ｵｰﾀﾞ番号</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_GPPS0066</Key>
+      <Value>守秘事項</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00408302</Key>
+      <Value>mGyでの入射面線量</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311001</Key>
+      <Value>ｾｯﾄ条件ｷｰ番号</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311002</Key>
+      <Value>ｾｯﾄ大分類名称</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311003</Key>
+      <Value>ｾｯﾄｸﾞﾙｰﾌﾟ名称</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311004</Key>
+      <Value>ｾｯﾄ条件ｷｰ名称</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311005:0</Key>
+      <Value>ﾕｰｻﾞｰ条件番号</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311007</Key>
+      <Value>ﾕｰｻﾞｰｸﾞﾙｰﾌﾟ名称</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311008</Key>
+      <Value>ﾕｰｻﾞｰ条件ｷｰ名称</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311100;00311060</Key>
+      <Value>X線制御ｺｰﾄﾞ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311100;00311061</Key>
+      <Value>管球番号</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311018</Key>
+      <Value>出力装置</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311081:3</Key>
+      <Value>基準濃度L</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311081:4</Key>
+      <Value>基準濃度H</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311082:1</Key>
+			<Value>E処理マスクサイズ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311084:1</Key>
+			<Value>F処理マスクサイズ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_003110CC:1</Key>
+      <Value>S値</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_003110CC:0</Key>
+      <Value>G値</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_003110CA:0</Key>
+      <Value>ｼﾌﾄ量</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_003110CA:1</Key>
+      <Value>回転量</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>    
+    <LocalizeInfo>
+      <Key>StampId_0031107B:0</Key>
+      <Value>E処理ON/OFF </Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_0031107C:0</Key>
+      <Value>F処理ON/OFF </Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311086:0</Key>
+      <Value>HID </Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311086:2</Key>
+      <Value>HF-STANDARD</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311086:1</Key>
+      <Value>HE-STANDARD</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311087:1</Key>
+      <Value>HF-β2</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311087:0</Key>
+      <Value>HF-β1</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311087:3</Key>
+      <Value>HE-βh</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StampId_00311105;00311087:2</Key>
+      <Value>HE-βl</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_undefined</Key>
+      <Value>（未定義）</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_GN000</Key>
+      <Value>無変換</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_GN001</Key>
+      <Value>16進表示</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_GN002</Key>
+      <Value>全角変換</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_GN003</Key>
+      <Value>数値を100分の1に変換</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_GN005</Key>
+      <Value>小数点以下2桁表示</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_GN007</Key>
+      <Value>単語の先頭を大文字に変換</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_DA000</Key>
+      <Value>YYYY年MM月DD日</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_DA001</Key>
+      <Value>M- D-YYYY</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_DA002</Key>
+      <Value>MM-DD-YYYY</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_DA003</Key>
+      <Value>D- M-YYYY</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_DA004</Key>
+      <Value>DD-MM-YYYY</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_DA010</Key>
+      <Value>○○YY年MM月DD日</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_DA011</Key>
+      <Value>@YY.MM.DD</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_TM000</Key>
+      <Value>hh時mm分ss秒</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_TM001</Key>
+      <Value>hh時mm分</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_TM002</Key>
+      <Value>hh:mm:ss</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_TM003</Key>
+      <Value>hh:mm</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_AS000</Key>
+      <Value>(才), (ヶ月), (日)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_AS001</Key>
+      <Value>(歳), (ヶ月), (日)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_SX000</Key>
+      <Value>(男), (女), (不明)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_SX001</Key>
+      <Value>男, 女, 不明</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_SX002</Key>
+      <Value>(Male), (Female), (Undefined)</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_SX003</Key>
+      <Value>Male, Female, Undefined</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_PN000</Key>
+      <Value>^(ハット)を全角スペースに変換</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayFormatId_PN001</Key>
+      <Value>^(ハット)を半角スペースに変換</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>メイリオ</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

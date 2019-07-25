@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35500">
+      <Title>Ошибка инициализации</Title>
+      <Message>Не удалось инициализировать.</Message>
+    </EventString>
+    <EventString Key="35501">
+      <Title>Ошибка настройки</Title>
+      <Message>Ошибка при чтении файла установок.</Message>
+    </EventString>
+    <EventString Key="35502">
+      <Title>Ошибка тайм-аута</Title>
+      <Message>Превышен предел ожидания.</Message>
+    </EventString>
+    <EventString Key="35503">
+      <Title>Ошибка сокета</Title>
+      <Message>Ошибка сокета.</Message>
+    </EventString>
+    <EventString Key="37350">
+      <Title>Внутренняя ошибка</Title>
+      <Message>Внутренняя ошибка в DICOM-соединении. Обратитесь к представителю службы сервиса.</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>Внутренняя ошибка</Title>
+      <Message>Внутренняя ошибка в DICOM-соединении. Обратитесь к представителю службы сервиса.</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>Внутренняя ошибка</Title>
+      <Message>Не удалось получить параметры DICOM-соединения. Проверьте параметры связи.</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>Ошибка связи</Title>
+      <Message>Ошибка связи. Проверьте параметры связи и работу сервера.</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>Ошибка связи</Title>
+      <Message>Ошибка A-ASSOCIATE. Проверьте параметры связи и работу сервера.</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>Ошибка связи</Title>
+      <Message>Отвергнуто сервером в A-ASSOCIATE из-за неверных параметров. Проверьте параметры связи.</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>Ошибка связи</Title>
+      <Message>Внутренняя ошибка в DICOM-соединении. Обратитесь к представителю службы сервиса.</Message>
+    </EventString>
+    <EventString Key="37357">
+      <Title>Ошибка связи</Title>
+      <Message>Не удалось передать номер релиза. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>Ошибка связи</Title>
+      <Message>Получен ответ A-ABORT. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37610">
+      <Title>Внутренняя ошибка</Title>
+      <Message>Внутренняя ошибка в соединении RIS-IN. Обратитесь к представителю службы сервиса.</Message>
+    </EventString>
+    <EventString Key="37611">
+      <Title>Внутренняя ошибка</Title>
+      <Message>Внутренняя ошибка в соединении RIS-IN. Обратитесь к представителю службы сервиса.</Message>
+    </EventString>
+    <EventString Key="37612">
+      <Title>Внутренняя ошибка</Title>
+      <Message>Внутренняя ошибка в соединении RIS-IN. Обратитесь к представителю службы сервиса.</Message>
+    </EventString>
+    <EventString Key="37613">
+      <Title>Внутренняя ошибка</Title>
+      <Message>Внутренняя ошибка в соединении RIS-IN. Обратитесь к представителю службы сервиса.</Message>
+    </EventString>
+    <EventString Key="37614">
+      <Title>Communication error</Title>
+      <Message>MWM C-FIND request aborted because it exceeded the maximum number of search responses.</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-IN communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-IN communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>Внутренняя ошибка</Title>
+      <Message>Получено уведомление об окончании.[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="27740">
+      <Title>Ошибка связи</Title>
+      <Message>Ошибка связи в соединении RIS-IN. Проверьте устройство приема.</Message>
+    </EventString>
+    <EventString Key="27741">
+      <Title>Ошибка связи</Title>
+      <Message>Ошибка связи в соединении RIS-IN. Проверьте устройство приема.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

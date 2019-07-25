@@ -1,0 +1,602 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IMasterDataAccessorExtender</name>
+    </assembly>
+    <members>
+        <member name="P:Konicaminolta.Consoles.Extenders.Interfaces.IImageAreaDetailForIpp.ImageHeader">
+            <summary>
+            The Image header
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Extenders.Interfaces.IImageAreaDetailForIpp.OrderLID">
+            <summary>
+            Order LID
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Extenders.Interfaces.IImageAreaDetailForIpp.ConditionKey">
+            <summary>
+            Exposure Condition Key
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Extenders.Interfaces.IImageAreaDetailForIpp.ConditionKeyDisplayName">
+            <summary>
+            Exposure Condition Key Display Name
+            Display: Group name and Name
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Extenders.Interfaces.IImageAreaDetailForIpp.ExposedDateTime">
+            <summary>
+            Exposed Date-Time
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Extenders.Interfaces.IImageAreaDetailForIpp.PatientNameSingle">
+            <summary>
+            Patient Name Single
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Extenders.Interfaces.IImageAreaDetailForIpp.PatientNameIdeo">
+            <summary>
+            Patient Name Ideo
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Extenders.Interfaces.IImageAreaDetailForIpp.PatientNamePhono">
+            <summary>
+            Patient Name Phono
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender">
+            <summary>
+            ユーザマスタマスタをインターフェィス
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.LoadMasterNamesLists(Konicaminolta.Consoles.Extenders.Interfaces.EnumNameListType,Konicaminolta.Platform.Frameworks.Datas.DataSource@,Konicaminolta.Platform.Frameworks.Datas.DataSource@)" -->
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.SaveUserMasterNames(Konicaminolta.Consoles.Extenders.Interfaces.EnumNameListType,Konicaminolta.Platform.Frameworks.Datas.DataSource@)">
+            <summary>
+            Saves User Master List[Serialize]
+            </summary>
+            <param name="type"></param>
+            <param name="userMastserNameList"></param>
+            <returns>Success: If Success, Failed：Otherwise</returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.GetDicomData(Konicaminolta.Consoles.Extenders.Interfaces.EnumNameListType,System.String,Konicaminolta.Platform.Frameworks.Datas.DataSource@)">
+            <summary>
+            Read Dicom Data based on Type [given codeValues]
+            </summary>
+            <param name="type">List type</param>
+            <param name="itemKey">Serial key of the data item</param>
+            <param name="rootType">Dicom data type</param>
+            <param name="dataSource">Dicom data return</param>
+            <returns>Success: If Success, Failed：Otherwise</returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.LoadImageAreaDetailsListForIpp(System.String,System.Collections.Generic.List{Konicaminolta.Consoles.Extenders.Interfaces.IImageAreaDetailForIpp}@)">
+            <summary>
+            Read image detail area info for the selected IPP from DB
+            </summary>
+            <param name="ippNo">Selected IPP</param>
+            <param name="imageAreaDetailsList">The detail list</param>
+            <returns>Success: If Success, Failed：Otherwise</returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.SetExpMaster(System.String,Konicaminolta.Platform.Frameworks.Datas.DataSource)">
+            <summary>
+            Write ExposureConditionDetail with the given Condition key
+            </summary>
+            <param name="conditionKeyId">Exp Condition key</param>
+            <param name="expMaster">Exp condition detail</param>
+            <returns>Success: If Success, Failed：Otherwise</returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.SaveDicomData(Konicaminolta.Consoles.Extenders.Interfaces.EnumNameListType,System.String,Konicaminolta.Platform.Frameworks.Datas.DataSource)">
+            <summary>
+            Write DICOM file after changes
+            </summary>
+            <param name="type">Type of master/sub-master item</param>
+            <param name="itemKey">The serial number of the item to be written back</param>
+            <param name="dataSource">The source data to be written back</param>
+            <returns>Success：When write success, Failed：otherwise</returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.RegisterUserMasterItem(Konicaminolta.Consoles.Extenders.Interfaces.EnumNameListType,System.String,System.String,System.Boolean)">
+            <summary>
+            Register selected user master item (copy creation)
+            </summary>
+            <param name="conditionKeyId">Exp serial key</param>
+            <returns>Success：Success, Failed：Failed</returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.RemoveRegisteredUserMasterItem(Konicaminolta.Consoles.Extenders.Interfaces.EnumNameListType,System.String)">
+            <summary>
+            Remove registered user master from user master list
+            </summary>
+            <param name="selectedItemKey">Selected item Key</param>
+            <returns>Success：Success, Failed：Failed</returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.CreateCopyOfUserMasterItem(Konicaminolta.Consoles.Extenders.Interfaces.IExpMasterNameInfo@,Konicaminolta.Consoles.Extenders.Interfaces.IExpMasterNameInfo@,System.String,System.Int16)">
+            <summary>
+            To create a copy of user master names list item
+            </summary>
+            <param name="selMasterItem">Seleted master ID</param>
+            <param name="newMasterItem">New master item</param>
+            <param name="newKeyID">New Key ID</param>
+            <param name="copyNum">Copy number (index)</param>
+            <returns>Success：Success, Failed：Failed</returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.GetExpSetKeyInfo(Konicaminolta.Platform.Frameworks.Datas.DataSource@)">
+            <summary>
+            GetExpSetKeyInfo
+            </summary>
+            <param name="expSetkey"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.GetOperationSetKeyList(Konicaminolta.Consoles.DataAccessors.Datas.Orders.IOperationSetKey[]@)">
+            <summary>
+            GetOperationSetKeyList
+            </summary>
+            <param name="opSetKeyList"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.GetMajorDivisionSetKeyList(Konicaminolta.Consoles.DataAccessors.Datas.Orders.IMajorDivisionSetKey[]@,System.String)">
+            <summary>
+            GetMajorDivisionSetKeyList
+            </summary>
+            <param name="majorDivSetKeyList"></param>
+            <param name="opSetKey"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.GetGroupSetKeyList(Konicaminolta.Consoles.DataAccessors.Datas.Orders.IGroupSetKey[]@,System.String,System.String)">
+            <summary>
+            GetGroupSetKeyList
+            </summary>
+            <param name="groupSetKeyList"></param>
+            <param name="opSetKey"></param>
+            <param name="majorDivSetKey"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.GetSetKeyNumberList(Konicaminolta.Consoles.DataAccessors.Datas.Orders.ISetKeyNumber[]@,System.String,System.String,System.String)">
+            <summary>
+            GetSetKeyNumberList
+            </summary>
+            <param name="setKeyList">ISetKeyNumber</param>
+            <param name="opSetKey">opSetKey</param>
+            <param name="majorDivSetKey">majorDivSetKey</param>
+            <param name="groupSetKey">groupSetKey</param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.GetConditionKeyNumberList(Konicaminolta.Consoles.DataAccessors.Datas.Orders.IConditionKeyNumber[]@,System.String,System.String,System.String,System.String)">
+            <summary>
+            GetConditionKeyNumberList
+            </summary>
+            <param name="conditionKeyList"></param>
+            <param name="opSetKey"></param>
+            <param name="majorDivSetKey"></param>
+            <param name="groupSetKey"></param>
+            <param name="setKey"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.SetConditionKeyNumberList(Konicaminolta.Consoles.DataAccessors.Datas.Orders.IConditionKeyNumber[],System.String,System.String,System.String,System.String)">
+            <summary>
+            SetConditionKeyNumberList
+            </summary>
+            <param name="conditionKeyList"></param>
+            <param name="opSetKey"></param>
+            <param name="majorDivSetKey"></param>
+            <param name="groupSetKey"></param>
+            <param name="setKey"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.GetOperationSetKeyName(System.String@,System.String)">
+            <summary>
+            GetOperationSetKeyName
+            </summary>
+            <param name="opSetKeyName"></param>
+            <param name="opSetKeyId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.GetMajorDivisionSetKeyName(System.String@,System.String,System.String)">
+            <summary>
+            GetMajorDivisionSetKeyName
+            </summary>
+            <param name="mjrDivisionSetKeyName"></param>
+            <param name="opSetKeyId"></param>
+            <param name="mjrDivisionSetKeyId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.GetGroupSetKeyName(System.String@,System.String,System.String,System.String)">
+            <summary>
+            GetGroupSetKeyName
+            </summary>
+            <param name="groupSetKeyName"></param>
+            <param name="opSetKeyId"></param>
+            <param name="majorDivSetKeyId"></param>
+            <param name="groupSetKeyId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.SetSetKeyName(System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            SetSetKeyName
+            </summary>
+            <param name="setKeyName"></param>
+            <param name="opSetKeyId"></param>
+            <param name="majorDivSetKeyId"></param>
+            <param name="groupSetKeyId"></param>
+            <param name="setKeyId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.SetGroupSetKey(System.String,System.String,System.String,System.String)">
+            <summary>
+            SetGroupSetKey
+            </summary>
+            <param name="groupSetKeyName"></param>
+            <param name="opSetKeyId"></param>
+            <param name="majorDivSetKeyId"></param>
+            <param name="groupSetKeyId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.SetMajorDivisionSetKey(System.String,System.String,System.String)">
+            <summary>
+            SetMajorDivisionSetKey
+            </summary>
+            <param name="mjrDivisionSetKeyName"></param>
+            <param name="opSetKeyId"></param>
+            <param name="mjrDivisionSetKeyId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.AddSetKey(System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            AddSetKey
+            </summary>
+            <param name="SetKey"></param>
+            <param name="ConditionKey"></param>
+            <param name="opSetKeyId"></param>
+            <param name="majorDivSetKeyId"></param>
+            <param name="groupSetKeyId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.DeleteSetKey(System.String,System.String,System.String,System.String)">
+            <summary>
+            DeleteSetKey
+            </summary>
+            <param name="SetKey"></param>
+            <param name="ConditionKey"></param>
+            <param name="opSetKeyId"></param>
+            <param name="majorDivSetKeyId"></param>
+            <param name="groupSetKeyId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.SaveExpSetKeyInfo">
+            <summary>
+            SaveExpSetKeyInfo
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.GetSetKeyName(System.String@,System.String,System.String,System.String,System.String)">
+            <summary>
+            GetSetKeyName
+            </summary>
+            <param name="SetKeyName"></param>       
+            <param name="opSetKeyId"></param>
+            <param name="majorDivSetKeyId"></param>
+            <param name="groupSetKeyId"></param>
+             /// <param name="setKeyId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.ReadIppMasterFileData(System.String,Konicaminolta.Platform.Frameworks.Datas.DataSource@)">
+            <summary>
+            ReadIppMasterFileData
+            </summary>
+            <param name="codeValue">Serial Key</param>
+            <param name="dataSource">out DataSource</param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.DeleteGroupSetKey(System.String,System.String,System.String)">
+            <summary>
+            DeleteGroupSetKey
+            </summary>
+            <param name="opSetKeyId"></param>
+            <param name="majorDivSetKeyId"></param>
+            <param name="groupSetKeyId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.DeleteMajorDivisionSetKey(System.String,System.String)">
+            <summary>
+            DeleteMajorDivisionSetKey
+            </summary>
+            <param name="opSetKeyId"></param>
+            <param name="mjrDivisionSetKeyId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.CancelSetKeyChanges">
+            <summary>
+            CancelSetKeyChanges
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.GroupSetKeyMove(System.String,System.String,System.String,System.String)">
+            <summary>
+            GroupSetKeySwap
+            </summary>
+            <param name="groupSetKeyId1"></param>
+            <param name="groupSetKeyId2"></param>
+            <param name="opSetKeyId"></param>
+            <param name="majorDivSetKeyId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.MajorDivisionSetKeyMove(System.String,System.String,System.String)">
+            <summary>
+            MajorDivisionSetKeySwap
+            </summary>
+            <param name="mjrDivisionSetKeyId1"></param>
+            <param name="mjrDivisionSetKeyId2"></param>
+            <param name="opSetKeyId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.SetKeyMove(System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            OnSetKeySwap
+            </summary>
+            <param name="setKey1"></param>
+            <param name="setKey2"></param>
+            <param name="opSetKeyId"></param>
+            <param name="majorDivSetKeyId"></param>
+            <param name="groupSetKeyId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.Clean">
+            <summary>
+            Clear all list items
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.CreateBodyPart(Konicaminolta.Platform.Frameworks.Datas.DataSource@)">
+            <summary>
+            Create BodyPart Object
+            </summary>
+            <param name="bodyPart"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.SetDicomData(Konicaminolta.Consoles.Extenders.Interfaces.EnumNameListType,Konicaminolta.Platform.Frameworks.Datas.DataSource@,Konicaminolta.Platform.Frameworks.Datas.DataSource@)">
+            <summary>
+            Set Dicom Data
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.GetRegisteredExpSerialNumber(System.Collections.Generic.List{Konicaminolta.Platform.Frameworks.Datas.DataSource}@)">
+            <summary>
+            Get Registered Exp Serial Number from ExpSet.xml
+            </summary>
+            <param name="registeredExpList"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.DeleteConditionKey(Konicaminolta.Consoles.Extenders.Interfaces.ISetKeyInfo)">
+            <summary>
+            DeleteConditionKey
+            </summary>
+            <param name="setKeyInfo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.DeleteCategoryList(System.String)">
+            <summary>
+            Delete Category List
+            </summary>
+            <param name="opSetKeyId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.CategoryMove(System.Int32,System.Int32)">
+            <summary>
+            Category Move
+            </summary>
+            <param name="opSetKeyId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterDataAccessorExtender.CategoryDeleteMove(System.String)">
+            <summary>
+            Category Delete Move
+            </summary>
+            <param name="opSetKeyId"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Extenders.Interfaces.IExpMasterNameInfo">
+            <summary>
+            Interface for ExpName
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Extenders.Interfaces.INameListBase">
+            <summary>
+            Contains Rowstate and Clone object
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "P:Konicaminolta.Consoles.Extenders.Interfaces.INameListBase.RowState" -->
+        <member name="P:Konicaminolta.Consoles.Extenders.Interfaces.INameListBase.ConditionKeyId">
+            <summary>
+            Master Data ID
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Extenders.Interfaces.IExpMasterNameInfo.DicomData">
+            <summary>
+            The dicom data
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Extenders.Interfaces.IExpMasterNameInfo.ConditionKeyBodyPartName">
+            <summary>
+            ConditionKey body part name
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Extenders.Interfaces.IExpMasterNameInfo.ConditionKeyGroupName">
+            <summary>
+            ConditionKey group name
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Extenders.Interfaces.IExpMasterNameInfo.ConditionKeyName">
+            <summary>
+            ConditionKey name
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Extenders.Interfaces.IKeyName">
+            <summary>
+            The sub master key name interface
+            </summary>    
+        </member>
+        <member name="P:Konicaminolta.Consoles.Extenders.Interfaces.IKeyName.CodeValue">
+            <summary>
+            CodeValue - They key
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Extenders.Interfaces.IKeyName.CodeMeaning">
+            <summary>
+            CodeMeaning - The display label
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Extenders.Interfaces.IKeyNameInfo">
+            <summary>
+            ICommnMasterNameInfo
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Extenders.Interfaces.IKeyNameInfo.ConditionKeyName">
+            <summary>
+            ConditionKeyName
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Extenders.Interfaces.IKeyNameInfo.DicomData">
+            <summary>
+            Dicom Data
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterNameInfoList`1.GetMasterNameInfoList(Konicaminolta.Platform.Frameworks.Datas.DataSource@)">
+            <summary>
+            Get master info list.
+            </summary>
+            <param name="expMasterNamesList"></param>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterNameInfoList`1.Add(System.String,`0)">
+            <summary>
+            Adds an element with the specified key and value into the masterNameInfoList.
+            </summary>
+            <param name="key"></param>
+            <param name="masterNameInfo"></param>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterNameInfoList`1.ContainsKey(System.String)">
+            <summary>
+            Determines whether the masterNameInfoList contains a specific key.
+            </summary>
+            <param name="key"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterNameInfoList`1.Remove(System.String)">
+            <summary>
+            Removes the element with the specified key from the masterNameInfoList.
+            </summary>
+            <param name="key"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterNameInfoList`1.TryGetValue(System.String,`0@)">
+            <summary>
+            Gets the value associated with the specified key.
+            </summary>
+            <param name="key"></param>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterNameInfoList`1.Clear">
+            <summary>
+            Removes all element from the data source (IMasterNameInfoList).
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Extenders.Interfaces.IMasterNameInfoList`1.GetKeysList">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Extenders.Interfaces.IMasterNameInfoList`1.DicomDataLoadComplete">
+            <summary>
+            To identify if dicom data load is completed.
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Extenders.Interfaces.IMasterNameInfoList`1.Count">
+            <summary>
+            Gets the number of key/value pairs contained in the masterNameInfoList.
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Extenders.Interfaces.IMasterNameInfoList`1.masterNameInfoList">
+            <summary>
+            The master info list.
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Extenders.Interfaces.IIPPMasterNameInfo">
+            <summary>
+            Conatins IPP Name Info
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Extenders.Interfaces.IIPPMasterNameInfo.ConditionKeyName">
+            <summary>
+            ConditionKeyName
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "P:Konicaminolta.Consoles.Extenders.Interfaces.IIPPMasterNameInfo.ConditionKeyCodeDescription" -->
+        <member name="P:Konicaminolta.Consoles.Extenders.Interfaces.IIPPMasterNameInfo.DicomData">
+            <summary>
+            Dicom Data
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Extenders.Interfaces.ICodeDescription">
+            <summary>
+            ICodeDescription
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Extenders.Interfaces.ICodeDescription.DL">
+            <summary>
+            Get and  set DL value
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "P:Konicaminolta.Consoles.Extenders.Interfaces.ICodeDescription.DH" -->
+        <member name="P:Konicaminolta.Consoles.Extenders.Interfaces.ICodeDescription.Gamma">
+            <summary>
+            Get and set Gamma Value
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "P:Konicaminolta.Consoles.Extenders.Interfaces.ISetKeyInfo.OperationID" -->
+        <!-- Badly formed XML comment ignored for member "P:Konicaminolta.Consoles.Extenders.Interfaces.ISetKeyInfo.BodyPartID" -->
+        <!-- Badly formed XML comment ignored for member "P:Konicaminolta.Consoles.Extenders.Interfaces.ISetKeyInfo.GroupID" -->
+        <!-- Badly formed XML comment ignored for member "P:Konicaminolta.Consoles.Extenders.Interfaces.ISetKeyInfo.SetKeyID" -->
+        <!-- Badly formed XML comment ignored for member "P:Konicaminolta.Consoles.Extenders.Interfaces.ISetKeyInfo.ConditionKeyID" -->
+        <member name="T:Konicaminolta.Consoles.Extenders.Interfaces.ExamTagRowState">
+            <summary>
+            Maintans row state of exam tag
+            </summary>
+        </member>
+        <member name="F:Konicaminolta.Consoles.Extenders.Interfaces.LicenseType.EaxmTagLite">
+            <summary>
+            CS-2
+            </summary>
+        </member>
+        <member name="F:Konicaminolta.Consoles.Extenders.Interfaces.LicenseType.ExamTagPro">
+            <summary>
+            CS-5
+            </summary>
+        </member>
+        <member name="F:Konicaminolta.Consoles.Extenders.Interfaces.LicenseType.None">
+            <summary>
+            No License
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Extenders.Interfaces.EnumNameListType">
+            <summary>
+            Enumerator for identifying Selected Master/Sub-Master
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "F:Konicaminolta.Consoles.Extenders.Interfaces.EnumNameListType.BodyPartName" -->
+        <!-- Badly formed XML comment ignored for member "F:Konicaminolta.Consoles.Extenders.Interfaces.EnumNameListType.ContrastName" -->
+        <!-- Badly formed XML comment ignored for member "F:Konicaminolta.Consoles.Extenders.Interfaces.EnumNameListType.EpmName" -->
+        <!-- Badly formed XML comment ignored for member "F:Konicaminolta.Consoles.Extenders.Interfaces.EnumNameListType.ExpName" -->
+        <!-- Badly formed XML comment ignored for member "F:Konicaminolta.Consoles.Extenders.Interfaces.EnumNameListType.FilterName" -->
+        <!-- Badly formed XML comment ignored for member "F:Konicaminolta.Consoles.Extenders.Interfaces.EnumNameListType.GridName" -->
+        <!-- Badly formed XML comment ignored for member "F:Konicaminolta.Consoles.Extenders.Interfaces.EnumNameListType.HstName" -->
+        <!-- Badly formed XML comment ignored for member "F:Konicaminolta.Consoles.Extenders.Interfaces.EnumNameListType.IppName" -->
+        <!-- Badly formed XML comment ignored for member "F:Konicaminolta.Consoles.Extenders.Interfaces.EnumNameListType.LtrName" -->
+        <!-- Badly formed XML comment ignored for member "F:Konicaminolta.Consoles.Extenders.Interfaces.EnumNameListType.OrnName" -->
+        <!-- Badly formed XML comment ignored for member "F:Konicaminolta.Consoles.Extenders.Interfaces.EnumNameListType.OvrName" -->
+        <!-- Badly formed XML comment ignored for member "F:Konicaminolta.Consoles.Extenders.Interfaces.EnumNameListType.PpmName" -->
+        <!-- Badly formed XML comment ignored for member "F:Konicaminolta.Consoles.Extenders.Interfaces.EnumNameListType.PrtName" -->
+        <member name="F:Konicaminolta.Consoles.Extenders.Interfaces.EnumNameListType.SubMasterName">
+            <summary>
+            Common submaster key name
+            Todo_Expires on 04/03/11
+            </summary>
+        </member>
+    </members>
+</doc>

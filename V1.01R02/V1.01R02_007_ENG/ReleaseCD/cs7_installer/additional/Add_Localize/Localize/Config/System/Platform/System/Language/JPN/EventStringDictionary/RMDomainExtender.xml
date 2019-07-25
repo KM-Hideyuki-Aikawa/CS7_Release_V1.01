@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="RMDomainExtender0001">
+      <Title>Ping 結果</Title>
+      <Message>接続に成功しました。</Message>
+    </EventString>
+    <EventString Key="RMDomainExtender0002">
+      <Title>Ping 結果</Title>
+      <Message>接続に失敗しました。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

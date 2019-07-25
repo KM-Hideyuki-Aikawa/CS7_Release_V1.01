@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="AeroDRSettingDomainExtender0003">
+      <Title>Erreur</Title>
+      <Message>Donnée de correction invalide sélectionnée.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0004">
+      <Title>Confirmation</Title>
+      <Message>Donnée de correction déjà existante. Êtes-vous sûr de vouloir l'écraser ?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0005">
+      <Title>Erreur</Title>
+      <Message>Échec de l'ajout de l'écran AeroDR.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0006">
+      <Title>Erreur</Title>
+      <Message>Échec d'obtention des infos de l'écran AeroDR.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0007">
+      <Title>Erreur</Title>
+      <Message>Échec de configuration de l'écran AeroDR.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0008">
+      <Title>Erreur</Title>
+      <Message>Échec d'ajout de XG BOX.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0009">
+      <Title>Erreur</Title>
+      <Message>Échec d'obtention de XG BOX.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0010">
+      <Title>Erreur</Title>
+      <Message>Échec de configuration de XG BOX.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0011">
+      <Title>Erreur</Title>
+      <Message>Échec de suppression de l'écran AeroDR</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0012">
+      <Title>Confirmation</Title>
+      <Message>Êtes-vous sûr de vouloir déréférencer l'écran AeroDR ?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0013">
+      <Title>Confirmation</Title>
+      <Message>La configuration de l'écran AeroDR n'a pas été téléchargée. Êtes-vous sûr de vouloir déréférencer l'écran AeroDR ?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0014">
+      <Title>Confirmation</Title>
+      <Message>Il y a un(des) écran(s) AeroDR(s) ou XG BOX(s) dont la configuration n'a pas été téléchargée. Êtes-vous sûr de vouloir enregistrer la configuration ?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0015">
+      <Title>Attention</Title>
+      <Message>Impossible d'annuler les modifications. Car la configuration de l'écran AeroDR ou XG BOX a déjà été téléchargée.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0016">
+      <Title>Erreur</Title>
+      <Message>Donnée invalide. Veuillez confirmer votre saisie.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0017">
+      <Title>Erreur</Title>
+      <Message>Veuillez modifier la configuration de l'écran AeroDR.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0018">
+      <Title>Confirmation</Title>
+      <Message>Etes-vous sûr de vouloir transmettre le paramétrage au serveur ?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0019">
+      <Title>Erreur</Title>
+      <Message>Erreur lors du transfert du paramétrage. Veuillez vérifier la connexion réseau et réessayer.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

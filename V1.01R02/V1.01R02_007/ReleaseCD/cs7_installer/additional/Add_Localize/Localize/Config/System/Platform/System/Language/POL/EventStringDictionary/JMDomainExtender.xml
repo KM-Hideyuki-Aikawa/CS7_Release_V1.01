@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="JMDomainExtender0001">
+      <Title>Stan ping</Title>
+      <Message>Połączono pomyślnie.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0002">
+      <Title>Stan ping</Title>
+      <Message>Nie można się połączyć.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0003">
+      <Title />
+      <Message>Nieoczekiwane przerwanie odczytu podczas błędu może powodować niezgodności, takie jak zniknięcie obrazu itp. Wstrzymaj skanowanie i uruchom ponownie CS.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0004">
+      <Title />
+      <Message>Usuwanie zadania nie powiodło się.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0005">
+      <Title />
+      <Message>Usuwanie zadania powiodło się.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0006">
+      <Title />
+      <Message>Zmienianie JM. Rejestracja kasety będzie całkowicie wyłączona. Czy wyrażasz zgodę?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

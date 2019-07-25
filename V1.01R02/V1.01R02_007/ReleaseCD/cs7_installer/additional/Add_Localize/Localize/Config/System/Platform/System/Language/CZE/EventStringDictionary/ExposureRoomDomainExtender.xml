@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ExposureRoomDomainExtender0001">
+      <Title>Potvrzení</Title>
+      <Message>Expoziční místnost bude změněna na [expoziční místnost 2]. Je to v pořádku? V případě připojení konzole k [expoziční místnosti 2] bude konzole vyjmuta. Potvrďte, že v [expoziční místnosti 2] neprobíhá expozice. Po změně je nutné restartovat systém. </Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0002">
+      <Title>Aktivní místnost byla úspěšně změněna.</Title>
+      <Message>Aktivní místnost byla změněna. Aplikaci je nutné restartovat</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0003">
+      <Title>Chyba ve změně místnosti.</Title>
+      <Message>Expoziční místnost nelze změnit kvůli [XXX].</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0004">
+      <Title>Potvrzení</Title>
+      <Message>Bezdrátové použití bude nastaveno Povolit / zakázat Je to v pořádku?</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0005">
+      <Title>Confirmation</Title>
+      <Message>Please wait till wireless switching happens.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

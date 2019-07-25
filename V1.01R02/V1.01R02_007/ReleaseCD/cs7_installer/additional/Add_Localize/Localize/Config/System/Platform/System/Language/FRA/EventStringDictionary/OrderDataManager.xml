@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="40001">
+      <Title>Échec création fichier file d'attente</Title>
+      <Message>Échec création fichier file d'attente.</Message>
+    </EventString>
+    <EventString Key="40002">
+      <Title>Échec mise en file</Title>
+      <Message>Échec mise en file.</Message>
+    </EventString>
+    <EventString Key="40003">
+      <Title>Échec mise en file</Title>
+      <Message>Nombre limite de tentatives de mise en file atteint.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

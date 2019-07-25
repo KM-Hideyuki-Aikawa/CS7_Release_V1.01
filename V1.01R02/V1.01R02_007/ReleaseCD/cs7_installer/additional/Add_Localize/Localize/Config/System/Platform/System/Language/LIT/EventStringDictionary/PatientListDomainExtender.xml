@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientListDomainExtender0000">
+      <Title />
+      <Message>Įvesti metai negalioja</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0001">
+      <Title />
+      <Message>Įvestas mėnuo negalioja</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0002">
+      <Title />
+      <Message>Įvesta diena negalioja</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0003">
+      <Title />
+      <Message>Reikšmė yra nepasiekiama</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0004">
+      <Title />
+      <Message>Reikšmė yra didesnė nei „MaxLength“</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0005">
+      <Title />
+      <Message>Reikšmė yra mažesnė nei „MinLength“</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0006">
+      <Title />
+      <Message>Įvesta reikšmė nėra skaitmeninė</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0007">
+      <Title />
+      <Message>Įvesta reikšmė negalioja</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0008">
+      <Title />
+      <Message>Leidžiamos tik raidės</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0009">
+      <Title />
+      <Message>Leidžiama tik kana</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0010">
+      <Title />
+      <Message>Negaliojanti reikšmė. Čia negalima naudoti "\".</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0011">
+      <Title />
+      <Message>Šis ženklas neleidžiamas</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0012">
+      <Title>Patvirtinimas</Title>
+      <Message>Ar norite pašalinti pažymėtą įrašą?</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0013">
+      <Title />
+      <Message>Negaliojanti reikšmė. Čia negalima naudoti "\", "^" arba "=".</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0014">
+      <Title />
+      <Message>Negaliojanti reikšmė. Čia negalima naudoti "\" arba "=".</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0015">
+      <Title />
+      <Message>Ar norite pristabdyti šį tyrimą?</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0016">
+      <Title>Brūkšninio kodo paieška</Title>
+      <Message>Yra daug {0} tyrimų, turinčių pateiktąją informaciją.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

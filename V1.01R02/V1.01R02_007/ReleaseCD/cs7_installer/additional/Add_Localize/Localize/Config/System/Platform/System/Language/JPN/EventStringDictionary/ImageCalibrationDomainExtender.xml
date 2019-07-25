@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title>注意</Title>
+      <Message>数値を入力してください。</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title>注意</Title>
+      <Message>適切な値を入力してください。</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title>エラー</Title>
+      <Message>ゲインキャリブレーション開始エラー</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title>エラー</Title>
+      <Message>オフセットキャリブレーション開始エラー</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title>確認</Title>
+      <Message>ゲインキャリブレーションを中止しますか？</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title>確認</Title>
+      <Message>ゲインキャリブレーションを中止しますか？</Message>
+    </EventString>
+    <EventString Key="0107">
+      <Title>確認</Title>
+      <Message>ゲインキャリブレーションを中止しますか？</Message>
+    </EventString>
+    <EventString Key="0108">
+      <Title>情報</Title>
+      <Message>ゲインキャリブレーションが完了しました。</Message>
+    </EventString>
+    <EventString Key="0109">
+      <Title>情報</Title>
+      <Message>オフセットキャリブレーションが完了しました。</Message>
+    </EventString>
+    <EventString Key="0110">
+      <Title>エラー</Title>
+      <Message>ゲインキャリブレーションに失敗しました。</Message>
+    </EventString>
+    <EventString Key="0111">
+      <Title>エラー</Title>
+      <Message>オフセットキャリブレーションに失敗しました。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

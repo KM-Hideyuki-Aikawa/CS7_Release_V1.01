@@ -1,0 +1,1505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>DeviceSettingsView</Key>
+      <Value>Device Settings</Value>
+      <Comment>Device Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresetSelectionLabelData</Key>
+      <Value>Preset Selection</Value>
+      <Comment>Preset Selection</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresetSelectionLabelExplanationData</Key>
+      <Value>Preset Selection</Value>
+      <Comment>Preset Selection</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ManufacturerNameLabelData</Key>
+      <Value>Manufacturer Name</Value>
+      <Comment>Manufacturer Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ManufacturerNameLabelExplanationData</Key>
+      <Value>Set the manufacturer name of RIS</Value>
+      <Comment>Set the manufacturer name of RIS</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ModelNameLabelData</Key>
+      <Value>Model Name</Value>
+      <Comment>Model Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ModelNameLabelExplanationData</Key>
+      <Value>Set the Model name of RIS</Value>
+      <Comment>Set the Model name of RIS</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayNameLabelData</Key>
+      <Value>Display Name</Value>
+      <Comment>Display Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DisplayNameLabelExplanationData</Key>
+      <Value>Set the name to be displayed on the System Monitor.</Value>
+      <Comment>Set the name to be displayed on the System Monitor.</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CommandSettingView</Key>
+      <Value>Command Settings</Value>
+      <Comment>Command Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ServiceClassLabelData</Key>
+      <Value>Service Class</Value>
+      <Comment>Service Class</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ServiceClassLabelExplanationData</Key>
+      <Value>Select the connection method</Value>
+      <Comment>Select the connection method</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CommunicationSettingsView</Key>
+      <Value>Communication Settings</Value>
+      <Comment>Communication Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TCPIPLabelData</Key>
+      <Value>TCP/IP</Value>
+      <Comment>TCP/IP</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IPAddressLabelData</Key>
+      <Value>IP Address</Value>
+      <Comment>IP Address</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IPAddressLabelExplanationData</Key>
+      <Value>IP Address</Value>
+      <Comment>IP Address</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PortNumberLabelData</Key>
+      <Value>Port Number</Value>
+      <Comment>Port Number</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PortNumberLabelExplanationData</Key>
+      <Value>Port Number</Value>
+      <Comment>Port Number</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DICOMLabelData</Key>
+      <Value>DICOM</Value>
+      <Comment>DICOM</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransferSyntaxLabelData</Key>
+      <Value>Transfer Syntax</Value>
+      <Comment>Transfer Syntax</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransferSyntaxLabelExplanationData</Key>
+      <Value>Select the Transfer Syntax</Value>
+      <Comment>Select the Transfer Syntax</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RISAETitleLabelData</Key>
+      <Value>RIS AE Title</Value>
+      <Comment>RIS AE Title</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RISAETitleLabelExplanationData</Key>
+      <Value>Set the RIS AE Title</Value>
+      <Comment>Set the RIS AE Title</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CS7AETitleLabelData</Key>
+      <Value>CS-7 AE Title</Value>
+      <Comment>CS-7 AE Title</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CS7AETitleLabelExplanationData</Key>
+      <Value>Set the CS-7 AE Title</Value>
+      <Comment>Set the CS-7 AE Title</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CharacterSetLabelData</Key>
+      <Value>Character Set</Value>
+      <Comment>Character Set</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CharacterSetLabelExplanationData</Key>
+      <Value>Select the Character set</Value>
+      <Comment>Select the Character set</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DICOMSettingsView</Key>
+      <Value>DICOM Settings</Value>
+      <Comment>DICOM Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MPPSLabelData</Key>
+      <Value>MPPS Settings</Value>
+      <Comment>Transfer Syntax</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SendCompleteLabelData</Key>
+      <Value>Send Complete</Value>
+      <Comment>Select the Transfer Syntax</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SendMPPSLabelData</Key>
+      <Value>Send MPPS Command Per</Value>
+      <Comment>RIS AE Title</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SendPerformedLabelData</Key>
+      <Value>Send Performed Code</Value>
+      <Comment>Set the RIS AE Title</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ContinueCS7LabelData</Key>
+      <Value>Continue on Other CS-7</Value>
+      <Comment>CS-7 AE Title</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SendStudyLabelData</Key>
+      <Value>Send Study Deletion</Value>
+      <Comment>Set the CS-7 AE Title</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SendSOPLabelData</Key>
+      <Value>Send SOP Instance UID</Value>
+      <Comment>Character Set</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SendAffectedSOPLabelData</Key>
+      <Value>Send Affected SOP UID</Value>
+      <Comment>Select the Character set</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ONTypeLabelData</Key>
+      <Value>ON</Value>
+      <Comment>ON</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DetachedSettingsData</Key>
+      <Value>Detached Settings</Value>
+      <Comment>Detached Settings</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RegisterPatientDBData</Key>
+      <Value>Patient DB Registration</Value>
+      <Comment>Register In Patient DB</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RegisterEditedPatientInfoData</Key>
+      <Value>Select to register the edited patient info into the  Patient DB of RIS.</Value>
+      <Comment>Select to register the edited patient info into the  Patient DB of RIS.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NotifyCompletedCommandData</Key>
+      <Value>Notify Completed Study</Value>
+      <Comment>Notify Completed Command</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+
+
+
+
+<LocalizeInfo>
+      <Key>ShotDetailInfoSendFlgLabelData</Key>
+      <Value>Send Performed Detail Information</Value>
+      <Comment>Shot Detail Info SendFlg</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+
+<LocalizeInfo>
+      <Key>SendStudyCompletedCommandData</Key>
+      <Value>Select to send the study completed command.</Value>
+      <Comment>Select to send the study completed command.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SearchLabelData</Key>
+      <Value>Search Method</Value>
+      <Comment>Search Method</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PollingLabelData</Key>
+      <Value>Polling</Value>
+      <Comment>Polling</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IntervalLabelData</Key>
+      <Value>Interval</Value>
+      <Comment>Interval</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IntervalLabelExplanationData</Key>
+      <Value>Set the polling interval in Sec</Value>
+      <Comment>Set the polling interval in Sec</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TimingFileLabelData</Key>
+      <Value>Timing File</Value>
+      <Comment>Timing File</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EnableTimingFileLabelData</Key>
+      <Value>Enable Timing File</Value>
+      <Comment>Enable Timing File</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TimingfileusageLabelData</Key>
+      <Value>Select the timing file usage</Value>
+      <Comment>Select the timing file usage</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ONLabelData</Key>
+      <Value>ON</Value>
+      <Comment>ON</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FolderMonitorTypeLabelData</Key>
+      <Value>Monitor Folder Type</Value>
+      <Comment>Monitor Folder Type</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FolderMonitorTypeLabelExplanationData</Key>
+      <Value>Select the monitor folder type of the timing file</Value>
+      <Comment>Select the monitor folder type of the timing file</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MonitoringFolderLabelData</Key>
+      <Value>Monitoring Folder</Value>
+      <Comment>Monitoring Folder</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MonitoringFolderLabelExplanationData</Key>
+      <Value>Set the monitor folder of the timing file</Value>
+      <Comment>Set the monitor folder of the timing file</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AccountLabelData</Key>
+      <Value>Account</Value>
+      <Comment>Account</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AccountLabelExplanationData</Key>
+      <Value>Set the login name when the monitor folder is a network folder</Value>
+      <Comment>Set the login name when the monitor folder is a network folder</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PasswordLabelData</Key>
+      <Value>Password</Value>
+      <Comment>Password</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PasswordLabelExplanationData</Key>
+      <Value>Set the password when the monitor folder is a network folder</Value>
+      <Comment>Set the password when the monitor folder is a network folder</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FileExtensionLabelData</Key>
+      <Value>File Extension</Value>
+      <Comment>File Extension</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FileExtensionLabelExplanationData</Key>
+      <Value>Set the file extension of the timing file.</Value>
+      <Comment>Set the file extension of the timing file.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MonitoringIntervalLabelData</Key>
+      <Value>Monitoring Interval</Value>
+      <Comment>Monitoring Interval</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MonitoringIntervalLabelExplanationData</Key>
+      <Value>Set the timing file monitoring interval in Sec</Value>
+      <Comment>Set the timing file monitoring interval in Sec</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BrowseLabelData</Key>
+      <Value>Browse...</Value>
+      <Comment>Browse...</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FileFormatSettingsLabelExplanationData</Key>
+      <Value>To launch the format settings tool of timing file</Value>
+      <Comment>To launch the format settings tool of timing file</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FileFormatButtonLabelData</Key>
+      <Value>Format</Value>
+      <Comment>Format</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SearchConditionsLabelExplanationData</Key>
+      <Value>Search Conditions</Value>
+      <Comment>Search Conditions</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScheduledDTLabelData</Key>
+      <Value>Scheduled Date and Time</Value>
+      <Comment>Scheduled Date and Time</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FutureDateLabelData</Key>
+      <Value>Future Date and Time</Value>
+      <Comment>Future Date and Time</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FutureDateLabelExplanationData</Key>
+      <Value>Future Date and Time</Value>
+      <Comment>Future Date and Time</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FutureTimeLabelData</Key>
+      <Value>Future Date and Time</Value>
+      <Comment>Future Date and Time</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FutureTimeLabelExplanationData</Key>
+      <Value>Future Date and Time</Value>
+      <Comment>Future Date and Time</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PastDateLabelData</Key>
+      <Value>Past Date and Time</Value>
+      <Comment>Past Date and Time</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PastDateLabelExplanationData</Key>
+      <Value>Past Date and Time</Value>
+      <Comment>Past Date and Time</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PastTimeLabelData</Key>
+      <Value>Past Date and Time</Value>
+      <Comment>Past Date and Time</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PastTimeLabelExplanationData</Key>
+      <Value>Past Date and Time</Value>
+      <Comment>Past Date and Time</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TimeFormatLabelData</Key>
+      <Value>Time Format</Value>
+      <Comment>Time Format</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TimeFormatLabelExplanationData</Key>
+      <Value>Time Format</Value>
+      <Comment>Time Format</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExamRoomLabelData</Key>
+      <Value>Exam Room</Value>
+      <Comment>Exam Room</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StationAELabelData</Key>
+      <Value>Station AE</Value>
+      <Comment>Station AE</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StationAELabelExplanationData</Key>
+      <Value>Station AE</Value>
+      <Comment>Station AE</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StationNameLabelData</Key>
+      <Value>Station Name</Value>
+      <Comment>Station Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StationNameLabelExplanationData</Key>
+      <Value>Station Name</Value>
+      <Comment>Station Name</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScheduledProcedureStepLocationLabelData</Key>
+      <Value>Scheduled Procedure Step Location</Value>
+      <Comment>Scheduled Procedure Step Location</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScheduledProcedureStepLocationExplanationData</Key>
+      <Value>Scheduled Procedure Step Location</Value>
+      <Comment>Scheduled Procedure Step Location</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ModalityLabelData</Key>
+      <Value>Modality</Value>
+      <Comment>Modality</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ModalityLabelExplanationData</Key>
+      <Value>Modality</Value>
+      <Comment>Modality</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RISLabelData</Key>
+      <Value>RIS Code</Value>
+      <Comment>RIS Code</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RISCodeSequenceLabelData</Key>
+      <Value>RIS Code Sequence</Value>
+      <Comment>RIS Code Sequence</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RISCodeSequenceExplanationData</Key>
+      <Value>RIS Code Sequence</Value>
+      <Comment>RIS Code Sequence</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OtherSettingsView</Key>
+      <Value>Other Settings</Value>
+      <Comment>Other Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ConversionLabelData</Key>
+      <Value>Conversion Table</Value>
+      <Comment>Conversion Table</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Use1ConversionTableLabelData</Key>
+      <Value>Use 1st column of Conversion Table</Value>
+      <Comment>Use 1st column of Conversion Table</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Use1ConversionTableLabelExplanationData</Key>
+      <Value>Use 1st column of Conversion Table</Value>
+      <Comment>Use 1st column of Conversion Table</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ONCOL1LabelData</Key>
+      <Value>ON</Value>
+      <Comment>ON</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Use2ConversionTableLabelData</Key>
+      <Value>Ignore 2nd column of Conversion Table</Value>
+      <Comment>Ignore 2nd column of Conversion Table</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Use2ConversionTableLabelExplanationData</Key>
+      <Value>Ignore 2nd column of Conversion Table</Value>
+      <Comment>Ignore 2nd column of Conversion Table</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ONCOL2LabelData</Key>
+      <Value>ON</Value>
+      <Comment>ON</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>UniqueLabelData</Key>
+      <Value>Unique Key</Value>
+      <Comment>Unique Key</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TypeLabelData</Key>
+      <Value>Type</Value>
+      <Comment>Type</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TypeLabelExplanationData</Key>
+      <Value>Explain the type</Value>
+      <Comment>Explain the type</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SettingsDataLabelData</Key>
+      <Value>Settings Data</Value>
+      <Comment>Settings Data</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SettingsDataLabelExplanationData</Key>
+      <Value>Display the Settings Data</Value>
+      <Comment>Display the Settings Data</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ID-680SM</Key>
+      <Value>ID-680SM</Value>
+      <Comment>ID-680SM</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>M-RIS</Key>
+      <Value>M-RIS</Value>
+      <Comment>M-RIS</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MWM</Key>
+      <Value>MPPS</Value>
+      <Comment>MWM</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Detached</Key>
+      <Value>Detached</Value>
+      <Comment>Detached</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Implicit VR Little Endian</Key>
+      <Value>Implicit VR Little Endian</Value>
+      <Comment>Implicit VR Little Endian</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Explicit VR Little Endian</Key>
+      <Value>Explicit VR Little Endian</Value>
+      <Comment>Explicit VR Little Endian</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Explicit VR Big Endian</Key>
+      <Value>Explicit VR Big Endian</Value>
+      <Comment>Explicit VR Big Endian</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>None</Key>
+      <Value>None</Value>
+      <Comment>None</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Today</Key>
+      <Value>Today</Value>
+      <Comment>Today</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OFF</Key>
+      <Value>OFF</Value>
+      <Comment>OFF</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ON</Key>
+      <Value>ON</Value>
+      <Comment>ON</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1</Key>
+      <Value>1</Value>
+      <Comment>1</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2</Key>
+      <Value>2</Value>
+      <Comment>2</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3</Key>
+      <Value>3</Value>
+      <Comment>3</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>4</Key>
+      <Value>4</Value>
+      <Comment>4</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>5</Key>
+      <Value>5</Value>
+      <Comment>5</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>6</Key>
+      <Value>6</Value>
+      <Comment>6</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>7</Key>
+      <Value>7</Value>
+      <Comment>7</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>8</Key>
+      <Value>8</Value>
+      <Comment>8</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>9</Key>
+      <Value>9</Value>
+      <Comment>9</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>10</Key>
+      <Value>10</Value>
+      <Comment>10</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>11</Key>
+      <Value>11</Value>
+      <Comment>11</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>12</Key>
+      <Value>12</Value>
+      <Comment>12</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>13</Key>
+      <Value>13</Value>
+      <Comment>13</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>14</Key>
+      <Value>14</Value>
+      <Comment>14</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>15</Key>
+      <Value>15</Value>
+      <Comment>15</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>16</Key>
+      <Value>16</Value>
+      <Comment>16</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>17</Key>
+      <Value>17</Value>
+      <Comment>17</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>18</Key>
+      <Value>18</Value>
+      <Comment>18</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>19</Key>
+      <Value>19</Value>
+      <Comment>19</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>20</Key>
+      <Value>20</Value>
+      <Comment>20</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>21</Key>
+      <Value>21</Value>
+      <Comment>21</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>22</Key>
+      <Value>22</Value>
+      <Comment>22</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>23</Key>
+      <Value>23</Value>
+      <Comment>23</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>24</Key>
+      <Value>24</Value>
+      <Comment>24</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>25</Key>
+      <Value>25</Value>
+      <Comment>25</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>26</Key>
+      <Value>26</Value>
+      <Comment>26</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>27</Key>
+      <Value>27</Value>
+      <Comment>27</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>28</Key>
+      <Value>28</Value>
+      <Comment>28</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>29</Key>
+      <Value>29</Value>
+      <Comment>29</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>30</Key>
+      <Value>30</Value>
+      <Comment>30</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>31</Key>
+      <Value>31</Value>
+      <Comment>31</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Null</Key>
+      <Value>Null</Value>
+      <Comment>Null</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CR</Key>
+      <Value>CR</Value>
+      <Comment>CR</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DX</Key>
+      <Value>DX</Value>
+      <Comment>DX</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MG</Key>
+      <Value>MG</Value>
+      <Comment>MG</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Requested Procedure Description</Key>
+      <Value>Requested Procedure Description</Value>
+      <Comment>Requested Procedure Description</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Scheduled Protocol Code Sequence</Key>
+      <Value>Scheduled Protocol Code Sequence</Value>
+      <Comment>Scheduled Protocol Code Sequence</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Requested Procedure Code Sequence</Key>
+      <Value>Requested Procedure Code Sequence</Value>
+      <Comment>Requested Procedure Code Sequence</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Study Instance UIDSPS ID</Key>
+      <Value>Study Instance UIDSPS ID</Value>
+      <Comment>Study Instance UIDSPS ID</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>After Image Confirmed</Key>
+      <Value>IMMEDIATE</Value>
+      <Comment>After Image Confirmed</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>After Host output completed</Key>
+      <Value>HOST</Value>
+      <Comment>After Host output completed</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>After Printer output completed</Key>
+      <Value>PRINTER</Value>
+      <Comment>After Printer output completed</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>After Host and Printer Output Completed</Key>
+      <Value>ALL</Value>
+      <Comment>After Host and Printer Output Completed</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Study</Key>
+      <Value>Study</Value>
+      <Comment>Study</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Series</Key>
+      <Value>Series</Value>
+      <Comment>Series</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Specified Tag</Key>
+      <Value>Specified Tag</Value>
+      <Comment>Specified Tag</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Study Instance UID</Key>
+      <Value>Study Instance UID</Value>
+      <Comment>Study Instance UID</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Local Folder</Key>
+      <Value>Local Folder
+</Value>
+      <Comment>Local Folder</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Network Folder</Key>
+      <Value>Network Folder</Value>
+      <Comment>Network Folder</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>hh</Key>
+      <Value>hh</Value>
+      <Comment>hh</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>hhmm</Key>
+      <Value>hhmm</Value>
+      <Comment>hhmm</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>hhmmss</Key>
+      <Value>hhmmss</Value>
+      <Comment>hhmmss</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

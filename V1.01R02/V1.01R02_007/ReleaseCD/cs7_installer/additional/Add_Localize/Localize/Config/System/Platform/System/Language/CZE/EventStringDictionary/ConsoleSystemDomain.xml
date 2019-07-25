@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ConsoleSystemDomain0001">
+      <Title />
+      <Message>Zbývající energie v baterii je nízká. Baterii je třeba dobít.</Message>
+    </EventString>
+    <EventString Key="ConsoleSystemDomain0003">
+      <Title />
+      <Message>Kvůli slabé baterii nelze pořizovat obraz. Baterii je třeba dobít.</Message>
+    </EventString>
+    <EventString Key="ConsoleSystemDomain0005">
+      <Title>Registrace je úspěšná</Title>
+      <Message>Je registrován tento AeroDR.
+Název AeroDR: {DeviceName}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

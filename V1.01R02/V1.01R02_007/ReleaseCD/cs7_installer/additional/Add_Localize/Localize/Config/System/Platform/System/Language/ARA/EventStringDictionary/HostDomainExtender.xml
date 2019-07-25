@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="HostDomainExtender0001">
+      <Title>حالة اختبار الاتصال</Title>
+      <Message>تم الاتصال بنجاح.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0002">
+      <Title>حالة اختبار الاتصال</Title>
+      <Message>فشل الاتصال.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0003">
+      <Title>تأكيد</Title>
+      <Message>لأي خدمة يجب تنفيذ اختبار الاتصال (C-ECHO)؟</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0004">
+      <Title>تأكيد</Title>
+      <Message>هل توافق على حذف قائمة الانتظار؟</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0005">
+      <Title>تنبيه</Title>
+      <Message>الرجاء تحديد قائمة (قوائم) الانتظار المراد حذفها.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0006">
+      <Title>معلومات</Title>
+      <Message>تم حذف قائمة (قوائم) الانتظار المحددة بنجاح</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0007">
+      <Title>خطأ</Title>
+      <Message>خطأ في حذف قائمة الانتظار.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0008">
+      <Title>تنبيه</Title>
+      <Message>هذا الخادم المحدد متكرر مع CH أخرى. ربما تخرج الصور متكررة.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

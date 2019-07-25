@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ApolloDomainExtender0001">
+      <Title>Результат Ping</Title>
+      <Message>Подключение выполнено.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0002">
+      <Title>Результат Ping</Title>
+      <Message>Не удалось подключить.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0003">
+      <Title>Подтверждение</Title>
+      <Message>Отменить регистрацию?</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0004">
+      <Title>Ошибка</Title>
+      <Message>Не удалось выполнить отмену устройства.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0005">
+      <Title>Ошибка</Title>
+      <Message>Невозможно обработать запрос, т.к. не выбрано устройство</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0006">
+      <Title>Информация</Title>
+      <Message>Беспроводное</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0007">
+      <Title>Информация</Title>
+      <Message>Проводное</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

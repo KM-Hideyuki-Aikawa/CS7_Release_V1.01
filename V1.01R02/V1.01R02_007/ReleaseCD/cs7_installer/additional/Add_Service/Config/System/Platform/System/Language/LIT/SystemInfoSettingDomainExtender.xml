@@ -1,0 +1,847 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>InstitutionInfoItemView</Key>
+      <Value>Informacijos apie instituciją nuostatos</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionNameLabelData</Key>
+      <Value>Institucijos pavadinimas</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionNameLabelExplanationData</Key>
+      <Value>Įrašyti institucijos pavadinimą (iki 64 ženklų)</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionLocationLabelData</Key>
+      <Value>Institucijos adresas</Value>
+      <Comment>Facility Address</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionLocationLabelExplanationData</Key>
+      <Value>Įrašyti institucijos adresą (iki 1024 ženklų)</Value>
+      <Comment>Input facility name Output in film or image data (upto 1024 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionTelephoneLabelData</Key>
+      <Value>Telefono numeris</Value>
+      <Comment>Telephone Number</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionTelephoneLabelExplanationData</Key>
+      <Value>Įrašyti institucijos telefono numerį (iki 64 ženklų)</Value>
+      <Comment>Institution Telephone Number will be entered.It will be output to film or image data.(Max 64 characters)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionDepartmentNameLabelData</Key>
+      <Value>Skyriaus pavadinimas</Value>
+      <Comment>Department Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InstitutionDepartmentNameLabelExplanationData</Key>
+      <Value>Įrašyti institucijos skyriaus pavadinimą (iki 64 ženklų)</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceInfoSettingItemView</Key>
+      <Value>Informacijos apie įrenginį nuostatos</Value>
+      <Comment>Device Information Setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceManufacturerLabelData</Key>
+      <Value>Žymeklio pavadinimas</Value>
+      <Comment>Maker</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceManufacturerLabelExplanationData</Key>
+      <Value>Gamintojo pavadinimas pateiktas</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceModelNameLabelData</Key>
+      <Value>Modelio pavadinimas</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceModelNameLabelExplanationData</Key>
+      <Value>Modelio pavadinimas pateiktas</Value>
+      <Comment>Model name will be displayed.Output in film or image data</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceSerialNumberLabelData</Key>
+      <Value>Serijos numeris</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceSerialNumberLabelExplanationData</Key>
+      <Value>Serijos numeris pateiktas</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DevicePharmaceuticalLabelData</Key>
+      <Value>Laikinas licencijos numeris</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DevicePharmaceuticalLabelExplanationData</Key>
+      <Value>Laikino licencijos numerio duomenys</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceConsoleNameLabelData</Key>
+      <Value>Konsolės pavadinimas</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceConsoleNameLabelExplanationData</Key>
+      <Value />
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceUniqueIDLabelData</Key>
+      <Value>Unikalus identifikavimo Nr.</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceUniqueIDLabelExplanationData</Key>
+      <Value>Įrašyti unikalaus identifikavimo Nr. duomenis (1-255). Nerašyti tokio pačio unikalaus identifikavimo Nr.</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceExamRoomNameLabelData</Key>
+      <Value>Apžiūros kabineto pavadinimas</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceExamRoomNameLabelExplanationData</Key>
+      <Value>Apžiūros kabineto pavadinimas pateiktas. Nerašyti tokio pačio apžiūros kabineto pavadinimo</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceVersionLabelData</Key>
+      <Value>Versija</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DeviceVersionLabelExplanationData</Key>
+      <Value>CS-7 versija pateikta</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkSettingItemView</Key>
+      <Value>Tinklo nuostata</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkAdapterLabelData</Key>
+      <Value>Tinklo adapteris</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkAdapterLabelExplanationData</Key>
+      <Value />
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkIPAddressLabelData</Key>
+      <Value>IP adresas</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkDefaultGatewayLabelData</Key>
+      <Value>Numatytasis tinklų sietuvas</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkSubnetMaskLabelData</Key>
+      <Value>Potiklio šablonas</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkApolloSystemLabelData</Key>
+      <Value>Tinklo adapteris naudojamas Apollo sistemoje</Value>
+      <Comment>Network adaptor used in Apollo system</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NetworkCRSystemLabelData</Key>
+      <Value>Tinklo adapteris naudojamas kompiuterinės radiografijos sistemoje</Value>
+      <Comment>Network adaptor used in CR system</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LoginInfoSettingItemView</Key>
+      <Value>Prisijungimo nuostata</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LoginSelectLoginModeLabelData</Key>
+      <Value>Automatinio prijungimo veiksena</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LoginSelectLoginModeLabelExplanationData</Key>
+      <Value />
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LoginSelectLoginModeLabelExplanationData1</Key>
+      <Value />
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LoginchckModeLabelData</Key>
+      <Value>Įjungti automatinio prijungimo veikseną</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionInfoSettingItemView</Key>
+      <Value>Informacijos apie tyrimą nuostata</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionCountervalueLbl</Key>
+      <Value>Kito tyrimo identifikavimo Nr. eilės numeris</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionCountervalueLblMsg</Key>
+      <Value>Įrašyti kito tyrimo identifikavimo Nr. eilės numerį</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionIssueMethodLabelData</Key>
+      <Value>Informacijos apie seriją išdavimo būdas</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionIssueMethodExplanationData</Key>
+      <Value>Nurodyti serijos numerio išdavimo būdą</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionReservationRequiredLblMsg</Key>
+      <Value>PatientID Zero Padding</Value>
+      <Comment>PatientID Zero Padding.</Comment>
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionPatientIdLengthLbl</Key>
+      <Value>Patient Id Padding Length</Value>
+      <Comment>Patient Id Length</Comment>
+      <FontSize>12</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InspectionPatientIdLengthLblMsg</Key>
+      <Value>Adds the specified number of digits to be 0</Value>
+      <Comment>Patient Id length Explanition.</Comment>
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputSettingItemView</Key>
+      <Value>Išvesties nustatymas</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputRequireLabelData</Key>
+      <Value>Apvertimo žymikliu pažymėti išvesties įrenginį</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputRequireLabelDataMsg</Key>
+      <Value>Nurodyti įrenginį, į kurį bus išvestas apvertimo žymiklis</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputHost1ChckData</Key>
+      <Value>Šaltinis 1</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputHost2ChckData</Key>
+      <Value>Šaltinis 2</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputHost3ChckData</Key>
+      <Value>Šaltinis 3</Value>
+      <Comment>Host 3</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputHost4ChckData</Key>
+      <Value>Šaltinis 4</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputPrinter1ChckData</Key>
+      <Value>Print 1</Value>
+      <Comment>Facility Name</Comment>
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputPrinter2ChckData</Key>
+      <Value>Print 2</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputFilpMarkOnOffLabelData</Key>
+      <Value>Įjungti automatinę išvestį</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputFilpMarkOnOffExplanationData</Key>
+      <Value>Automatinės išvesties nuostata</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputFilpMarkSizeLabelData</Key>
+      <Value>Žymiklio dydis</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputFilpMarkSizeExplanationData</Key>
+      <Value>Nurodykite apvertimo žymiklio dydį</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputFilpMarkPositionLabelData</Key>
+      <Value>Išvesties padėtis</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputFilpMarkPositionExplanationData</Key>
+      <Value>Nurodykite apvertimo žymiklio dydį</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputAutoOutputLabelData</Key>
+      <Value>Išvesties laukimo trukmė</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputAutoOutputExplanationData</Key>
+      <Value>Įvesties laukimo trukmė sekundėmis gavus atvaizdą</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EmergencySettingItemView</Key>
+      <Value>Skubos nuostata</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EmergencyDiscreminationItemsLabelData</Key>
+      <Value>Paskirti skubų tyrimą</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EmergencyDiscreminationItemsExplanationData</Key>
+      <Value>Įrašyti priešdėlio ženklus, nurodančius, kad tyrimas skubus</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EmergencyDiscreminationcharStringLabelData</Key>
+      <Value>Įrašyti priesagos ženklus, nurodančius, kad tyrimas skubus</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EmergencyDiscreminationcharStringExplanationData</Key>
+      <Value>ŠALTINIO išvestis atvaizdui atliekant skubų tyrimą</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskCapacitySettingItemView</Key>
+      <Value>Atvaizdo šalinimo nuostata</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskFullcapacityLabelData</Key>
+      <Value>Laisvos vietos dydis</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskFullcapacityExplanationData</Key>
+      <Value>Rodyti šios sistemos laisvą standžiojo disko vietą vietą [GB]</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskAutoDeleteLblData</Key>
+      <Value>Automatinis šalinimo dydžio skaičiavimas</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskAutoDeleteLblDatamsg</Key>
+      <Value />
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskAutoDeleteChckData</Key>
+      <Value>Automatinis šalinimas</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskImageDeletevalueLabelData</Key>
+      <Value>Fiksuotas šalinimo dydis</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskImageDeletevalueExplanationData</Key>
+      <Value>Nurodyti šalintiną dydį [GB], jei automatinis šalinimo dydis nenurodytas</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskManualSettingChckData</Key>
+      <Value>Rankinis nustatymas</Value>
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSaverSettingItemView</Key>
+      <Value>Ekrano užsklandos nuostatos</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSaverAutoLogin</Key>
+      <Value>Automatinis atsijungimas aktyvinant ekrano užsklandą</Value>
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSaverAutoLoginMsg</Key>
+      <Value />
+      <Comment>Facility Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSaverExposureScreenLbl</Key>
+      <Value>Kol rodomas eksponavimo langas, ekrano užsklanda turėtų būti išjungta</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ScreenSaverExposureScreenLblMsg</Key>
+      <Value />
+      <Comment>Facility Information Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Upper Left</Key>
+      <Value>Viršutinis kairysis</Value>
+      <Comment>Upper Left</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Upper Right</Key>
+      <Value>Viršutinis dešinysis</Value>
+      <Comment>Upper Right</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Lower Left</Key>
+      <Value>Apatinis kairysis</Value>
+      <Comment>Lower Left</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Lower Right</Key>
+      <Value>Apatinis dešinysis</Value>
+      <Comment>Lower Right</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>7x7mm</Key>
+      <Value>7x7 mm</Value>
+      <Comment>7x7mm</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>10x10mm</Key>
+      <Value>10x10 mm</Value>
+      <Comment>10x10mm</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DICOM Compliance</Key>
+      <Value>Suderinamumas su R150</Value>
+      <Comment>DICOM Compliance</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Order Sequence</Key>
+      <Value>DICOM atitiktis</Value>
+      <Comment>Order Sequence</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>R150 compatible</Key>
+      <Value>Nurodymų eilės tvarka</Value>
+      <Comment>R150 compatible</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskAutoRemovalLabelData</Key>
+      <Value>自動削除開始閾値</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DiskAutoRemovalExplanation</Key>
+      <Value>空き容量がこの値を下回ると、コンソール終了時に画像削除を行います</Value>
+      <Comment>Input facility name Output in film or image data (Upto 64 char)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

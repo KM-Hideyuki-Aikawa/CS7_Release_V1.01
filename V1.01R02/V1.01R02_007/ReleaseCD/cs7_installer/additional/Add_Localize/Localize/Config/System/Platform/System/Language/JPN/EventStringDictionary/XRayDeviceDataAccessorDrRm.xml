@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="XRayDeviceDataAccessorDrRm7102">
+      <Title>登録規定枚数エラー</Title>
+      <Message>登録数が4枚です。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7103">
+      <Title>カセッテ未登録</Title>
+      <Message>不明なAeroDrパネルです。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7104">
+      <Title>撮影装置未登録</Title>
+      <Message>不明な撮影装置です。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7105">
+      <Title>RMエラー</Title>
+      <Message>RM管理テーブルのエラーです。
+サービスコールしてください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7106">
+      <Title>バージョンアップエラー</Title>
+      <Message>バージョンが一致しません。
+サービスコールしてください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7107">
+      <Title>RMエラー</Title>
+      <Message>RM管理テーブルのエラーです。
+サービスコールしてください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7108">
+      <Title>RMエラー</Title>
+      <Message>RM管理テーブルのエラーです。
+サービスコールしてください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7109">
+      <Title>RMエラー</Title>
+      <Message>RM管理テーブルのエラーです。
+ネットワーク接続を確認してください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7110">
+      <Title>RMエラー</Title>
+      <Message>RM管理テーブルのエラーです。
+サービスコールしてください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7111">
+      <Title>登録解除エラー</Title>
+      <Message>AeroDrパネルの登録解除でエラーが発生しました。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7112">
+      <Title>撮影室切替エラー</Title>
+      <Message>撮影室切替でエラーが発生しました。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7113">
+      <Title>バックプロセス通信エラー</Title>
+      <Message>Can not communicate.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7114">
+      <Title>コンフィグアクティベーション設定エラー</Title>
+      <Message>AeroDrパネルのコンフィグアクティベーションでエラーが発生しました。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7115">
+      <Title>RM更新</Title>
+      <Message>RM管理テーブルが更新されました。
+再起動してください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7116">
+      <Title>ライセンスエラー</Title>
+      <Message>登録しようとしたパネルのライセンスがない、もしくはライセンス数が足りません。
+ライセンスを入手するか、ライセンス数を超えない範囲でパネルを登録してください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7117">
+      <Title>RM設定送信エラー</Title>
+      <Message>RM設定の送信エラーです。
+ネットワーク接続を確認し、再度操作を行ってください。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7118">
+      <Title>RM設定送信エラー</Title>
+      <Message>CS-7の設定に誤りがあります。
+設定を確認し、再度操作を行ってください。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

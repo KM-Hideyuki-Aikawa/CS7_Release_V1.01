@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0401">
+      <Title>Sending error</Title>
+      <Message>Internal error occurred in X-ray communication process.</Message>
+    </EventString>
+    <EventString Key="0402">
+      <Title>Internal error</Title>
+      <Message>Internal error occurred in X-ray communication process.</Message>
+    </EventString>
+    <EventString Key="0403">
+      <Title>Sending error</Title>
+      <Message>Exposure conditions command sending for X-ray system failed.Restart the X-ray device.</Message>
+    </EventString>
+    <EventString Key="0404">
+      <Title>Setting error</Title>
+      <Message>Parameter setting to the X-ray system error.</Message>
+    </EventString>
+    <EventString Key="0405">
+      <Title>Device error</Title>
+      <Message>X-ray system error detected.</Message>
+    </EventString>
+    <EventString Key="0406">
+      <Title>Sending error</Title>
+      <Message>X-ray system connection error.Check the network.</Message>
+    </EventString>
+    <EventString Key="0301">
+      <Title />
+      <Message />
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

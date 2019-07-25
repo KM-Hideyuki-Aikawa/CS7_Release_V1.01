@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="OrderListDomain0001">
+      <Title>Ошибка</Title>
+      <Message>Ошибка обновления БД.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0002">
+      <Title>Предупреждение</Title>
+      <Message>Недействительное значение, выполнение невозможно.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0003">
+      <Title>Предупреждение</Title>
+      <Message>Ввод обязателен.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0004">
+      <Title>Ошибка</Title>
+      <Message>Выполнение невозможно.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0005">
+      <Title>Ошибка обновления пациента</Title>
+      <Message>Ошибка обновления пациента.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0006">
+      <Title>Информация</Title>
+      <Message>Данные БД обновлены, будет отображено обновленное исследование.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0007">
+      <Title>Ошибка</Title>
+      <Message>Исследование удалено из базы данных, выполнение операции невозможно.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0008">
+      <Title>Подтверждение</Title>
+      <Message>ID того же пациента: {0}, Имя пациента: {1}, Пол: {2}, Дата рождения:{3} имеются в базе данных, использовать данные БД?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0009">
+      <Title>Подтверждение</Title>
+      <Message>Исследование в процессе выполнения. Продолжить?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0010">
+      <Title>Предупреждение</Title>
+      <Message>Исследование уже выполнено на другой консоли.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

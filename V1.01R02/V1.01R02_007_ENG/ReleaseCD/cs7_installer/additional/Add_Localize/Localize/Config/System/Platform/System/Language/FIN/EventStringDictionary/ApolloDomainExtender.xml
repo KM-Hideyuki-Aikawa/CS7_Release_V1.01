@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ApolloDomainExtender0001">
+      <Title>Ping-tila</Title>
+      <Message>Yhteyden muodostus onnistui.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0002">
+      <Title>Ping-tila</Title>
+      <Message>Yhteyden muodostus epäonnistui.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0003">
+      <Title>Vahvistus</Title>
+      <Message>Onko OK peruuttaa rekisteröinti?</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0004">
+      <Title>Virhe</Title>
+      <Message>Laitteen peruutus epäonnistui.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0005">
+      <Title>Virhe</Title>
+      <Message>Pyyntöä ei voi käsitellä, koska laitetta ei ole valittu</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0006">
+      <Title>Informaatio</Title>
+      <Message>Langaton</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0007">
+      <Title>Informaatio</Title>
+      <Message>Langallinen</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

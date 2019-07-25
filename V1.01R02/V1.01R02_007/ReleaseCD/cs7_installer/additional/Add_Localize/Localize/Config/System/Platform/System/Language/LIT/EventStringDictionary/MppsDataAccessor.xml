@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35520">
+      <Title>Paleisties klaida</Title>
+      <Message>Paleisti nepavyko.</Message>
+    </EventString>
+    <EventString Key="35521">
+      <Title>nuostatų skaitymo klaida</Title>
+      <Message>Klaida skaitant nuostatų failą.</Message>
+    </EventString>
+    <EventString Key="35522">
+      <Title>laiko baigties klaida</Title>
+      <Message>Laikas baigėsi.</Message>
+    </EventString>
+    <EventString Key="">
+      <Title />
+      <Message>[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37350">
+      <Title>Vidinė klaida</Title>
+      <Message>DICOM ryšio vidinė klaida. Susisiekite su techninės priežiūros atstovu.</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>Vidinė klaida</Title>
+      <Message>DICOM ryšio vidinė klaida. Susisiekite su techninės priežiūros atstovu.</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>Vidinė klaida</Title>
+      <Message>Nepavyko gauti DICOM ryšio nuostatų. Patvirtinkite ryšio nuostatas.</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>Ryšio klaida</Title>
+      <Message>Ryšys nepavyko. Patvirtinkite ryšio nuostatas ir tarnybinės stoties veikimą.</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>Ryšio klaida</Title>
+      <Message>Nepavyko A-ASSOCIATE. Patvirtinkite ryšio nuostatas ir tarnybinės stoties veikimą.</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>Ryšio klaida</Title>
+      <Message>Tarnybinė stotis atmetė A-ASSOCIATE dėl negaliojančių nuostatų. Patvirtinkite ryšio nuostatas.</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>Ryšio klaida</Title>
+      <Message>DICOM ryšio vidinė klaida. Susisiekite su techninės priežiūros atstovu.</Message>
+    </EventString>
+    <EventString Key="37357">
+      <Title>Ryšio klaida</Title>
+      <Message>Paleidimo perdavimas nepavyko. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>Ryšio klaida</Title>
+      <Message>Gautas A-ABORT. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37600">
+      <Title>Vidinė klaida</Title>
+      <Message>RIS-OUT ryšio vidinė klaida. Susisiekite su techninės priežiūros atstovu.</Message>
+    </EventString>
+    <EventString Key="37601">
+      <Title>Vidinė klaida</Title>
+      <Message>RIS-OUT ryšio vidinė klaida. Susisiekite su techninės priežiūros atstovu.</Message>
+    </EventString>
+    <EventString Key="37602">
+      <Title>Vidinė klaida</Title>
+      <Message>RIS-OUT ryšio vidinė klaida. Susisiekite su techninės priežiūros atstovu.</Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>Vidinė klaida</Title>
+      <Message>Gautas pabaigos pranešimas. [{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37699">
+      <Title>Vidinė klaida</Title>
+      <Message>Neapibrėžta klaida. [{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37603">
+      <Title>Vidinė klaida</Title>
+      <Message>RIS-OUT ryšio vidinė klaida. Susisiekite su techninės priežiūros atstovu.</Message>
+    </EventString>
+    <EventString Key="37604">
+      <Title>Vidinė klaida</Title>
+      <Message>RIS-OUT ryšio vidinė klaida. Susisiekite su techninės priežiūros atstovu.</Message>
+    </EventString>
+    <EventString Key="37605">
+      <Title>Vidinė klaida</Title>
+      <Message>RIS-OUT ryšio vidinė klaida. Susisiekite su techninės priežiūros atstovu.</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="27730">
+      <Title>Ryšio klaida</Title>
+      <Message>RIS-OUT ryšio klaida. Patikrinkite ryšio paskirtį.</Message>
+    </EventString>
+    <EventString Key="27731">
+      <Title>Ryšio klaida</Title>
+      <Message>RIS-OUT ryšio klaida. Patikrinkite ryšio paskirtį.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

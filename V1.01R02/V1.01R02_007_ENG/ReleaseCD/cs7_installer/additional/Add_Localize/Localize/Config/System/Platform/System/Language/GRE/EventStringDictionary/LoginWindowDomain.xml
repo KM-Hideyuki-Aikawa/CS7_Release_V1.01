@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="LoginWindowDomain0000">
+      <Title />
+      <Message>Ο χρήστης "{USERNAME}" είναι συνδεδεμένος. Ο χρήστης "{USERNAME}" πρέπει να αποσυνδεθεί προτού μπορέσετε να συνδεθείτε. Να αποσυνδεθεί ο χρήστης "{USERNAME}";</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0001">
+      <Title />
+      <Message>Εσφαλμένο όνομα χρήστη ή κωδικός πρόσβασης</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0002">
+      <Title>Σφάλμα</Title>
+      <Message>Η σύνδεση ακυρώθηκε</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0003">
+      <Title>Σφάλμα</Title>
+      <Message>Δεν είναι δυνατή η αλλαγή του συστήματος από τον τρέχοντα χρήστη. {ERRORS}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

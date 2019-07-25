@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="HostDomainExtender0001">
+      <Title>Ping 結果</Title>
+      <Message>接続に成功しました。</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0002">
+      <Title>Ping 結果</Title>
+      <Message>接続に失敗しました。</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0003">
+      <Title>確認</Title>
+      <Message> どのサービスに対してPingを実行しますか？</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0004">
+      <Title>確認</Title>
+      <Message>選択したキューを削除します。よろしいですか？</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0005">
+      <Title>注意</Title>
+      <Message>削除するキューを選択してください。</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0006">
+      <Title>情報</Title>
+      <Message>キューの削除に成功しました。</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0007">
+      <Title>エラー</Title>
+      <Message>キューの削除に失敗しました。</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0008">
+      <Title>注意</Title>
+      <Message>他チャネルの出力HOSTと重複しています。画像が重複して出力する可能性があります。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="OrderListDomain0001">
+      <Title>Errore</Title>
+      <Message>Errore aggiornamento DB.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0002">
+      <Title>Avvertenza</Title>
+      <Message>Valore non valido, esecuzione non possibile.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0003">
+      <Title>Avvertenza</Title>
+      <Message>L'inserimento è obbligatorio.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0004">
+      <Title>Errore</Title>
+      <Message>Esecuzione non possibile.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0005">
+      <Title>Errore aggiornamento paziente</Title>
+      <Message>Errore aggiornamento paziente.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0006">
+      <Title>Informazione</Title>
+      <Message>I dati DB sono aggiornati, studio aggiornato sarà mostrato.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0007">
+      <Title>Errore</Title>
+      <Message>Lo studio è stato cancellato dal database. Impossibile eseguire operazione.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0008">
+      <Title>Conferma</Title>
+      <Message>Stesso ID paziente: {0},Nome paziente: {1},Sesso: {2},DOB:{3} disponibile in database, si vuole usare i dati DB?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0009">
+      <Title>Conferma</Title>
+      <Message>Lo studio è in atto, si vuole eseguire?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0010">
+      <Title>Avvertenza</Title>
+      <Message>Lo studio è già eseguito in un'altra console.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="AeroDRSettingDomainExtender0003">
+      <Title>Chyba</Title>
+      <Message>Vybrána neplatná korekční data.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0004">
+      <Title>Potvrzení</Title>
+      <Message>Korekční data již existují. Opravdu je chcete přepsat?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0005">
+      <Title>Chyba</Title>
+      <Message>Neúspěšné přidání panelu AeroDR.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0006">
+      <Title>Chyba</Title>
+      <Message>Neúspěšné získání informací z panelu AeroDR.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0007">
+      <Title>Chyba</Title>
+      <Message>Neúspěšná konfigurace panelu AeroDR.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0008">
+      <Title>Chyba</Title>
+      <Message>Neúspěšné přidání XG BOX.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0009">
+      <Title>Chyba</Title>
+      <Message>Neúspěšné získání XG BOX.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0010">
+      <Title>Chyba</Title>
+      <Message>Neúspěšná konfigurace XG BOX.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0011">
+      <Title>Chyba</Title>
+      <Message>Neúspěšné odstranění panelu AeroDR.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0012">
+      <Title>Potvrzení</Title>
+      <Message>Určitě chcete zrušit registraci panelu AeroDR?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0013">
+      <Title>Potvrzení</Title>
+      <Message>Konfigurace panelu AeroDR nebyla stažena. Určitě chcete zrušit registraci panelu AeroDR?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0014">
+      <Title>Potvrzení</Title>
+      <Message>U některých panelů AeroDR nebo XG BOXů nebyla nahrána konfigurace. Určitě chcete konfiguraci uložit?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0015">
+      <Title>Pozor</Title>
+      <Message>Nelze zrušit změny. Konfigurace panelu AeroDR nebo XG BOXu už byla uložena.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0016">
+      <Title>Chyba</Title>
+      <Message>Data jsou neplatná. Potvrďte zadání.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0017">
+      <Title>Chyba</Title>
+      <Message>Změňte konfiguraci panelu AeroDR.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0018">
+      <Title>Potvrzení</Title>
+      <Message>Opravdu chcete toto nastavení poslat na server?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0019">
+      <Title>Chyba</Title>
+      <Message>Při přenosu nastavení se vyskytla chyba. Zkontrolujte síťové připojení a opakujte akci.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

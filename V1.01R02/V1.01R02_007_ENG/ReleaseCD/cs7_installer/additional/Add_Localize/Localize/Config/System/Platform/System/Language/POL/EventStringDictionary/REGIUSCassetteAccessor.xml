@@ -1,0 +1,1637 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="MES04001">
+      <Title>Błąd CR </Title>
+      <Message>NG – czujnik HP1 (jednostka transportowa)</Message>
+    </EventString>
+    <EventString Key="MES04002">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP1 (jednostka transportowa) </Message>
+    </EventString>
+    <EventString Key="MES04011">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP2 (jednostka transportowa) </Message>
+    </EventString>
+    <EventString Key="MES04012">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP2 (jednostka transportowa) </Message>
+    </EventString>
+    <EventString Key="MES04013">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP2 (jednostka transportowa) </Message>
+    </EventString>
+    <EventString Key="MES04014">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP2 (jednostka transportowa) </Message>
+    </EventString>
+    <EventString Key="MES04015">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP2 (jednostka transportowa) </Message>
+    </EventString>
+    <EventString Key="MES04020">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wyrównania (start) </Message>
+    </EventString>
+    <EventString Key="MES04021">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wyrównania (podajnik) </Message>
+    </EventString>
+    <EventString Key="MES04022">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wyrównania (klejenie) </Message>
+    </EventString>
+    <EventString Key="MES04023">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wyrównania (osłona) </Message>
+    </EventString>
+    <EventString Key="MES04024">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wyrównania (rozładowanie) </Message>
+    </EventString>
+    <EventString Key="MES04025">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wyrównania </Message>
+    </EventString>
+    <EventString Key="MES04026">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wyrównania lewostronnego (inicjacja) </Message>
+    </EventString>
+    <EventString Key="MES04027">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wyrównania prawostronnego (inicjacja) </Message>
+    </EventString>
+    <EventString Key="MES04030">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik podnośnika (start) </Message>
+    </EventString>
+    <EventString Key="MES04031">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik podnośnika (podajnik) </Message>
+    </EventString>
+    <EventString Key="MES04032">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik podnośnika (klejenie) </Message>
+    </EventString>
+    <EventString Key="MES04033">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik podnośnika (osłona) </Message>
+    </EventString>
+    <EventString Key="MES04034">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik podnośnika (przed podniesieniem) </Message>
+    </EventString>
+    <EventString Key="MES04035">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik blokady HP </Message>
+    </EventString>
+    <EventString Key="MES04036">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik podnośnika HP </Message>
+    </EventString>
+    <EventString Key="MES04037">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wykrywania podnośnika (po podniesieniu) </Message>
+    </EventString>
+    <EventString Key="MES04041">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik otwarcia osłony podajnika </Message>
+    </EventString>
+    <EventString Key="MES04042">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik zamknięcia osłony podajnika </Message>
+    </EventString>
+    <EventString Key="MES04043">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik otwarcia osłony podajnika </Message>
+    </EventString>
+    <EventString Key="MES04044">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik zamknięcia osłony podajnika </Message>
+    </EventString>
+    <EventString Key="MES04045">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik czarnej płytki kasety </Message>
+    </EventString>
+    <EventString Key="MES04046">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wykrywania wypaczenia tablicy </Message>
+    </EventString>
+    <EventString Key="MES04047">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wykrywania przyklejenia tablicy </Message>
+    </EventString>
+    <EventString Key="MES04048">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik podnośnika zamknięcia osłony wysuwania </Message>
+    </EventString>
+    <EventString Key="MES04051">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik zamknięcia drzwi rozładowania </Message>
+    </EventString>
+    <EventString Key="MES04061">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wolnego skanowania HP </Message>
+    </EventString>
+    <EventString Key="MES04062">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wykrywania przyklejenia tablicy </Message>
+    </EventString>
+    <EventString Key="MES04063">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wykrywania wypaczenia tablicy </Message>
+    </EventString>
+    <EventString Key="MES04064">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik V-Sync </Message>
+    </EventString>
+    <EventString Key="MES04065">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wykrywania przyklejenia tablicy </Message>
+    </EventString>
+    <EventString Key="MES04066">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wykrywania przyklejenia tablicy </Message>
+    </EventString>
+    <EventString Key="MES04067">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wykrywania przyklejenia tablicy </Message>
+    </EventString>
+    <EventString Key="MES04068">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wykrywania przyklejenia tablicy </Message>
+    </EventString>
+    <EventString Key="MES04069">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wykrywania przyklejenia tablicy </Message>
+    </EventString>
+    <EventString Key="MES04070">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wykrywania przyklejenia tablicy </Message>
+    </EventString>
+    <EventString Key="MES04071">
+      <Title>Błąd CR</Title>
+      <Message>NG – centralny czujnik wykrywania podajnika </Message>
+    </EventString>
+    <EventString Key="MES04072">
+      <Title>Błąd CR</Title>
+      <Message>NG – lewy czujnik wykrywania podajnika </Message>
+    </EventString>
+    <EventString Key="MES04073">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik czarnej płytki kasety (inicjowanie) </Message>
+    </EventString>
+    <EventString Key="MES04074">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wykrywania wypaczenia tablicy (inicjowanie) </Message>
+    </EventString>
+    <EventString Key="MES04075">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wykrywania przyklejenia tablicy (inicjowanie) </Message>
+    </EventString>
+    <EventString Key="MES04076">
+      <Title>Błąd CR</Title>
+      <Message>NG – zasilanie 24 V NG (zwykle) </Message>
+    </EventString>
+    <EventString Key="MES04077">
+      <Title>Błąd CR</Title>
+      <Message>NG – zasilanie 24 V (drzwi zamknięte) </Message>
+    </EventString>
+    <EventString Key="MES04081">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik 1 wykrywania prądu lampki kasowania </Message>
+    </EventString>
+    <EventString Key="MES04082">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik 2 wykrywania prądu lampki kasowania </Message>
+    </EventString>
+    <EventString Key="MES04091">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik otwarcia drzwi przednich </Message>
+    </EventString>
+    <EventString Key="MES04101">
+      <Title>Błąd CR</Title>
+      <Message>NG – silnik wolnego skanowania </Message>
+    </EventString>
+    <EventString Key="MES04102">
+      <Title>Błąd CR</Title>
+      <Message>NG – silnik jednostki transportowej </Message>
+    </EventString>
+    <EventString Key="MES04103">
+      <Title>Błąd CR</Title>
+      <Message>NG – silnik podnośnika </Message>
+    </EventString>
+    <EventString Key="MES04104">
+      <Title>Błąd CR</Title>
+      <Message>NG – silnik wyrównania </Message>
+    </EventString>
+    <EventString Key="MES04105">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu otwarcia/zamknięcia osłony podajnika </Message>
+    </EventString>
+    <EventString Key="MES04106">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu blokady </Message>
+    </EventString>
+    <EventString Key="MES04107">
+      <Title>Błąd CR</Title>
+      <Message>NG – silnik ładowania </Message>
+    </EventString>
+    <EventString Key="MES04150">
+      <Title>Błąd CR</Title>
+      <Message>Przetwarzanie wstępne blokady </Message>
+    </EventString>
+    <EventString Key="MES04151">
+      <Title>Błąd CR</Title>
+      <Message>Przetwarzanie wstępne osłony podajnika </Message>
+    </EventString>
+    <EventString Key="MES04152">
+      <Title>Błąd CR</Title>
+      <Message>Przetwarzanie wstępne podnośnika </Message>
+    </EventString>
+    <EventString Key="MES04153">
+      <Title>Błąd CR</Title>
+      <Message>Przetwarzanie wstępne wyrównania </Message>
+    </EventString>
+    <EventString Key="MES04154">
+      <Title>Błąd CR</Title>
+      <Message>Przetwarzanie wstępne jednostki transportowej </Message>
+    </EventString>
+    <EventString Key="MES04155">
+      <Title>Błąd CR</Title>
+      <Message>Przetwarzanie wstępne wolnego skanowania </Message>
+    </EventString>
+    <EventString Key="MES04156">
+      <Title>Błąd CR</Title>
+      <Message>NG – uruchamianie akcji przesyłania 1 </Message>
+    </EventString>
+    <EventString Key="MES04157">
+      <Title>Błąd CR</Title>
+      <Message>NG – uruchamianie akcji przesyłania 2 </Message>
+    </EventString>
+    <EventString Key="MES04158">
+      <Title>Błąd CR</Title>
+      <Message>NG – uruchamianie akcji rozładowania podajnika </Message>
+    </EventString>
+    <EventString Key="MES04159">
+      <Title>Błąd CR</Title>
+      <Message>NG – uruchamianie akcji rozładowania </Message>
+    </EventString>
+    <EventString Key="MES04160">
+      <Title>Błąd CR</Title>
+      <Message>NG otwarcia osłony podajnika </Message>
+    </EventString>
+    <EventString Key="MES04161">
+      <Title>Błąd CR</Title>
+      <Message>NG zamknięcia osłony podajnika </Message>
+    </EventString>
+    <EventString Key="MES04162">
+      <Title>Błąd CR</Title>
+      <Message>NG – uruchamianie blokady </Message>
+    </EventString>
+    <EventString Key="MES04163">
+      <Title>Błąd CR</Title>
+      <Message>NG – czas wykrywania opadającej kasety </Message>
+    </EventString>
+    <EventString Key="MES04164">
+      <Title>Błąd CR</Title>
+      <Message>Brak powiadomienia zezwolenia przy wł. lampce kasowania </Message>
+    </EventString>
+    <EventString Key="MES04165">
+      <Title>Błąd CR</Title>
+      <Message>Brak powiadomienia zezwolenia przy wył. lampce kasowania </Message>
+    </EventString>
+    <EventString Key="MES04167">
+      <Title>Błąd CR</Title>
+      <Message>Przetwarzanie wstępne silnika ładowania </Message>
+    </EventString>
+    <EventString Key="MES04200">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu pobierania stanu (inicjowanie) </Message>
+    </EventString>
+    <EventString Key="MES04201">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu pobierania stanu (gotowy) </Message>
+    </EventString>
+    <EventString Key="MES04202">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu pobierania stanu (wykrywanie kodu kres.) </Message>
+    </EventString>
+    <EventString Key="MES04203">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu pobierania stanu (wysokie napięcie WŁ.) </Message>
+    </EventString>
+    <EventString Key="MES04204">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu pobierania stanu (laser WŁ.) </Message>
+    </EventString>
+    <EventString Key="MES04205">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu pobierania stanu (anulowanie kodu kres.) </Message>
+    </EventString>
+    <EventString Key="MES04206">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu pobierania stanu (przetwarzanie) </Message>
+    </EventString>
+    <EventString Key="MES04207">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu pobierania stanu (zatrzymanie) </Message>
+    </EventString>
+    <EventString Key="MES04208">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu pobierania stanu (otwarte przednie drzwi) </Message>
+    </EventString>
+    <EventString Key="MES04209">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu pobierania stanu (zamknięte przednie drzwi) </Message>
+    </EventString>
+    <EventString Key="MES04210">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu pobierania stanu (błąd) </Message>
+    </EventString>
+    <EventString Key="MES04211">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu pobierania stanu (tryb gotowości) </Message>
+    </EventString>
+    <EventString Key="MES04212">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu pobierania stanu (przeniesienie trybu kasowania) </Message>
+    </EventString>
+    <EventString Key="MES04213">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu pobierania stanu (wył. zasilania po gotowości) </Message>
+    </EventString>
+    <EventString Key="MES04214">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu odbierania rejestracji OK </Message>
+    </EventString>
+    <EventString Key="MES04215">
+      <Title>Błąd CR</Title>
+      <Message>Błąd pobierania stanu (laser WŁ.) </Message>
+    </EventString>
+    <EventString Key="MES04216">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu otrzymywania przejścia wstecz </Message>
+    </EventString>
+    <EventString Key="MES04217">
+      <Title>Błąd CR</Title>
+      <Message>Laser WŁ. bez przesyłania wysokiego napięcia WŁ. (1) </Message>
+    </EventString>
+    <EventString Key="MES04218">
+      <Title>Błąd CR</Title>
+      <Message>Laser WŁ. bez przesyłania wysokiego napięcia WŁ. (2) </Message>
+    </EventString>
+    <EventString Key="MES04219">
+      <Title>Błąd CR</Title>
+      <Message>Nieprawidłowe polecenie </Message>
+    </EventString>
+    <EventString Key="MES04221">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu otrzymywania rozp. podskanowania </Message>
+    </EventString>
+    <EventString Key="MES04900">
+      <Title>Błąd CR</Title>
+      <Message>Obecność kasety (podnośnik) </Message>
+    </EventString>
+    <EventString Key="MES04901">
+      <Title>Błąd CR</Title>
+      <Message>Obecność kasety (wyrównanie) </Message>
+    </EventString>
+    <EventString Key="MES04902">
+      <Title>Błąd CR</Title>
+      <Message>Obecność kasety (otwarte drzwi rozładowania) </Message>
+    </EventString>
+    <EventString Key="MES04903">
+      <Title>Błąd CR</Title>
+      <Message>Obecność kasety (przyklejenie tablicy) </Message>
+    </EventString>
+    <EventString Key="MES04904">
+      <Title>Błąd CR</Title>
+      <Message>Wyłącz lampki kasowania (2) </Message>
+    </EventString>
+    <EventString Key="MES04905">
+      <Title>Błąd CR</Title>
+      <Message>Błąd komunikacji SCB </Message>
+    </EventString>
+    <EventString Key="MES04906">
+      <Title>Błąd CR</Title>
+      <Message>Wypaczenie kasety [%s] </Message>
+    </EventString>
+    <EventString Key="MES04907">
+      <Title>Błąd CR</Title>
+      <Message>Błąd otwarcia kasety [%s] </Message>
+    </EventString>
+    <EventString Key="MES04908">
+      <Title>Błąd CR</Title>
+      <Message>Opadanie kasety [%s] </Message>
+    </EventString>
+    <EventString Key="MES04909">
+      <Title>Błąd CR</Title>
+      <Message>Wykrywanie luki kasety (magnes płyty tylnej) </Message>
+    </EventString>
+    <EventString Key="MES04910">
+      <Title>Błąd CR</Title>
+      <Message>Wykrywanie luki kasety (odchodzenie kasety) </Message>
+    </EventString>
+    <EventString Key="MES04914">
+      <Title>Błąd CR</Title>
+      <Message>Otwieranie wyodrębniania (inicjowanie) </Message>
+    </EventString>
+    <EventString Key="MES04917">
+      <Title>Błąd CR</Title>
+      <Message>NG otwarcia osłony podajnika (odblok.) </Message>
+    </EventString>
+    <EventString Key="MES04918">
+      <Title>Błąd CR</Title>
+      <Message>NG – dłączenie FAN 1 </Message>
+    </EventString>
+    <EventString Key="MES04920">
+      <Title>Błąd CR</Title>
+      <Message>NG – odłączenie FAN 3 </Message>
+    </EventString>
+    <EventString Key="MES04921">
+      <Title>Błąd CR</Title>
+      <Message>NG – lampka kasowania </Message>
+    </EventString>
+    <EventString Key="MES06000">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP wyrównania (przesunięcie do HP) </Message>
+    </EventString>
+    <EventString Key="MES06001">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem wyrównania (przesunięcie do HP) </Message>
+    </EventString>
+    <EventString Key="MES06002">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP wyrównania (stała pozycja kasety) </Message>
+    </EventString>
+    <EventString Key="MES06003">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem wyrównania (stała pozycja kasety) </Message>
+    </EventString>
+    <EventString Key="MES06004">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem wyrównania (pozycja wspierająca kasety) </Message>
+    </EventString>
+    <EventString Key="MES06005">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem wyrównania (stała pozycja kasety -2) </Message>
+    </EventString>
+    <EventString Key="MES06006">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP wyrównania (przesunięcie do HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06007">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem wyrównania (przesunięcie do HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06008">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP wyrównania (przesunięcie do HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06009">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem wyrównania (przesunięcie do HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06010">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP wyrównania (pozycja wspierająca kasety) </Message>
+    </EventString>
+    <EventString Key="MES06011">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem wyrównania (pozycja wspierająca kasety -2) </Message>
+    </EventString>
+    <EventString Key="MES06015">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP wyrównania (przesunięcie do HP) </Message>
+    </EventString>
+    <EventString Key="MES06016">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem wyrównania (przesunięcie do HP) </Message>
+    </EventString>
+    <EventString Key="MES06017">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP wyrównania (stała pozycja kasety) </Message>
+    </EventString>
+    <EventString Key="MES06018">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem wyrównania (stała pozycja kasety) </Message>
+    </EventString>
+    <EventString Key="MES06019">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem wyrównania (pozycja wspierająca kasety) </Message>
+    </EventString>
+    <EventString Key="MES06020">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem wyrównania (stała pozycja kasety -2) </Message>
+    </EventString>
+    <EventString Key="MES06021">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP wyrównania (przesunięcie do HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06022">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem wyrównania (przesunięcie do HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06023">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP wyrównania (przesunięcie do HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06024">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem wyrównania (przesunięcie do HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06025">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP wyrównania (pozycja wspierająca kasety) </Message>
+    </EventString>
+    <EventString Key="MES06026">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem wyrównania (pozycja wspierająca kasety -2) </Message>
+    </EventString>
+    <EventString Key="MES06030">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP wyrównania (przesunięcie do HP) </Message>
+    </EventString>
+    <EventString Key="MES06031">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem wyrównania (przesunięcie do HP) </Message>
+    </EventString>
+    <EventString Key="MES06032">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP wyrównania (stała pozycja kasety) </Message>
+    </EventString>
+    <EventString Key="MES06033">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem wyrównania (stała pozycja kasety) </Message>
+    </EventString>
+    <EventString Key="MES06034">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem wyrównania (pozycja wspierająca kasety) </Message>
+    </EventString>
+    <EventString Key="MES06035">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem wyrównania (stała pozycja kasety -2) </Message>
+    </EventString>
+    <EventString Key="MES06036">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP wyrównania (przesunięcie do HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06037">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem wyrównania (przesunięcie do HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06038">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP wyrównania (przesunięcie do HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06039">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem wyrównania (przesunięcie do HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06040">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP wyrównania (pozycja wspierająca kasety) </Message>
+    </EventString>
+    <EventString Key="MES06041">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem wyrównania (pozycja wspierająca kasety -2) </Message>
+    </EventString>
+    <EventString Key="MES06050">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP odbiornika (przesunięcie do HP) </Message>
+    </EventString>
+    <EventString Key="MES06051">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podnośnika (przesunięcie do HP) </Message>
+    </EventString>
+    <EventString Key="MES06052">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP odbiornika (pozycja 1) </Message>
+    </EventString>
+    <EventString Key="MES06053">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podnośnika (pozycja 1) </Message>
+    </EventString>
+    <EventString Key="MES06054">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podnośnika (pozycja 2) </Message>
+    </EventString>
+    <EventString Key="MES06055">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podnośnika (lekkie opadanie w pozycji 2) </Message>
+    </EventString>
+    <EventString Key="MES06056">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podnośnika (pozycja 1 -2) </Message>
+    </EventString>
+    <EventString Key="MES06057">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP odbiornika (przesunięcie do HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06058">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podnośnika (przesunięcie do HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06059">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP odbiornika (przesunięcie do HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06060">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podnośnika (przesunięcie do HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06061">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP odbiornika (przesunięcie do pozycji 2) </Message>
+    </EventString>
+    <EventString Key="MES06062">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podnośnika (pozycja 2 -2) </Message>
+    </EventString>
+    <EventString Key="MES06065">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP odbiornika (przesunięcie do HP) </Message>
+    </EventString>
+    <EventString Key="MES06066">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podnośnika (przesunięcie do HP) </Message>
+    </EventString>
+    <EventString Key="MES06067">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP odbiornika (pozycja 1) </Message>
+    </EventString>
+    <EventString Key="MES06068">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podnośnika (pozycja 1) </Message>
+    </EventString>
+    <EventString Key="MES06069">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podnośnika (pozycja 2) </Message>
+    </EventString>
+    <EventString Key="MES06070">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podnośnika (lekkie opadanie w pozycji 2) </Message>
+    </EventString>
+    <EventString Key="MES06071">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podnośnika (pozycja 1 -2) </Message>
+    </EventString>
+    <EventString Key="MES06072">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP odbiornika (przesunięcie do HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06073">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podnośnika (przesunięcie do HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06074">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP odbiornika (przesunięcie do HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06075">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podnośnika (przesunięcie do HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06076">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP odbiornika (pozycja 2) </Message>
+    </EventString>
+    <EventString Key="MES06077">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podnośnika (pozycja 2 -2) </Message>
+    </EventString>
+    <EventString Key="MES06080">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP odbiornika (przesunięcie do HP) </Message>
+    </EventString>
+    <EventString Key="MES06081">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podnośnika (przesunięcie do HP) </Message>
+    </EventString>
+    <EventString Key="MES06082">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP odbiornika (pozycja 1) </Message>
+    </EventString>
+    <EventString Key="MES06083">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podnośnika (pozycja 1) </Message>
+    </EventString>
+    <EventString Key="MES06084">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podnośnika (pozycja 2) </Message>
+    </EventString>
+    <EventString Key="MES06085">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podnośnika (lekkie opadanie w pozycji 2) </Message>
+    </EventString>
+    <EventString Key="MES06086">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podnośnika (pozycja 1 -2) </Message>
+    </EventString>
+    <EventString Key="MES06087">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP odbiornika (przesunięcie do HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06088">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podnośnika (przesunięcie do HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06089">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP odbiornika (przesunięcie do HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06090">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podnośnika (przesunięcie do HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06091">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP odbiornika (pozycja 2) </Message>
+    </EventString>
+    <EventString Key="MES06092">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podnośnika (pozycja 2 -2) </Message>
+    </EventString>
+    <EventString Key="MES06100">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik transportera (pozycja odczytu) </Message>
+    </EventString>
+    <EventString Key="MES06101">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem transportera (pozycja odczytu) </Message>
+    </EventString>
+    <EventString Key="MES06102">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik transportera (przesunięcie do HP) </Message>
+    </EventString>
+    <EventString Key="MES06103">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP transportera (przesunięcie do HP) </Message>
+    </EventString>
+    <EventString Key="MES06104">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem transportera (przesunięcie do HP) </Message>
+    </EventString>
+    <EventString Key="MES06105">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP transportera (pozycja nacisku) </Message>
+    </EventString>
+    <EventString Key="MES06106">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem transportera (pozycja nacisku) </Message>
+    </EventString>
+    <EventString Key="MES06107">
+      <Title>Błąd CR</Title>
+      <Message>NG – Czujnik transportera (pozycja odczytu 2) </Message>
+    </EventString>
+    <EventString Key="MES06108">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem transportera (pozycja odczytu 2) </Message>
+    </EventString>
+    <EventString Key="MES06109">
+      <Title>Błąd CR</Title>
+      <Message>NG – Czujnik transportera (pozycja nacisku 2) </Message>
+    </EventString>
+    <EventString Key="MES06110">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem transportera (pozycja nacisku 2) </Message>
+    </EventString>
+    <EventString Key="MES06111">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem transportera (pozycja przejścia HP) </Message>
+    </EventString>
+    <EventString Key="MES06112">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP transportera (przesunięcie do HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06113">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem transportera (przesunięcie do HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06115">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik transportera (pozycja odczytu) </Message>
+    </EventString>
+    <EventString Key="MES06116">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem transportera (pozycja odczytu) </Message>
+    </EventString>
+    <EventString Key="MES06117">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik transportera (przesunięcie do HP) </Message>
+    </EventString>
+    <EventString Key="MES06118">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP transportera (przesunięcie do HP) </Message>
+    </EventString>
+    <EventString Key="MES06119">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem transportera (przesunięcie do HP) </Message>
+    </EventString>
+    <EventString Key="MES06120">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP transportera (pozycja nacisku) </Message>
+    </EventString>
+    <EventString Key="MES06121">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem transportera (pozycja nacisku) </Message>
+    </EventString>
+    <EventString Key="MES06122">
+      <Title>Błąd CR</Title>
+      <Message>NG – Czujnik transportera (pozycja odczytu -2) </Message>
+    </EventString>
+    <EventString Key="MES06123">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem transportera (pozycja odczytu -2) </Message>
+    </EventString>
+    <EventString Key="MES06124">
+      <Title>Błąd CR</Title>
+      <Message>NG – Czujnik transportera (pozycja nacisku -2) </Message>
+    </EventString>
+    <EventString Key="MES06125">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem transportera (pozycja nacisku -2) </Message>
+    </EventString>
+    <EventString Key="MES06126">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem transportera (pozycja przejścia HP) </Message>
+    </EventString>
+    <EventString Key="MES06127">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP transportera (przesunięcie do HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06128">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem transportera (przesunięcie do HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06130">
+      <Title>Błąd CR</Title>
+      <Message>NG – Czujnik transportera (pozycja odczytu) </Message>
+    </EventString>
+    <EventString Key="MES06131">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem transportera (pozycja odczytu) </Message>
+    </EventString>
+    <EventString Key="MES06132">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik transportera (przesunięcie do HP) </Message>
+    </EventString>
+    <EventString Key="MES06133">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP transportera (przesunięcie do HP) </Message>
+    </EventString>
+    <EventString Key="MES06134">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem transportera (przesunięcie do HP) </Message>
+    </EventString>
+    <EventString Key="MES06135">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP transportera (pozycja nacisku) </Message>
+    </EventString>
+    <EventString Key="MES06136">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem transportera (pozycja nacisku) </Message>
+    </EventString>
+    <EventString Key="MES06137">
+      <Title>Błąd CR</Title>
+      <Message>NG – Czujnik transportera (pozycja odczytu -2) </Message>
+    </EventString>
+    <EventString Key="MES06138">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem transportera (pozycja odczytu -2) </Message>
+    </EventString>
+    <EventString Key="MES06139">
+      <Title>Błąd CR</Title>
+      <Message>NG – Czujnik transportera (pozycja nacisku -2) </Message>
+    </EventString>
+    <EventString Key="MES06140">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem transportera (pozycja nacisku -2) </Message>
+    </EventString>
+    <EventString Key="MES06141">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem transportera (pozycja przejścia HP) </Message>
+    </EventString>
+    <EventString Key="MES06142">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik HP transportera (przesunięcie do HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06143">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem transportera (przesunięcie do HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06150">
+      <Title>Błąd CR</Title>
+      <Message>NG – inicjowanie enkodera NG </Message>
+    </EventString>
+    <EventString Key="MES06151">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podskanowania (mechaniczne HP) </Message>
+    </EventString>
+    <EventString Key="MES06152">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podskanowania (pozycja zakończenia odczytu) </Message>
+    </EventString>
+    <EventString Key="MES06153">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podskanowania (mechaniczne HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06165">
+      <Title>Błąd CR</Title>
+      <Message>NG – inicjowanie enkodera NG </Message>
+    </EventString>
+    <EventString Key="MES06166">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podskanowania (mechaniczne HP) </Message>
+    </EventString>
+    <EventString Key="MES06167">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podskanowania (pozycja zakończenia odczytu) </Message>
+    </EventString>
+    <EventString Key="MES06168">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podskanowania (mechaniczne HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06180">
+      <Title>Błąd CR</Title>
+      <Message>NG – inicjowanie enkodera NG </Message>
+    </EventString>
+    <EventString Key="MES06181">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podskanowania (mechaniczne HP) </Message>
+    </EventString>
+    <EventString Key="MES06182">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podskanowania (pozycja zakończenia odczytu) </Message>
+    </EventString>
+    <EventString Key="MES06183">
+      <Title>Błąd CR</Title>
+      <Message>NG – sterowanie silnikiem podskanowania (mechaniczne HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06200">
+      <Title>Błąd CR</Title>
+      <Message>NG – osłona wkładania otwarta </Message>
+    </EventString>
+    <EventString Key="MES06201">
+      <Title>Błąd CR</Title>
+      <Message>NG – osłona wkładania zamknięta </Message>
+    </EventString>
+    <EventString Key="MES06215">
+      <Title>Błąd CR</Title>
+      <Message>NG – osłona wkładania otwarta </Message>
+    </EventString>
+    <EventString Key="MES06216">
+      <Title>Błąd CR</Title>
+      <Message>NG – osłona wkładania zamknięta </Message>
+    </EventString>
+    <EventString Key="MES06230">
+      <Title>Błąd CR</Title>
+      <Message>NG – osłona wkładania otwarta </Message>
+    </EventString>
+    <EventString Key="MES06231">
+      <Title>Błąd CR</Title>
+      <Message>NG – osłona wkładania zamknięta </Message>
+    </EventString>
+    <EventString Key="MES06250">
+      <Title>Błąd CR</Title>
+      <Message>NG – zwolnienie blokady silnika (inicjowanie) </Message>
+    </EventString>
+    <EventString Key="MES06251">
+      <Title>Błąd CR</Title>
+      <Message>NG – zwolnienie blokady silnika (blokada) </Message>
+    </EventString>
+    <EventString Key="MES06252">
+      <Title>Błąd CR</Title>
+      <Message>NG – zwolnienie blokady silnika (zwolnienie) </Message>
+    </EventString>
+    <EventString Key="MES06265">
+      <Title>Błąd CR</Title>
+      <Message>NG – zwolnienie blokady silnika (inicjowanie) </Message>
+    </EventString>
+    <EventString Key="MES06266">
+      <Title>Błąd CR</Title>
+      <Message>NG – zwolnienie blokady silnika (blokada) </Message>
+    </EventString>
+    <EventString Key="MES06267">
+      <Title>Błąd CR</Title>
+      <Message>NG – zwolnienie blokady silnika (zwolnienie) </Message>
+    </EventString>
+    <EventString Key="MES06280">
+      <Title>Błąd CR</Title>
+      <Message>NG – zwolnienie blokady silnika (inicjowanie) </Message>
+    </EventString>
+    <EventString Key="MES06281">
+      <Title>Błąd CR</Title>
+      <Message>NG – zwolnienie blokady silnika (blokada) </Message>
+    </EventString>
+    <EventString Key="MES06282">
+      <Title>Błąd CR</Title>
+      <Message>NG – zwolnienie blokady silnika (zwolnienie) </Message>
+    </EventString>
+    <EventString Key="MES06300">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wyrównania (akcja stała) </Message>
+    </EventString>
+    <EventString Key="MES06301">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wyrównania (stałe) </Message>
+    </EventString>
+    <EventString Key="MES06302">
+      <Title>Błąd CR</Title>
+      <Message>Obecność kasety (czujnik wyrównania) </Message>
+    </EventString>
+    <EventString Key="MES06303">
+      <Title>Błąd CR</Title>
+      <Message>Obecność kasety (czujnik wyrównania) </Message>
+    </EventString>
+    <EventString Key="MES06315">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wyrównania (akcja stała) </Message>
+    </EventString>
+    <EventString Key="MES06316">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wyrównania (stałe) </Message>
+    </EventString>
+    <EventString Key="MES06318">
+      <Title>Błąd CR</Title>
+      <Message>Obecność kasety (czujnik wyrównania) </Message>
+    </EventString>
+    <EventString Key="MES06330">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wyrównania (akcja stała) </Message>
+    </EventString>
+    <EventString Key="MES06331">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wyrównania (stałe) </Message>
+    </EventString>
+    <EventString Key="MES06333">
+      <Title>Błąd CR</Title>
+      <Message>Obecność kasety (czujnik wyrównania) </Message>
+    </EventString>
+    <EventString Key="MES06350">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik odbiornika (podajnik) </Message>
+    </EventString>
+    <EventString Key="MES06351">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik odbiornika (wysyłanie) </Message>
+    </EventString>
+    <EventString Key="MES06352">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik odbiornika (rozładowanie) </Message>
+    </EventString>
+    <EventString Key="MES06353">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik odbiornika (usunięte) </Message>
+    </EventString>
+    <EventString Key="MES06354">
+      <Title>Błąd CR</Title>
+      <Message>Obecność kasety (odbiornik) </Message>
+    </EventString>
+    <EventString Key="MES06355">
+      <Title>Błąd CR</Title>
+      <Message>Obecność kasety (odbiornik) </Message>
+    </EventString>
+    <EventString Key="MES06365">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik odbiornika (podajnik) </Message>
+    </EventString>
+    <EventString Key="MES06366">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik odbiornika (wysyłanie) </Message>
+    </EventString>
+    <EventString Key="MES06367">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik odbiornika (rozładowanie) </Message>
+    </EventString>
+    <EventString Key="MES06368">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik odbiornika (usunięte) </Message>
+    </EventString>
+    <EventString Key="MES06370">
+      <Title>Błąd CR</Title>
+      <Message>Obecność kasety (odbiornik) </Message>
+    </EventString>
+    <EventString Key="MES06380">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik odbiornika (podajnik) </Message>
+    </EventString>
+    <EventString Key="MES06381">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik odbiornika (wysyłanie) </Message>
+    </EventString>
+    <EventString Key="MES06382">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik odbiornika (rozładowanie) </Message>
+    </EventString>
+    <EventString Key="MES06383">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik odbiornika (usunięte) </Message>
+    </EventString>
+    <EventString Key="MES06385">
+      <Title>Błąd CR</Title>
+      <Message>Obecność kasety (odbiornik) </Message>
+    </EventString>
+    <EventString Key="MES06400">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wykrywania czarnej płytki (przed przesunięciem do pozycji odczytu) </Message>
+    </EventString>
+    <EventString Key="MES06401">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wykrywania czarnej płytki (pozycja odczytu zatrzymuje się) </Message>
+    </EventString>
+    <EventString Key="MES06402">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wykrywania czarnej płytki (po przesunięciu do pozycji nacisku) </Message>
+    </EventString>
+    <EventString Key="MES06415">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wykrywania czarnej płytki (przed przesunięciem do pozycji odczytu) </Message>
+    </EventString>
+    <EventString Key="MES06416">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wykrywania czarnej płytki (pozycja odczytu zatrzymuje się) </Message>
+    </EventString>
+    <EventString Key="MES06417">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wykrywania czarnej płytki (po przesunięciu do pozycji nacisku) </Message>
+    </EventString>
+    <EventString Key="MES06430">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wykrywania czarnej płytki (przed przesunięciem do pozycji odczytu) </Message>
+    </EventString>
+    <EventString Key="MES06431">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wykrywania czarnej płytki (pozycja odczytu zatrzymuje się) </Message>
+    </EventString>
+    <EventString Key="MES06432">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik wykrywania czarnej płytki (po przesunięciu do pozycji nacisku) </Message>
+    </EventString>
+    <EventString Key="MES06450">
+      <Title>Błąd CR</Title>
+      <Message>Odchodzenie płytki czujnika (odczyt lub kasowanie). Nie używaj tej kasety. </Message>
+    </EventString>
+    <EventString Key="MES06451">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik odchodzenia (nie działa) </Message>
+    </EventString>
+    <EventString Key="MES06452">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik odchodzenia (start) </Message>
+    </EventString>
+    <EventString Key="MES06453">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik odchodzenia (inicjowanie) </Message>
+    </EventString>
+    <EventString Key="MES06465">
+      <Title>Błąd CR</Title>
+      <Message>Odchodzenie płytki czujnika (odczyt lub kasowanie) </Message>
+    </EventString>
+    <EventString Key="MES06466">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik odchodzenia (nie działa) </Message>
+    </EventString>
+    <EventString Key="MES06468">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik odchodzenia (inicjowanie) </Message>
+    </EventString>
+    <EventString Key="MES06480">
+      <Title>Błąd CR</Title>
+      <Message>Odchodzenie płytki czujnika (odczyt lub kasowanie) </Message>
+    </EventString>
+    <EventString Key="MES06481">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik odchodzenia (nie działa) </Message>
+    </EventString>
+    <EventString Key="MES06483">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik odchodzenia (inicjowanie) </Message>
+    </EventString>
+    <EventString Key="MES06500">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik włożenia kasety (inicjowanie) </Message>
+    </EventString>
+    <EventString Key="MES06501">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik włożenia kasety (ładowanie) </Message>
+    </EventString>
+    <EventString Key="MES06502">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik włożenia kasety (rozładowanie) </Message>
+    </EventString>
+    <EventString Key="MES06503">
+      <Title>Błąd CR</Title>
+      <Message>Wykrywanie kasety płytki tylnej </Message>
+    </EventString>
+    <EventString Key="MES06504">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik włożenia kasety (rozładowanie -2) </Message>
+    </EventString>
+    <EventString Key="MES06515">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik włożenia kasety (inicjowanie) </Message>
+    </EventString>
+    <EventString Key="MES06516">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik włożenia kasety (ładowanie) </Message>
+    </EventString>
+    <EventString Key="MES06517">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik włożenia kasety (rozładowanie) </Message>
+    </EventString>
+    <EventString Key="MES06518">
+      <Title>Błąd CR</Title>
+      <Message>Wykrywanie kasety płytki tylnej </Message>
+    </EventString>
+    <EventString Key="MES06519">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik włożenia kasety (rozładowanie -2) </Message>
+    </EventString>
+    <EventString Key="MES06530">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik włożenia kasety (inicjowanie) </Message>
+    </EventString>
+    <EventString Key="MES06531">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik włożenia kasety (ładowanie) </Message>
+    </EventString>
+    <EventString Key="MES06532">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik włożenia kasety (rozładowanie) </Message>
+    </EventString>
+    <EventString Key="MES06533">
+      <Title>Błąd CR</Title>
+      <Message>Wykrywanie kasety płytki tylnej </Message>
+    </EventString>
+    <EventString Key="MES06534">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik włożenia kasety (rozładowanie -2) </Message>
+    </EventString>
+    <EventString Key="MES06550">
+      <Title>Błąd CR</Title>
+      <Message>NG – obrót wielokąta </Message>
+    </EventString>
+    <EventString Key="MES06551">
+      <Title>Błąd CR</Title>
+      <Message>Brak odbioru sygnału zakończenia odczytu </Message>
+    </EventString>
+    <EventString Key="MES06552">
+      <Title>Błąd CR</Title>
+      <Message>2 lampki kasowania wyłączone (start) </Message>
+    </EventString>
+    <EventString Key="MES06553">
+      <Title>Błąd CR</Title>
+      <Message>2 lampki kasowania wyłączone (kasowanie). Kasowanie kasety nieukończone. Spróbuj ponownie. </Message>
+    </EventString>
+    <EventString Key="MES06554">
+      <Title>Błąd CR</Title>
+      <Message>1 lampka kasowania wyłączona (start) </Message>
+    </EventString>
+    <EventString Key="MES06567">
+      <Title>Błąd CR</Title>
+      <Message>2 lampki kasowania wyłączone (start) </Message>
+    </EventString>
+    <EventString Key="MES06568">
+      <Title>Błąd CR</Title>
+      <Message>2 lampki kasowania wyłączone (kasowanie) </Message>
+    </EventString>
+    <EventString Key="MES06569">
+      <Title>Błąd CR</Title>
+      <Message>1 lampka kasowania wyłączona (start) </Message>
+    </EventString>
+    <EventString Key="MES06582">
+      <Title>Błąd CR</Title>
+      <Message>2 lampki kasowania wyłączone (start) </Message>
+    </EventString>
+    <EventString Key="MES06584">
+      <Title>Błąd CR</Title>
+      <Message>1 lampka kasowania wyłączona (start) </Message>
+    </EventString>
+    <EventString Key="MES06600">
+      <Title>Błąd CR</Title>
+      <Message>Odłączone zasilanie wentylatora chłodzącego </Message>
+    </EventString>
+    <EventString Key="MES06650">
+      <Title>Błąd CR</Title>
+      <Message>Błąd FPGA (błąd dostępu sterownika zdarzeń) </Message>
+    </EventString>
+    <EventString Key="MES06651">
+      <Title>Błąd CR</Title>
+      <Message>Błąd FPGA (błąd dostępu do MDU) </Message>
+    </EventString>
+    <EventString Key="MES06652">
+      <Title>Błąd CR</Title>
+      <Message>Błąd FPGA (błąd dostępu do LMC) </Message>
+    </EventString>
+    <EventString Key="MES06653">
+      <Title>Błąd CR</Title>
+      <Message>Błąd FPGA (błąd sterowania wej./wyj.) </Message>
+    </EventString>
+    <EventString Key="MES06654">
+      <Title>Błąd CR</Title>
+      <Message>Błąd FPGA (błąd otwarcia sterownika obrazu) </Message>
+    </EventString>
+    <EventString Key="MES06655">
+      <Title>Błąd CR</Title>
+      <Message>Błąd FPGA (błąd dostępu do PMU) </Message>
+    </EventString>
+    <EventString Key="MES06668">
+      <Title>Błąd CR</Title>
+      <Message>Błąd FPGA (błąd sterowania wej./wyj.) </Message>
+    </EventString>
+    <EventString Key="MES06683">
+      <Title>Błąd CR</Title>
+      <Message>Błąd FPGA (błąd sterowania wej./wyj.) </Message>
+    </EventString>
+    <EventString Key="MES06750">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik położenia otwierania i zamykania pulpitu odbierania </Message>
+    </EventString>
+    <EventString Key="MES06765">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik położenia otwierania i zamykania pulpitu odbierania </Message>
+    </EventString>
+    <EventString Key="MES06780">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik położenia otwierania i zamykania pulpitu odbierania </Message>
+    </EventString>
+    <EventString Key="MES06751">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik lokalizacji pulpitu odbioru HP </Message>
+    </EventString>
+    <EventString Key="MES06766">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik lokalizacji pulpitu odbioru HP </Message>
+    </EventString>
+    <EventString Key="MES06785">
+      <Title>Błąd CR</Title>
+      <Message>NG – czujnik lokalizacji pulpitu odbioru HP </Message>
+    </EventString>
+    <EventString Key="MES10000">
+      <Title>Błąd CR</Title>
+      <Message>Błąd pamięci </Message>
+    </EventString>
+    <EventString Key="MES11000">
+      <Title>Błąd CR</Title>
+      <Message>Błąd sprzętowy </Message>
+    </EventString>
+    <EventString Key="MES12000">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu odbierania wiadomości (wysokie napięcie WŁ.) </Message>
+    </EventString>
+    <EventString Key="MES12001">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu odbierania wiadomości (laser WŁ.) </Message>
+    </EventString>
+    <EventString Key="MES12002">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu odbierania wiadomości (Mech. gotowy) </Message>
+    </EventString>
+    <EventString Key="MES12003">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu odbierania wiadomości (Mech. w trybie gotowości) </Message>
+    </EventString>
+    <EventString Key="MES12010">
+      <Title>Błąd CR</Title>
+      <Message>Błąd komunikacji szeregowej (Mech. ponownego przesyłania przepełniony) </Message>
+    </EventString>
+    <EventString Key="MES12011">
+      <Title>Błąd CR</Title>
+      <Message>Błąd komunikacji szeregowej (Mech. błąd przepełnienia CRC) </Message>
+    </EventString>
+    <EventString Key="MES12012">
+      <Title>Błąd CR</Title>
+      <Message>Błąd komunikacji szeregowej (Mech. przekroczenie) </Message>
+    </EventString>
+    <EventString Key="MES12013">
+      <Title>Błąd CR</Title>
+      <Message>Błąd komunikacji szeregowej (Mech. przekroczenie czasu) </Message>
+    </EventString>
+    <EventString Key="MES12020">
+      <Title>Błąd CR</Title>
+      <Message>Błąd wiadomości (Mech. nieprawid. wiad.) </Message>
+    </EventString>
+    <EventString Key="MES12200">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu odbierania wiadomości (inic. sieci) </Message>
+    </EventString>
+    <EventString Key="MES12201">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu odbierania wiadomości (sieć gotowa) </Message>
+    </EventString>
+    <EventString Key="MES12202">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu odbierania wiadomości (cieniowanie) </Message>
+    </EventString>
+    <EventString Key="MES12203">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu odbierania wiadomości (sprawdzanie stanu) </Message>
+    </EventString>
+    <EventString Key="MES12204">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu odbierania wiadomości (szuk. kodów kreskowych) </Message>
+    </EventString>
+    <EventString Key="MES12205">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu odbierania wiadomości (polecenie siec.) </Message>
+    </EventString>
+    <EventString Key="MES12206">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu odbierania wiadomości (koniec czytnika) </Message>
+    </EventString>
+    <EventString Key="MES12207">
+      <Title>Błąd CR</Title>
+      <Message>Przekr czasu odbierania wiadomości (um. QRV) </Message>
+    </EventString>
+    <EventString Key="MES12208">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu odbierania wiadomości (konfig.) </Message>
+    </EventString>
+    <EventString Key="MES12209">
+      <Title>Błąd CR</Title>
+      <Message>Przekroczenie czasu odbierania wiadomości (informacj.) </Message>
+    </EventString>
+    <EventString Key="MES12210">
+      <Title>Błąd CR</Title>
+      <Message>Błąd komunikacji szeregowej (przepełnienie odsyłania siec.) </Message>
+    </EventString>
+    <EventString Key="MES12211">
+      <Title>Błąd CR</Title>
+      <Message>Błąd komunikacji szeregowej (przepełnienie błędu CRC siec.) </Message>
+    </EventString>
+    <EventString Key="MES12212">
+      <Title>Błąd CR</Title>
+      <Message>Błąd komunikacji szeregowej (przekroczenie siec.) </Message>
+    </EventString>
+    <EventString Key="MES12213">
+      <Title>Błąd CR</Title>
+      <Message>Błąd komunikacji szeregowej (przekroczenie czasu siec.) </Message>
+    </EventString>
+    <EventString Key="MES12220">
+      <Title>Błąd CR</Title>
+      <Message>Błąd wiadomości (nieprawid. wiad. siec.) </Message>
+    </EventString>
+    <EventString Key="MES13000">
+      <Title>Błąd CR</Title>
+      <Message>Błąd jednostki optycznej (H_Sync) </Message>
+    </EventString>
+    <EventString Key="MES13001">
+      <Title>Błąd CR</Title>
+      <Message>Błąd jednostki optycznej (ID wielokąta) </Message>
+    </EventString>
+    <EventString Key="MES13003">
+      <Title>Błąd CR</Title>
+      <Message>Błąd jednostki optycznej (stabilność wielokąta) </Message>
+    </EventString>
+    <EventString Key="MES13005">
+      <Title>Błąd CR</Title>
+      <Message>Błąd jednostki optycznej (intensywność lasera) </Message>
+    </EventString>
+    <EventString Key="MES13030">
+      <Title>Błąd CR</Title>
+      <Message>Błąd kontroli SCB (przesyłanie DMA) </Message>
+    </EventString>
+    <EventString Key="MES13031">
+      <Title>Błąd CR</Title>
+      <Message>Błąd kontroli SCB (komunikacja SCOM) </Message>
+    </EventString>
+    <EventString Key="MES14000">
+      <Title>Błąd CR</Title>
+      <Message>Błąd przetwarzania sygnału (przepełnienie pobierania) </Message>
+    </EventString>
+    <EventString Key="MES14001">
+      <Title>Błąd CR</Title>
+      <Message>Błąd przetwarzania sygnału (niedomiar pobierania) </Message>
+    </EventString>
+    <EventString Key="MES14002">
+      <Title>Błąd CR</Title>
+      <Message>Błąd przetwarzania sygnału (przepełnienie przesunięcia) </Message>
+    </EventString>
+    <EventString Key="MES14003">
+      <Title>Błąd CR</Title>
+      <Message>Błąd przetwarzania sygnału (niedomiar przesunięcia) </Message>
+    </EventString>
+    <EventString Key="MES14010">
+      <Title>Błąd CR</Title>
+      <Message>Błąd przetwarzania sygnału (przepełnienie QRV) </Message>
+    </EventString>
+    <EventString Key="MES14011">
+      <Title>Błąd CR</Title>
+      <Message>Błąd przetwarzania sygnału (niedomiar QRV) </Message>
+    </EventString>
+    <EventString Key="MES14012">
+      <Title>Błąd CR</Title>
+      <Message>Błąd przetwarzania sygnału (brak konwergencji QRV) </Message>
+    </EventString>
+    <EventString Key="MES14013">
+      <Title>Błąd CR</Title>
+      <Message>Błąd przetwarzania sygnału (brak danych cieniowania) </Message>
+    </EventString>
+    <EventString Key="MES14014">
+      <Title>Błąd CR</Title>
+      <Message>Błąd przetwarzania sygnału (brak danych QRV) </Message>
+    </EventString>
+    <EventString Key="MES15000">
+      <Title>Błąd CR</Title>
+      <Message>Błąd przetwarzania sygnału (błąd inicjacji) </Message>
+    </EventString>
+    <EventString Key="MES22101">
+      <Title>Błąd CR</Title>
+      <Message>Błąd komunikacji szeregowej (przekroczenie licznika N1) </Message>
+    </EventString>
+    <EventString Key="MES22103">
+      <Title>Błąd CR</Title>
+      <Message>Błąd komunikacji szeregowej (przekroczenie licznika N3) </Message>
+    </EventString>
+    <EventString Key="MES22104">
+      <Title>Błąd CR</Title>
+      <Message>Błąd komunikacji szeregowej (przekroczenie licznika N4) </Message>
+    </EventString>
+    <EventString Key="MES23000">
+      <Title>Błąd CR</Title>
+      <Message>Błąd programu (główne sterowanie) </Message>
+    </EventString>
+    <EventString Key="MES23100">
+      <Title>Błąd CR</Title>
+      <Message>Błąd programu (sterowanie sekwencjami) </Message>
+    </EventString>
+    <EventString Key="MES23200">
+      <Title>Błąd CR</Title>
+      <Message>Błąd programu (rozmiar pliku danych) </Message>
+    </EventString>
+    <EventString Key="MES23900">
+      <Title>Błąd CR</Title>
+      <Message>Błąd programu (aktualizacja oprogramowania układowego) </Message>
+    </EventString>
+    <EventString Key="MES24000">
+      <Title>Błąd CR</Title>
+      <Message>Błąd sieci (połączenie JM) </Message>
+    </EventString>
+    <EventString Key="MES24500">
+      <Title>Błąd CR</Title>
+      <Message>Błąd sieci (konfiguracja JM) </Message>
+    </EventString>
+    <EventString Key="MES25000">
+      <Title>Błąd CR</Title>
+      <Message>Błąd sieci (bez przekroczenia czasu) </Message>
+    </EventString>
+    <EventString Key="MES25100">
+      <Title>Błąd CR</Title>
+      <Message>Błąd sieci (przekroczenie czasu:w komunikacji ogólnej) </Message>
+    </EventString>
+    <EventString Key="MES25110">
+      <Title>Błąd CR</Title>
+      <Message>Błąd sieci (odrzucenie:w komunikacji ogólnej) </Message>
+    </EventString>
+    <EventString Key="MES25200">
+      <Title>Błąd CR</Title>
+      <Message>Błąd sieci (przekroczenie czasu:w transmisji obrazu) </Message>
+    </EventString>
+    <EventString Key="MES25210">
+      <Title>Błąd CR</Title>
+      <Message>Błąd sieci (przekroczenie czasu:po skanowaniu obrazu) </Message>
+    </EventString>
+    <EventString Key="MES25300">
+      <Title>Błąd CR</Title>
+      <Message>Błąd sieci (przekroczenie czasu/odrzucenie:w transmisji obrazu) </Message>
+    </EventString>
+    <EventString Key="MES25500">
+      <Title>Błąd CR</Title>
+      <Message>Błąd (miejsce docelowe:nie znaleziono) </Message>
+    </EventString>
+    <EventString Key="MES26000">
+      <Title>Błąd CR</Title>
+      <Message>Błąd operacji (nieprawidłowe zadanie) </Message>
+    </EventString>
+    <EventString Key="MES26010">
+      <Title>Błąd CR</Title>
+      <Message>Błąd operacji (nieprawidłowy parametr zadania) </Message>
+    </EventString>
+    <EventString Key="MES26100">
+      <Title>Błąd CR</Title>
+      <Message>Błąd operacji (zadanie bez trybu) </Message>
+    </EventString>
+    <EventString Key="MES26200">
+      <Title>Błąd CR</Title>
+      <Message>Błąd operacji (nieprawidłowa konsola) </Message>
+    </EventString>
+    <EventString Key="MES26300">
+      <Title>Błąd CR</Title>
+      <Message>Błąd operacji (czytnik zajęty) </Message>
+    </EventString>
+    <EventString Key="MES26900">
+      <Title>Błąd CR</Title>
+      <Message>Błąd operacji (brak zasilania przy wykonywaniu zadania) </Message>
+    </EventString>
+    <EventString Key="MES26999">
+      <Title>Błąd CR</Title>
+      <Message>Błąd operacji (nieobsługiwane polecenie) </Message>
+    </EventString>
+    <EventString Key="MES1">
+      <Title>Błąd CR</Title>
+      <Message>Wykryto otwarte drzwi przednie </Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

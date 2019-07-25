@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="OrderListDomain0001">
+      <Title>خطأ</Title>
+      <Message>خطأ تحديث قاعدة البيانات.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0002">
+      <Title>تحذير</Title>
+      <Message>قيمة غير صالحة، الإجراء غير ممكن.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0003">
+      <Title>تحذير</Title>
+      <Message>الإدخال إجباري.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0004">
+      <Title>خطأ</Title>
+      <Message>الإجراء غير ممكن.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0005">
+      <Title>خطأ تحديث المريض</Title>
+      <Message>خطأ تحديث المريض.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0006">
+      <Title>معلومات</Title>
+      <Message>تم تحديث بيانات قاعدة البيانات، وسيتم عرض الدراسة المحدّثة.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0007">
+      <Title>خطأ</Title>
+      <Message>تم حذف الدراسة من قاعدة البيانات، لا يمكن إجراء العملية.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0008">
+      <Title>تأكيد</Title>
+      <Message>نفس مُعرف المريض: {0}،اسم المريض: {1}،النوع: {2}،DOB:{3} متوفر في قاعدة البيانات، هل تريد استخدام بيانات قاعدة البيانات؟</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0009">
+      <Title>تأكيد</Title>
+      <Message>الدراسة قيد التنفيذ، هل ترغب في الإجراء؟</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0010">
+      <Title>تحذير</Title>
+      <Message>تم إجراء الدراسة بالفعل في وحدة تحكم أخرى.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

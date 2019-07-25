@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ConsoleSystemDomain0001">
+      <Title />
+      <Message>Низкий заряд аккумуляторной батареи. Зарядите батарею.</Message>
+    </EventString>
+    <EventString Key="ConsoleSystemDomain0003">
+      <Title />
+      <Message>Невозможно получить изображение из-за низкого заряда батареи. Зарядите батарею.</Message>
+    </EventString>
+    <EventString Key="ConsoleSystemDomain0005">
+      <Title>Регистрация выполнена</Title>
+      <Message>Зарегистрирован следующий AeroDR.
+Имя AeroDR: {DeviceName}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="XRayDeviceDataAccessorDrRm7102">
+      <Title>ข้อผิดพลาดของจำนวนข้อกำหนดการลงทะเบียน</Title>
+      <Message>ลงทะเบียนไว้สี่ข้อ</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7103">
+      <Title>AeroDR Detector ที่ไม่รู้จัก</Title>
+      <Message>AeroDR Detector ที่ไม่รู้จัก</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7104">
+      <Title>อุปกรณ์ฉายแสงที่ไม่รู้จัก</Title>
+      <Message>อุปกรณ์ฉายแสงที่ไม่รู้จัก</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7105">
+      <Title>ข้อผิดพลาด RM</Title>
+      <Message>ข้อผิดพลาดของตารางการจัดการ RM ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7106">
+      <Title>ข้อผิดพลาดในการอัพเวอร์ชัน</Title>
+      <Message>การอัพเวอร์ชันไม่ตรงกัน ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7107">
+      <Title>ข้อผิดพลาด RM</Title>
+      <Message>ข้อผิดพลาดของตารางการจัดการ RM ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7108">
+      <Title>ข้อผิดพลาด RM</Title>
+      <Message>ข้อผิดพลาดของตารางการจัดการ RM ติดต่อตัวแทนผู้ให้บริการ</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7109">
+      <Title>ข้อผิดพลาด RM</Title>
+      <Message>ข้อผิดพลาดของตารางการจัดการ RM ตรวจสอบการเชื่อมต่อเครือข่าย</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7110">
+      <Title>ข้อผิดพลาด RM</Title>
+      <Message>ข้อผิดพลาดของตารางการจัดการ RM ตรวจสอบการเชื่อมต่อเครือข่าย</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7111">
+      <Title>ข้อผิดพลาดในการยกเลิกการลงทะเบียน</Title>
+      <Message>ข้อผิดพลาดเกิดขึ้นเมื่อยกเลิกการลงทะเบียนของแผง AeroDR</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7112">
+      <Title>ข้อผิดพลาดในสลับการห้องรังสีวิทยา</Title>
+      <Message>ข้อผิดพลาดเกิดขึ้นระหว่างการสลับห้องรังสีวิทยา</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7113">
+      <Title>ข้อผิดพลาดในการสื่อสารประมวลผลย้อนกลับ</Title>
+      <Message>ไม่สามารถสื่อสาร</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7114">
+      <Title>ข้อผิดพลาดการตั้งค่าการเปิดใช้การตั้งค่าคอนฟิก</Title>
+      <Message>ข้อผิดพลาดเกิดขึ้นพร้อมการเปิดใช้งานการตั้งค่าคอนฟิกของแผง AeroDR</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7115">
+      <Title>อัพเดต RM</Title>
+      <Message>ตารางการจัดการ RM ถูกอัพเดต รีสตาร์ทอุปกรณ์</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7116">
+      <Title>ข้อผิดพลาดของสิทธิใช้งาน</Title>
+      <Message>ไม่มีสิทธิใช้งานของแผงที่คุณพยายามลงทะเบียนอยู่ หรือจำนวนสิทธิใช้งานไม่เพียงพอ ขอรับสิทธิใช้งานหรือลงทะเบียนแผงตามจำนวนสิทธิใช้งานที่ได้รับ</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7117">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>เกิดข้อผิดพลาดในการถ่ายโอนการตั้งค่า RM
+โปรดตรวจสอบการเชื่อมต่อเครือข่ายและลองอีกครั้ง</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7118">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ข้อผิดพลาดการตั้งค่าคอนฟิกในการตั้งค่า CS-7
+โปรดยืนยันการตั้งค่าและลองอีกครั้ง</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

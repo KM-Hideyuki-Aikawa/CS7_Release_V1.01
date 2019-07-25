@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="LoginWindowDomain0000">
+      <Title />
+      <Message>ユーザ："{USERNAME}"がログインしています。ログインするためには、ユーザ："{USERNAME}"をログオフする必要があります。ユーザ："{USERNAME}"をログオフしますか？</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0001">
+      <Title />
+      <Message>ユーザ："ユーザ名もしくはパスワードが違います。</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0002">
+      <Title>エラー</Title>
+      <Message>ログインを中止しました。</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0003">
+      <Title>エラー</Title>
+      <Message>システムは現在ユーザの切り替えが行えません。{ERRORS}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

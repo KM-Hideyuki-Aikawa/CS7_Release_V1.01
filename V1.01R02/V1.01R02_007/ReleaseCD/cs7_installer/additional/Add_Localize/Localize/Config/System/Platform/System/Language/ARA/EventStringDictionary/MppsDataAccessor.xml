@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35520">
+      <Title>خطأ تهيئة</Title>
+      <Message>فشلت التهيئة.</Message>
+    </EventString>
+    <EventString Key="35521">
+      <Title>خطأ قراءة الإعداد</Title>
+      <Message>حدث خطأ في قراءة ملف الإعداد.</Message>
+    </EventString>
+    <EventString Key="35522">
+      <Title>خطأ انقضاء المهلة</Title>
+      <Message>حدث انقضاء مهلة.</Message>
+    </EventString>
+    <EventString Key="">
+      <Title />
+      <Message>[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37350">
+      <Title>خطأ داخلي</Title>
+      <Message>حدث خطأ داخلي في اتصال أجهزة التصوير و الاتصالات الرقمية الطبية (DICOM). اتصل بمندوب الخدمة.</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>خطأ داخلي</Title>
+      <Message>حدث خطأ داخلي في اتصال أجهزة التصوير و الاتصالات الرقمية الطبية (DICOM). اتصل بمندوب الخدمة.</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>خطأ داخلي</Title>
+      <Message>فشل الحصول على إعداد اتصال أجهزة التصوير و الاتصالات الرقمية الطبية (DICOM). الرجاء تأكيد إعداد الاتصال.</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>خطأ اتصال</Title>
+      <Message>فشل في الاتصال. الرجاء التأكد من إعداد الاتصال ومن عمل الخادم.</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>خطأ اتصال</Title>
+      <Message>فشل في A-ASSOCIATE. الرجاء التأكد من إعداد الاتصال ومن عمل الخادم.</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>خطأ اتصال</Title>
+      <Message>تم الرفض من الخادم في A-ASSOCIATE بسبب إعداد غير صالح. الرجاء تأكيد إعداد الاتصال.</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>خطأ اتصال</Title>
+      <Message>حدث خطأ داخلي في اتصال أجهزة التصوير و الاتصالات الرقمية الطبية (DICOM). اتصل بمندوب الخدمة.</Message>
+    </EventString>
+    <EventString Key="37357">
+      <Title>خطأ اتصال</Title>
+      <Message>فشل في اتصال الإصدار. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>خطأ اتصال</Title>
+      <Message>تم تلقي A-ABORT. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37600">
+      <Title>خطأ داخلي</Title>
+      <Message>حدث خطأ داخلي في اتصال RIS-OUT. اتصل بمندوب الخدمة.</Message>
+    </EventString>
+    <EventString Key="37601">
+      <Title>خطأ داخلي</Title>
+      <Message>حدث خطأ داخلي في اتصال RIS-OUT. اتصل بمندوب الخدمة.</Message>
+    </EventString>
+    <EventString Key="37602">
+      <Title>خطأ داخلي</Title>
+      <Message>حدث خطأ داخلي في اتصال RIS-OUT. اتصل بمندوب الخدمة.</Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>خطأ داخلي</Title>
+      <Message>تم تلقي إعلام الانتهاء. [{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37699">
+      <Title>خطأ داخلي</Title>
+      <Message>حدث خطأ غير محدد. [{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37603">
+      <Title>خطأ داخلي</Title>
+      <Message>حدث خطأ داخلي في اتصال RIS-OUT. اتصل بمندوب الخدمة.</Message>
+    </EventString>
+    <EventString Key="37604">
+      <Title>خطأ داخلي</Title>
+      <Message>حدث خطأ داخلي في اتصال RIS-OUT. اتصل بمندوب الخدمة.</Message>
+    </EventString>
+    <EventString Key="37605">
+      <Title>خطأ داخلي</Title>
+      <Message>حدث خطأ داخلي في اتصال RIS-OUT. اتصل بمندوب الخدمة.</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="27730">
+      <Title>خطأ اتصال</Title>
+      <Message>حدث خطأ اتصال في اتصال RIS-OUT. تحقق من وجهة الاتصال.</Message>
+    </EventString>
+    <EventString Key="27731">
+      <Title>خطأ اتصال</Title>
+      <Message>حدث خطأ اتصال في اتصال RIS-OUT. تحقق من وجهة الاتصال.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

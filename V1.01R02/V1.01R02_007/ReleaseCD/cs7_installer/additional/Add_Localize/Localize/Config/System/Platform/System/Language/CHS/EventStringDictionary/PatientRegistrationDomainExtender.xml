@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientRegistrationDomainExtender0001">
+      <Title>错误</Title>
+      <Message>输入的年度无效。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0002">
+      <Title>错误</Title>
+      <Message>输入的月份无效。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0003">
+      <Title>错误</Title>
+      <Message>输入的日期无效。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0004">
+      <Title>错误</Title>
+      <Message>输入值无效。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0005">
+      <Title>错误</Title>
+      <Message>未达到字符的最大数。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0006">
+      <Title>错误</Title>
+      <Message>未达到字符的最小数。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0007">
+      <Title>错误</Title>
+      <Message>输入数值。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0008">
+      <Title>错误</Title>
+      <Message>输入值无效</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0009">
+      <Title>错误</Title>
+      <Message>请输入字母数字字符。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0010">
+      <Title>错误</Title>
+      <Message>只许使用日文假名。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0011">
+      <Title>错误</Title>
+      <Message>无效值。此处不能使用“\”。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0012">
+      <Title>错误</Title>
+      <Message>输入的年度无效。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0013">
+      <Title>错误</Title>
+      <Message>输入的年度无效。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0014">
+      <Title>错误</Title>
+      <Message>输入的年度无效。输入值为 1800 或以上。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0015">
+      <Title>错误</Title>
+      <Message>日期范围错误，请检查。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0016">
+      <Title>错误</Title>
+      <Message>输入的小时无效。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0017">
+      <Title>错误</Title>
+      <Message>输入的分钟无效。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0018">
+      <Title>错误</Title>
+      <Message>输入的秒钟无效。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0019">
+      <Title>错误</Title>
+      <Message>请输入整数。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0020">
+      <Title>错误</Title>
+      <Message>出现搜索错误</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0021">
+      <Title>警告</Title>
+      <Message>更改患者信息可能会造成 PACS 检查匹配错误，请立即在 PACS 上确认所有更改的数据。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0022">
+      <Title>确认</Title>
+      <Message>患者 ID 必填，请输入患者 ID。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0023">
+      <Title>确认</Title>
+      <Message>检查 ID 必填，请输入检查 ID。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0024">
+      <Title>确认</Title>
+      <Message>患者姓名必填，请输入患者姓名。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0025">
+      <Title>确认</Title>
+      <Message>患者姓名必填，请输入患者姓名。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0026">
+      <Title>确认</Title>
+      <Message>患者姓名必填，请输入患者姓名。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0027">
+      <Title>确认</Title>
+      <Message>性别必填，请输入性别。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0028">
+      <Title>确认</Title>
+      <Message>出生日期必填，请输入出生日期。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0029">
+      <Title>错误</Title>
+      <Message>无法读取磁卡，重新启动系统。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0030">
+      <Title>错误</Title>
+      <Message>必填字段未输入，无法执行。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0031">
+      <Title>确认</Title>
+      <Message>一个曝光图像正在检查，要编辑检查信息吗？</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0032">
+      <Title>确认</Title>
+      <Message>关闭正在运行的医生调阅可以吗？</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0033">
+      <Title>确认</Title>
+      <Message>要重新启动医生调阅吗？ </Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0034">
+      <Title>确认</Title>
+      <Message>检查将返回暂停状态，可以吗？</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0035">
+      <Title>错误</Title>
+      <Message>没有相应患者的检查信息。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0036">
+      <Title>确认</Title>
+      <Message>检查信息已经在数据库中，要使用该检查信息吗？</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0037">
+      <Title>确认</Title>
+      <Message>患者信息已经在数据库中，要使用该患者信息吗？</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0038">
+      <Title>错误</Title>
+      <Message>不能选择多个患者。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0039">
+      <Title>错误</Title>
+      <Message>数据库错误——创建预约失败。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0040">
+      <Title>错误</Title>
+      <Message>错误更新患者数据库。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0041">
+      <Title>错误</Title>
+      <Message>数据库中没有相应的患者</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0042">
+      <Title>错误</Title>
+      <Message>不得使用该字符</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0046">
+      <Title>错误</Title>
+      <Message>将来的年度不行。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0047">
+      <Title>错误</Title>
+      <Message>将来的月份不行。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0048">
+      <Title>错误</Title>
+      <Message>将来的日期不行。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0049">
+      <Title>错误</Title>
+      <Message>输入的年度不是闰年，请检查日期。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0052">
+      <Title>确认</Title>
+      <Message>登记了预约，要改写吗？</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0053">
+      <Title>确认</Title>
+      <Message>数据库中有相同患者 ID：{0}、患者姓名：{1}、性别：{2}、出生日期：{3}，要改写吗？</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0054">
+      <Title>错误</Title>
+      <Message>无效值。此处不能使用“\”、“^”或“=”。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0055">
+      <Title>错误</Title>
+      <Message>无效值。此处不能使用“\”或“=”。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0056">
+      <Title>错误</Title>
+      <Message>不能执行操作</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0057">
+      <Title>确认</Title>
+      <Message>要全部清除吗？</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0058">
+      <Title>错误</Title>
+      <Message>请输入必填字段</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0059">
+      <Title>确认</Title>
+      <Message>要登记检查吗？</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0060">
+      <Title>错误</Title>
+      <Message>登记失败</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0061">
+      <Title>确认</Title>
+      <Message>要改写数据吗？</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0062">
+      <Title>错误</Title>
+      <Message>没有相应患者的检查。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0063">
+      <Title>错误</Title>
+      <Message>请输入搜索内容。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0064">
+      <Title>错误</Title>
+      <Message>请输入内容日期和内容时间字段的值</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

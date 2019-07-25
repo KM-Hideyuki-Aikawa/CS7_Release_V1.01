@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PrinterDomainExtender0001">
+      <Title>Ping-tila</Title>
+      <Message>Yhteyden muodostus onnistui.</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0002">
+      <Title>Ping-tila</Title>
+      <Message>Yhteyden muodostus epäonnistui.</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0003">
+      <Title />
+      <Message>Mitä palvelua varten Ping(C-ECHO) täytyy suorittaa?</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0004">
+      <Title>Vahvistus</Title>
+      <Message>Sopiiko, että valittu jono poistetaan?</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0005">
+      <Title>Huomio</Title>
+      <Message>Valitse poistettavat jonot.</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0006">
+      <Title>Informaatio</Title>
+      <Message>Valittujen jonojen poisto onnistui.</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0007">
+      <Title>Virhe</Title>
+      <Message>Virhe poistettaessa jonoa.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="XRayDeviceDomainExtender0001">
+      <Title>Ping 状态</Title>
+      <Message>连接成功。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDomainExtender0002">
+      <Title>Ping 状态</Title>
+      <Message>连接失败。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

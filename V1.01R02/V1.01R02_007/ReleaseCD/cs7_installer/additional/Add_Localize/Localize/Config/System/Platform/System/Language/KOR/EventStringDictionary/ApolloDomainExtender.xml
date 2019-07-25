@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ApolloDomainExtender0001">
+      <Title>핑 상태</Title>
+      <Message>성공적으로 연결되었습니다.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0002">
+      <Title>핑 상태</Title>
+      <Message>연결하지 못했습니다.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0003">
+      <Title>확인</Title>
+      <Message>등록을 취소하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0004">
+      <Title>오류</Title>
+      <Message>장치 취소에 실패했습니다.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0005">
+      <Title>오류</Title>
+      <Message>장치를 선택하지 않은 관계로 요청이 처리되지 않습니다.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0006">
+      <Title>정보</Title>
+      <Message>무선</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0007">
+      <Title>정보</Title>
+      <Message>유선</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

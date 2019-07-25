@@ -1,0 +1,408 @@
+﻿<?xml version="1.0"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>RISOUTChannel1</Key>
+      <Value>RIS-OUT Channel 1</Value>
+      <Comment>RIS-OUT Channel 1</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+<LocalizeInfo>
+      <Key>DeviceSettings</Key>
+      <Value>Device Settings</Value>
+      <Comment>Device Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+<LocalizeInfo>
+      <Key>PresetSelection</Key>
+      <Value>Preset Selection</Value>
+      <Comment>Preset Selection</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+<LocalizeInfo>
+      <Key>PresetSelectionMsg</Key>
+      <Value>Select the target product in case connecting with an in house product</Value>
+      <Comment>Select the target product in case connecting with an in house product</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MakerName</Key>
+      <Value>Maker Name</Value>
+      <Comment>Maker Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MakerNameMsg</Key>
+      <Value>Input the maker name of connected RIS</Value>
+      <Comment>Input the maker name of connected RIS</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ModelName</Key>
+      <Value>Model Name</Value>
+      <Comment>Model Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ModelNameMsg</Key>
+      <Value>Input the model name of connected RIS</Value>
+      <Comment>Input the model name of connected RIS</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Name</Key>
+      <Value>Name</Value>
+      <Comment>Name</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+     <LocalizeInfo>
+      <Key>NameMsg</Key>
+      <Value>Input the name that will be displayed on the system monitor etc</Value>
+      <Comment>Input the name that will be displayed on the system monitor etc</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CommandSettings</Key>
+      <Value>Command Settings</Value>
+      <Comment>Command Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ServiceClassConnectionMethod</Key>
+      <Value>Service Class Connection Method</Value>
+      <Comment>Service Class Connection Method</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+
+
+ <LocalizeInfo>
+      <Key>TCPIP</Key>
+      <Value>TCP/IP</Value>
+      <Comment>TCP/IP</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+<LocalizeInfo>
+      <Key>IPAddress</Key>
+      <Value>IP Address</Value>
+      <Comment>IP Address</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+<LocalizeInfo>
+      <Key>PortNumber</Key>
+      <Value>Port Number</Value>
+      <Comment>Port Number</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+<LocalizeInfo>
+      <Key>Interval</Key>
+      <Value>Interval(sec)</Value>
+      <Comment>Interval(sec)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SSLCommunicationSettings</Key>
+      <Value>SSL Communication Settings</Value>
+      <Comment>SSL Communication Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Enable</Key>
+      <Value>Enable</Value>
+      <Comment>Enable</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>EnableMsg</Key>
+      <Value>Whether to perform SSL encryption communication will be specified</Value>
+      <Comment>Whether to perform SSL encryption communication will be specified</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImportCertificate</Key>
+      <Value>Import Certificate</Value>
+      <Comment>Import Certificate</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImportPrivateKeyFile</Key>
+      <Value>Import Private Key File</Value>
+      <Comment>Import Private Key File</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+     <LocalizeInfo>
+      <Key>Browse</Key>
+      <Value>Browse...</Value>
+      <Comment>Browse...</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DICOMCommunicationSettings</Key>
+      <Value>DICOM Communication Settings</Value>
+      <Comment>DICOM Communication Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransferSyntax</Key>
+      <Value>Transfer Syntax</Value>
+      <Comment>Transfer Syntax</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+
+
+ <LocalizeInfo>
+      <Key>AETitleRIS</Key>
+      <Value>AE Title (RIS)</Value>
+      <Comment>AE Title (RIS)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+<LocalizeInfo>
+      <Key>AETitleREGIUS</Key>
+      <Value>AE Title (REGIUS)</Value>
+      <Comment>AE Title (REGIUS)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+<LocalizeInfo>
+      <Key>CharacterSet</Key>
+      <Value>Character Set</Value>
+      <Comment>Character Set</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+<LocalizeInfo>
+      <Key>SendPrivateData</Key>
+      <Value>Send Private Data</Value>
+      <Comment>Send Private Data</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MPPSSetting</Key>
+      <Value>MPPS Setting</Value>
+      <Comment>MPPS Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransmissionTiming</Key>
+      <Value>Transmission Timing</Value>
+      <Comment>Transmission Timing</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransmissionUnit</Key>
+      <Value>Transmission Unit</Value>
+      <Comment>Transmission Unit</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransmissionofExecution</Key>
+      <Value>Transmission of Execution</Value>
+      <Comment>Transmission of Execution</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SendCancelwhenHolding</Key>
+      <Value>Send Cancel when Holding</Value>
+      <Comment>Send Cancel when Holding</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+     <LocalizeInfo>
+      <Key>SendStudyDeletionfromLlist</Key>
+      <Value>Send Study Deletion from Llist</Value>
+      <Comment>Send Study Deletion from Llist</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SendDosageSQ</Key>
+      <Value>Send Dosage SQ</Value>
+      <Comment>Send Dosage SQ</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SendfilmconsumptionSQ</Key>
+      <Value>Send film consumption SQ</Value>
+      <Comment>Send film consumption SQ</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+
+
+ <LocalizeInfo>
+      <Key>SendSOPinstanceUID</Key>
+      <Value>Send SOP instance UID</Value>
+      <Comment>Send SOP instance UID</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+<LocalizeInfo>
+      <Key>SendimpactSOP</Key>
+      <Value>Send impact SOP</Value>
+      <Comment>Send impact SOP</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+<LocalizeInfo>
+      <Key>DetachedSetting</Key>
+      <Value>Detached Setting</Value>
+      <Comment>Detached Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+<LocalizeInfo>
+      <Key>RegistrationinPatientDB</Key>
+      <Value>Registration in Patient DB</Value>
+      <Comment>Registration in Patient DB</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RegistrationinPatientDBMsg</Key>
+      <Value>Select whether to register or not the corrected patient information in the patient DB of RIS</Value>
+      <Comment>Select whether to register or not the corrected patient information in the patient DB of RIS</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SendEndCommand</Key>
+      <Value>Send End Command</Value>
+      <Comment>Send End Command</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SendEndCommandMsg</Key>
+      <Value>Specify whether to send the study end notification or not</Value>
+      <Comment>Specify whether to send the study end notification or not</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RISOUTChannel2</Key>
+      <Value>RIS-OUT Channel 2</Value>
+      <Comment>RIS-OUT Channel 2</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    
+  </LocalizeList>
+</LocalizeDictionary>

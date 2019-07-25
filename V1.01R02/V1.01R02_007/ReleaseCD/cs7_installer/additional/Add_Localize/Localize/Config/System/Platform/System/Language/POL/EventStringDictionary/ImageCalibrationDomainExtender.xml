@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title>Uwaga</Title>
+      <Message>Wprowadź wartość numeryczną.</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title>Uwaga</Title>
+      <Message>Wprowadź poprawne dane</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title>Błąd</Title>
+      <Message>Błąd początku pobierania kalibracji</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title>Błąd</Title>
+      <Message>Błąd początku przesunięcia kalibracji</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title>Potwierdzenie</Title>
+      <Message>Czy chcesz przerwać proces uzyskiwania kalibracji?</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title>Potwierdzenie</Title>
+      <Message>Czy chcesz przerwać proces uzyskiwania kalibracji?</Message>
+    </EventString>
+    <EventString Key="0107">
+      <Title>Potwierdzenie</Title>
+      <Message>Czy chcesz przerwać proces uzyskiwania kalibracji?</Message>
+    </EventString>
+    <EventString Key="0108">
+      <Title>Potwierdzenie</Title>
+      <Message>Uzyskiwanie kalibracji zakończone pomyślnie</Message>
+    </EventString>
+    <EventString Key="0109">
+      <Title>Potwierdzenie</Title>
+      <Message>Przesunięcie kalibracji zakończone pomyślnie</Message>
+    </EventString>
+    <EventString Key="0110">
+      <Title>Błąd</Title>
+      <Message>Uzyskiwanie kalibracji nie powiodło się</Message>
+    </EventString>
+    <EventString Key="0111">
+      <Title>Błąd</Title>
+      <Message>Przesunięcie kalibracji nie powiodło się</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

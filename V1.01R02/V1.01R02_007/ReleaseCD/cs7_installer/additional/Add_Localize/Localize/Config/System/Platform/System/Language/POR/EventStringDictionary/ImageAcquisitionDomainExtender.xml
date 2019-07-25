@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ImageAcquisitionDomainExtender0000">
+      <Title>Confirmação</Title>
+      <Message>Tem a certeza que pretende descartar a imagem?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0001">
+      <Title>Confirmação</Title>
+      <Message>Expor novamente?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender1001">
+      <Title>Atenção</Title>
+      <Message>Não é possível adicionar exposições além de {MaxSize} .</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0002">
+      <Title>Confirmação</Title>
+      <Message>Tem a certeza que pretende cancelar descartar?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0003">
+      <Title>Confirmação</Title>
+      <Message>As imagens não foram capturadas.
+Tem a certeza que pretende concluir o estudo?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0004">
+      <Title>Confirmação</Title>
+      <Message>Deseja continuar o estudo numa sala de exame diferente?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0005">
+      <Title>Confirmação</Title>
+      <Message>Um código de barras de cassete está registado com EtiquetaExame. 
+Tem a certeza que pretende apagar o registo do código de barras?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0006">
+      <Title>Erro</Title>
+      <Message>Ocorreu um erro durante a leitura da imagem.
+Verifique a rede.
+Reinicie o leitor.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0007">
+      <Title>erro</Title>
+      <Message>ID do paciente: {PATIENTID}
+Nome do paciente: {PATIENTNAME}
+Nome do leitor: {READERNAME}
+Receção de imagem não está concluida.
+Verifique a rede.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0008">
+      <Title>Aviso</Title>
+      <Message>Nome do leitor: {READERNAME}
+Tem a certeza que pretende cancelar a receção da imagem?
+ Por favor reinicie o leitor no caso de receção cancelada.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0009">
+      <Title>Erro</Title>
+      <Message>A ler a imagem. Por favor efetue o login após um momento.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0010">
+      <Title>Erro</Title>
+      <Message>Falha ao concluir estudo.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0011">
+      <Title>Erro</Title>
+      <Message>Falha ao suspender estudo.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0012">
+      <Title>Erro</Title>
+      <Message>Esta cassete é para exposição geral.
+Verifique a Etiqueta Exame.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0013">
+      <Title>Erro</Title>
+      <Message>Esta cassete é para mamografia de contacto.
+Verifique a Etiqueta Exame.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0014">
+      <Title>Erro</Title>
+      <Message>Esta cassete é para PCM.
+Verifique a Etiqueta Exame.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0015">
+      <Title>Erro</Title>
+      <Message>Esta cassete já está registada.
+Registe uma cassete diferente.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0016">
+      <Title>Atenção</Title>
+      <Message>Já foi iniciada a leitura desta cassete.
+Não é possível apagar o registo do código de barras.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0017">
+      <Title>Atenção</Title>
+      <Message>Já foi iniciada a leitura desta cassete.
+Não é possível apagar trabalhos registados com modo de registo manual.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0018">
+      <Title>Atenção</Title>
+      <Message>Já foi iniciada a leitura desta cassete.
+Não é possível apagar trabalhos registados com modo de registo automático.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0019">
+      <Title>Confirmação</Title>
+      <Message>Tem a certeza que pretende suspender este estudo?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0020">
+      <Title>Confirmação</Title>
+      <Message>Não existem imagens capturadas. Tem a certeza que pretende alterar o estado para não iniciado?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0021">
+      <Title>Confirmação</Title>
+      <Message>Tem a certeza que pretende apagar o registo do código de barras?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0022">
+      <Title>Retransferência da imagem</Title>
+      <Message>Concorda em apagar a(s) imagem(s) não transferidas na consola? [OK]: Apagar [Cancelar]: Voltar sem apagar</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0023">
+      <Title>Retransferência da imagem</Title>
+      <Message>{READERNAME}: Algumas imagens ainda não foram transferidas. Pretende apaga-las?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0024">
+      <Title>Erro de transferência de imagem.</Title>
+      <Message>{READERNAME}: Ocorreu um erro de comunicação durante a transferência de imagem. Verifique o estado da ligação do cabo de comunicação.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0025">
+      <Title>Retransferência da imagem</Title>
+      <Message>{READERNAME}: "{ImageAcquisitionConditionName}" ainda não foram transferidas. Pretende recuperar a imagem?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0026">
+      <Title>Confirmação</Title>
+      <Message>Tem a certeza que pretende apagar a Etiqueta Exame selecionada?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0027">
+      <Title>Confirmação</Title>
+      <Message>Tem a certeza que pretende apagar este estudo?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0028">
+      <Title>Erro</Title>
+      <Message>Ocorreu timeout na transferência de imagem.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0029">
+      <Title />
+      <Message>Existe imagem não transferida de "{ImageAcquisitionConditionName}".
+Não é possível readquirir imagem por diferença na modalidade de Exame. Etiqueta da imagem.
+ Em caso de reaquisição, por favor altere o estado do painel correspondente ao Exame. Etiqueta.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0030">
+      <Title />
+      <Message>Falha ao adquirir imagem não transferida.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0031">
+      <Title />
+      <Message>Falha ao apagar imagem não transferida.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0032">
+      <Title>Confirmação</Title>
+      <Message>Tem a certeza que pretende suspender este estudo?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

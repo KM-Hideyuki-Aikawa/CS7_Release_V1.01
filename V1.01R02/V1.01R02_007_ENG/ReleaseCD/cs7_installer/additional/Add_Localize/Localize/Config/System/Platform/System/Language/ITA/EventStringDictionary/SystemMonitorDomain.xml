@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="SystemMonitorDomain00001">
+      <Title>Componente lettore</Title>
+      <Message>(ReaderName) in (ComponentName) sta per scadere. Chiamare la manutenzione.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00002">
+      <Title>Componente lettore</Title>
+      <Message>(ComponentName) sta per scadere. Chiamare la manutenzione.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00003">
+      <Title>Componente lettore</Title>
+      <Message>(ReaderName) in (ComponentName) è scaduto. Chiamare la manutenzione.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00004">
+      <Title>Componente lettore</Title>
+      <Message>(ComponentName) è scaduto. Chiamare la manutenzione.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00005">
+      <Title />
+      <Message>Si vuole terminare il sistema?</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00006">
+      <Title />
+      <Message>Aggiornamento di successo.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00007">
+      <Title />
+      <Message>Siete usciti dall'applicazione.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00008">
+      <Title>Errore</Title>
+      <Message>Impossibile eseguire la richiesta di uscita.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00009">
+      <Title>Errore</Title>
+      <Message>Controllare (DomainExtenderName) PlugIn non caricato.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00010">
+      <Title />
+      <Message>Sicuri di uscire?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,1637 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="MES04001">
+      <Title>CR Hatası </Title>
+      <Message>HP1 Sensörü NG(Transport Ünitesi)</Message>
+    </EventString>
+    <EventString Key="MES04002">
+      <Title>CR Hatası</Title>
+      <Message>HP1 Sensörü NG(Transport Ünitesi) </Message>
+    </EventString>
+    <EventString Key="MES04011">
+      <Title>CR Hatası</Title>
+      <Message>HP2 Sensörü NG(Transport Ünitesi) </Message>
+    </EventString>
+    <EventString Key="MES04012">
+      <Title>CR Hatası</Title>
+      <Message>HP2 Sensörü NG(Transport Ünitesi) </Message>
+    </EventString>
+    <EventString Key="MES04013">
+      <Title>CR Hatası</Title>
+      <Message>HP2 Sensörü NG(Transport Ünitesi) </Message>
+    </EventString>
+    <EventString Key="MES04014">
+      <Title>CR Hatası</Title>
+      <Message>HP2 Sensörü NG(Transport Ünitesi) </Message>
+    </EventString>
+    <EventString Key="MES04015">
+      <Title>CR Hatası</Title>
+      <Message>HP2 Sensörü NG(Transport Ünitesi) </Message>
+    </EventString>
+    <EventString Key="MES04020">
+      <Title>CR Hatası</Title>
+      <Message>Hizalama Sensörü NG(Başlat) </Message>
+    </EventString>
+    <EventString Key="MES04021">
+      <Title>CR Hatası</Title>
+      <Message>Hizalama Sensörü NG(Besleyici) </Message>
+    </EventString>
+    <EventString Key="MES04022">
+      <Title>CR Hatası</Title>
+      <Message>Hizalama Sensörü NG(Adezyon) </Message>
+    </EventString>
+    <EventString Key="MES04023">
+      <Title>CR Hatası</Title>
+      <Message>Hizalama Sensörü NG(Koruyucu) </Message>
+    </EventString>
+    <EventString Key="MES04024">
+      <Title>CR Hatası</Title>
+      <Message>Hizalama Sensörü NG(Boşaltma) </Message>
+    </EventString>
+    <EventString Key="MES04025">
+      <Title>CR Hatası</Title>
+      <Message>Hizalama Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04026">
+      <Title>CR Hatası</Title>
+      <Message>Hizalama Sol Taraf Sensörü NG(Başlangıca Getirme) </Message>
+    </EventString>
+    <EventString Key="MES04027">
+      <Title>CR Hatası</Title>
+      <Message>Hizalama Sağ Taraf Sensörü NG(Başlangıca Getirme) </Message>
+    </EventString>
+    <EventString Key="MES04030">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Saptama Sensörü NG(Başlatma) </Message>
+    </EventString>
+    <EventString Key="MES04031">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Saptama Sensörü NG(Besleyici) </Message>
+    </EventString>
+    <EventString Key="MES04032">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Saptama Sensörü NG(Adezyon) </Message>
+    </EventString>
+    <EventString Key="MES04033">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Saptama Sensörü NG(Koruyucu) </Message>
+    </EventString>
+    <EventString Key="MES04034">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Saptama Sensörü NG(Yükseltmeden Önce) </Message>
+    </EventString>
+    <EventString Key="MES04035">
+      <Title>CR Hatası</Title>
+      <Message>Kilit HP Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04036">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici HP Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04037">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Saptama Sensörü NG(Yükseltmeden Sonra) </Message>
+    </EventString>
+    <EventString Key="MES04041">
+      <Title>CR Hatası</Title>
+      <Message>Besleyicinin Düğme Açılış Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04042">
+      <Title>CR Hatası</Title>
+      <Message>Besleyicinin Düğme Kapanış Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04043">
+      <Title>CR Hatası</Title>
+      <Message>Besleyicinin Düğme Açılış Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04044">
+      <Title>CR Hatası</Title>
+      <Message>Besleyicinin Düğme Kapanış Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04045">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Arka Plaka Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04046">
+      <Title>CR Hatası</Title>
+      <Message>Arka Kart Eğilme Saptama Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04047">
+      <Title>CR Hatası</Title>
+      <Message>Arka Kart Adezyon Saptama Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04048">
+      <Title>CR Hatası</Title>
+      <Message>Çıkarma Düğmesi Kapatma Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04051">
+      <Title>CR Hatası</Title>
+      <Message>Boşaltma Kapısı Kapanış Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04061">
+      <Title>CR Hatası</Title>
+      <Message>Yavaş Tarama HP Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04062">
+      <Title>CR Hatası</Title>
+      <Message>Arka Kart Adezyon Saptama Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04063">
+      <Title>CR Hatası</Title>
+      <Message>Arka Kart Eğilme Saptama Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04064">
+      <Title>CR Hatası</Title>
+      <Message>V-Senk Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04065">
+      <Title>CR Hatası</Title>
+      <Message>Arka Kart Adezyon Saptama Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04066">
+      <Title>CR Hatası</Title>
+      <Message>Arka Kart Adezyon Saptama Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04067">
+      <Title>CR Hatası</Title>
+      <Message>Arka Kart Adezyon Saptama Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04068">
+      <Title>CR Hatası</Title>
+      <Message>Arka Kart Adezyon Saptama Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04069">
+      <Title>CR Hatası</Title>
+      <Message>Arka Kart Adezyon Saptama Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04070">
+      <Title>CR Hatası</Title>
+      <Message>Arka Kart Adezyon Saptama Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04071">
+      <Title>CR Hatası</Title>
+      <Message>Besleyici Merkezi Saptama Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04072">
+      <Title>CR Hatası</Title>
+      <Message>Besleyici Sol Saptama Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04073">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Arka Plaka Sensörü NG(İlk Başlatma) </Message>
+    </EventString>
+    <EventString Key="MES04074">
+      <Title>CR Hatası</Title>
+      <Message>Arka Kart Eğilme Saptama Sensörü NG(İlk Başlatma) </Message>
+    </EventString>
+    <EventString Key="MES04075">
+      <Title>CR Hatası</Title>
+      <Message>Arka Kart Adezyon Saptama Sensörü NG(İlk Başlatma) </Message>
+    </EventString>
+    <EventString Key="MES04076">
+      <Title>CR Hatası</Title>
+      <Message>24V Güç NG(Genellikle) </Message>
+    </EventString>
+    <EventString Key="MES04077">
+      <Title>CR Hatası</Title>
+      <Message>24V Güç NG(Kapı Kapatma) </Message>
+    </EventString>
+    <EventString Key="MES04081">
+      <Title>CR Hatası</Title>
+      <Message>Silme Lambası Akım Saptama Sensörü 1 NG </Message>
+    </EventString>
+    <EventString Key="MES04082">
+      <Title>CR Hatası</Title>
+      <Message>Silme Lambası Akım Saptama Sensörü 2 NG </Message>
+    </EventString>
+    <EventString Key="MES04091">
+      <Title>CR Hatası</Title>
+      <Message>Ön Kapı Açma Sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES04101">
+      <Title>CR Hatası</Title>
+      <Message>Yavaş Tarama Motoru NG </Message>
+    </EventString>
+    <EventString Key="MES04102">
+      <Title>CR Hatası</Title>
+      <Message>Transport Ünitesi Motoru NG </Message>
+    </EventString>
+    <EventString Key="MES04103">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Motoru NG </Message>
+    </EventString>
+    <EventString Key="MES04104">
+      <Title>CR Hatası</Title>
+      <Message>Hizalama Motoru NG </Message>
+    </EventString>
+    <EventString Key="MES04105">
+      <Title>CR Hatası</Title>
+      <Message>Besleyici Düğmesi Açma/Kapatma Zaman Aşımı</Message>
+    </EventString>
+    <EventString Key="MES04106">
+      <Title>CR Hatası</Title>
+      <Message>Kilit Zaman Aşımı </Message>
+    </EventString>
+    <EventString Key="MES04107">
+      <Title>CR Hatası</Title>
+      <Message>Yükleme Motoru NG </Message>
+    </EventString>
+    <EventString Key="MES04150">
+      <Title>CR Hatası</Title>
+      <Message>Kilit İlk İşleme </Message>
+    </EventString>
+    <EventString Key="MES04151">
+      <Title>CR Hatası</Title>
+      <Message>Besleyici Düğmesi İlk İşleme </Message>
+    </EventString>
+    <EventString Key="MES04152">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici İlk İşleme </Message>
+    </EventString>
+    <EventString Key="MES04153">
+      <Title>CR Hatası</Title>
+      <Message>Hizalama İlk İşleme </Message>
+    </EventString>
+    <EventString Key="MES04154">
+      <Title>CR Hatası</Title>
+      <Message>Transport Ünitesi İlk İşlemesi </Message>
+    </EventString>
+    <EventString Key="MES04155">
+      <Title>CR Hatası</Title>
+      <Message>Yavaş Tarama İlk İşleme </Message>
+    </EventString>
+    <EventString Key="MES04156">
+      <Title>CR Hatası</Title>
+      <Message>Transfer İşlemi 1 Başlatma NG </Message>
+    </EventString>
+    <EventString Key="MES04157">
+      <Title>CR Hatası</Title>
+      <Message>Transfer İşlemi 2 Başlatma NG </Message>
+    </EventString>
+    <EventString Key="MES04158">
+      <Title>CR Hatası</Title>
+      <Message>Besleyici Boşaltma İşlemi Başlatma NG </Message>
+    </EventString>
+    <EventString Key="MES04159">
+      <Title>CR Hatası</Title>
+      <Message>Boşaltma İşlemi Başlatma NG </Message>
+    </EventString>
+    <EventString Key="MES04160">
+      <Title>CR Hatası</Title>
+      <Message>Besleyici Düğmesi Açma NG </Message>
+    </EventString>
+    <EventString Key="MES04161">
+      <Title>CR Hatası</Title>
+      <Message>Besleyici Düğmesi Kapatma NG </Message>
+    </EventString>
+    <EventString Key="MES04162">
+      <Title>CR Hatası</Title>
+      <Message>Kilit Başlatma NG </Message>
+    </EventString>
+    <EventString Key="MES04163">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Düşme Saptayıcı Süresi NG </Message>
+    </EventString>
+    <EventString Key="MES04164">
+      <Title>CR Hatası</Title>
+      <Message>Silme Lambasında İzin Bildirimi Yok AÇIK </Message>
+    </EventString>
+    <EventString Key="MES04165">
+      <Title>CR Hatası</Title>
+      <Message>Silme Lambasında İzin Bildirimi Yok KAPALI </Message>
+    </EventString>
+    <EventString Key="MES04167">
+      <Title>CR Hatası</Title>
+      <Message>Yükleme Motoru İlk İşleme </Message>
+    </EventString>
+    <EventString Key="MES04200">
+      <Title>CR Hatası</Title>
+      <Message>AlmaDurumu Alış Zaman Aşımı(Başlangıca Getirme) </Message>
+    </EventString>
+    <EventString Key="MES04201">
+      <Title>CR Hatası</Title>
+      <Message>AlmaDurumu Alış Zaman Aşımı(Hazır) </Message>
+    </EventString>
+    <EventString Key="MES04202">
+      <Title>CR Hatası</Title>
+      <Message>AlmaDurumu Alış Zaman Aşımı(Barkod Saptama) </Message>
+    </EventString>
+    <EventString Key="MES04203">
+      <Title>CR Hatası</Title>
+      <Message>Alma Durumu Alış Zaman Aşımı(Yüksek voltaj AÇIK) </Message>
+    </EventString>
+    <EventString Key="MES04204">
+      <Title>CR Hatası</Title>
+      <Message>AlmaDurumu Alış Zaman Aşımı(Lazer AÇIK) </Message>
+    </EventString>
+    <EventString Key="MES04205">
+      <Title>CR Hatası</Title>
+      <Message>AlmaDurumu Alış Zaman Aşımı(Barkod İptal) </Message>
+    </EventString>
+    <EventString Key="MES04206">
+      <Title>CR Hatası</Title>
+      <Message>AlmaDurumu Alış Zaman Aşımı(İşleme) </Message>
+    </EventString>
+    <EventString Key="MES04207">
+      <Title>CR Hatası</Title>
+      <Message>AlmaDurumu Alış Zaman Aşımı(Duraklama) </Message>
+    </EventString>
+    <EventString Key="MES04208">
+      <Title>CR Hatası</Title>
+      <Message>AlmaDurumu Alış Zaman Aşımı(Ön Kapıyı Aç) </Message>
+    </EventString>
+    <EventString Key="MES04209">
+      <Title>CR Hatası</Title>
+      <Message>AlmaDurumu Alış Zaman Aşımı(Ön Kapıyı Kapat) </Message>
+    </EventString>
+    <EventString Key="MES04210">
+      <Title>CR Hatası</Title>
+      <Message>AlmaDurumu Alış Zaman Aşımı(Hata) </Message>
+    </EventString>
+    <EventString Key="MES04211">
+      <Title>CR Hatası</Title>
+      <Message>AlmaDurumu Alış Zaman Aşımı(Beklemede) </Message>
+    </EventString>
+    <EventString Key="MES04212">
+      <Title>CR Hatası</Title>
+      <Message>AlmaDurumu Alış Zaman Aşımı(Silme Modunun Taşınması) </Message>
+    </EventString>
+    <EventString Key="MES04213">
+      <Title>CR Hatası</Title>
+      <Message>AlmaDurumu Alış Zaman Aşımı(Hazırdan sonra gücü kapat) </Message>
+    </EventString>
+    <EventString Key="MES04214">
+      <Title>CR Hatası</Title>
+      <Message>Kayıt Tamam Alış Zaman Aşımı </Message>
+    </EventString>
+    <EventString Key="MES04215">
+      <Title>CR Hatası</Title>
+      <Message>AlmaDurumu Alış Hatası(Laser AÇIK) </Message>
+    </EventString>
+    <EventString Key="MES04216">
+      <Title>CR Hatası</Title>
+      <Message>Geri Gitme Alış Zaman Aşımı </Message>
+    </EventString>
+    <EventString Key="MES04217">
+      <Title>CR Hatası</Title>
+      <Message>Laser AÇIK, Yüksek Voltaj Gönderme AÇIK Olmaksızın(1) </Message>
+    </EventString>
+    <EventString Key="MES04218">
+      <Title>CR Hatası</Title>
+      <Message>Laser AÇIK, Yüksek Voltaj Gönderme AÇIK Olmaksızın(2) </Message>
+    </EventString>
+    <EventString Key="MES04219">
+      <Title>CR Hatası</Title>
+      <Message>Geçersiz Komut </Message>
+    </EventString>
+    <EventString Key="MES04221">
+      <Title>CR Hatası</Title>
+      <Message>AltTaramaBaşlatma Alış Zaman Aşımı </Message>
+    </EventString>
+    <EventString Key="MES04900">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Var(Yükseltici) </Message>
+    </EventString>
+    <EventString Key="MES04901">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Var(Hizalama) </Message>
+    </EventString>
+    <EventString Key="MES04902">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Var(Boşaltma Kapısını Aç) </Message>
+    </EventString>
+    <EventString Key="MES04903">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Var(Arka Kart Adezyonu) </Message>
+    </EventString>
+    <EventString Key="MES04904">
+      <Title>CR Hatası</Title>
+      <Message>Silme Lambalarını Kapat(2) </Message>
+    </EventString>
+    <EventString Key="MES04905">
+      <Title>CR Hatası</Title>
+      <Message>SCB İletişim Hatası </Message>
+    </EventString>
+    <EventString Key="MES04906">
+      <Title>CR Hatası</Title>
+      <Message>Bükülmüş Kaset[%s] </Message>
+    </EventString>
+    <EventString Key="MES04907">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Açma Hatası[%s] </Message>
+    </EventString>
+    <EventString Key="MES04908">
+      <Title>CR Hatası</Title>
+      <Message>Düşen Kaset[%s] </Message>
+    </EventString>
+    <EventString Key="MES04909">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Boşluk Saptama(Arka plaka manyetize) </Message>
+    </EventString>
+    <EventString Key="MES04910">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Boşluk Saptama(Kaset soyuluyor) </Message>
+    </EventString>
+    <EventString Key="MES04914">
+      <Title>CR Hatası</Title>
+      <Message>Ekstraksiyonu Açma (İlk Duruma Getir) </Message>
+    </EventString>
+    <EventString Key="MES04917">
+      <Title>CR Hatası</Title>
+      <Message>Besleyici Düğmesi Açma NG(Kiliti Aç) </Message>
+    </EventString>
+    <EventString Key="MES04918">
+      <Title>CR Hatası</Title>
+      <Message>FAN Bağlantı Kesme NG 1 </Message>
+    </EventString>
+    <EventString Key="MES04920">
+      <Title>CR Hatası</Title>
+      <Message>FAN Bağlantı Kesme NG 3 </Message>
+    </EventString>
+    <EventString Key="MES04921">
+      <Title>CR Hatası</Title>
+      <Message>Silme Lambası NG </Message>
+    </EventString>
+    <EventString Key="MES06000">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı HP sensörü NG (HP'ye taşı) </Message>
+    </EventString>
+    <EventString Key="MES06001">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Motor Kontrolü NG (HP'ye taşı) </Message>
+    </EventString>
+    <EventString Key="MES06002">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı HP sensörü NG (Kaset Sabit konumu) </Message>
+    </EventString>
+    <EventString Key="MES06003">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Motor Kontrolü NG (Kaset Sabit konumu) </Message>
+    </EventString>
+    <EventString Key="MES06004">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Motor Kontrolü NG (Kaset Destek konumu) </Message>
+    </EventString>
+    <EventString Key="MES06005">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Motor Kontrolü NG (Kaset Sabit konumu -2) </Message>
+    </EventString>
+    <EventString Key="MES06006">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı HP sensörü NG (HP'ye taşı -2) </Message>
+    </EventString>
+    <EventString Key="MES06007">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Motor Kontrolü NG (HP'ye taşı -2) </Message>
+    </EventString>
+    <EventString Key="MES06008">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı HP sensörü NG (HP'ye taşı -3) </Message>
+    </EventString>
+    <EventString Key="MES06009">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Motor Kontrolü NG (HP'ye taşı -3) </Message>
+    </EventString>
+    <EventString Key="MES06010">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı HP sensörü NG (Kaset Destek konumu) </Message>
+    </EventString>
+    <EventString Key="MES06011">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Motor Kontrolü NG (Kaset Destek Konumu -2) </Message>
+    </EventString>
+    <EventString Key="MES06015">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı HP sensörü NG (HP'ye taşı) </Message>
+    </EventString>
+    <EventString Key="MES06016">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Motor Kontrolü NG (HP'ye taşı) </Message>
+    </EventString>
+    <EventString Key="MES06017">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı HP sensörü NG (Kaset Sabit konumu) </Message>
+    </EventString>
+    <EventString Key="MES06018">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Motor Kontrolü NG (Kaset Sabit konumu) </Message>
+    </EventString>
+    <EventString Key="MES06019">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Motor Kontrolü NG (Kaset Destek konumu) </Message>
+    </EventString>
+    <EventString Key="MES06020">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Motor Kontrolü NG (Kaset Sabit konumu -2) </Message>
+    </EventString>
+    <EventString Key="MES06021">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı HP sensörü NG (HP'ye taşı -2) </Message>
+    </EventString>
+    <EventString Key="MES06022">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Motor Kontrolü NG (HP'ye taşı -2) </Message>
+    </EventString>
+    <EventString Key="MES06023">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı HP sensörü NG (HP'ye taşı -3) </Message>
+    </EventString>
+    <EventString Key="MES06024">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Motor Kontrolü NG (HP'ye taşı -3) </Message>
+    </EventString>
+    <EventString Key="MES06025">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı HP sensörü NG (Kaset Destek konumu) </Message>
+    </EventString>
+    <EventString Key="MES06026">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Motor Kontrolü NG (Kaset Destek Konumu -2) </Message>
+    </EventString>
+    <EventString Key="MES06030">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı HP sensörü NG (HP'ye taşı) </Message>
+    </EventString>
+    <EventString Key="MES06031">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Motor Kontrolü NG (HP'ye taşı) </Message>
+    </EventString>
+    <EventString Key="MES06032">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı HP sensörü NG (Kaset Sabit konumu) </Message>
+    </EventString>
+    <EventString Key="MES06033">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Motor Kontrolü NG (Kaset Sabit konumu) </Message>
+    </EventString>
+    <EventString Key="MES06034">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Motor Kontrolü NG (Kaset Destek konumu) </Message>
+    </EventString>
+    <EventString Key="MES06035">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Motor Kontrolü NG (Kaset Sabit konumu -2) </Message>
+    </EventString>
+    <EventString Key="MES06036">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı HP sensörü NG (HP'ye taşı -2) </Message>
+    </EventString>
+    <EventString Key="MES06037">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Motor Kontrolü NG (HP'ye taşı -2) </Message>
+    </EventString>
+    <EventString Key="MES06038">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı HP sensörü NG (HP'ye taşı -3) </Message>
+    </EventString>
+    <EventString Key="MES06039">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Motor Kontrolü NG (HP'ye taşı -3) </Message>
+    </EventString>
+    <EventString Key="MES06040">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı HP sensörü NG (Kaset Destek konumu) </Message>
+    </EventString>
+    <EventString Key="MES06041">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Motor Kontrolü NG (Kaset Destek Konumu -2) </Message>
+    </EventString>
+    <EventString Key="MES06050">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı HP sensörü NG (HP'ye taşı) </Message>
+    </EventString>
+    <EventString Key="MES06051">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Motor Kontrolü NG (HP'ye taşı) </Message>
+    </EventString>
+    <EventString Key="MES06052">
+      <Title>CR Hatası</Title>
+      <Message>Alıcı HP sensörü NG (Konum 1) </Message>
+    </EventString>
+    <EventString Key="MES06053">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Motor Kontrolü NG (Konum 1) </Message>
+    </EventString>
+    <EventString Key="MES06054">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Motor Kontrolü NG (Konum 2) </Message>
+    </EventString>
+    <EventString Key="MES06055">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Motor Kontrolü NG (Konum 2'de hafif düşüş) </Message>
+    </EventString>
+    <EventString Key="MES06056">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Motor Kontrolü NG (Konum 1 -2) </Message>
+    </EventString>
+    <EventString Key="MES06057">
+      <Title>CR Hatası</Title>
+      <Message>Alıcı HP sensörü NG (HP'ye taşı -2) </Message>
+    </EventString>
+    <EventString Key="MES06058">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Motor Kontrolü NG (HP'ye taşı -2)</Message>
+    </EventString>
+    <EventString Key="MES06059">
+      <Title>CR Hatası</Title>
+      <Message>Alıcı HP sensörü NG (HP'ye taşı -3) </Message>
+    </EventString>
+    <EventString Key="MES06060">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Motor Kontrolü NG (HP'ye taşı -3)</Message>
+    </EventString>
+    <EventString Key="MES06061">
+      <Title>CR Hatası</Title>
+      <Message>Alıcı HP sensörü NG (Konum 2'ye taşı) </Message>
+    </EventString>
+    <EventString Key="MES06062">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Motor Kontrolü NG (Konum 2 -2) </Message>
+    </EventString>
+    <EventString Key="MES06065">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı HP sensörü NG (HP'ye taşı) </Message>
+    </EventString>
+    <EventString Key="MES06066">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Motor Kontrolü NG (HP'ye taşı) </Message>
+    </EventString>
+    <EventString Key="MES06067">
+      <Title>CR Hatası</Title>
+      <Message>Alıcı HP sensörü NG (Konum 1) </Message>
+    </EventString>
+    <EventString Key="MES06068">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Motor Kontrolü NG (Konum 1) </Message>
+    </EventString>
+    <EventString Key="MES06069">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Motor Kontrolü NG (Konum 2) </Message>
+    </EventString>
+    <EventString Key="MES06070">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Motor Kontrolü NG (Konum 2'de hafif düşüş) </Message>
+    </EventString>
+    <EventString Key="MES06071">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Motor Kontrolü NG (Konum 1 -2) </Message>
+    </EventString>
+    <EventString Key="MES06072">
+      <Title>CR Hatası</Title>
+      <Message>Alıcı HP sensörü NG (HP'ye taşı -2) </Message>
+    </EventString>
+    <EventString Key="MES06073">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Motor Kontrolü NG (HP'ye taşı -2)</Message>
+    </EventString>
+    <EventString Key="MES06074">
+      <Title>CR Hatası</Title>
+      <Message>Alıcı HP sensörü NG (HP'ye taşı -3) </Message>
+    </EventString>
+    <EventString Key="MES06075">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Motor Kontrolü NG (HP'ye taşı -3)</Message>
+    </EventString>
+    <EventString Key="MES06076">
+      <Title>CR Hatası</Title>
+      <Message>Alıcı HP sensörü NG (Konum 2) </Message>
+    </EventString>
+    <EventString Key="MES06077">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Motor Kontrolü NG (Konum 2 -2) </Message>
+    </EventString>
+    <EventString Key="MES06080">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı HP sensörü NG (HP'ye taşı) </Message>
+    </EventString>
+    <EventString Key="MES06081">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Motor Kontrolü NG (HP'ye taşı) </Message>
+    </EventString>
+    <EventString Key="MES06082">
+      <Title>CR Hatası</Title>
+      <Message>Alıcı HP sensörü NG (Konum 1) </Message>
+    </EventString>
+    <EventString Key="MES06083">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Motor Kontrolü NG (Konum 1) </Message>
+    </EventString>
+    <EventString Key="MES06084">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Motor Kontrolü NG (Konum 2) </Message>
+    </EventString>
+    <EventString Key="MES06085">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Motor Kontrolü NG (Konum 2'de hafif düşüş) </Message>
+    </EventString>
+    <EventString Key="MES06086">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Motor Kontrolü NG (Konum 1 -2) </Message>
+    </EventString>
+    <EventString Key="MES06087">
+      <Title>CR Hatası</Title>
+      <Message>Alıcı HP sensörü NG (HP'ye taşı -2) </Message>
+    </EventString>
+    <EventString Key="MES06088">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Motor Kontrolü NG (HP'ye taşı -2)</Message>
+    </EventString>
+    <EventString Key="MES06089">
+      <Title>CR Hatası</Title>
+      <Message>Alıcı HP sensörü NG (HP'ye taşı -3) </Message>
+    </EventString>
+    <EventString Key="MES06090">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Motor Kontrolü NG (HP'ye taşı -3)</Message>
+    </EventString>
+    <EventString Key="MES06091">
+      <Title>CR Hatası</Title>
+      <Message>Alıcı HP sensörü NG (Konum 2) </Message>
+    </EventString>
+    <EventString Key="MES06092">
+      <Title>CR Hatası</Title>
+      <Message>Yükseltici Motor Kontrolü NG (Konum 2 -2) </Message>
+    </EventString>
+    <EventString Key="MES06100">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Sensörü NG (Okuma Konumu) </Message>
+    </EventString>
+    <EventString Key="MES06101">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Motor Kontrolü NG (Okuma Konumu) </Message>
+    </EventString>
+    <EventString Key="MES06102">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Sensörü NG (HP'ye taşı) </Message>
+    </EventString>
+    <EventString Key="MES06103">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı HP sensörü NG (HP'ye taşı) </Message>
+    </EventString>
+    <EventString Key="MES06104">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Motor Kontrolü NG (HP'ye taşı) </Message>
+    </EventString>
+    <EventString Key="MES06105">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı HP sensörü NG (Basma Konumu) </Message>
+    </EventString>
+    <EventString Key="MES06106">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Motor Kontrolü NG (Basma Konumu) </Message>
+    </EventString>
+    <EventString Key="MES06107">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Sensörü NG (Okuma Konumu 2) </Message>
+    </EventString>
+    <EventString Key="MES06108">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Motor Kontrolü NG (Okuma Konumu 2) </Message>
+    </EventString>
+    <EventString Key="MES06109">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Sensörü NG (Basma Konumu 2) </Message>
+    </EventString>
+    <EventString Key="MES06110">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Motor Kontrolü NG (Basma Konumu 2) </Message>
+    </EventString>
+    <EventString Key="MES06111">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Motor Kontrolü NG (HP Geçme Konumu) </Message>
+    </EventString>
+    <EventString Key="MES06112">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı HP sensörü NG (HP'ye taşı -2) </Message>
+    </EventString>
+    <EventString Key="MES06113">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Motor Kontrolü NG (HP'ye taşı -2) </Message>
+    </EventString>
+    <EventString Key="MES06115">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Sensörü NG (Okuma Konumu) </Message>
+    </EventString>
+    <EventString Key="MES06116">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Motor Kontrolü NG (Okuma Konumu) </Message>
+    </EventString>
+    <EventString Key="MES06117">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Sensörü NG (HP'ye taşı) </Message>
+    </EventString>
+    <EventString Key="MES06118">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı HP sensörü NG (HP'ye taşı) </Message>
+    </EventString>
+    <EventString Key="MES06119">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Motor Kontrolü NG (HP'ye taşı) </Message>
+    </EventString>
+    <EventString Key="MES06120">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı HP sensörü NG (Basma Konumu) </Message>
+    </EventString>
+    <EventString Key="MES06121">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Motor Kontrolü NG (Basma Konumu) </Message>
+    </EventString>
+    <EventString Key="MES06122">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Sensörü NG (Okuma Konumu -2) </Message>
+    </EventString>
+    <EventString Key="MES06123">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Motor Kontrolü NG (Okuma Konumu -2) </Message>
+    </EventString>
+    <EventString Key="MES06124">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Sensörü NG (Basma Konumu -2) </Message>
+    </EventString>
+    <EventString Key="MES06125">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Motor Kontrolü NG (Basma Konumu -2) </Message>
+    </EventString>
+    <EventString Key="MES06126">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Motor Kontrolü NG (HP Geçme Konumu) </Message>
+    </EventString>
+    <EventString Key="MES06127">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı HP sensörü NG (HP'ye taşı -2) </Message>
+    </EventString>
+    <EventString Key="MES06128">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Motor Kontrolü NG (HP'ye taşı -2) </Message>
+    </EventString>
+    <EventString Key="MES06130">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Sensörü NG (Okuma Konumu) </Message>
+    </EventString>
+    <EventString Key="MES06131">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Motor Kontrolü NG (Okuma Konumu) </Message>
+    </EventString>
+    <EventString Key="MES06132">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Sensörü NG (HP'ye taşı) </Message>
+    </EventString>
+    <EventString Key="MES06133">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı HP sensörü NG (HP'ye taşı) </Message>
+    </EventString>
+    <EventString Key="MES06134">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Motor Kontrolü NG (HP'ye taşı) </Message>
+    </EventString>
+    <EventString Key="MES06135">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı HP sensörü NG (Basma Konumu) </Message>
+    </EventString>
+    <EventString Key="MES06136">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Motor Kontrolü NG (Basma Konumu) </Message>
+    </EventString>
+    <EventString Key="MES06137">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Sensörü NG (Okuma Konumu -2) </Message>
+    </EventString>
+    <EventString Key="MES06138">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Motor Kontrolü NG (Okuma Konumu -2) </Message>
+    </EventString>
+    <EventString Key="MES06139">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Sensörü NG (Basma Konumu -2) </Message>
+    </EventString>
+    <EventString Key="MES06140">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Motor Kontrolü NG (Basma Konumu -2) </Message>
+    </EventString>
+    <EventString Key="MES06141">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Motor Kontrolü NG (HP Geçme Konumu) </Message>
+    </EventString>
+    <EventString Key="MES06142">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı HP sensörü NG (HP'ye taşı -2) </Message>
+    </EventString>
+    <EventString Key="MES06143">
+      <Title>CR Hatası</Title>
+      <Message>Taşıyıcı Motor Kontrolü NG (HP'ye taşı -2) </Message>
+    </EventString>
+    <EventString Key="MES06150">
+      <Title>CR Hatası</Title>
+      <Message>Kodlayıcı Başlatılıyor NG </Message>
+    </EventString>
+    <EventString Key="MES06151">
+      <Title>CR Hatası</Title>
+      <Message>Alt Tarama Motor Kontrolü NG (Mekanik HP) </Message>
+    </EventString>
+    <EventString Key="MES06152">
+      <Title>CR Hatası</Title>
+      <Message>Alt Tarama Motor Kontrolü NG (Okuma Tamamlama Konumu) </Message>
+    </EventString>
+    <EventString Key="MES06153">
+      <Title>CR Hatası</Title>
+      <Message>Alt Tarama Motor Kontrolü NG (Mekanik HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06165">
+      <Title>CR Hatası</Title>
+      <Message>Kodlayıcı Başlatılıyor NG </Message>
+    </EventString>
+    <EventString Key="MES06166">
+      <Title>CR Hatası</Title>
+      <Message>Alt Tarama Motor Kontrolü NG (Mekanik HP) </Message>
+    </EventString>
+    <EventString Key="MES06167">
+      <Title>CR Hatası</Title>
+      <Message>Alt Tarama Motor Kontrolü NG (Okuma Tamamlama Konumu) </Message>
+    </EventString>
+    <EventString Key="MES06168">
+      <Title>CR Hatası</Title>
+      <Message>Alt Tarama Motor Kontrolü NG (Mekanik HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06180">
+      <Title>CR Hatası</Title>
+      <Message>Kodlayıcı Başlatılıyor NG </Message>
+    </EventString>
+    <EventString Key="MES06181">
+      <Title>CR Hatası</Title>
+      <Message>Alt Tarama Motor Kontrolü NG (Mekanik HP) </Message>
+    </EventString>
+    <EventString Key="MES06182">
+      <Title>CR Hatası</Title>
+      <Message>Alt Tarama Motor Kontrolü NG (Okuma Tamamlama Konumu) </Message>
+    </EventString>
+    <EventString Key="MES06183">
+      <Title>CR Hatası</Title>
+      <Message>Alt Tarama Motor Kontrolü NG (Mekanik HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06200">
+      <Title>CR Hatası</Title>
+      <Message>Yerleştirme Düğmesini Aç NG </Message>
+    </EventString>
+    <EventString Key="MES06201">
+      <Title>CR Hatası</Title>
+      <Message>Yerleştirme Düğmesini Kapat NG </Message>
+    </EventString>
+    <EventString Key="MES06215">
+      <Title>CR Hatası</Title>
+      <Message>Yerleştirme Düğmesini Aç NG </Message>
+    </EventString>
+    <EventString Key="MES06216">
+      <Title>CR Hatası</Title>
+      <Message>Yerleştirme Düğmesini Kapat NG </Message>
+    </EventString>
+    <EventString Key="MES06230">
+      <Title>CR Hatası</Title>
+      <Message>Yerleştirme Düğmesini Aç NG </Message>
+    </EventString>
+    <EventString Key="MES06231">
+      <Title>CR Hatası</Title>
+      <Message>Yerleştirme Düğmesini Kapat NG </Message>
+    </EventString>
+    <EventString Key="MES06250">
+      <Title>CR Hatası</Title>
+      <Message>Motor Kilit Bırakma NG (İlk Duruma Getir) </Message>
+    </EventString>
+    <EventString Key="MES06251">
+      <Title>CR Hatası</Title>
+      <Message>Motor Kilit Bırakma NG (Kilitle) </Message>
+    </EventString>
+    <EventString Key="MES06252">
+      <Title>CR Hatası</Title>
+      <Message>Motor Kilit Bırakma NG (Bırak) </Message>
+    </EventString>
+    <EventString Key="MES06265">
+      <Title>CR Hatası</Title>
+      <Message>Motor Kilit Bırakma NG (İlk Duruma Getir) </Message>
+    </EventString>
+    <EventString Key="MES06266">
+      <Title>CR Hatası</Title>
+      <Message>Motor Kilit Bırakma NG (Kilitle) </Message>
+    </EventString>
+    <EventString Key="MES06267">
+      <Title>CR Hatası</Title>
+      <Message>Motor Kilit Bırakma NG (Bırak) </Message>
+    </EventString>
+    <EventString Key="MES06280">
+      <Title>CR Hatası</Title>
+      <Message>Motor Kilit Bırakma NG (İlk Duruma Getir) </Message>
+    </EventString>
+    <EventString Key="MES06281">
+      <Title>CR Hatası</Title>
+      <Message>Motor Kilit Bırakma NG (Kilitle) </Message>
+    </EventString>
+    <EventString Key="MES06282">
+      <Title>CR Hatası</Title>
+      <Message>Motor Kilit Bırakma NG (Bırak) </Message>
+    </EventString>
+    <EventString Key="MES06300">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Sensörü NG (Sabit Eylem) </Message>
+    </EventString>
+    <EventString Key="MES06301">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Sensörü NG (Sabit) </Message>
+    </EventString>
+    <EventString Key="MES06302">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Var (Sensör Yaslayıcı) </Message>
+    </EventString>
+    <EventString Key="MES06303">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Var (Sensör Yaslayıcı) </Message>
+    </EventString>
+    <EventString Key="MES06315">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Sensörü NG (Sabit Eylem) </Message>
+    </EventString>
+    <EventString Key="MES06316">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Sensörü NG (Sabit) </Message>
+    </EventString>
+    <EventString Key="MES06318">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Var (Sensör Yaslayıcı) </Message>
+    </EventString>
+    <EventString Key="MES06330">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Sensörü NG (Sabit Eylem) </Message>
+    </EventString>
+    <EventString Key="MES06331">
+      <Title>CR Hatası</Title>
+      <Message>Yaslayıcı Sensörü NG (Sabit) </Message>
+    </EventString>
+    <EventString Key="MES06333">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Var (Sensör Yaslayıcı) </Message>
+    </EventString>
+    <EventString Key="MES06350">
+      <Title>CR Hatası</Title>
+      <Message>Alıcı Sensörü NG (Besleyici) </Message>
+    </EventString>
+    <EventString Key="MES06351">
+      <Title>CR Hatası</Title>
+      <Message>Alıcı Sensörü NG (Gönder) </Message>
+    </EventString>
+    <EventString Key="MES06352">
+      <Title>CR Hatası</Title>
+      <Message>Alıcı Sensörü NG (Boşalt) </Message>
+    </EventString>
+    <EventString Key="MES06353">
+      <Title>CR Hatası</Title>
+      <Message>Alıcı Sensörü NG (Çıkarıldı) </Message>
+    </EventString>
+    <EventString Key="MES06354">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Var (Alıcı) </Message>
+    </EventString>
+    <EventString Key="MES06355">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Var (Alıcı) </Message>
+    </EventString>
+    <EventString Key="MES06365">
+      <Title>CR Hatası</Title>
+      <Message>Alıcı Sensörü NG (Besleyici) </Message>
+    </EventString>
+    <EventString Key="MES06366">
+      <Title>CR Hatası</Title>
+      <Message>Alıcı Sensörü NG (Gönder) </Message>
+    </EventString>
+    <EventString Key="MES06367">
+      <Title>CR Hatası</Title>
+      <Message>Alıcı Sensörü NG (Boşalt) </Message>
+    </EventString>
+    <EventString Key="MES06368">
+      <Title>CR Hatası</Title>
+      <Message>Alıcı Sensörü NG (Çıkarıldı) </Message>
+    </EventString>
+    <EventString Key="MES06370">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Var (Alıcı) </Message>
+    </EventString>
+    <EventString Key="MES06380">
+      <Title>CR Hatası</Title>
+      <Message>Alıcı Sensörü NG (Besleyici) </Message>
+    </EventString>
+    <EventString Key="MES06381">
+      <Title>CR Hatası</Title>
+      <Message>Alıcı Sensörü NG (Gönder) </Message>
+    </EventString>
+    <EventString Key="MES06382">
+      <Title>CR Hatası</Title>
+      <Message>Alıcı Sensörü NG (Boşalt) </Message>
+    </EventString>
+    <EventString Key="MES06383">
+      <Title>CR Hatası</Title>
+      <Message>Alıcı Sensörü NG (Çıkarıldı) </Message>
+    </EventString>
+    <EventString Key="MES06385">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Var (Alıcı) </Message>
+    </EventString>
+    <EventString Key="MES06400">
+      <Title>CR Hatası</Title>
+      <Message>Arka Plaka saptama Sensörü NG (Okuma Konumuna taşımadan önce) </Message>
+    </EventString>
+    <EventString Key="MES06401">
+      <Title>CR Hatası</Title>
+      <Message>Arka Plaka saptama Sensörü NG (Okuma Konumu Duruyor) </Message>
+    </EventString>
+    <EventString Key="MES06402">
+      <Title>CR Hatası</Title>
+      <Message>Arka Plaka saptama Sensörü NG (Basma Konumuna taşımadan önce) </Message>
+    </EventString>
+    <EventString Key="MES06415">
+      <Title>CR Hatası</Title>
+      <Message>Arka Plaka saptama Sensörü NG (Okuma Konumuna taşımadan önce) </Message>
+    </EventString>
+    <EventString Key="MES06416">
+      <Title>CR Hatası</Title>
+      <Message>Arka Plaka saptama Sensörü NG (Okuma Konumu Duruyor) </Message>
+    </EventString>
+    <EventString Key="MES06417">
+      <Title>CR Hatası</Title>
+      <Message>Arka Plaka saptama Sensörü NG (Basma Konumuna taşımadan önce) </Message>
+    </EventString>
+    <EventString Key="MES06430">
+      <Title>CR Hatası</Title>
+      <Message>Arka Plaka saptama Sensörü NG (Okuma Konumuna taşımadan önce) </Message>
+    </EventString>
+    <EventString Key="MES06431">
+      <Title>CR Hatası</Title>
+      <Message>Arka Plaka saptama Sensörü NG (Okuma Konumu Duruyor) </Message>
+    </EventString>
+    <EventString Key="MES06432">
+      <Title>CR Hatası</Title>
+      <Message>Arka Plaka saptama Sensörü NG (Basma Konumuna taşımadan önce) </Message>
+    </EventString>
+    <EventString Key="MES06450">
+      <Title>CR Hatası</Title>
+      <Message>Soyulma Sensörü Plakası (Okuyor veya Siliyor). Lütfen bu kaseti kullanmaktan kaçının. </Message>
+    </EventString>
+    <EventString Key="MES06451">
+      <Title>CR Hatası</Title>
+      <Message>Soyulma Sensörü NG (İşletim dışı) </Message>
+    </EventString>
+    <EventString Key="MES06452">
+      <Title>CR Hatası</Title>
+      <Message>Soyulma Sensörü NG (Başlat) </Message>
+    </EventString>
+    <EventString Key="MES06453">
+      <Title>CR Hatası</Title>
+      <Message>Soyulma Sensörü NG (İlk Konuma Getir) </Message>
+    </EventString>
+    <EventString Key="MES06465">
+      <Title>CR Hatası</Title>
+      <Message>Soyulma Sensörü Plakası (Okuyor veya Siliyor) </Message>
+    </EventString>
+    <EventString Key="MES06466">
+      <Title>CR Hatası</Title>
+      <Message>Soyulma Sensörü NG (İşletim dışı) </Message>
+    </EventString>
+    <EventString Key="MES06468">
+      <Title>CR Hatası</Title>
+      <Message>Soyulma Sensörü NG (İlk Konuma Getir) </Message>
+    </EventString>
+    <EventString Key="MES06480">
+      <Title>CR Hatası</Title>
+      <Message>Soyulma Sensörü Plakası (Okuyor veya Siliyor) </Message>
+    </EventString>
+    <EventString Key="MES06481">
+      <Title>CR Hatası</Title>
+      <Message>Soyulma Sensörü NG (İşletim dışı) </Message>
+    </EventString>
+    <EventString Key="MES06483">
+      <Title>CR Hatası</Title>
+      <Message>Soyulma Sensörü NG (İlk Konuma Getir) </Message>
+    </EventString>
+    <EventString Key="MES06500">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Takma Sensörü NG (İlk Konuma Getir) </Message>
+    </EventString>
+    <EventString Key="MES06501">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Takma Sensörü NG (Yükle) </Message>
+    </EventString>
+    <EventString Key="MES06502">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Takma Sensörü NG (Boşalt) </Message>
+    </EventString>
+    <EventString Key="MES06503">
+      <Title>CR Hatası</Title>
+      <Message>Arka Plaka Kaset saptama </Message>
+    </EventString>
+    <EventString Key="MES06504">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Takma Sensörü NG (Boşalt -2) </Message>
+    </EventString>
+    <EventString Key="MES06515">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Takma Sensörü NG (İlk Konuma Getir) </Message>
+    </EventString>
+    <EventString Key="MES06516">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Takma Sensörü NG (Yükle) </Message>
+    </EventString>
+    <EventString Key="MES06517">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Takma Sensörü NG (Boşalt) </Message>
+    </EventString>
+    <EventString Key="MES06518">
+      <Title>CR Hatası</Title>
+      <Message>Arka Plaka Kaset saptama </Message>
+    </EventString>
+    <EventString Key="MES06519">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Takma Sensörü NG (Boşalt -2) </Message>
+    </EventString>
+    <EventString Key="MES06530">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Takma Sensörü NG (İlk Konuma Getir) </Message>
+    </EventString>
+    <EventString Key="MES06531">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Takma Sensörü NG (Yükle) </Message>
+    </EventString>
+    <EventString Key="MES06532">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Takma Sensörü NG (Boşalt) </Message>
+    </EventString>
+    <EventString Key="MES06533">
+      <Title>CR Hatası</Title>
+      <Message>Arka Plaka Kaset saptama </Message>
+    </EventString>
+    <EventString Key="MES06534">
+      <Title>CR Hatası</Title>
+      <Message>Kaset Takma Sensörü NG (Boşalt -2) </Message>
+    </EventString>
+    <EventString Key="MES06550">
+      <Title>CR Hatası</Title>
+      <Message>Çokgen Dönme NG </Message>
+    </EventString>
+    <EventString Key="MES06551">
+      <Title>CR Hatası</Title>
+      <Message>Okuma Tamamlandı sinyali alınamıyor </Message>
+    </EventString>
+    <EventString Key="MES06552">
+      <Title>CR Hatası</Title>
+      <Message>2 Silme lambası ‏kapatılıyor (Başlat) </Message>
+    </EventString>
+    <EventString Key="MES06553">
+      <Title>CR Hatası</Title>
+      <Message>2 Silme lambası ‏kapatılıyor (Sil). Kaset Silme eksik. Lütfen yeniden deneyin. </Message>
+    </EventString>
+    <EventString Key="MES06554">
+      <Title>CR Hatası</Title>
+      <Message>1 Silme lambası ‏kapatılıyor (Başlat) </Message>
+    </EventString>
+    <EventString Key="MES06567">
+      <Title>CR Hatası</Title>
+      <Message>2 Silme lambası ‏kapatılıyor (Başlat) </Message>
+    </EventString>
+    <EventString Key="MES06568">
+      <Title>CR Hatası</Title>
+      <Message>2 Silme lambası ‏kapatılıyor (Sil) </Message>
+    </EventString>
+    <EventString Key="MES06569">
+      <Title>CR Hatası</Title>
+      <Message>1 Silme lambası ‏kapatılıyor (Başlat) </Message>
+    </EventString>
+    <EventString Key="MES06582">
+      <Title>CR Hatası</Title>
+      <Message>2 Silme lambası ‏kapatılıyor (Başlat) </Message>
+    </EventString>
+    <EventString Key="MES06584">
+      <Title>CR Hatası</Title>
+      <Message>1 Silme lambası ‏kapatılıyor (Başlat) </Message>
+    </EventString>
+    <EventString Key="MES06600">
+      <Title>CR Hatası</Title>
+      <Message>Soğutucu fanın dijital güç kaynağının bağlantısı kesik </Message>
+    </EventString>
+    <EventString Key="MES06650">
+      <Title>CR Hatası</Title>
+      <Message>FPGA Hatası (Olay Sürücüsü Erişimi yapılamadı) </Message>
+    </EventString>
+    <EventString Key="MES06651">
+      <Title>CR Hatası</Title>
+      <Message>FPGA Hatası (MDU'ya erişilemedi) </Message>
+    </EventString>
+    <EventString Key="MES06652">
+      <Title>CR Hatası</Title>
+      <Message>FPGA Hatası (LMC'ye erişilemedi) </Message>
+    </EventString>
+    <EventString Key="MES06653">
+      <Title>CR Hatası</Title>
+      <Message>FPGA Hatası (I/O Kontrolü yapılamadı) </Message>
+    </EventString>
+    <EventString Key="MES06654">
+      <Title>CR Hatası</Title>
+      <Message>FPGA Hatası (Görüntü Sürücüsü açılamadı) </Message>
+    </EventString>
+    <EventString Key="MES06655">
+      <Title>CR Hatası</Title>
+      <Message>FPGA Hatası (PMU'ya erişilemedi) </Message>
+    </EventString>
+    <EventString Key="MES06668">
+      <Title>CR Hatası</Title>
+      <Message>FPGA Hatası (I/O Kontrolü yapılamadı) </Message>
+    </EventString>
+    <EventString Key="MES06683">
+      <Title>CR Hatası</Title>
+      <Message>FPGA Hatası (I/O Kontrolü yapılamadı) </Message>
+    </EventString>
+    <EventString Key="MES06750">
+      <Title>CR Hatası</Title>
+      <Message>Resepsiyon masası kartı açma ve kapatma konumu sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES06765">
+      <Title>CR Hatası</Title>
+      <Message>Resepsiyon masası kartı açma ve kapatma konumu sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES06780">
+      <Title>CR Hatası</Title>
+      <Message>Resepsiyon masası kartı açma ve kapatma konumu sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES06751">
+      <Title>CR Hatası</Title>
+      <Message>Resepsiyon masası kartı HP yer sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES06766">
+      <Title>CR Hatası</Title>
+      <Message>Resepsiyon masası kartı HP yer sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES06785">
+      <Title>CR Hatası</Title>
+      <Message>Resepsiyon masası kartı HP yer sensörü NG </Message>
+    </EventString>
+    <EventString Key="MES10000">
+      <Title>CR Hatası</Title>
+      <Message>Bellek Hatası </Message>
+    </EventString>
+    <EventString Key="MES11000">
+      <Title>CR Hatası</Title>
+      <Message>Donanım Hatası </Message>
+    </EventString>
+    <EventString Key="MES12000">
+      <Title>CR Hatası</Title>
+      <Message>Msj Alma Zaman Aşımı (Yüksek Voltaj AÇIK) </Message>
+    </EventString>
+    <EventString Key="MES12001">
+      <Title>CR Hatası</Title>
+      <Message>Msj Alma Zaman Aşımı (Lazer AÇIK) </Message>
+    </EventString>
+    <EventString Key="MES12002">
+      <Title>CR Hatası</Title>
+      <Message>Msj Alma Zaman Aşımı (Mek. Hazır) </Message>
+    </EventString>
+    <EventString Key="MES12003">
+      <Title>CR Hatası</Title>
+      <Message>Msj Alma Zaman Aşımı (Mek. Beklemede) </Message>
+    </EventString>
+    <EventString Key="MES12010">
+      <Title>CR Hatası</Title>
+      <Message>Seri iletişim Hatası (Mek. Yeniden Gönderme Taşması) </Message>
+    </EventString>
+    <EventString Key="MES12011">
+      <Title>CR Hatası</Title>
+      <Message>Seri iletişim Hatası (Mek. CRC hatası Taşması) </Message>
+    </EventString>
+    <EventString Key="MES12012">
+      <Title>CR Hatası</Title>
+      <Message>Seri iletişim Hatası (Mek. Süre Uzaması) </Message>
+    </EventString>
+    <EventString Key="MES12013">
+      <Title>CR Hatası</Title>
+      <Message>Seri iletişim Hatası (Mek. Zaman aşımı) </Message>
+    </EventString>
+    <EventString Key="MES12020">
+      <Title>CR Hatası</Title>
+      <Message>Msj Hatası (Mek. illegal Msj) </Message>
+    </EventString>
+    <EventString Key="MES12200">
+      <Title>CR Hatası</Title>
+      <Message>Msj Alma Zaman Aşımı (Net İlk Duruma Getir) </Message>
+    </EventString>
+    <EventString Key="MES12201">
+      <Title>CR Hatası</Title>
+      <Message>Msj Alma Zaman Aşımı (Net Hazır) </Message>
+    </EventString>
+    <EventString Key="MES12202">
+      <Title>CR Hatası</Title>
+      <Message>Msj Alma Zaman Aşımı (Gölgeleme Koy) </Message>
+    </EventString>
+    <EventString Key="MES12203">
+      <Title>CR Hatası</Title>
+      <Message>Msj Alma Zaman Aşımı (Durum Kontrolü) </Message>
+    </EventString>
+    <EventString Key="MES12204">
+      <Title>CR Hatası</Title>
+      <Message>Msj Alma Zaman Aşımı (Barkod Arama) </Message>
+    </EventString>
+    <EventString Key="MES12205">
+      <Title>CR Hatası</Title>
+      <Message>Msj Alma Zaman Aşımı (Net Komut) </Message>
+    </EventString>
+    <EventString Key="MES12206">
+      <Title>CR Hatası</Title>
+      <Message>Msj Alma Zaman Aşımı (Okuyucu Son) </Message>
+    </EventString>
+    <EventString Key="MES12207">
+      <Title>CR Hatası</Title>
+      <Message>Msj Alma Zaman Aşımı (Qrv Koy) </Message>
+    </EventString>
+    <EventString Key="MES12208">
+      <Title>CR Hatası</Title>
+      <Message>Msj Alma Zaman Aşımı (Konfigürasyon Koy) </Message>
+    </EventString>
+    <EventString Key="MES12209">
+      <Title>CR Hatası</Title>
+      <Message>Msj Alma Zaman Aşımı (Bilgi Koy) </Message>
+    </EventString>
+    <EventString Key="MES12210">
+      <Title>CR Hatası</Title>
+      <Message>Seri iletişim Hatası (Net Yeniden Gönderme Taşma) </Message>
+    </EventString>
+    <EventString Key="MES12211">
+      <Title>CR Hatası</Title>
+      <Message>Seri iletişim Hatası (Net CRC hatası Taşma) </Message>
+    </EventString>
+    <EventString Key="MES12212">
+      <Title>CR Hatası</Title>
+      <Message>Seri iletişim Hatası (Net Süre Uzaması) </Message>
+    </EventString>
+    <EventString Key="MES12213">
+      <Title>CR Hatası</Title>
+      <Message>Seri iletişim Hatası (Net Zaman Aşımı) </Message>
+    </EventString>
+    <EventString Key="MES12220">
+      <Title>CR Hatası</Title>
+      <Message>Msj Hatası (Net illegal Msj) </Message>
+    </EventString>
+    <EventString Key="MES13000">
+      <Title>CR Hatası</Title>
+      <Message>Optik Ünite Hatası (H_Sync) </Message>
+    </EventString>
+    <EventString Key="MES13001">
+      <Title>CR Hatası</Title>
+      <Message>Optik Ünite Hatası (Çokgen Kimliği) </Message>
+    </EventString>
+    <EventString Key="MES13003">
+      <Title>CR Hatası</Title>
+      <Message>Optik Ünite Hatası (Çokgen Stabilitesi) </Message>
+    </EventString>
+    <EventString Key="MES13005">
+      <Title>CR Hatası</Title>
+      <Message>Optik Ünite Hatası (Lazer Şiddeti) </Message>
+    </EventString>
+    <EventString Key="MES13030">
+      <Title>CR Hatası</Title>
+      <Message>SCB Kontrol Hatası (DMA aktarma) </Message>
+    </EventString>
+    <EventString Key="MES13031">
+      <Title>CR Hatası</Title>
+      <Message>SCB Kontrol Hatası (SCOM iletişimi) </Message>
+    </EventString>
+    <EventString Key="MES14000">
+      <Title>CR Hatası</Title>
+      <Message>Sinyal İşleme Hatası (Kazanç Taşması) </Message>
+    </EventString>
+    <EventString Key="MES14001">
+      <Title>CR Hatası</Title>
+      <Message>Sinyal İşleme Hatası (Kazanç Yetersizliği) </Message>
+    </EventString>
+    <EventString Key="MES14002">
+      <Title>CR Hatası</Title>
+      <Message>Sinyal İşleme Hatası (Denge Taşması) </Message>
+    </EventString>
+    <EventString Key="MES14003">
+      <Title>CR Hatası</Title>
+      <Message>Sinyal İşleme Hatası (Denge Yetersizliği) </Message>
+    </EventString>
+    <EventString Key="MES14010">
+      <Title>CR Hatası</Title>
+      <Message>Sinyal İşleme Hatası (QRV Taşması) </Message>
+    </EventString>
+    <EventString Key="MES14011">
+      <Title>CR Hatası</Title>
+      <Message>Sinyal İşleme Hatası (QRV Yetersizliği) </Message>
+    </EventString>
+    <EventString Key="MES14012">
+      <Title>CR Hatası</Title>
+      <Message>Sinyal İşleme Hatası (QRV Yakınsama Yok) </Message>
+    </EventString>
+    <EventString Key="MES14013">
+      <Title>CR Hatası</Title>
+      <Message>Sinyal İşleme Hatası (Gölgeleme Veri Yok) </Message>
+    </EventString>
+    <EventString Key="MES14014">
+      <Title>CR Hatası</Title>
+      <Message>Sinyal İşleme Hatası (QRV Veri Yok) </Message>
+    </EventString>
+    <EventString Key="MES15000">
+      <Title>CR Hatası</Title>
+      <Message>Sinyal İşleme Hatası (İlk Duruma Getirilemedi) </Message>
+    </EventString>
+    <EventString Key="MES22101">
+      <Title>CR Hatası</Title>
+      <Message>Seri İletişim Hatası (N1 Sayacı Durdu) </Message>
+    </EventString>
+    <EventString Key="MES22103">
+      <Title>CR Hatası</Title>
+      <Message>Seri İletişim Hatası (N3 Sayacı Durdu) </Message>
+    </EventString>
+    <EventString Key="MES22104">
+      <Title>CR Hatası</Title>
+      <Message>Seri İletişim Hatası (N4 Sayacı Durdu) </Message>
+    </EventString>
+    <EventString Key="MES23000">
+      <Title>CR Hatası</Title>
+      <Message>Program Hatası (Ana Kontrol) </Message>
+    </EventString>
+    <EventString Key="MES23100">
+      <Title>CR Hatası</Title>
+      <Message>Program Hatası (Sekans Kontrolü) </Message>
+    </EventString>
+    <EventString Key="MES23200">
+      <Title>CR Hatası</Title>
+      <Message>Program Hatası (Veri Dosyası Boyutu) </Message>
+    </EventString>
+    <EventString Key="MES23900">
+      <Title>CR Hatası</Title>
+      <Message>Program Hatası (Bellenim Güncelleme) </Message>
+    </EventString>
+    <EventString Key="MES24000">
+      <Title>CR Hatası</Title>
+      <Message>Ağ Hatası (İY Bağlantısı) </Message>
+    </EventString>
+    <EventString Key="MES24500">
+      <Title>CR Hatası</Title>
+      <Message>Ağ Hatası (İY Konfigürasyonu) </Message>
+    </EventString>
+    <EventString Key="MES25000">
+      <Title>CR Hatası</Title>
+      <Message>Ağ Hatası (Zaman Aşımı Yok) </Message>
+    </EventString>
+    <EventString Key="MES25100">
+      <Title>CR Hatası</Title>
+      <Message>Ağ Hatası (Zaman Aşımı:Genel İletişimde) </Message>
+    </EventString>
+    <EventString Key="MES25110">
+      <Title>CR Hatası</Title>
+      <Message>Ağ Hatası (Red:Genel İletişimde) </Message>
+    </EventString>
+    <EventString Key="MES25200">
+      <Title>CR Hatası</Title>
+      <Message>Ağ Hatası (Zaman Aşımı:Genel İletimde) </Message>
+    </EventString>
+    <EventString Key="MES25210">
+      <Title>CR Hatası</Title>
+      <Message>Ağ Hatası (Zaman Aşımı:görüntü Taramasından sonra) </Message>
+    </EventString>
+    <EventString Key="MES25300">
+      <Title>CR Hatası</Title>
+      <Message>Ağ Hatası (Zaman Aşımı/Red:Görüntü İletiminde) </Message>
+    </EventString>
+    <EventString Key="MES25500">
+      <Title>CR Hatası</Title>
+      <Message>Ağ Hatası (Hedef:Bulunamadı) </Message>
+    </EventString>
+    <EventString Key="MES26000">
+      <Title>CR Hatası</Title>
+      <Message>İşletim Hatası (Geçersiz İş) </Message>
+    </EventString>
+    <EventString Key="MES26010">
+      <Title>CR Hatası</Title>
+      <Message>İşletim Hatası (Geçersiz İş Parametresi) </Message>
+    </EventString>
+    <EventString Key="MES26100">
+      <Title>CR Hatası</Title>
+      <Message>İşletim Hatası (Modsuz İş) </Message>
+    </EventString>
+    <EventString Key="MES26200">
+      <Title>CR Hatası</Title>
+      <Message>İşletim Hatası (Geçersiz Konsol) </Message>
+    </EventString>
+    <EventString Key="MES26300">
+      <Title>CR Hatası</Title>
+      <Message>İşletim Hatası (Okuyucu Meşgul) </Message>
+    </EventString>
+    <EventString Key="MES26900">
+      <Title>CR Hatası</Title>
+      <Message>İşletim Hatası (İş Yürütme altında GüçKAPALI) </Message>
+    </EventString>
+    <EventString Key="MES26999">
+      <Title>CR Hatası</Title>
+      <Message>İşletim Hatası (Desteklenmeyen Komut) </Message>
+    </EventString>
+    <EventString Key="MES1">
+      <Title>CR Hatası</Title>
+      <Message>Açılmış ön kapı saptandı </Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

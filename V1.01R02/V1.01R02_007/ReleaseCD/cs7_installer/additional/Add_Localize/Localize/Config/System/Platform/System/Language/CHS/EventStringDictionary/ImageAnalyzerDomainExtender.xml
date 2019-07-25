@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0104">
+      <Title>错误</Title>
+      <Message>启动图像采集程序失败。</Message>
+    </EventString>
+    <EventString Key="0112">
+      <Title>错误</Title>
+      <Message>分析电噪声失败。</Message>
+    </EventString>
+    <EventString Key="0113">
+      <Title>错误</Title>
+      <Message>分析粗糙度失败。</Message>
+    </EventString>
+    <EventString Key="0114">
+      <Title>错误</Title>
+      <Message>更新片基缺陷图失败。</Message>
+    </EventString>
+    <EventString Key="0115">
+      <Title>错误</Title>
+      <Message>分析缺陷图失败。</Message>
+    </EventString>
+    <EventString Key="0116">
+      <Title>错误</Title>
+      <Message>采集图像失败。</Message>
+    </EventString>
+    <EventString Key="0117">
+      <Title>信息</Title>
+      <Message>图像分析完成。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

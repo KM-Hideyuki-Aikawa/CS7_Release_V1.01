@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="SystemMonitorDomain00001">
+      <Title>阅读器组件</Title>
+      <Message>(ComponentName)中的(ReaderName)快过期了，请拨打维护电话。</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00002">
+      <Title>阅读器组件</Title>
+      <Message>(ComponentName)快过期了，请拨打维护电话。</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00003">
+      <Title>阅读器组件</Title>
+      <Message>(ComponentName)中的(ReaderName)过期了，请拨打维护电话。</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00004">
+      <Title>阅读器组件</Title>
+      <Message>(ComponentName)过期了，请拨打维护电话。</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00005">
+      <Title />
+      <Message>要结束系统吗？</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00006">
+      <Title />
+      <Message>更新成功。</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00007">
+      <Title />
+      <Message>成功从应用程序注销。</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00008">
+      <Title>错误</Title>
+      <Message>无法处理您的注销申请。</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00009">
+      <Title>错误</Title>
+      <Message>请确定未装载(DomainExtenderName)插件。</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00010">
+      <Title />
+      <Message>您确定要注销吗？</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

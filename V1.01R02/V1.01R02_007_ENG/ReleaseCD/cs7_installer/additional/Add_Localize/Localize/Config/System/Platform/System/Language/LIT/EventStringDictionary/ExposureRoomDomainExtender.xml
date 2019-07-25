@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ExposureRoomDomainExtender0001">
+      <Title>Patvirtinimas</Title>
+      <Message>Poveikio patalpa bus pakeista į [poveikio patalpą 2]. Ar tikrai pakeisti? Jei yra su [poveikio patalpa 2] sujungta konsolė, ši konsolė bus atjungta. Patvirtinkite, kad [poveikio patalpoje 2] nėra jokio poveikio. Po šio pakeitimo būtina iš naujo paleisti sistemą. </Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0002">
+      <Title>Aktyvi patalpa sėkmingai pakeista.</Title>
+      <Message>Aktyvi patalpa pakeista. Tam reikia iš naujo paleisti programinę įrangą.</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0003">
+      <Title>Klaida keičiant patalpą.</Title>
+      <Message>Negalima pakeisti poveikio patalpos dėl [XXX].</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0004">
+      <Title>Patvirtinimas</Title>
+      <Message>Belaidis naudojimas bus nustatytas „Įjungti / išjungti“. Ar tikrai taip?</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0005">
+      <Title>Confirmation</Title>
+      <Message>Please wait till wireless switching happens.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

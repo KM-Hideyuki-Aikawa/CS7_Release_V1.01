@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="XRayDeviceDataAccessorDrRm7102">
+      <Title>Registrierregelanzahlfehler</Title>
+      <Message>Vier sind registriert.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7103">
+      <Title>Unbekannter AeroDR Detector</Title>
+      <Message>Unbekannter AeroDR Detector.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7104">
+      <Title>Unbekanntes Belichtungsgerät</Title>
+      <Message>Unbekanntes Belichtungsgerät.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7105">
+      <Title>RM-Fehler</Title>
+      <Message>Fehler in RM-Managementtabelle. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7106">
+      <Title>Versions-Updatefehler</Title>
+      <Message>Versions-Update stimmt nicht überein. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7107">
+      <Title>RM-Fehler</Title>
+      <Message>Fehler in der RM-Managementtabelle. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7108">
+      <Title>RM-Fehler</Title>
+      <Message>Fehler in der RM-Managementtabelle. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7109">
+      <Title>RM-Fehler</Title>
+      <Message>Fehler in der RM-Managementtabelle. Prüfen Sie die Netzwerkverbindung.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7110">
+      <Title>RM-Fehler</Title>
+      <Message>Fehler in der RM-Managementtabelle. Prüfen Sie die Netzwerkverbindung.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7111">
+      <Title>Fehler bei Registrierannullierung</Title>
+      <Message>Bei Annullierung der Registrierung des AeroDR-Bildschirms ist ein Fehler aufgetreten.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7112">
+      <Title>Radiologieraum-Wechselfehler</Title>
+      <Message>Während des Wechsels des Radiologieraums ist ein Fehler aufgetreten.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7113">
+      <Title>Hintergrundprozess-Kommunikationsfehler</Title>
+      <Message>Kommunikation nicht möglich.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7114">
+      <Title>Einstellfehler bei Konfigurationsaktivierung</Title>
+      <Message>Bei Konfigurationsaktivierung des AeroDR-Bildschirms ist ein Fehler aufgetreten.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7115">
+      <Title>RM-Update</Title>
+      <Message>Die RM-Managementtabelle wurde aktualisiert. Starten Sie das Gerät neu.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7116">
+      <Title>Lizenzfehler</Title>
+      <Message>Die Lizenz des Bildschirms, die Sie versuchen zu registrieren, existiert nicht oder die Lizenzanzahl ist nicht ausreichend. Besorgen Sie eine Lizenz oder registrieren Sie den Bildschirm mit der bezogenen Lizenzanzahl.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7117">
+      <Title>Fehler</Title>
+      <Message>Fehler beim Übermitteln der RM-Einstellung aufgetreten.
+Prüfen Sie die Netzwerkverbindung und versuchen es erneut.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7118">
+      <Title>Fehler</Title>
+      <Message>Konfigurationsfehler in CS-7-Einstellung.
+Prüfen Sie die Einstellung und versuchen es erneut.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

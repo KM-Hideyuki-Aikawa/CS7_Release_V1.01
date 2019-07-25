@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="JMDomainExtender0001">
+      <Title>Ping 状态</Title>
+      <Message>连接成功。</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0002">
+      <Title>Ping 状态</Title>
+      <Message>连接失败。</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0003">
+      <Title />
+      <Message>如果故障期间读取意外暂停，可能会导致图像消失等问题。如果暂停，保存扫描并重新启动 CS。</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0004">
+      <Title />
+      <Message>删除作业失败。</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0005">
+      <Title />
+      <Message>删除作业成功。</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0006">
+      <Title />
+      <Message>切换作业管理系统。暗盒登记将完成禁用，可以吗？</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

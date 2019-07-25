@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35560">
+      <Title>erreur d'initialisation</Title>
+      <Message>Échec d'initialisation.</Message>
+    </EventString>
+    <EventString Key="35561">
+      <Title>erreur de paramétrage</Title>
+      <Message>Une erreur de lecture du fichier de paramétrage s'est produite.</Message>
+    </EventString>
+    <EventString Key="35562">
+      <Title>erreur de tempo</Title>
+      <Message>Pb de tempo survenu.</Message>
+    </EventString>
+    <EventString Key="35563">
+      <Title>C35563</Title>
+      <Message />
+    </EventString>
+    <EventString Key="037300">
+      <Title>Erreur interne</Title>
+      <Message>Statut de conclusion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037307">
+      <Title>Erreur interne</Title>
+      <Message>Erreur d'initialisation[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037308">
+      <Title>Erreur interne</Title>
+      <Message>Erreur d'initialisation[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037309">
+      <Title>Erreur interne</Title>
+      <Message>Erreur d'initialisation[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037310">
+      <Title>Erreur interne</Title>
+      <Message>Erreur d'initialisation[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037311">
+      <Title>Erreur interne</Title>
+      <Message>Erreur d'initialisation[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037312">
+      <Title>Erreur interne</Title>
+      <Message>Erreur d'initialisation[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037314">
+      <Title>Erreur interne</Title>
+      <Message>Erreur d'initialisation[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037315">
+      <Title>Erreur interne</Title>
+      <Message>Erreur d'initialisation[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037316">
+      <Title>Erreur interne</Title>
+      <Message>Erreur d'initialisation[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037317">
+      <Title>Erreur interne</Title>
+      <Message>Erreur d'initialisation[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037318">
+      <Title>Erreur interne</Title>
+      <Message>Erreur d'initialisation[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037319">
+      <Title>Erreur interne</Title>
+      <Message>Erreur d'initialisation[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037320">
+      <Title>Erreur interne</Title>
+      <Message>Erreur d'initialisation[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037321">
+      <Title>Erreur interne</Title>
+      <Message>Erreur d'initialisation[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037322">
+      <Title>Erreur interne</Title>
+      <Message>Erreur d'initialisation[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037323">
+      <Title>Erreur interne</Title>
+      <Message>Erreur d'initialisation[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037324">
+      <Title>Erreur interne</Title>
+      <Message>Erreur d'initialisation[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037325">
+      <Title>Erreur interne</Title>
+      <Message>Erreur d'initialisation[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037326">
+      <Title>Erreur interne</Title>
+      <Message>Erreur d'initialisation[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037338">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conversion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037339">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conversion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037340">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conversion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037341">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conversion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037342">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conversion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037343">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conversion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037344">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conversion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037345">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conversion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037346">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conversion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037347">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conversion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037348">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conversion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037349">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conversion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037400">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conversion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037401">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conversion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037402">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conversion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037403">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle sanitaire[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037404">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle sanitaire[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037405">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle sanitaire[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037406">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle sanitaire[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037407">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle sanitaire[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037408">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle sanitaire[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037409">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle sanitaire[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037410">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle sanitaire[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037411">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle sanitaire[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037412">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle sanitaire[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037413">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle sanitaire[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037414">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle sanitaire[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037415">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle sanitaire[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037416">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle sanitaire[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037417">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle sanitaire[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037418">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle sanitaire[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037419">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle sanitaire[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037420">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle sanitaire[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037421">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle sanitaire[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037422">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle programmé[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037423">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle programmé[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037424">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle programmé[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037425">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle programmé[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037426">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle programmé[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037427">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle programmé[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037428">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle programmé[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037429">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle programmé[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037430">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle programmé[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037431">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conclusion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037432">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conclusion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037433">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conclusion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037434">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conclusion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037435">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conclusion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037436">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conclusion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037437">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conclusion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037438">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conclusion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037441">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conclusion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037442">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conclusion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037443">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conclusion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037444">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de conclusion[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037454">
+      <Title>Erreur interne</Title>
+      <Message>Erreur exécution de l'étude[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037455">
+      <Title>Erreur interne</Title>
+      <Message>Erreur exécution de l'étude[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037456">
+      <Title>Erreur interne</Title>
+      <Message>Erreur exécution de l'étude[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037457">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de notification d'étude achevée à RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037458">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de notification d'étude achevée à RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037459">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de notification d'étude achevée à RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037460">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de notification d'étude achevée à RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037461">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de notification d'étude achevée à RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037462">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de notification d'étude achevée à RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037463">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de notification d'étude achevée à RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037464">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de notification d'étude achevée à RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037465">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de notification d'étude achevée à RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037466">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de notification d'étude achevée à RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037467">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de notification d'étude achevée à RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037468">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de notification d'étude achevée à RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037469">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de notification d'étude achevée à RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037470">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de notification d'étude achevée à RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037471">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de notification d'étude achevée à RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037472">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de notification d'étude achevée à RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037473">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de recherche de patient[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037474">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de recherche de patient[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037475">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de recherche de patient[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037476">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de recherche de patient[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037477">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de recherche de patient[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037478">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de recherche de patient[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037479">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de recherche de patient[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037480">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de recherche de patient[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037481">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de recherche de patient[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037482">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de recherche de patient[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037483">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de recherche de patient[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037484">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de recherche de patient[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037485">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de recherche de patient[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037486">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de recherche de patient[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037487">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de recherche de patient[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027600">
+      <Title>Erreur interne</Title>
+      <Message>Erreur d'initialisation[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027601">
+      <Title>Erreur interne</Title>
+      <Message>Erreur d'initialisation[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027602">
+      <Title>Erreur interne</Title>
+      <Message>Erreur d'initialisation[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027603">
+      <Title>Erreur interne</Title>
+      <Message>Erreur d'initialisation[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027604">
+      <Title>Erreur interne</Title>
+      <Message>Erreur d'initialisation[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027605">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle sanitaire[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027606">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle programmé[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027607">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle programmé[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027608">
+      <Title>Erreur interne</Title>
+      <Message>Erreur contrôle programmé[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027618">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de notification d'étude achevée à RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027619">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de notification d'étude achevée à RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027620">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de recherche de patient[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027621">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de recherche de patient[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027622">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de recherche de patient[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027623">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de recherche de patient[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027624">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de recherche de patient[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027625">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de recherche de patient[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027626">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de recherche de patient[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027628">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de contrôle de dossier[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027629">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de contrôle de dossier[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027630">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de contrôle de dossier[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027631">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de contrôle de dossier[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027632">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de contrôle de dossier[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027633">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de contrôle de dossier[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027634">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de contrôle de dossier[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027635">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de contrôle de dossier[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027636">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de contrôle de dossier[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027637">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de contrôle de dossier[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027638">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de contrôle de dossier[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027639">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de contrôle de dossier[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027640">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de contrôle de dossier[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027641">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de contrôle de dossier[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027642">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de contrôle de dossier[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027643">
+      <Title>Erreur interne</Title>
+      <Message>Erreur de contrôle de dossier[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="FE">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne de communication. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="FF">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne de communication. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="01">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne de communication. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="02">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne de communication. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="03">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne de communication. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="04">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne de communication. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="05">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne de communication. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="06">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne de communication. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="07">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne de communication. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="08">
+      <Title>Erreur interne</Title>
+      <Message>Erreur interne de communication. Contactez un responsable maintenance.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

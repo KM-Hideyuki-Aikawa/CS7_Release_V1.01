@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title />
+      <Message>Si vuole cambiare il formato, confermare?</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title />
+      <Message>Risultati di esposizione applicati per più di un ordine. Tag esame "{EXAM_TAGS_INFO}"</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title />
+      <Message>Impossibile trovare l'ordine corrispondente per applicare i risultati di esposizione. Controllare.</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title />
+      <Message>AEC per esposizione CR condizione impossibile da accendere. Si vuole SPEGNERE l'AEC?Is it OK to turn OFF the AEC?</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title />
+      <Message>Formato paziente non può essere cambiato per lo stesso ordine. Controllare.</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title />
+      <Message>Si vuole sovrascrivere il formato collimatore?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

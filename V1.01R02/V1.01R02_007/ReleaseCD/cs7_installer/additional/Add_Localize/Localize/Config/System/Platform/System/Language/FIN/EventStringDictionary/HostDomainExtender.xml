@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="HostDomainExtender0001">
+      <Title>Ping-tila</Title>
+      <Message>Yhteys on muodostettu.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0002">
+      <Title>Ping-tila</Title>
+      <Message>Yhteyden muodostus epäonnistui.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0003">
+      <Title>Vahvistus</Title>
+      <Message>Mitä palvelua varten Ping(C-ECHO) täytyy suorittaa?</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0004">
+      <Title>Vahvistus</Title>
+      <Message>Sopiiko, että valittu jono poistetaan?</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0005">
+      <Title>Huomio</Title>
+      <Message>Valitse poistettavat jonot.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0006">
+      <Title>Informaatio</Title>
+      <Message>Valittujen jonojen poisto onnistui.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0007">
+      <Title>Virhe</Title>
+      <Message>Virhe poistettaessa jonoa.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0008">
+      <Title>Huomio</Title>
+      <Message>Määritetty isäntä on sama kuin toinen CH. Kuvien lähetys voi aiheuttaa kaksoiskappaleita.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

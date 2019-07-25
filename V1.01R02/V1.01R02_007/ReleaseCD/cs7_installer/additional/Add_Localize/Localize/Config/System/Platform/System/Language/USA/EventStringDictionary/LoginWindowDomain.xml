@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="LoginWindowDomain0000">
+      <Title />
+      <Message>User: "{USERNAME}" is logged in. User: "{USERNAME}"must log off before you can log in. Log off User: "{USERNAME}"?</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0001">
+      <Title />
+      <Message>Wrong user name or password</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0002">
+      <Title>Error</Title>
+      <Message>Login canceled</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0003">
+      <Title>Error</Title>
+      <Message>System cannot be switched by current user. {ERRORS}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

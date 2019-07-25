@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="OrderListDomain0001">
+      <Title>Hata</Title>
+      <Message>Vt Güncelleme Hatası</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0002">
+      <Title>Uyarı</Title>
+      <Message>Geçersiz değer, Gerçekleştirme mümkün değil.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0003">
+      <Title>Uyarı</Title>
+      <Message>Giriş Zorunlu.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0004">
+      <Title>Hata</Title>
+      <Message>Gerçekleştirme Mümkün Değil.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0005">
+      <Title>Hasta Güncelleme Hatası</Title>
+      <Message>Patient Update Error.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0006">
+      <Title>Bilgi</Title>
+      <Message>VT verileri güncellendi, Güncellenen Çalışma görüntülenecek.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0007">
+      <Title>Hata</Title>
+      <Message>Çalışma veritabanından silindi, Gerçekleştirme işlemi mümkün değil.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0008">
+      <Title>Onay</Title>
+      <Message>Aynı Hasta Kimliği: {0},Hasta Adı: {1},Cinsiyet: {2},Doğum Tarihi:{3} Veritabanında var, VT verilerini kullanmak ister misiniz?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0009">
+      <Title>Onay</Title>
+      <Message>Çalışma ilerleme aşamasında, gerçekleştirmek ister misiniz?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0010">
+      <Title>Uyarı</Title>
+      <Message>Çalışma Başka Bir Konsolda Gerçekleştirilmiş Durumda.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

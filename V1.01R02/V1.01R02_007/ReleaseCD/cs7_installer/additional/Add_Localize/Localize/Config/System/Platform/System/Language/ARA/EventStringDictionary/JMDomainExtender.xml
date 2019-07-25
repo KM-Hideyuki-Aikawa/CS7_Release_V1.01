@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="JMDomainExtender0001">
+      <Title>حالة اختبار الاتصال</Title>
+      <Message>تم الاتصال بنجاح.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0002">
+      <Title>حالة اختبار الاتصال</Title>
+      <Message>فشل الاتصال.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0003">
+      <Title />
+      <Message>في حالة إيقاف القراءة مؤقتاً أثناء حدوث مشكلة، قد يؤدي ذلك إلى عوائق مثل اختفاء الصورة وما إلى ذلك. </Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0004">
+      <Title />
+      <Message>لم يتم حذف المهمة بنجاح.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0005">
+      <Title />
+      <Message>تم حذف المهمة بنجاح.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0006">
+      <Title />
+      <Message>جارٍ تغيير JM. سيتم تعطيل تسجيل الكاسيت بالكامل. هل أنت موافق؟</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

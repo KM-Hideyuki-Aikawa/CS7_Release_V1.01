@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ExposureRoomDomainExtender0001">
+      <Title>Bestätigung</Title>
+      <Message>Belichtungsraum wird zu [Belichtungsraum 2] gewechselt. Ist das OK? Wenn eine Konsole in [Belichtungsraum 2] angeschlossen ist, wird diese Konsole getrennt. Bestätigen Sie, dass keine Belichtung in [Belichtungsraum 2] stattfindet. Nach dem Wechsel ist ein Systemneustart erforderlich.</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0002">
+      <Title>Aktivraum wurde erfolgreich gewechselt.</Title>
+      <Message>Aktivraum ist gewechselt. Dies erfordert einen Neustart der Anwendung.</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0003">
+      <Title>Fehler beim Wechseln des Raums.</Title>
+      <Message>Wechsel des Belichtungsraums wegen [XXX] nicht möglich.</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0004">
+      <Title>Bestätigung</Title>
+      <Message>Drahtlos wird auf Aktiviert / Deaktiviert gesetzt. Ist das OK?</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0005">
+      <Title>Confirmation</Title>
+      <Message>Please wait till wireless switching happens.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

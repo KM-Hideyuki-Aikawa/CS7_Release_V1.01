@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35520">
+      <Title>Chyba inicializace</Title>
+      <Message>Inicializace neúspěšná.</Message>
+    </EventString>
+    <EventString Key="35521">
+      <Title>chyba čtení nastavení</Title>
+      <Message>Došlo k chybě při čtení souboru nastavení.</Message>
+    </EventString>
+    <EventString Key="35522">
+      <Title>chyba časového limitu</Title>
+      <Message>Došlo k vypršení časového limitu.</Message>
+    </EventString>
+    <EventString Key="">
+      <Title />
+      <Message>[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37350">
+      <Title>Interní chyba</Title>
+      <Message>K interní chybě došlo při komunikaci DICOM. Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>Interní chyba</Title>
+      <Message>K interní chybě došlo při komunikaci DICOM. Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>Interní chyba</Title>
+      <Message>Neúspěšné nastavení komunikace DICOM. Potvrďte nastavení komunikace.</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>Chyba komunikace</Title>
+      <Message>Neúspěšná komunikace. Potvrďte nastavení komunikace a funkci serveru.</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>Chyba komunikace</Title>
+      <Message>Neúspěšné A-ASSOCIATE. Potvrďte nastavení komunikace a funkci serveru.</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>Chyba komunikace</Title>
+      <Message>Odmítnuto serverem v A-ASSOCIATE kvůli neplatnému nastavení. Potvrďte nastavení komunikace.</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>Chyba komunikace</Title>
+      <Message>K interní chybě došlo při komunikaci DICOM. Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="37357">
+      <Title>Chyba komunikace</Title>
+      <Message>Neúspěšná komunikace verze. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>Chyba komunikace</Title>
+      <Message>Přijat A-ABORT. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37600">
+      <Title>Interní chyba</Title>
+      <Message>Došlo k interní chybě v komunikaci RIS-OUT. Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="37601">
+      <Title>Interní chyba</Title>
+      <Message>Došlo k interní chybě v komunikaci RIS-OUT. Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="37602">
+      <Title>Interní chyba</Title>
+      <Message>Došlo k interní chybě v komunikaci RIS-OUT. Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>Interní chyba</Title>
+      <Message>Bylo přijato koncové upozornění. [{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37699">
+      <Title>Interní chyba</Title>
+      <Message>Došlo k nedefinované chybě. [{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37603">
+      <Title>Interní chyba</Title>
+      <Message>Došlo k interní chybě v komunikaci RIS-OUT. Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="37604">
+      <Title>Interní chyba</Title>
+      <Message>Došlo k interní chybě v komunikaci RIS-OUT. Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="37605">
+      <Title>Interní chyba</Title>
+      <Message>Došlo k interní chybě v komunikaci RIS-OUT. Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="27730">
+      <Title>Chyba komunikace</Title>
+      <Message>Došlo k chybě komunikace v komunikaci RIS-OUT. Zkontrolujte cíl komunikace.</Message>
+    </EventString>
+    <EventString Key="27731">
+      <Title>Chyba komunikace</Title>
+      <Message>Došlo k chybě komunikace v komunikaci RIS-OUT. Zkontrolujte cíl komunikace.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

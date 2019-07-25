@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientRegistrationDomainExtender0001">
+      <Title>Klaida</Title>
+      <Message>Įvesti metai negalioja.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0002">
+      <Title>Klaida</Title>
+      <Message>Įvestas mėnuo negalioja.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0003">
+      <Title>Klaida</Title>
+      <Message>Įvesta diena negalioja.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0004">
+      <Title>Klaida</Title>
+      <Message>Įvesta reikšmė negalioja.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0005">
+      <Title>Klaida</Title>
+      <Message>Nepasiektas didžiausias leistinas ženklų skaičius.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0006">
+      <Title>Klaida</Title>
+      <Message>Nepasiektas mažiausias leistinas ženklų skaičius.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0007">
+      <Title>Klaida</Title>
+      <Message>Įveskite skaičių.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0008">
+      <Title>Klaida</Title>
+      <Message>Įvesta reikšmė negalioja</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0009">
+      <Title>Klaida</Title>
+      <Message>Įveskite raidinį skaitmeninį ženklą.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0010">
+      <Title>Klaida</Title>
+      <Message>Leidžiama tik kana.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0011">
+      <Title>Klaida</Title>
+      <Message>Negaliojanti reikšmė. Čia negalima naudoti "\".</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0012">
+      <Title>Klaida</Title>
+      <Message>Įvesti metai negalioja.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0013">
+      <Title>Klaida</Title>
+      <Message>Įvesti metai negalioja.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0014">
+      <Title>Klaida</Title>
+      <Message>Įvesti metai negalioja. Įveskite 1800 arba didesnę reikšmę.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0015">
+      <Title>Klaida</Title>
+      <Message>Duomenų diapazono klaida. Patikrinkite.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0016">
+      <Title>Klaida</Title>
+      <Message>Įvesta valanda negalioja.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0017">
+      <Title>Klaida</Title>
+      <Message>Įvestos minutės negalioja.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0018">
+      <Title>Klaida</Title>
+      <Message>Įvestos sekundės negalioja.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0019">
+      <Title>Klaida</Title>
+      <Message>Įveskite sveikąjį skaičių.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0020">
+      <Title>Klaida</Title>
+      <Message>Paieškos klaida</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0021">
+      <Title>Įspėjimas</Title>
+      <Message>Paciento informacijos keitimas gali sukelti PACS tyrimo atitikties klaidų. Tuojau pat patvirtinkite PACS visus pakeistus duomenis.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0022">
+      <Title>Patvirtinimas</Title>
+      <Message>„PatientID“ yra privalomas. Įveskite „PatientID“.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0023">
+      <Title>Patvirtinimas</Title>
+      <Message>Tyrimo ID yra privalomas Įveskite tyrimo ID.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0024">
+      <Title>Patvirtinimas</Title>
+      <Message>„PatientName“ yra privalomas. Įveskite „PatientName“.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0025">
+      <Title>Patvirtinimas</Title>
+      <Message>„PatientName“ yra privalomas. Įveskite „PatientName“.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0026">
+      <Title>Patvirtinimas</Title>
+      <Message>„PatientName“ yra privalomas. Įveskite „PatientName“.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0027">
+      <Title>Patvirtinimas</Title>
+      <Message>Lytis yra privaloma. Įveskite lytį.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0028">
+      <Title>Patvirtinimas</Title>
+      <Message>Gimimo data yra privalomas. Įveskite gimimo datą.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0029">
+      <Title>Klaida</Title>
+      <Message>Negalima perskaityti magnetinės kortelės. Iš naujo paleiskite sistemą.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0030">
+      <Title>Klaida</Title>
+      <Message>Neįvestas privalomas laukelis. Vykdyti neįmanoma.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0031">
+      <Title>Patvirtinimas</Title>
+      <Message>Šiame tyrime yra neapsaugotas vaizdas, ar norite redaguoti tyrimą?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0032">
+      <Title>Patvirtinimas</Title>
+      <Message>Ar tikrai užverti veikiantį „Dr.View“?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0033">
+      <Title>Patvirtinimas</Title>
+      <Message>Ar norite iš naujo paleisti „Dr.View“? </Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0034">
+      <Title>Patvirtinimas</Title>
+      <Message>Tyrimas bus grąžintas į pristabdymo būklę. Ar tikrai taip?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0035">
+      <Title>Klaida</Title>
+      <Message>Nėra nė vieno susijusio tyrimo, paciento informacijos.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0036">
+      <Title>Patvirtinimas</Title>
+      <Message>Tyrimas jau yra DB. Ar norite panaudoti šį tyrimą?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0037">
+      <Title>Patvirtinimas</Title>
+      <Message>Pacientas jau yra DB. Ar norite panaudoti šio paciento informaciją?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0038">
+      <Title>Klaida</Title>
+      <Message>Negalima pažymėti dauginių pacientų.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0039">
+      <Title>Klaida</Title>
+      <Message>DB klaida - nepavyko sukurti tvarkos.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0040">
+      <Title>Klaida</Title>
+      <Message>Klaida atnaujinant paciento DB.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0041">
+      <Title>Klaida</Title>
+      <Message>Susijusio paciento nėra DB.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0042">
+      <Title>Klaida</Title>
+      <Message>Šis ženklas neleidžiamas</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0046">
+      <Title>Klaida</Title>
+      <Message>Būsimi metai neįmanomi.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0047">
+      <Title>Klaida</Title>
+      <Message>Būsimas mėnuo neįmanomas.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0048">
+      <Title>Klaida</Title>
+      <Message>Būsima data neįmanoma.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0049">
+      <Title>Klaida</Title>
+      <Message>Įvesti metai nėra keliamieji metai. Patikrinkite datą.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0052">
+      <Title>Patvirtinimas</Title>
+      <Message>Tvarka yra registruota. Ar norite ją pakeisti?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0053">
+      <Title>Patvirtinimas</Title>
+      <Message>Tas pat paciento ID:{0}, paciento vardas, pavardė: {1}, lytis: {2}, gimimo data:{3} yra prieinami duomenų bazėje, ar norite juos pakeisti?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0054">
+      <Title>Klaida</Title>
+      <Message>Negaliojanti reikšmė. Čia negalima naudoti "\", "^" arba "=".</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0055">
+      <Title>Klaida</Title>
+      <Message>Negaliojanti reikšmė. Čia negalima naudoti "\" arba "=".</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0056">
+      <Title>Klaida</Title>
+      <Message>Operacija neįmanoma.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0057">
+      <Title>Patvirtinimas</Title>
+      <Message>Ar norite viską išvalyti?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0058">
+      <Title>Klaida</Title>
+      <Message>Prašom įvesti privalomus laukelius</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0059">
+      <Title>Patvirtinimas</Title>
+      <Message>Ar norite registruoti šį tyrimą?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0060">
+      <Title>Klaida</Title>
+      <Message>Registravimas nepavyko</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0061">
+      <Title>Patvirtinimas</Title>
+      <Message>Ar norite pakeisti šiuos duomenis?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0062">
+      <Title>Klaida</Title>
+      <Message>Nėra nė vieno susijusio tyrimo, paciento.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0063">
+      <Title>Klaida</Title>
+      <Message>Įveskite turinį paieškai vykdyti</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0064">
+      <Title>Klaida</Title>
+      <Message>Įrašykite reikšmes turinio datos ir turinio laiko langeliuose</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

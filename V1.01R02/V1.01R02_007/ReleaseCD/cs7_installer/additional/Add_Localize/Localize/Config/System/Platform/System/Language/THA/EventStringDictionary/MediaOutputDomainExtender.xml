@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="MediaOutputDomainExtender0000">
+      <Title />
+      <Message>ปีที่ป้อนไม่ถูกต้อง</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0001">
+      <Title />
+      <Message>เดือนที่ป้อนไม่ถูกต้อง</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0002">
+      <Title />
+      <Message>วันที่ป้อนไม่ถูกต้อง</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0003">
+      <Title />
+      <Message>ค่าอยู่นอกช่วง</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0004">
+      <Title />
+      <Message>ความยาวมากกว่าความยาวสูงสุด</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0005">
+      <Title />
+      <Message>ความยาวต่ำกว่าความยาวต่ำสุด</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0006">
+      <Title />
+      <Message>ค่าที่ป้อนไม่ใช่ตัวเลข</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0007">
+      <Title />
+      <Message>ค่าที่ป้อนไม่ถูกต้อง</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0008">
+      <Title />
+      <Message>อนุญาตเฉพาะตัวอักขระ</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0009">
+      <Title />
+      <Message>อนุญาตเฉพาะตัวคะนะ</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0010">
+      <Title />
+      <Message>ค่าไม่ถูกต้อง ไม่สามารถใช้ '\\', '^' , '=' ที่นี่</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0011">
+      <Title />
+      <Message>ไม่อนุญาตอักขระไบต์คู่</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0012">
+      <Title />
+      <Message>ตัวอักขระที่ป้อนไม่ถูกต้อง</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0013">
+      <Title />
+      <Message>ข้อผิดพลาดในการเขียนสื่อ</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0014">
+      <Title />
+      <Message>ยังไม่ได้ใส่สื่อบันทึก</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0015">
+      <Title />
+      <Message>แสดงข้อมูลแล้ว</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0016">
+      <Title />
+      <Message>พื้นที่ว่างไม่พอ</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0017">
+      <Title />
+      <Message>ชื่อโฟลเดอร์ที่ระบุไม่ถูกต้อง</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0018">
+      <Title />
+      <Message>อักขระต่อไปนี้ไม่สามารถใช้เป็นชื่อโฟลเดอร์ 
+.\/:*?"&amp;lt;&amp;gt;|</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0019">
+      <Title />
+      <Message>มีชื่อโฟลเดอร์เดียวกันนี้แล้ว เขียนทับหรือไม่</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0020">
+      <Title />
+      <Message>อยู่ระหว่างการยกเลิก โปรดรอ</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0021">
+      <Title />
+      <Message>สำหรับรายการนี้ ไม่สามารถใช้ '\','=' ได้</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

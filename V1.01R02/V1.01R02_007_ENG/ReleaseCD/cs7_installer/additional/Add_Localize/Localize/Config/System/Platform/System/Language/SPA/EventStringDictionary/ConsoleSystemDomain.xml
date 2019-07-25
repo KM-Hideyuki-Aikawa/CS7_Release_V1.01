@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ConsoleSystemDomain0001">
+      <Title />
+      <Message>El nivel de la batería es bajo. Cargue la batería.</Message>
+    </EventString>
+    <EventString Key="ConsoleSystemDomain0003">
+      <Title />
+      <Message>No pueden capturarse imágenes por batería baja. Cargue la batería.</Message>
+    </EventString>
+    <EventString Key="ConsoleSystemDomain0005">
+      <Title>Registro correcto</Title>
+      <Message>Se ha registrado el siguiente AeroDR.
+Nombre AeroDR: {DeviceName}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

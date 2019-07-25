@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1000">
+      <Title>AeroDR XG BOX 연결 오류</Title>
+      <Message>네트워킹 장치와 케이블 연결부를 확인해 주십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1001">
+      <Title>AeroDR - AeroDR XG BOX 연결 오류</Title>
+      <Message>네트워킹 장치와 케이블 연결부를 확인해 주십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1002">
+      <Title>노출장 동기화 오류</Title>
+      <Message>노출 필드 설정 오류.
+네트워크 연결을 확인하고 이 노출 조건을 누르십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1003">
+      <Title>노출 오류</Title>
+      <Message>노출 시 통신 오류입니다. 네트워크 연결 상태를 확인하고 이 노출 조건을 누르십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1004">
+      <Title>버전 업 오류</Title>
+      <Message>버전 업에 실패했습니다.
+연결 상태를 점검하고 AeroDR 생성기 인터페이스 장치 및 CS-7를 재시작하십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1005">
+      <Title>설정 값 오류</Title>
+      <Message>설정 데이터를 설정하지 못했습니다. 
+네트워크 연결 상태를 확인한 후 다시 시도해 주십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1006">
+      <Title>설정 값 오류</Title>
+      <Message>설정 데이터를 확보하지 못했습니다. 
+네트워크 연결 상태를 확인한 후 다시 시도해 주십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1007">
+      <Title>노출 동기화 설정 오류</Title>
+      <Message>노출 동기화 설정 오류. 네트워크 연결을 확인하고 이 노출 조건을 누르십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2000">
+      <Title>[AeroDR XG] 시동 오류</Title>
+      <Message>시동 오류입니다.
+노출 스위치에서 손을 떼십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2001">
+      <Title>[AeroDR XG] 시동 오류</Title>
+      <Message>시동 오류가 존재합니다.
+노출 스위치에서 손을 떼십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2002">
+      <Title>[AeroDR XG] 시동 오류</Title>
+      <Message>시동 오류가 존재합니다.
+서비스 직원에게 문의하십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2003">
+      <Title>[AeroDR XG] 시동 오류</Title>
+      <Message>시동 오류가 존재합니다.
+노출 스위치에서 손을 떼십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2004">
+      <Title>[AeroDR XG] 시동 오류</Title>
+      <Message>시동 오류가 존재합니다.
+노출 스위치에서 손을 떼십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2005">
+      <Title>[AeroDR XG] 시동 오류</Title>
+      <Message>시동 오류가 존재합니다.
+서비스 직원에게 문의하십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2006">
+      <Title>[AeroDR XG] 시동 오류</Title>
+      <Message>시동 오류가 존재합니다.
+노출 스위치에서 손을 떼십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2007">
+      <Title>[AeroDR XG] 시동 오류</Title>
+      <Message>시동 오류가 존재합니다. 노출 스위치에서 손을 떼십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2008">
+      <Title>[AeroDR XG] 시동 오류</Title>
+      <Message>시동 오류가 존재합니다.
+서비스 직원에게 문의하십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2200">
+      <Title>[AeroDR XG] 노출 오류</Title>
+      <Message>X선 장치 노출 연결 오류가 있습니다. X선 장치와 AeroDR 인터페이스 유닛을 다시 시작하십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2201">
+      <Title>[AeroDR XG] 노출 오류</Title>
+      <Message>X선 장치 노출 연결 오류가 있습니다. 서비스 담당자에게 문의하십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2500">
+      <Title>[AeroDR XG] 노출 오류</Title>
+      <Message>내부 장치 오류가 존재합니다.
+AeroDR 인터페이스 장치를 재시작하십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2300">
+      <Title>[AeroDR XG] 노출 오류</Title>
+      <Message>내부 장치 오류 또는 통신 오류가 있습니다. AeroDR 검출기, AeroDR 인터페이스 유닛, CS-7을 다시 시작하십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2301">
+      <Title>[AeroDR XG] 노출 오류</Title>
+      <Message>내부 장치 오류 또는 통신 오류가 존재합니다. AeroDR 검출기, AeroDR 인터페이스 유닛, CS-7을 다시 시작하십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2302">
+      <Title>[AeroDR XG] 노출 오류</Title>
+      <Message>내부 장치 오류 또는 통신 오류가 있습니다. AeroDR 검출기, AeroDR 인터페이스 유닛, CS-7을 다시 시작하십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2400">
+      <Title>AeroDR XG BOX 네트워크 오류</Title>
+      <Message>AeroDR XG BOX를 리셋하십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2401">
+      <Title>AeroDR XG BOX 네트워크 오류</Title>
+      <Message>AeroDR XG BOX를 리셋하십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2402">
+      <Title>AeroDR XG BOX 네트워크 오류</Title>
+      <Message>AeroDR XG BOX를 리셋하십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2403">
+      <Title>AeroDR XG BOX 네트워크 오류</Title>
+      <Message>AeroDR XG BOX를 리셋하십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2501">
+      <Title>[AeroDR XG] 노출 오류</Title>
+      <Message>내부 장치 오류 또는 통신 오류가 존재합니다. 서비스 직원에게 문의하십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4100">
+      <Title>[AeroDR XG] 노출 오류</Title>
+      <Message>노출 스위치가 해제되지 않았습니다. 노출 스위치에서 손을 떼십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4101">
+      <Title>[AeroDR XG] 노출 오류</Title>
+      <Message>노출 스위치가 해제되지 않았습니다.
+노출 스위치에서 손을 떼십시오.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4102">
+      <Title>[AeroDR XG] 노출 오류</Title>
+      <Message>노출 스위치가 해제되지 않았습니다.
+노출 스위치에서 손을 떼십시오.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

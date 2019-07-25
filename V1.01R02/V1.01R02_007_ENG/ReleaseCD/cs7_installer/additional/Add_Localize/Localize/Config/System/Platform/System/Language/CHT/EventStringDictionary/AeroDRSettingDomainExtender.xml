@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="AeroDRSettingDomainExtender0003">
+      <Title>錯誤</Title>
+      <Message>選擇了無效的校正資料</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0004">
+      <Title>確認</Title>
+      <Message>校正資料已經存在，您確定要覆寫嗎？</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0005">
+      <Title>錯誤</Title>
+      <Message>無法新增 AeroDR 面板。</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0006">
+      <Title>錯誤</Title>
+      <Message>無法取得 AeroDR 面板資訊。</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0007">
+      <Title>錯誤</Title>
+      <Message>無法配置 AeroDR 面板。</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0008">
+      <Title>錯誤</Title>
+      <Message>無法新增 XG BOX。</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0009">
+      <Title>錯誤</Title>
+      <Message>無法取得 XG BOX。</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0010">
+      <Title>錯誤</Title>
+      <Message>無法設定 XG BOX。</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0011">
+      <Title>錯誤</Title>
+      <Message>無法刪除 AeroDR 面板。</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0012">
+      <Title>確認</Title>
+      <Message>您確定要取消登錄 AeroDR 面板嗎？</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0013">
+      <Title>確認</Title>
+      <Message>AeroDR 面板的配置尚未下載，您確定要取消登錄 AeroDR 面板嗎？</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0014">
+      <Title>確認</Title>
+      <Message>還有 AeroDR 面板或 XG BOX 的配置尚未上傳，您確定要儲存配置嗎？</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0015">
+      <Title>注意</Title>
+      <Message>無法取消變更，因為 AeroDR 面板或 XG BOX 的配置已經上傳。</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0016">
+      <Title>錯誤</Title>
+      <Message>有無效資料，請確認輸入資料。</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0017">
+      <Title>錯誤</Title>
+      <Message>請變更 AeroDR 面板的配置。</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0018">
+      <Title>確認</Title>
+      <Message>確定要將設定傳送到伺服器嗎？</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0019">
+      <Title>錯誤</Title>
+      <Message>傳輸設定時出錯， 請檢查網路連接並重試。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

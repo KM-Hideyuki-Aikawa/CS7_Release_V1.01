@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0401">
+      <Title>Ошибка передачи</Title>
+      <Message>Внутренняя ошибка в соединении с рентгеновским аппаратом.</Message>
+    </EventString>
+    <EventString Key="0402">
+      <Title>Внутренняя ошибка</Title>
+      <Message>Внутренняя ошибка в соединении с рентгеновским аппаратом.</Message>
+    </EventString>
+    <EventString Key="0403">
+      <Title>Ошибка передачи</Title>
+      <Message>Не удалось передать условия облучения в рентг. систему. Перезапустите рентгеновский аппарат.</Message>
+    </EventString>
+    <EventString Key="0404">
+      <Title>Ошибка настройки</Title>
+      <Message>Ошибка настройки параметра рентг. системы.</Message>
+    </EventString>
+    <EventString Key="0405">
+      <Title>Ошибка устройства</Title>
+      <Message>Ошибка рентг. системы.</Message>
+    </EventString>
+    <EventString Key="0406">
+      <Title>Ошибка передачи</Title>
+      <Message>Ошибка связи с рентгеновской системой. Проверьте сеть.</Message>
+    </EventString>
+    <EventString Key="0301">
+      <Title />
+      <Message />
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

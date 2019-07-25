@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0001">
+      <Title>错误</Title>
+      <Message>初始化错误</Message>
+    </EventString>
+    <EventString Key="0002">
+      <Title>信息</Title>
+      <Message>合并成功</Message>
+    </EventString>
+    <EventString Key="0003">
+      <Title>错误</Title>
+      <Message>找不到目录</Message>
+    </EventString>
+    <EventString Key="0004">
+      <Title>错误</Title>
+      <Message>找不到文件</Message>
+    </EventString>
+    <EventString Key="0005">
+      <Title>错误</Title>
+      <Message>语法错误</Message>
+    </EventString>
+    <EventString Key="0006">
+      <Title>错误</Title>
+      <Message>备份删除出错</Message>
+    </EventString>
+    <EventString Key="0007">
+      <Title>错误</Title>
+      <Message>备份创建出错</Message>
+    </EventString>
+    <EventString Key="0008">
+      <Title>错误</Title>
+      <Message>访问数据出错</Message>
+    </EventString>
+    <EventString Key="0009">
+      <Title>错误</Title>
+      <Message>保存出错</Message>
+    </EventString>
+    <EventString Key="0010">
+      <Title>错误</Title>
+      <Message>查找索引出错</Message>
+    </EventString>
+    <EventString Key="0011">
+      <Title>错误</Title>
+      <Message>添加数据出错</Message>
+    </EventString>
+    <EventString Key="0012">
+      <Title>错误</Title>
+      <Message>标准数据拷贝出错</Message>
+    </EventString>
+    <EventString Key="0013">
+      <Title>错误</Title>
+      <Message>出现异常</Message>
+    </EventString>
+    <EventString Key="0014">
+      <Title>错误</Title>
+      <Message>出现异常</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

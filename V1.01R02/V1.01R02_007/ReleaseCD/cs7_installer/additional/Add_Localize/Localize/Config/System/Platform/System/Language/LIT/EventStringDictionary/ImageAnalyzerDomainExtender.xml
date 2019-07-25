@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0104">
+      <Title>Klaida</Title>
+      <Message>Nepavyko pradėti vaizdo gavimo sekos.</Message>
+    </EventString>
+    <EventString Key="0112">
+      <Title>Klaida</Title>
+      <Message>Nepavyko analizuoti elektros triukšmų.</Message>
+    </EventString>
+    <EventString Key="0113">
+      <Title>Klaida</Title>
+      <Message>Nepavyko analizuoti nelygumų.</Message>
+    </EventString>
+    <EventString Key="0114">
+      <Title>Klaida</Title>
+      <Message>Nepavyko atnaujinti pagrindinių defektų atvaizdžio.</Message>
+    </EventString>
+    <EventString Key="0115">
+      <Title>Klaida</Title>
+      <Message>Nepavyko atnaujinti defektų atvaizdžio.</Message>
+    </EventString>
+    <EventString Key="0116">
+      <Title>Klaida</Title>
+      <Message>Nepavyko gauti vaizdo.</Message>
+    </EventString>
+    <EventString Key="0117">
+      <Title>Informacija</Title>
+      <Message>Vaizdo analizė baigta.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

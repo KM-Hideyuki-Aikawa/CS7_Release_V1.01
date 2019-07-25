@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title>Σφάλμα</Title>
+      <Message>Μη έγκυρος χαρακτήρας. Εισαγάγετε τον σωστό χαρακτήρα</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title>Σφάλμα</Title>
+      <Message>Καθορίστε την τάση σωλήνα μεταξύ 1 και 999.</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Θέλετε να αποθηκευτούν οι αλλαγές;</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

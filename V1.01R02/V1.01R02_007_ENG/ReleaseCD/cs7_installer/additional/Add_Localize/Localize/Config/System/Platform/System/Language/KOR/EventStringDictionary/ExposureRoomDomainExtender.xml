@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ExposureRoomDomainExtender0001">
+      <Title>확인</Title>
+      <Message>조사실이 [exposure room 2]로 변경됩니다. 수락하시겠습니까? [exposure room 2]에 콘솔이 연결되어 있을 때 이 콘솔이 차단됩니다. [exposure room 2]이 노출되지 않았는지 확인하십시오. 변경한 후엔 시스템을 재시작해야 합니다. </Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0002">
+      <Title>사용 중인 조사실이 성공적으로 변경되었습니다.</Title>
+      <Message>사용 중인 조사실이 변경되었습니다. 이 경우 응용 프로그램을 재시작해야 합니다.</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0003">
+      <Title>조사실 변경 중 오류가 발생했습니다.</Title>
+      <Message>[XXX]로 인해 조사실을 변경할 수 없습니다.</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0004">
+      <Title>확인</Title>
+      <Message>무선 사용 여부는 가능/불가능으로 설정됩니다. 수락하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0005">
+      <Title>Confirmation</Title>
+      <Message>Please wait till wireless switching happens.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

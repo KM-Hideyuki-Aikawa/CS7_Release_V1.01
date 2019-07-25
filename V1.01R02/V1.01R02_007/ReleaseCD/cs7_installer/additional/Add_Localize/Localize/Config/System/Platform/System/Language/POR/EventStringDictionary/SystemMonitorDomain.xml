@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="SystemMonitorDomain00001">
+      <Title>Componente do leitor</Title>
+      <Message>(NomeLeitor) em (NomeComponente) está prestes a expirar. Por favor chame a manutenção.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00002">
+      <Title>Componte do leitor</Title>
+      <Message>(NomeComponente) está prestes a expirar. Por favor chame a manutenção.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00003">
+      <Title>Componte do leitor</Title>
+      <Message>(NomeLeitor) em (NomeComponente) expirou. Por favor chame a manutenção.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00004">
+      <Title>Componente do leitor</Title>
+      <Message>(NomeComponente) expirou. Por favor chame a manutenção.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00005">
+      <Title />
+      <Message>Pretende terminar o sistema?</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00006">
+      <Title />
+      <Message>Atualização bem-sucedida.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00007">
+      <Title />
+      <Message>Logout da aplicação efetuado com sucesso.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00008">
+      <Title>Erro</Title>
+      <Message>Não é possível processar o seu pedido de logout. </Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00009">
+      <Title>Erro</Title>
+      <Message>Por favor verifique (DomainExtenderName) PlugIn não carregado.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00010">
+      <Title />
+      <Message>Tem a certeza que pretende efetuar logoff?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

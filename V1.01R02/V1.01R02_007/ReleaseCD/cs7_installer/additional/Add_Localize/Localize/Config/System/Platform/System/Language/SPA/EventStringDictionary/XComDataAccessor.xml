@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0401">
+      <Title>Error de envío</Title>
+      <Message>Error interno en proceso de comunicación con rayos X.</Message>
+    </EventString>
+    <EventString Key="0402">
+      <Title>Error interno</Title>
+      <Message>Error interno en proceso de comunicación con rayos X.</Message>
+    </EventString>
+    <EventString Key="0403">
+      <Title>Error de envío</Title>
+      <Message>Fallo de envío de comando de condiciones exposición para sist. rayos X. Reinicie dispositivo rayos X.</Message>
+    </EventString>
+    <EventString Key="0404">
+      <Title>Error de configuración</Title>
+      <Message>Configuración de parámetros para error de sistema rayos X.</Message>
+    </EventString>
+    <EventString Key="0405">
+      <Title>Error de dispositivo</Title>
+      <Message>Detectado error sistema rayos X.</Message>
+    </EventString>
+    <EventString Key="0406">
+      <Title>Error de envío</Title>
+      <Message>Error de conexión con sist. de rayos X. Compruebe la red.</Message>
+    </EventString>
+    <EventString Key="0301">
+      <Title />
+      <Message />
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

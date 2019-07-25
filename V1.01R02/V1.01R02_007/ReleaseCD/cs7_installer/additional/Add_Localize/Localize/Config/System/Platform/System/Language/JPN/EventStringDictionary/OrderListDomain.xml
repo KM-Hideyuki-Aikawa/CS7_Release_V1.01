@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="OrderListDomain0001">
+      <Title>エラー</Title>
+      <Message>データベース更新エラー</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0002">
+      <Title>警告</Title>
+      <Message>不正な値であるため実行できません。</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0003">
+      <Title>警告</Title>
+      <Message>入力必須項目が入力されていません。</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0004">
+      <Title>エラー</Title>
+      <Message>実行できません。</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0005">
+      <Title>エラー</Title>
+      <Message>患者情報更新エラー</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0006">
+      <Title>情報</Title>
+      <Message>データベースのデータが更新されました。更新された検査が表示されます。</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0007">
+      <Title>エラー</Title>
+      <Message>データベースから検査が削除されました。操作を実行できません。</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0008">
+      <Title>確認</Title>
+      <Message>データベースに同じ患者ID ({0},患者氏名: {1},患者の性別 {2},DOB:{3}) の患者がいます。データベースのデータを使用しますか？</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0009">
+      <Title>確認</Title>
+      <Message>この検査は検査中の検査です。検査開始しますか？</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0010">
+      <Title>警告</Title>
+      <Message>この検査は既に別の撮影室で検査開始をしています。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

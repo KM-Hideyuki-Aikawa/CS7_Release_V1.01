@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>InitializeMsg1</Key>
+      <Value>初期化する項目を選択してください。</Value>
+      <Comment>Please select the data to be initialized</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InitializeMsg2</Key>
+      <Value />
+      <Comment>Initialization would restore the shipment defaults</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Log</Key>
+      <Value>ログ</Value>
+      <Comment>Log</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LogMsg</Key>
+      <Value>全てのログ（管理ログ、DBログ、リーダーログ、HIPPAログ、デバッグログなど）が削除されます。</Value>
+      <Comment>All Log（Maintenance Log,DB Log,Reader Log,Hipaa Log,Debug Log etc) will be deleted</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LblSettings</Key>
+      <Value>設定</Value>
+      <Comment>Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SettingsMsg</Key>
+      <Value>システム設定、装置設定、画面設定、撮影条件、ライセンスが初期化されます。</Value>
+      <Comment>System Settings, device settings and DB(master) will be initialized</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CorrectionData</Key>
+      <Value>補正データ</Value>
+      <Comment>Correction Data</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CorrectionDataMsg</Key>
+      <Value>各種リーダーの補正データが削除されます。</Value>
+      <Comment>Correction data of DR Cassette ,CR Cassette will be deleted</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OperationData</Key>
+      <Value>運用データ</Value>
+      <Comment>Operation Data</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OperationDataMsg</Key>
+      <Value>画像、患者DB、保全データが初期化されます。</Value>
+      <Comment>Images, DB(transactions) and maintenance data will be initialized</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BtnInitialize</Key>
+      <Value>実行</Value>
+      <Comment>Initialize</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BtnClose</Key>
+      <Value>閉じる</Value>
+      <Comment>Close</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InitializationCompletedMessage</Key>
+      <Value>初期化が完了しました。</Value>
+      <Comment>InitializationCompletedMessage</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxTitle</Key>
+      <Value>初期化</Value>
+      <Comment>MessageBoxTitle</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InitializationConfirmationMessage</Key>
+      <Value>選択した項目を初期化します。初期化した場合、元には戻せません。よろしいですか？</Value>
+      <Comment>InitializationConfirmationMessage</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefaultSettingFolderNotAvailableMessage</Key>
+      <Value>初期化用ファイルが見つかりませんでした。初期化できません。</Value>
+      <Comment>DefaultSettingFolderNotAvailableMessage</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

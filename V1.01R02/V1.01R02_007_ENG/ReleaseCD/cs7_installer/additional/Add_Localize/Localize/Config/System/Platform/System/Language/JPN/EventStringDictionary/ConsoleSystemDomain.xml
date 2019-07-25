@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ConsoleSystemDomain0001">
+      <Title />
+      <Message>電池残量が少ないです。充電をして下さい。</Message>
+    </EventString>
+    <EventString Key="ConsoleSystemDomain0003">
+      <Title />
+      <Message>電池残量が不足しているため
+AeroDR:{DeviceName}では撮影できません。
+充電をして下さい。</Message>
+    </EventString>
+    <EventString Key="ConsoleSystemDomain0005">
+      <Title>登録成功</Title>
+      <Message>以下のAeroDRが登録されました。
+AeroDR名:{DeviceName}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

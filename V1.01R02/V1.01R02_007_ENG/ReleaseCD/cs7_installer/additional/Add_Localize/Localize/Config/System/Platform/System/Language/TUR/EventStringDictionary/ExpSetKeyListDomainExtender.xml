@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ExpSetKeyListDomainExtender0000">
+      <Title />
+      <Message>Görüntü işleme parametreleri değiştirilsin mi?</Message>
+    </EventString>
+    <EventString Key="ExpSetKeyListDomainExtender0001">
+      <Title />
+      <Message>Kayıtlı kaset bar kodu silinsin mi?</Message>
+    </EventString>
+    <EventString Key="ExpSetKeyListDomainExtender0002">
+      <Title />
+      <Message>{MaxSize} görüntüden fazlasını kaydedemezsiniz.</Message>
+    </EventString>
+    <EventString Key="ExpSetKeyListDomainExtender0003">
+      <Title />
+      <Message>Bu görüntü alma koşulu anahtarına bir bar kodu kayıtlıdır. Kayıt değiştirilsin mi?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35500">
+      <Title>Alustusvirhe</Title>
+      <Message>Alustaminen epäonnistui.</Message>
+    </EventString>
+    <EventString Key="35501">
+      <Title>Asetusvirhe</Title>
+      <Message>Virhe asetustiedoston lukemisessa.</Message>
+    </EventString>
+    <EventString Key="35502">
+      <Title>Aikakatkaisuvirhe</Title>
+      <Message>Tapahtui aikakatkaisu.</Message>
+    </EventString>
+    <EventString Key="35503">
+      <Title>Socket-virhe</Title>
+      <Message>Socket-virhe tapahtui.</Message>
+    </EventString>
+    <EventString Key="37350">
+      <Title>Sisäinen virhe</Title>
+      <Message>DICOM-tiedonsiirron sisäinen virhe. Ota yhteyttä huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>Sisäinen virhe</Title>
+      <Message>DICOM-tiedonsiirron sisäinen virhe. Ota yhteyttä huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>Sisäinen virhe</Title>
+      <Message>DICOM-tiedonsiirtoasetusta ei saatu. Tarkista tiedonsiirtoasetus.</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>Tiedonsiirtovirhe</Title>
+      <Message>Tiedonsiirto epäonnistui. Tarkista tiedonsiirtoasetus ja että palvelin toimii.</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>Tiedonsiirtovirhe</Title>
+      <Message>A-ASSOCIATE epäonnistui. Tarkista tiedonsiirtoasetus ja että palvelin toimii.</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>Tiedonsiirtovirhe</Title>
+      <Message>A-ASSOCIATE-palvelimen hylkäämä virheellisen asetuksen takia. Tarkista tiedonsiirtoasetus.</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>Tiedonsiirtovirhe</Title>
+      <Message>DICOM-tiedonsiirron sisäinen virhe. Ota yhteyttä huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="37357">
+      <Title>Tiedonsiirtovirhe</Title>
+      <Message>Vapautuksen tiedonsiirto epäonnistui. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>Tiedonsiirtovirhe</Title>
+      <Message>A-ABORT vastaanotettiin. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37610">
+      <Title>Sisäinen virhe</Title>
+      <Message>RIS-IN-tiedonsiirron sisäinen virhe. Ota yhteyttä huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="37611">
+      <Title>Sisäinen virhe</Title>
+      <Message>RIS-IN-tiedonsiirron sisäinen virhe. Ota yhteyttä huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="37612">
+      <Title>Sisäinen virhe</Title>
+      <Message>RIS-IN-tiedonsiirron sisäinen virhe. Ota yhteyttä huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="37613">
+      <Title>Sisäinen virhe</Title>
+      <Message>RIS-IN-tiedonsiirron sisäinen virhe. Ota yhteyttä huoltoedustajaan.</Message>
+    </EventString>
+    <EventString Key="37614">
+      <Title>Communication error</Title>
+      <Message>MWM C-FIND request aborted because it exceeded the maximum number of search responses.</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-IN communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-IN communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>Sisäinen virhe</Title>
+      <Message>Lopetusilmoitus vastaanotettiin.[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="27740">
+      <Title>Tiedonsiirtovirhe</Title>
+      <Message>RIS-IN-tiedonsiirron tiedonsiirtovirhe. Tarkista tiedonsiirtokohde.</Message>
+    </EventString>
+    <EventString Key="27741">
+      <Title>Tiedonsiirtovirhe</Title>
+      <Message>RIS-IN-tiedonsiirron tiedonsiirtovirhe. Tarkista tiedonsiirtokohde.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title />
+      <Message>要更改身体尺寸吗？请确认。</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title />
+      <Message>曝光结果应用于多个检查部位。检查标记“{EXAM_TAGS_INFO}”</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title />
+      <Message>未找到应用曝光结果的匹配检查部位， 请检查。</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title />
+      <Message>曝光条件的自动曝光控制 (AEC) 无法打开，关闭自动曝光控制可以吗？</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title />
+      <Message>无法更改患者尺寸的一些检查部位，请检查。</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title />
+      <Message>要改写准直器尺寸吗？</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

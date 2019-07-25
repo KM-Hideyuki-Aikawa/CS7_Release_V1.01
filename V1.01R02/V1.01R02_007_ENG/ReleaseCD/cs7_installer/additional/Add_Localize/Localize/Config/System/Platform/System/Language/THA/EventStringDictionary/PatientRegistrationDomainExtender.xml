@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientRegistrationDomainExtender0001">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ปีที่ป้อนไม่ถูกต้อง</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0002">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>เดือนที่ป้อนไม่ถูกต้อง</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0003">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>วันที่ป้อนไม่ถูกต้อง</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0004">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ค่าที่ป้อนไม่ถูกต้อง</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0005">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ยังไม่ครบจำนวนตัวอักขระสูงสุด</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0006">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ยังไม่ถึงจำนวนตัวอักขระต่ำสุด</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0007">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ป้อนตัวเลข</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0008">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ค่าที่ป้อนไม่ถูกต้อง</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0009">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>โปรดป้อนอักขระตัวอักษรผสมตัวเลข</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0010">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>อนุญาตเฉพาะตัวคะนะ</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0011">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ค่าไม่ถูกต้อง ไม่สามารถใช้ "\" ที่นี่</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0012">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ปีที่ป้อนไม่ถูกต้อง</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0013">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ปีที่ป้อนไม่ถูกต้อง</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0014">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ปีที่ป้อนไม่ถูกต้อง ป้อนค่า 1800 หรือมากกว่า</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0015">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ช่วงวันที่ผิดพลาด โปรดตรวจสอบ</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0016">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ชั่วโมงที่ป้อนไม่ถูกต้อง</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0017">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>นาทีที่ป้อนไม่ถูกต้อง</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0018">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>วินาทีที่ป้อนไม่ถูกต้อง</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0019">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>โปรดป้อนจำนวนเต็ม</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0020">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>เกิดข้อผิดพลาดในการค้นหา</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0021">
+      <Title>คำเตือน</Title>
+      <Message>การเปลี่ยนข้อมูลผู้ป่วยอาจทำให้เกิดข้อผิดพลาดในการจับคู่การตรวจดู PACS ยืนยันข้อมูลที่เปลี่ยนทั้งหมดบน PACS ทันที</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0022">
+      <Title>การยืนยัน</Title>
+      <Message>ต้องมี IDผู้ป่วย โปรดป้อน IDผู้ป่วย</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0023">
+      <Title>การยืนยัน</Title>
+      <Message>ต้องมี ID การตรวจดู โปรดป้อน ID การตรวจดู</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0024">
+      <Title>การยืนยัน</Title>
+      <Message>ต้องมีชื่อผู้ป่วย โปรดป้อนชื่อผู้ป่วย</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0025">
+      <Title>การยืนยัน</Title>
+      <Message>ต้องมีชื่อผู้ป่วย โปรดป้อนชื่อผู้ป่วย</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0026">
+      <Title>การยืนยัน</Title>
+      <Message>ต้องมีชื่อผู้ป่วย โปรดป้อนชื่อผู้ป่วย</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0027">
+      <Title>การยืนยัน</Title>
+      <Message>ต้องมีเพศ โปรดป้อนเพศ</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0028">
+      <Title>การยืนยัน</Title>
+      <Message>ต้องมีวันเกิด โปรดป้อนวันเกิด</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0029">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ไม่สามารถอ่านบัตรแถบแม่เหล็ก รีสตาร์ทระบบ</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0030">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ไม่ได้ป้อนฟิลด์บังคับ ดำเนินการไม่ได้</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0031">
+      <Title>การยืนยัน</Title>
+      <Message>มีภาพที่ฉายแสงในการตรวจดู คุณต้องการแก้ไขการตรวจดูหรือไม่</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0032">
+      <Title>การยืนยัน</Title>
+      <Message>ปิด Dr.View ที่ทำงานอยู่ได้หรือไม่</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0033">
+      <Title>การยืนยัน</Title>
+      <Message>ต้องการรีสตาร์ท Dr.View หรือไม่ </Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0034">
+      <Title>การยืนยัน</Title>
+      <Message>การตรวจดูจะย้อนคืนสู่สถานะถูกระงับ ทำได้หรือไม่</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0035">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ไม่มีการตรวจดูหรือข้อมูลผู้ป่วยที่เกี่ยวข้อง</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0036">
+      <Title>การยืนยัน</Title>
+      <Message>การตรวจดูแสดงอยู่ใน DB แล้ว คุณต้องการใช้การตรวจดูนั้นหรือไม่</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0037">
+      <Title>การยืนยัน</Title>
+      <Message>ข้อมูลผู้ป่วยแสดงอยู่ใน DB แล้ว คุณต้องการใช้ข้อมูลผู้ป่วยนั้นหรือไม่</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0038">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ไม่สามารถเลือกผู้ป่วยหลายคนได้</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0039">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ข้อผิดพลาด DB - ลำดับการสร้างล้มเหลว</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0040">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ผิดพลาดขณะอัพเดต DB ผู้ป่วย</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0041">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ผู้ป่วยเกี่ยวข้องไม่แสดงใน DB</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0042">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ไม่ยอมให้ใช้ตัวอักขระนี้</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0046">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ปีในอนาคตใช้ไม่ได้</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0047">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>เดือนในอนาคตใช้ไม่ได้</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0048">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>วันที่ในอนาคตใช้ไม่ได้</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0049">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ปีที่ป้อนไม่ใช่ปีอธิกสุรทิน ตรวจสอบวันที่</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0052">
+      <Title>การยืนยัน</Title>
+      <Message>ลงทะเบียนลำดับ คุณต้องการเขียนทับหรือไม่</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0053">
+      <Title>การยืนยัน</Title>
+      <Message>ID ผู้ป่วยรายเดียวกัน: {0},ชื่อผู้ป่วย: {1},เพศ: {2},วันเกิด:{3} มีอยู่ในฐานข้อมูล คุณต้องการเขียนทับหรือไม่</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0054">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ค่าไม่ถูกต้อง ไม่สามารถใช้ "\", "^" หรือ "=" ที่นี่</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0055">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ค่าไม่ถูกต้อง ไม่สามารถใช้ "\" หรือ "=" ที่นี่</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0056">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ดำเนินการไม่ได้</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0057">
+      <Title>การยืนยัน</Title>
+      <Message>คุณต้องการล้างทั้งหมดหรือไม่</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0058">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>โปรดป้อนฟิลด์บังคับ</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0059">
+      <Title>การยืนยัน</Title>
+      <Message>คุณต้องการลงทะเบียนการตรวจดูหรือไม่</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0060">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>การลงทะเบียนล้มเหลว</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0061">
+      <Title>การยืนยัน</Title>
+      <Message>คุณต้องการเขียนทับข้อมูลหรือไม่</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0062">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ไม่มีการตรวจดูหรือผู้ป่วยที่เกี่ยวข้อง</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0063">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>โปรดป้อนเนื้อหาสำหรับการค้นหา</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0064">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>โปรดป้อนค่าสำหรับทั้งฟิลด์วันที่ของเนื้อหาและเวลาของเนื้อหา</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="HostDomainExtender0001">
+      <Title>สถานะ Ping</Title>
+      <Message>เชื่อมต่อสำเร็จแล้ว</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0002">
+      <Title>สถานะ Ping</Title>
+      <Message>เชื่อมต่อล้มเหลว</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0003">
+      <Title>การยืนยัน</Title>
+      <Message>ต้องดำเนินการ Ping(C-ECHO) สำหรับบริการใด</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0004">
+      <Title>การยืนยัน</Title>
+      <Message>ลบคิวที่เลือกได้หรือไม่</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0005">
+      <Title>ข้อควรพิจารณา</Title>
+      <Message>โปรดเลือกคิวที่จะถูกลบ</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0006">
+      <Title>ข้อมูล</Title>
+      <Message>ลบคิวที่เลือกสำเร็จแล้ว</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0007">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ข้อผิดพลาดในการลบคิว</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0008">
+      <Title>ข้อควรพิจารณา</Title>
+      <Message>โฮสต์ที่ระบุนี้ซ้ำกับ CH อื่น ภาพอาจถูกเอาต์พุตโดยซ้ำกัน</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

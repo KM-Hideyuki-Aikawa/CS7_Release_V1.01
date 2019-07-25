@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ImageAcquisitionDomainExtender0000">
+      <Title>確認</Title>
+      <Message>写損にしてもよろしいですか？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0001">
+      <Title>確認</Title>
+      <Message>再撮影しますか？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender1001">
+      <Title>注意</Title>
+      <Message>{MaxSize}枚以上の撮影は追加できません 。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0002">
+      <Title>確認</Title>
+      <Message>写損を取り消しますか？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0003">
+      <Title>確認</Title>
+      <Message>未撮影が存在しています。
+検査を終了してもよろしいですか？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0004">
+      <Title>確認</Title>
+      <Message>他撮影室で検査を継続しますか？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0005">
+      <Title>確認</Title>
+      <Message>この撮影条件キーにはバーコードが登録されています。
+登録を解除してもよろしいですか？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0006">
+      <Title>エラー</Title>
+      <Message>画像読み取り中にエラーが発生しました。
+ネットワークを確認してください。
+リーダーを再起動してください。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0007">
+      <Title>エラー</Title>
+      <Message>患者ID：{PATIENTID}
+患者名：{PATIENTNAME}
+リーダー名： {READERNAME}
+画像受信が完了していません。
+ネットワークを確認してください。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0008">
+      <Title>警告</Title>
+      <Message>リーダー名： {READERNAME}
+画像受信をキャンセルしますか？
+キャンセルする場合はリーダーを再起動してください。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0009">
+      <Title>エラー</Title>
+      <Message>現在、画像の読み取り中です。時間を置いてからログインしてください。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0010">
+      <Title>エラー</Title>
+      <Message>検査終了に失敗しました。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0011">
+      <Title>エラー</Title>
+      <Message>検査保留に失敗しました。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0012">
+      <Title>エラー</Title>
+      <Message>このカセッテは通常専用です。
+撮影条件を確認してください。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0013">
+      <Title>エラー</Title>
+      <Message>このカセッテはマンモ専用です。
+撮影条件を確認してください。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0014">
+      <Title>エラー</Title>
+      <Message>このカセッテはPCM専用です。
+撮影条件を確認してください。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0015">
+      <Title>エラー</Title>
+      <Message>このカセッテは既に登録されています。
+別のカセッテを登録してください。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0016">
+      <Title>注意</Title>
+      <Message>既にこのカセッテは読み取りが開始されています。
+バーコード登録を削除できません。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0017">
+      <Title>注意</Title>
+      <Message>既にこのカセッテは読み取りが開始されています。
+読み取り順指定で登録したジョブを削除できません。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0018">
+      <Title>注意</Title>
+      <Message>既にこのカセッテは読み取りが開始されています。
+自動登録で登録されたジョブを削除できません。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0019">
+      <Title>確認</Title>
+      <Message>検査を保留します。よろしいですか？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0020">
+      <Title>確認</Title>
+      <Message>撮影済み画像がありません。未撮影状態に戻してもよろしいですか？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0021">
+      <Title>確認</Title>
+      <Message>登録したカセッテのバーコードを削除します。よろしいですか？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0022">
+      <Title>画像再送</Title>
+      <Message>本当に未転送画像をこのコンソールで削除しますか？
+[OK]：削除する
+[Cancel]：削除せずに戻る</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0023">
+      <Title>画像再送</Title>
+      <Message>{READERNAME}：未転送画像があります。未転送画像を削除しますか？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0024">
+      <Title>画像転送エラー</Title>
+      <Message>{READERNAME}：画像転送中に通信エラーが発生しました。通信ケーブル接続状態などを確認してください。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0025">
+      <Title>画像再送</Title>
+      <Message>{READERNAME}："{ImageAcquisitionConditionName}"の未転送画像があります。この画像を取得しますか？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0026">
+      <Title>確認</Title>
+      <Message>選択されている撮影条件を削除します。よろしいですか？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0027">
+      <Title>確認</Title>
+      <Message>検査ごと削除します。
+よろしいですか？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0028">
+      <Title>エラー</Title>
+      <Message>画像転送中にタイムアウトが発生しました。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0029">
+      <Title />
+      <Message>"{ImageAcquisitionConditionName}"の未転送画像があります。
+該当撮影条件の撮影装置が異なるため画像を取得できません。
+取得する場合はパネル状態を該当撮影条件に合わせてください。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0030">
+      <Title />
+      <Message>未転送画像の取得に失敗しました。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0031">
+      <Title />
+      <Message>未転送画像の削除に失敗しました。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0032">
+      <Title>確認</Title>
+      <Message>検査を保留します。よろしいですか？</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

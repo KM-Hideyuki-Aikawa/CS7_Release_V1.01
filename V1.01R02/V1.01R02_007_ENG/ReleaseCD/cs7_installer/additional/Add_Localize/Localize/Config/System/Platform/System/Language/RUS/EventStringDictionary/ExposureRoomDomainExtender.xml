@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ExposureRoomDomainExtender0001">
+      <Title>Подтверждение</Title>
+      <Message>Кабинет для проведения исследования будет изменен на [кабинет 2]. Выполнить? При наличии консоли, подключенной к [кабинету 2], эта консоль будет отключена. Проверьте отсутствие исследования в [кабинете 2]. После изменения необходим перезапуск системы. </Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0002">
+      <Title>Выполнено изменение активного кабинета.</Title>
+      <Message>Активный кабинет изменен. Требуется перезапуск приложения</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0003">
+      <Title>Ошибка при изменении кабинета.</Title>
+      <Message>Невозможно изменить кабинет проведения исследования: [XXX].</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0004">
+      <Title>Подтверждение</Title>
+      <Message>Беспроводное использование будет включено/отключено. Подтверждаете?</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0005">
+      <Title>Confirmation</Title>
+      <Message>Please wait till wireless switching happens.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

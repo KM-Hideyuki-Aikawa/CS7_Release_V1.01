@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientListDomainExtender0000">
+      <Title />
+      <Message>Zadaný rok je neplatný</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0001">
+      <Title />
+      <Message>Zadaný měsíc je neplatný</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0002">
+      <Title />
+      <Message>Zadaný den je neplatný</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0003">
+      <Title />
+      <Message>Hodnota je mimo rozsah</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0004">
+      <Title />
+      <Message>Délka je větší než MaxDélka</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0005">
+      <Title />
+      <Message>Délka je kratší než MinDélka</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0006">
+      <Title />
+      <Message>Zadaná hodnota není numerická</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0007">
+      <Title />
+      <Message>Zadaná hodnota je neplatná</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0008">
+      <Title />
+      <Message>Povolena pouze abeceda</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0009">
+      <Title />
+      <Message>Povolena pouze Kana</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0010">
+      <Title />
+      <Message>Neplatná hodnota. Zde nelze použít "\".</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0011">
+      <Title />
+      <Message>Tento znak není povolen</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0012">
+      <Title>Potvrzení</Title>
+      <Message>Chcete odstranit vybraný záznam?</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0013">
+      <Title />
+      <Message>Neplatná hodnota. Zde nelze použít "\", "^" nebo "=".</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0014">
+      <Title />
+      <Message>Neplatná hodnota. Zde nelze použít "\" nebo "=".</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0015">
+      <Title />
+      <Message>Chcete studii pozastavit?</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0016">
+      <Title>Vyhledávání čárového kódu</Title>
+      <Message>S danou informací existuje více {0} studií.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

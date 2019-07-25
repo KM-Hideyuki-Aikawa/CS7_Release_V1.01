@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="AeroDRSettingDomainExtender0003">
+      <Title>Fehler</Title>
+      <Message>Ungültige Korrekturdaten gewählt.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0004">
+      <Title>Bestätigung</Title>
+      <Message>Korrekturdaten sind bereits vorhanden. Möchten Sie diese überschreiben?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0005">
+      <Title>Fehler</Title>
+      <Message>Hinzufügen von AeroDR-Bildschirm fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0006">
+      <Title>Fehler</Title>
+      <Message>Abfrage der AeroDR-Bildschirmdaten fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0007">
+      <Title>Fehler</Title>
+      <Message>Konfiguration von AeroDR-Bildschirm fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0008">
+      <Title>Fehler</Title>
+      <Message>Hinzufügen von XG BOX fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0009">
+      <Title>Fehler</Title>
+      <Message>Abfrage der XG BOX fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0010">
+      <Title>Fehler</Title>
+      <Message>Konfiguration der XG BOX fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0011">
+      <Title>Fehler</Title>
+      <Message>Entfernen von AeroDR-Bildschirm fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0012">
+      <Title>Bestätigung</Title>
+      <Message>Soll AeroDR-Bildschirm wirklich abgemeldet werden?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0013">
+      <Title>Bestätigung</Title>
+      <Message>Konfiguration des AeroDR-Bildschirms nicht heruntergeladen. Soll AeroDR-Bildschirm wirklich abgemeldet werden?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0014">
+      <Title>Bestätigung</Title>
+      <Message>AeroDR-Bildschirm(e) oder XG BOX vorhanden, deren Konfiguration nicht hochgeladen wurde. Möchten Sie die Konfiguration sichern?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0015">
+      <Title>Achtung</Title>
+      <Message>Annullieren der Änderungen nicht möglich. Weil Konfiguration von AeroDR-Bildschirm oder XG BOX bereits hochgeladen.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0016">
+      <Title>Fehler</Title>
+      <Message>Ungültige Daten vorhanden. Prüfen Sie Ihre Eingaben.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0017">
+      <Title>Fehler</Title>
+      <Message>Ändern Sie die Konfiguration des AeroDR-Bildschirms.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0018">
+      <Title>Bestätigung</Title>
+      <Message>Einstellung wird an Server gesendet... sind Sie sicher?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0019">
+      <Title>Fehler</Title>
+      <Message>Fehler beim Übermitteln der Einstellung aufgetreten. Prüfen Sie die Netzwerkverbindung und versuchen es erneut.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

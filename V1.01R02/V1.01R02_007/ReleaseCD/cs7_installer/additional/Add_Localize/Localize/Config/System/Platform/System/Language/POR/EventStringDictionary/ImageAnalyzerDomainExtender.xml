@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0104">
+      <Title>Erro</Title>
+      <Message>Falha ao iniciar sequência de aquisição de imagem.</Message>
+    </EventString>
+    <EventString Key="0112">
+      <Title>Erro</Title>
+      <Message>Falha ao analisar ruído elétrico.</Message>
+    </EventString>
+    <EventString Key="0113">
+      <Title>Erro</Title>
+      <Message>Falha ao analisar irregularidade.</Message>
+    </EventString>
+    <EventString Key="0114">
+      <Title>Erro</Title>
+      <Message>Falha ao atualizar mapa de defeito base.</Message>
+    </EventString>
+    <EventString Key="0115">
+      <Title>Erro</Title>
+      <Message>Falha ao analisar mapa de defeito.</Message>
+    </EventString>
+    <EventString Key="0116">
+      <Title>Erro</Title>
+      <Message>Falha ao adquirir imagem.</Message>
+    </EventString>
+    <EventString Key="0117">
+      <Title>Informação</Title>
+      <Message>Análise de imagem concluida.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

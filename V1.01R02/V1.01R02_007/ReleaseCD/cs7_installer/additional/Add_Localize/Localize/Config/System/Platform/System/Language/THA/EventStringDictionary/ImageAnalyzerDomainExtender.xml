@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0104">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>เริ่มลำดับการบันทึกเก็บภาพล้มเหลว</Message>
+    </EventString>
+    <EventString Key="0112">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>วิเคราะห์สัญญาณรบกวนทางไฟฟ้าล้มเหลว</Message>
+    </EventString>
+    <EventString Key="0113">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>วิเคราะห์ความขรุขระล้มเหลว</Message>
+    </EventString>
+    <EventString Key="0114">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>อัพเดตแม็พจุดเสียเบื้องต้นล้มเหลว</Message>
+    </EventString>
+    <EventString Key="0115">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>วิเคราะห์แม็พจุดเสียล้มเหลว</Message>
+    </EventString>
+    <EventString Key="0116">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>บันทึกเก็บภาพล้มเหลว</Message>
+    </EventString>
+    <EventString Key="0117">
+      <Title>ข้อมูล</Title>
+      <Message>การวิเคราะห์ภาพเสร็จสมบูรณ์</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="SystemMonitorDomain00001">
+      <Title>Lukijakomponentti</Title>
+      <Message>(Lukijan nimi) kohteessa (komponentin nimi) on umpeutumassa. Ota yhteyttä ylläpitoon.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00002">
+      <Title>Lukijakomponentti</Title>
+      <Message>(Komponentin nimi) on umpeutumassa. Ota yhteyttä ylläpitoon.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00003">
+      <Title>Lukijakomponentti</Title>
+      <Message>(Lukijan nimi) kohteessa (komponentin nimi) on umpeutunut. Ota yhteyttä ylläpitoon.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00004">
+      <Title>Lukijakomponentti</Title>
+      <Message>(Komponentin nimi) on umpeutunut. Ota yhteyttä ylläpitoon.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00005">
+      <Title />
+      <Message>Haluatko lopettaa järjestelmän?</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00006">
+      <Title />
+      <Message>Päivitys onnistui.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00007">
+      <Title />
+      <Message>Kirjautuminen ulos sovelluksesta onnistui.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00008">
+      <Title>Virhe</Title>
+      <Message>Uloskirjautumispyyntöä ei voi käsitellä.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00009">
+      <Title>Virhe</Title>
+      <Message>Tarkista (DomainExtenderName) -PlugIn ei ladattu.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00010">
+      <Title />
+      <Message>Haluatko varmasti kirjautua ulos?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="40001">
+      <Title>キュー作成エラー</Title>
+      <Message>キューの作成に失敗しました。</Message>
+    </EventString>
+    <EventString Key="40002">
+      <Title>キュー送信エラー</Title>
+      <Message>キューの送信に失敗しました。</Message>
+    </EventString>
+    <EventString Key="40003">
+      <Title>キュー送信エラー</Title>
+      <Message>キューのリトライ送信回数の上限に達しました</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

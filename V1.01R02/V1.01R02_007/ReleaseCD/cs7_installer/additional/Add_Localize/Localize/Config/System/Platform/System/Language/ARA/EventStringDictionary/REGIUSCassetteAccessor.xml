@@ -1,0 +1,1637 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="MES04001">
+      <Title>خطأ CR </Title>
+      <Message>HP1 Sensor NG(وحدة نقل)</Message>
+    </EventString>
+    <EventString Key="MES04002">
+      <Title>خطأ CR </Title>
+      <Message>HP1 Sensor NG(وحدة نقل) </Message>
+    </EventString>
+    <EventString Key="MES04011">
+      <Title>خطأ CR </Title>
+      <Message>HP2 Sensor NG(وحدة نقل) </Message>
+    </EventString>
+    <EventString Key="MES04012">
+      <Title>خطأ CR </Title>
+      <Message>HP2 Sensor NG(وحدة نقل) </Message>
+    </EventString>
+    <EventString Key="MES04013">
+      <Title>خطأ CR </Title>
+      <Message>HP2 Sensor NG(وحدة نقل) </Message>
+    </EventString>
+    <EventString Key="MES04014">
+      <Title>خطأ CR </Title>
+      <Message>HP2 Sensor NG(وحدة نقل) </Message>
+    </EventString>
+    <EventString Key="MES04015">
+      <Title>خطأ CR </Title>
+      <Message>HP2 Sensor NG(وحدة نقل) </Message>
+    </EventString>
+    <EventString Key="MES04020">
+      <Title>خطأ CR </Title>
+      <Message>Alignment Sensor NG(بدء) </Message>
+    </EventString>
+    <EventString Key="MES04021">
+      <Title>خطأ CR </Title>
+      <Message>Alignment Sensor NG(علبة التغذية) </Message>
+    </EventString>
+    <EventString Key="MES04022">
+      <Title>خطأ CR </Title>
+      <Message>Alignment Sensor NG(التصاق) </Message>
+    </EventString>
+    <EventString Key="MES04023">
+      <Title>خطأ CR </Title>
+      <Message>Alignment Sensor NG(مأوى) </Message>
+    </EventString>
+    <EventString Key="MES04024">
+      <Title>خطأ CR </Title>
+      <Message>Alignment Sensor NG(تفريغ) </Message>
+    </EventString>
+    <EventString Key="MES04025">
+      <Title>خطأ CR </Title>
+      <Message>Alignment Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04026">
+      <Title>خطأ CR </Title>
+      <Message>Alignment Left-side Sensor NG(تهيئة) </Message>
+    </EventString>
+    <EventString Key="MES04027">
+      <Title>خطأ CR </Title>
+      <Message>Alignment Right-side Sensor NG(تهيئة) </Message>
+    </EventString>
+    <EventString Key="MES04030">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Detective Sensor NG(بدء) </Message>
+    </EventString>
+    <EventString Key="MES04031">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Detective Sensor NG(علبة التغذية) </Message>
+    </EventString>
+    <EventString Key="MES04032">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Detective Sensor NG(التصاق) </Message>
+    </EventString>
+    <EventString Key="MES04033">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Detective Sensor NG(مأوى) </Message>
+    </EventString>
+    <EventString Key="MES04034">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Detective Sensor NG(قبل الرفع) </Message>
+    </EventString>
+    <EventString Key="MES04035">
+      <Title>خطأ CR </Title>
+      <Message>Lock HP Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04036">
+      <Title>خطأ CR </Title>
+      <Message>Elevator HP Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04037">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Detective Sensor NG(بعد الرفع) </Message>
+    </EventString>
+    <EventString Key="MES04041">
+      <Title>خطأ CR </Title>
+      <Message>Shutter Opening Sensor NG بعلبة التغذية </Message>
+    </EventString>
+    <EventString Key="MES04042">
+      <Title>خطأ CR </Title>
+      <Message>Shutter Closing Sensor NG بعلبة التغذية </Message>
+    </EventString>
+    <EventString Key="MES04043">
+      <Title>خطأ CR </Title>
+      <Message>Shutter Opening Sensor NG بعلبة التغذية </Message>
+    </EventString>
+    <EventString Key="MES04044">
+      <Title>خطأ CR </Title>
+      <Message>Shutter Closing Sensor NG بعلبة التغذية </Message>
+    </EventString>
+    <EventString Key="MES04045">
+      <Title>خطأ CR </Title>
+      <Message>Cassette Back Plate Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04046">
+      <Title>خطأ CR </Title>
+      <Message>Warp Detective Sensor NG باللوحة الخلفية </Message>
+    </EventString>
+    <EventString Key="MES04047">
+      <Title>خطأ CR </Title>
+      <Message>Adhesion Detective Sensor NG باللوحة الخلفية </Message>
+    </EventString>
+    <EventString Key="MES04048">
+      <Title>خطأ CR </Title>
+      <Message>Ejection Shutter Close Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04051">
+      <Title>خطأ CR </Title>
+      <Message>Door Closing Sensor NG بالتفريغ </Message>
+    </EventString>
+    <EventString Key="MES04061">
+      <Title>خطأ CR </Title>
+      <Message>Slow Scan HP Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04062">
+      <Title>خطأ CR </Title>
+      <Message>Adhesion Detective Sensor NG باللوحة الخلفية </Message>
+    </EventString>
+    <EventString Key="MES04063">
+      <Title>خطأ CR </Title>
+      <Message>Warp Detective Sensor NG باللوحة الخلفية </Message>
+    </EventString>
+    <EventString Key="MES04064">
+      <Title>خطأ CR </Title>
+      <Message>V-Sync Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04065">
+      <Title>خطأ CR </Title>
+      <Message>Adhesion Detective Sensor NG باللوحة الخلفية </Message>
+    </EventString>
+    <EventString Key="MES04066">
+      <Title>خطأ CR </Title>
+      <Message>Adhesion Detective Sensor NG باللوحة الخلفية </Message>
+    </EventString>
+    <EventString Key="MES04067">
+      <Title>خطأ CR </Title>
+      <Message>Adhesion Detective Sensor NG باللوحة الخلفية </Message>
+    </EventString>
+    <EventString Key="MES04068">
+      <Title>خطأ CR </Title>
+      <Message>Adhesion Detective Sensor NG باللوحة الخلفية </Message>
+    </EventString>
+    <EventString Key="MES04069">
+      <Title>خطأ CR </Title>
+      <Message>Adhesion Detective Sensor NG باللوحة الخلفية </Message>
+    </EventString>
+    <EventString Key="MES04070">
+      <Title>خطأ CR </Title>
+      <Message>Adhesion Detective Sensor NG باللوحة الخلفية </Message>
+    </EventString>
+    <EventString Key="MES04071">
+      <Title>خطأ CR </Title>
+      <Message>Central Detective Sensor NG بعلبة التغذية </Message>
+    </EventString>
+    <EventString Key="MES04072">
+      <Title>خطأ CR </Title>
+      <Message>Left Detective Sensor NG بعلبة التغذية </Message>
+    </EventString>
+    <EventString Key="MES04073">
+      <Title>خطأ CR </Title>
+      <Message>Cassette Back Plate Sensor NG(تهيئة) </Message>
+    </EventString>
+    <EventString Key="MES04074">
+      <Title>خطأ CR </Title>
+      <Message>Warp Detective Sensor NG باللوحة الخلفية(تهيئة) </Message>
+    </EventString>
+    <EventString Key="MES04075">
+      <Title>خطأ CR </Title>
+      <Message>Adhesion Detective Sensor NG باللوحة الخلفية(تهيئة) </Message>
+    </EventString>
+    <EventString Key="MES04076">
+      <Title>خطأ CR </Title>
+      <Message>24V Power NG(في المعتاد) </Message>
+    </EventString>
+    <EventString Key="MES04077">
+      <Title>خطأ CR </Title>
+      <Message>24V Power NG(إغلاق الباب) </Message>
+    </EventString>
+    <EventString Key="MES04081">
+      <Title>خطأ CR </Title>
+      <Message>Current Detective Sensor 1 NG بمصباح المسح </Message>
+    </EventString>
+    <EventString Key="MES04082">
+      <Title>خطأ CR </Title>
+      <Message>Current Detective Sensor 2 NG بمصباح المسح </Message>
+    </EventString>
+    <EventString Key="MES04091">
+      <Title>خطأ CR </Title>
+      <Message>Front Door Opening Sensor NG </Message>
+    </EventString>
+    <EventString Key="MES04101">
+      <Title>خطأ CR </Title>
+      <Message>Slow Scan Motor NG </Message>
+    </EventString>
+    <EventString Key="MES04102">
+      <Title>خطأ CR </Title>
+      <Message>Transport Unit Motor NG </Message>
+    </EventString>
+    <EventString Key="MES04103">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor NG </Message>
+    </EventString>
+    <EventString Key="MES04104">
+      <Title>خطأ CR </Title>
+      <Message>Alignment Motor NG </Message>
+    </EventString>
+    <EventString Key="MES04105">
+      <Title>خطأ CR </Title>
+      <Message>مهلة فتح / إغلاق الغالق بعلبة التغذية </Message>
+    </EventString>
+    <EventString Key="MES04106">
+      <Title>خطأ CR </Title>
+      <Message>مهلة الغلق </Message>
+    </EventString>
+    <EventString Key="MES04107">
+      <Title>خطأ CR </Title>
+      <Message>Load Motor NG </Message>
+    </EventString>
+    <EventString Key="MES04150">
+      <Title>خطأ CR </Title>
+      <Message>معالجة الغلق المبدئية </Message>
+    </EventString>
+    <EventString Key="MES04151">
+      <Title>خطأ CR </Title>
+      <Message>معالجة الغالق المبدئية بعلبة التغذية </Message>
+    </EventString>
+    <EventString Key="MES04152">
+      <Title>خطأ CR </Title>
+      <Message>معالجة المصعد المبدئية </Message>
+    </EventString>
+    <EventString Key="MES04153">
+      <Title>خطأ CR </Title>
+      <Message>معالجة المحاذاة المبدئية </Message>
+    </EventString>
+    <EventString Key="MES04154">
+      <Title>خطأ CR </Title>
+      <Message>معالجة وحدة النقل المبدئية </Message>
+    </EventString>
+    <EventString Key="MES04155">
+      <Title>خطأ CR </Title>
+      <Message>معالجة المسح البطيء المبدئية </Message>
+    </EventString>
+    <EventString Key="MES04156">
+      <Title>خطأ CR </Title>
+      <Message>Transfer Action 1 Starting NG </Message>
+    </EventString>
+    <EventString Key="MES04157">
+      <Title>خطأ CR </Title>
+      <Message>Transfer Action 2 Starting NG </Message>
+    </EventString>
+    <EventString Key="MES04158">
+      <Title>خطأ CR </Title>
+      <Message>Discharge Action Starting NG بعلبة التغذية </Message>
+    </EventString>
+    <EventString Key="MES04159">
+      <Title>خطأ CR </Title>
+      <Message>Discharge Action Starting NG </Message>
+    </EventString>
+    <EventString Key="MES04160">
+      <Title>خطأ CR </Title>
+      <Message>Shutter Opening NG بعلبة التغذية </Message>
+    </EventString>
+    <EventString Key="MES04161">
+      <Title>خطأ CR </Title>
+      <Message>Shutter Closing NG بعلبة التغذية </Message>
+    </EventString>
+    <EventString Key="MES04162">
+      <Title>خطأ CR </Title>
+      <Message>Lock Starting NG </Message>
+    </EventString>
+    <EventString Key="MES04163">
+      <Title>خطأ CR </Title>
+      <Message>Cassette Falling Detective Time NG </Message>
+    </EventString>
+    <EventString Key="MES04164">
+      <Title>خطأ CR </Title>
+      <Message>لم تتم ملاحظة إذن بتشغيل مصباح المسح </Message>
+    </EventString>
+    <EventString Key="MES04165">
+      <Title>خطأ CR </Title>
+      <Message>لم تتم ملاحظة إذن بإيقاف تشغيل مصباح المسح </Message>
+    </EventString>
+    <EventString Key="MES04167">
+      <Title>خطأ CR </Title>
+      <Message>معالجة موتور التحميل المبدئية </Message>
+    </EventString>
+    <EventString Key="MES04200">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي GetStatus(تهيئة) </Message>
+    </EventString>
+    <EventString Key="MES04201">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي GetStatus(جاهز) </Message>
+    </EventString>
+    <EventString Key="MES04202">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي GetStatus(اكتشاف الرمز الشريطي) </Message>
+    </EventString>
+    <EventString Key="MES04203">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي GetStatus(تشغيل جهد عالٍ) </Message>
+    </EventString>
+    <EventString Key="MES04204">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي GetStatus(تشغيل الليزر) </Message>
+    </EventString>
+    <EventString Key="MES04205">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي GetStatus(إلغاء الرمز الشريطي) </Message>
+    </EventString>
+    <EventString Key="MES04206">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي GetStatus(معالجة) </Message>
+    </EventString>
+    <EventString Key="MES04207">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي GetStatus(إيقاف مؤقت) </Message>
+    </EventString>
+    <EventString Key="MES04208">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي GetStatus(فتح الباب الأمامي) </Message>
+    </EventString>
+    <EventString Key="MES04209">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي GetStatus(إغلاق الباب الأمامي) </Message>
+    </EventString>
+    <EventString Key="MES04210">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي GetStatus(خطأ) </Message>
+    </EventString>
+    <EventString Key="MES04211">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي GetStatus(استعداد) </Message>
+    </EventString>
+    <EventString Key="MES04212">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي GetStatus(نقل وضع المسح) </Message>
+    </EventString>
+    <EventString Key="MES04213">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي GetStatus(فصل الطاقة بعد الاستعداد) </Message>
+    </EventString>
+    <EventString Key="MES04214">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي الموافقة على التسجيل </Message>
+    </EventString>
+    <EventString Key="MES04215">
+      <Title>خطأ CR </Title>
+      <Message>خطأ تلقي GetStatus(تشغيل الليزر) </Message>
+    </EventString>
+    <EventString Key="MES04216">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي GoBackward </Message>
+    </EventString>
+    <EventString Key="MES04217">
+      <Title>خطأ CR </Title>
+      <Message>تشغيل الليزر بدون تشغيل إرسال جهدٍ عالٍ(1) </Message>
+    </EventString>
+    <EventString Key="MES04218">
+      <Title>خطأ CR </Title>
+      <Message>تشغيل الليزر بدون تشغيل إرسال جهدٍ عالٍ(2) </Message>
+    </EventString>
+    <EventString Key="MES04219">
+      <Title>خطأ CR </Title>
+      <Message>أمر غير صالح </Message>
+    </EventString>
+    <EventString Key="MES04221">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي StartSubScan </Message>
+    </EventString>
+    <EventString Key="MES04900">
+      <Title>خطأ CR </Title>
+      <Message>الكاسيت موجود(مصعد) </Message>
+    </EventString>
+    <EventString Key="MES04901">
+      <Title>خطأ CR </Title>
+      <Message>الكاسيت موجود(محاذاة) </Message>
+    </EventString>
+    <EventString Key="MES04902">
+      <Title>خطأ CR </Title>
+      <Message>الكاسيت موجود(فتح باب التفريغ) </Message>
+    </EventString>
+    <EventString Key="MES04903">
+      <Title>خطأ CR </Title>
+      <Message>الكاسيت موجود(التصاق اللوحة الخلفية) </Message>
+    </EventString>
+    <EventString Key="MES04904">
+      <Title>خطأ CR </Title>
+      <Message>إيقاف مصابيح المسح(2) </Message>
+    </EventString>
+    <EventString Key="MES04905">
+      <Title>خطأ CR </Title>
+      <Message>خطأ اتصال SCB </Message>
+    </EventString>
+    <EventString Key="MES04906">
+      <Title>خطأ CR </Title>
+      <Message>كاسيت مشوه[%s] </Message>
+    </EventString>
+    <EventString Key="MES04907">
+      <Title>خطأ CR </Title>
+      <Message>خطأ فتح الكاسيت[%s] </Message>
+    </EventString>
+    <EventString Key="MES04908">
+      <Title>خطأ CR </Title>
+      <Message>كاسيت ساقط[%s] </Message>
+    </EventString>
+    <EventString Key="MES04909">
+      <Title>خطأ CR </Title>
+      <Message>اكتشاف فجوة بالكاسيت(مغنطة اللوحة الخلفية) </Message>
+    </EventString>
+    <EventString Key="MES04910">
+      <Title>خطأ CR </Title>
+      <Message>اكتشاف فجوة بالكاسيت(تقشير الكاسيت) </Message>
+    </EventString>
+    <EventString Key="MES04914">
+      <Title>خطأ CR </Title>
+      <Message>استخراج الفتح (تهيئة) </Message>
+    </EventString>
+    <EventString Key="MES04917">
+      <Title>خطأ CR </Title>
+      <Message>Shutter Opening NG بعلبة التغذية(إلغاء تأمين) </Message>
+    </EventString>
+    <EventString Key="MES04918">
+      <Title>خطأ CR </Title>
+      <Message>FAN Disconnection NG 1 </Message>
+    </EventString>
+    <EventString Key="MES04920">
+      <Title>خطأ CR </Title>
+      <Message>FAN Disconnection NG 3 </Message>
+    </EventString>
+    <EventString Key="MES04921">
+      <Title>خطأ CR </Title>
+      <Message>Erase-lamp NG </Message>
+    </EventString>
+    <EventString Key="MES06000">
+      <Title>خطأ CR </Title>
+      <Message>Justifier HP sensor NG (نقل إلى HP) </Message>
+    </EventString>
+    <EventString Key="MES06001">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Motor Control NG (نقل إلى HP) </Message>
+    </EventString>
+    <EventString Key="MES06002">
+      <Title>خطأ CR </Title>
+      <Message>Justifier HP sensor NG (وضع الكاسيت المثبت) </Message>
+    </EventString>
+    <EventString Key="MES06003">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Motor Control NG (وضع الكاسيت المثبت) </Message>
+    </EventString>
+    <EventString Key="MES06004">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Motor Control NG (وضع دعم الكاسيت) </Message>
+    </EventString>
+    <EventString Key="MES06005">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Motor Control NG (وضع الكاسيت المثبت 2-) </Message>
+    </EventString>
+    <EventString Key="MES06006">
+      <Title>خطأ CR </Title>
+      <Message>Justifier HP sensor NG (نقل إلى HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06007">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Motor Control NG (نقل إلى HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06008">
+      <Title>خطأ CR </Title>
+      <Message>Justifier HP sensor NG (نقل إلى HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06009">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Motor Control NG (نقل إلى HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06010">
+      <Title>خطأ CR </Title>
+      <Message>Justifier HP sensor NG (وضع دعم الكاسيت) </Message>
+    </EventString>
+    <EventString Key="MES06011">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Motor Control NG (وضع دعم الكاسيت 2-) </Message>
+    </EventString>
+    <EventString Key="MES06015">
+      <Title>خطأ CR </Title>
+      <Message>Justifier HP sensor NG (نقل إلى HP) </Message>
+    </EventString>
+    <EventString Key="MES06016">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Motor Control NG (نقل إلى HP) </Message>
+    </EventString>
+    <EventString Key="MES06017">
+      <Title>خطأ CR </Title>
+      <Message>Justifier HP sensor NG (وضع الكاسيت المثبت) </Message>
+    </EventString>
+    <EventString Key="MES06018">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Motor Control NG (وضع الكاسيت المثبت) </Message>
+    </EventString>
+    <EventString Key="MES06019">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Motor Control NG (وضع دعم الكاسيت) </Message>
+    </EventString>
+    <EventString Key="MES06020">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Motor Control NG (وضع الكاسيت المثبت 2-) </Message>
+    </EventString>
+    <EventString Key="MES06021">
+      <Title>خطأ CR </Title>
+      <Message>Justifier HP sensor NG (نقل إلى HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06022">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Motor Control NG (نقل إلى HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06023">
+      <Title>خطأ CR </Title>
+      <Message>Justifier HP sensor NG (نقل إلى HP -3 </Message>
+    </EventString>
+    <EventString Key="MES06024">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Motor Control NG (نقل إلى HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06025">
+      <Title>خطأ CR </Title>
+      <Message>Justifier HP sensor NG (وضع دعم الكاسيت) </Message>
+    </EventString>
+    <EventString Key="MES06026">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Motor Control NG (وضع دعم الكاسيت 2-) </Message>
+    </EventString>
+    <EventString Key="MES06030">
+      <Title>خطأ CR </Title>
+      <Message>Justifier HP sensor NG (نقل إلى HP) </Message>
+    </EventString>
+    <EventString Key="MES06031">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Motor Control NG (نقل إلى HP) </Message>
+    </EventString>
+    <EventString Key="MES06032">
+      <Title>خطأ CR </Title>
+      <Message>Justifier HP sensor NG (وضع الكاسيت المثبت) </Message>
+    </EventString>
+    <EventString Key="MES06033">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Motor Control NG (وضع الكاسيت المثبت) </Message>
+    </EventString>
+    <EventString Key="MES06034">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Motor Control NG (وضع دعم الكاسيت) </Message>
+    </EventString>
+    <EventString Key="MES06035">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Motor Control NG (وضع الكاسيت المثبت 2-) </Message>
+    </EventString>
+    <EventString Key="MES06036">
+      <Title>خطأ CR </Title>
+      <Message>Justifier HP sensor NG (نقل إلى HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06037">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Motor Control NG (نقل إلى HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06038">
+      <Title>خطأ CR </Title>
+      <Message>Justifier HP sensor NG (نقل إلى HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06039">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Motor Control NG (نقل إلى HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06040">
+      <Title>خطأ CR </Title>
+      <Message>Justifier HP sensor NG (وضع دعم الكاسيت) </Message>
+    </EventString>
+    <EventString Key="MES06041">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Motor Control NG (وضع دعم الكاسيت 2-) </Message>
+    </EventString>
+    <EventString Key="MES06050">
+      <Title>خطأ CR </Title>
+      <Message>Reciever HP sensor NG (نقل إلى HP) </Message>
+    </EventString>
+    <EventString Key="MES06051">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor Control NG (نقل إلى HP) </Message>
+    </EventString>
+    <EventString Key="MES06052">
+      <Title>خطأ CR </Title>
+      <Message>Reciever HP sensor NG (وضع 1) </Message>
+    </EventString>
+    <EventString Key="MES06053">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor Control NG (وضع 1) </Message>
+    </EventString>
+    <EventString Key="MES06054">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor Control NG (وضع 2) </Message>
+    </EventString>
+    <EventString Key="MES06055">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor Control NG (هبوط خفيف في الوضع 2) </Message>
+    </EventString>
+    <EventString Key="MES06056">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor Control NG (وضع 2-.1‎‏) </Message>
+    </EventString>
+    <EventString Key="MES06057">
+      <Title>خطأ CR </Title>
+      <Message>Reciever HP sensor NG (نقل إلى HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06058">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor Control NG (نقل إلى HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06059">
+      <Title>خطأ CR </Title>
+      <Message>Reciever HP sensor NG (نقل إلى HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06060">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor Control NG (نقل إلى HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06061">
+      <Title>خطأ CR </Title>
+      <Message>Reciever HP sensor NG (نقل إلى وضع 2) </Message>
+    </EventString>
+    <EventString Key="MES06062">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor Control NG (وضع ‎2 -2) </Message>
+    </EventString>
+    <EventString Key="MES06065">
+      <Title>خطأ CR </Title>
+      <Message>Reciever HP sensor NG (نقل إلى HP) </Message>
+    </EventString>
+    <EventString Key="MES06066">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor Control NG (نقل إلى HP) </Message>
+    </EventString>
+    <EventString Key="MES06067">
+      <Title>خطأ CR </Title>
+      <Message>Reciever HP sensor NG (وضع 1) </Message>
+    </EventString>
+    <EventString Key="MES06068">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor Control NG (وضع 1) </Message>
+    </EventString>
+    <EventString Key="MES06069">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor Control NG (وضع 2) </Message>
+    </EventString>
+    <EventString Key="MES06070">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor Control NG (هبوط خفيف في الوضع 2) </Message>
+    </EventString>
+    <EventString Key="MES06071">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor Control NG (وضع 2-.1‎‏) </Message>
+    </EventString>
+    <EventString Key="MES06072">
+      <Title>خطأ CR </Title>
+      <Message>Reciever HP sensor NG (نقل إلى HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06073">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor Control NG (نقل إلى HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06074">
+      <Title>خطأ CR </Title>
+      <Message>Reciever HP sensor NG (نقل إلى HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06075">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor Control NG (نقل إلى HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06076">
+      <Title>خطأ CR </Title>
+      <Message>Reciever HP sensor NG (وضع 2) </Message>
+    </EventString>
+    <EventString Key="MES06077">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor Control NG (وضع ‎2 -2) </Message>
+    </EventString>
+    <EventString Key="MES06080">
+      <Title>خطأ CR </Title>
+      <Message>Reciever HP sensor NG (نقل إلى HP) </Message>
+    </EventString>
+    <EventString Key="MES06081">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor Control NG (نقل إلى HP) </Message>
+    </EventString>
+    <EventString Key="MES06082">
+      <Title>خطأ CR </Title>
+      <Message>Reciever HP sensor NG (وضع 1) </Message>
+    </EventString>
+    <EventString Key="MES06083">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor Control NG (وضع 1) </Message>
+    </EventString>
+    <EventString Key="MES06084">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor Control NG (وضع 2) </Message>
+    </EventString>
+    <EventString Key="MES06085">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor Control NG (هبوط خفيف في الوضع 2) </Message>
+    </EventString>
+    <EventString Key="MES06086">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor Control NG (وضع 2-.1‎‏) </Message>
+    </EventString>
+    <EventString Key="MES06087">
+      <Title>خطأ CR </Title>
+      <Message>Reciever HP sensor NG (نقل إلى HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06088">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor Control NG (نقل إلى HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06089">
+      <Title>خطأ CR </Title>
+      <Message>Reciever HP sensor NG (نقل إلى HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06090">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor Control NG (نقل إلى HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06091">
+      <Title>خطأ CR </Title>
+      <Message>Reciever HP sensor NG (وضع 2) </Message>
+    </EventString>
+    <EventString Key="MES06092">
+      <Title>خطأ CR </Title>
+      <Message>Elevator Motor Control NG (وضع ‎2 -2) </Message>
+    </EventString>
+    <EventString Key="MES06100">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Sensor NG (وضع القراءة) </Message>
+    </EventString>
+    <EventString Key="MES06101">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Motor Control NG (وضع القراءة) </Message>
+    </EventString>
+    <EventString Key="MES06102">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Sensor NG (نقل إلى HP) </Message>
+    </EventString>
+    <EventString Key="MES06103">
+      <Title>خطأ CR </Title>
+      <Message>Transporter HP sensor NG (نقل إلى HP) </Message>
+    </EventString>
+    <EventString Key="MES06104">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Motor Control NG (نقل إلى HP) </Message>
+    </EventString>
+    <EventString Key="MES06105">
+      <Title>خطأ CR </Title>
+      <Message>Transporter HP sensor NG (وضع الضغط) </Message>
+    </EventString>
+    <EventString Key="MES06106">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Motor Control NG (وضع الضغط) </Message>
+    </EventString>
+    <EventString Key="MES06107">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Sensor NG (وضع القراءة 2) </Message>
+    </EventString>
+    <EventString Key="MES06108">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Motor Control NG (وضع القراءة 2) </Message>
+    </EventString>
+    <EventString Key="MES06109">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Sensor NG (وضع الضغط 2) </Message>
+    </EventString>
+    <EventString Key="MES06110">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Motor Control NG (وضع الضغط 2) </Message>
+    </EventString>
+    <EventString Key="MES06111">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Motor Control NG (وضع تمرير HP) </Message>
+    </EventString>
+    <EventString Key="MES06112">
+      <Title>خطأ CR </Title>
+      <Message>Transporter HP sensor NG (نقل إلى HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06113">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Motor Control NG (نقل إلى HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06115">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Sensor NG (وضع القراءة </Message>
+    </EventString>
+    <EventString Key="MES06116">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Motor Control NG (وضع القراءة) </Message>
+    </EventString>
+    <EventString Key="MES06117">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Sensor NG (نقل إلى HP) </Message>
+    </EventString>
+    <EventString Key="MES06118">
+      <Title>خطأ CR </Title>
+      <Message>Transporter HP sensor NG (نقل إلى HP) </Message>
+    </EventString>
+    <EventString Key="MES06119">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Motor Control NG (نقل إلى HP) </Message>
+    </EventString>
+    <EventString Key="MES06120">
+      <Title>خطأ CR </Title>
+      <Message>Transporter HP sensor NG (وضع الضغط) </Message>
+    </EventString>
+    <EventString Key="MES06121">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Motor Control NG (وضع الضغط) </Message>
+    </EventString>
+    <EventString Key="MES06122">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Sensor NG (وضع القراءة 2-) </Message>
+    </EventString>
+    <EventString Key="MES06123">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Motor Control NG (وضع القراءة 2-) </Message>
+    </EventString>
+    <EventString Key="MES06124">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Sensor NG (وضع الضغط 2-) </Message>
+    </EventString>
+    <EventString Key="MES06125">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Motor Control NG (وضع الضغط 2-) </Message>
+    </EventString>
+    <EventString Key="MES06126">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Motor Control NG (وضع تمرير HP) </Message>
+    </EventString>
+    <EventString Key="MES06127">
+      <Title>خطأ CR </Title>
+      <Message>Transporter HP sensor NG (نقل إلى HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06128">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Motor Control NG (نقل إلى HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06130">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Sensor NG (وضع القراءة) </Message>
+    </EventString>
+    <EventString Key="MES06131">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Motor Control NG (وضع القراءة) </Message>
+    </EventString>
+    <EventString Key="MES06132">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Sensor NG (نقل إلى HP) </Message>
+    </EventString>
+    <EventString Key="MES06133">
+      <Title>خطأ CR </Title>
+      <Message>Transporter HP sensor NG (نقل إلى HP) </Message>
+    </EventString>
+    <EventString Key="MES06134">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Motor Control NG (نقل إلى HP) </Message>
+    </EventString>
+    <EventString Key="MES06135">
+      <Title>خطأ CR </Title>
+      <Message>Transporter HP sensor NG (وضع الضغط) </Message>
+    </EventString>
+    <EventString Key="MES06136">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Motor Control NG (وضع الضغط) </Message>
+    </EventString>
+    <EventString Key="MES06137">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Sensor NG (وضع القراءة 2-) </Message>
+    </EventString>
+    <EventString Key="MES06138">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Motor Control NG (وضع القراءة 2-) </Message>
+    </EventString>
+    <EventString Key="MES06139">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Sensor NG (وضع الضغط 2-) </Message>
+    </EventString>
+    <EventString Key="MES06140">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Motor Control NG (وضع الضغط 2-) </Message>
+    </EventString>
+    <EventString Key="MES06141">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Motor Control NG (وضع تمرير HP) </Message>
+    </EventString>
+    <EventString Key="MES06142">
+      <Title>خطأ CR </Title>
+      <Message>Transporter HP sensor NG (نقل إلى HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06143">
+      <Title>خطأ CR </Title>
+      <Message>Transporter Motor Control NG (نقل إلى HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06150">
+      <Title>خطأ CR </Title>
+      <Message>Encoder Initializing NG </Message>
+    </EventString>
+    <EventString Key="MES06151">
+      <Title>خطأ CR </Title>
+      <Message>Subscan Motor Control NG (ميكانيكية HP) </Message>
+    </EventString>
+    <EventString Key="MES06152">
+      <Title>خطأ CR </Title>
+      <Message>Subscan Motor Control NG (وضع إكمال القراءة) </Message>
+    </EventString>
+    <EventString Key="MES06153">
+      <Title>خطأ CR </Title>
+      <Message>Subscan Motor Control NG (ميكانيكية 2- HP) </Message>
+    </EventString>
+    <EventString Key="MES06165">
+      <Title>خطأ CR </Title>
+      <Message>Encoder Initializing NG </Message>
+    </EventString>
+    <EventString Key="MES06166">
+      <Title>خطأ CR </Title>
+      <Message>Subscan Motor Control NG (ميكانيكية HP) </Message>
+    </EventString>
+    <EventString Key="MES06167">
+      <Title>خطأ CR </Title>
+      <Message>Subscan Motor Control NG (وضع إكمال القراءة) </Message>
+    </EventString>
+    <EventString Key="MES06168">
+      <Title>خطأ CR </Title>
+      <Message>Subscan Motor Control NG (ميكانيكية 2- HP) </Message>
+    </EventString>
+    <EventString Key="MES06180">
+      <Title>خطأ CR </Title>
+      <Message>Encoder Initializing NG </Message>
+    </EventString>
+    <EventString Key="MES06181">
+      <Title>خطأ CR </Title>
+      <Message>Subscan Motor Control NG (ميكانيكية HP) </Message>
+    </EventString>
+    <EventString Key="MES06182">
+      <Title>خطأ CR </Title>
+      <Message>Subscan Motor Control NG (وضع إكمال القراءة) </Message>
+    </EventString>
+    <EventString Key="MES06183">
+      <Title>خطأ CR </Title>
+      <Message>Subscan Motor Control NG (ميكانيكية 2- HP) </Message>
+    </EventString>
+    <EventString Key="MES06200">
+      <Title>خطأ CR </Title>
+      <Message>Open Insertion Shutter NG </Message>
+    </EventString>
+    <EventString Key="MES06201">
+      <Title>خطأ CR </Title>
+      <Message>Close Insertion Shutter NG </Message>
+    </EventString>
+    <EventString Key="MES06215">
+      <Title>خطأ CR </Title>
+      <Message>Open Insertion Shutter NG </Message>
+    </EventString>
+    <EventString Key="MES06216">
+      <Title>خطأ CR </Title>
+      <Message>Close Insertion Shutter NG </Message>
+    </EventString>
+    <EventString Key="MES06230">
+      <Title>خطأ CR </Title>
+      <Message>Open Insertion Shutter NG </Message>
+    </EventString>
+    <EventString Key="MES06231">
+      <Title>خطأ CR </Title>
+      <Message>Close Insertion Shutter NG </Message>
+    </EventString>
+    <EventString Key="MES06250">
+      <Title>خطأ CR </Title>
+      <Message>Motor Lock Release NG (تهيئة) </Message>
+    </EventString>
+    <EventString Key="MES06251">
+      <Title>خطأ CR </Title>
+      <Message>Motor Lock Release NG (غلق) </Message>
+    </EventString>
+    <EventString Key="MES06252">
+      <Title>خطأ CR </Title>
+      <Message>Motor Lock Release NG (تحرير) </Message>
+    </EventString>
+    <EventString Key="MES06265">
+      <Title>خطأ CR </Title>
+      <Message>Motor Lock Release NG (تهيئة) </Message>
+    </EventString>
+    <EventString Key="MES06266">
+      <Title>خطأ CR </Title>
+      <Message>Motor Lock Release NG (غلق) </Message>
+    </EventString>
+    <EventString Key="MES06267">
+      <Title>خطأ CR </Title>
+      <Message>Motor Lock Release NG (تحرير) </Message>
+    </EventString>
+    <EventString Key="MES06280">
+      <Title>خطأ CR </Title>
+      <Message>Motor Lock Release NG (تهيئة) </Message>
+    </EventString>
+    <EventString Key="MES06281">
+      <Title>خطأ CR </Title>
+      <Message>Motor Lock Release NG (غلق) </Message>
+    </EventString>
+    <EventString Key="MES06282">
+      <Title>خطأ CR </Title>
+      <Message>Motor Lock Release NG (تحرير) </Message>
+    </EventString>
+    <EventString Key="MES06300">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Sensor NG (إجراء ثابت) </Message>
+    </EventString>
+    <EventString Key="MES06301">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Sensor NG (ثابت) </Message>
+    </EventString>
+    <EventString Key="MES06302">
+      <Title>خطأ CR </Title>
+      <Message>الكاسيت موجود (أداة ضبط المستشعر) </Message>
+    </EventString>
+    <EventString Key="MES06303">
+      <Title>خطأ CR </Title>
+      <Message>الكاسيت موجود (أداة ضبط المستشعر) </Message>
+    </EventString>
+    <EventString Key="MES06315">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Sensor NG (إجراء ثابت) </Message>
+    </EventString>
+    <EventString Key="MES06316">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Sensor NG (ثابت) </Message>
+    </EventString>
+    <EventString Key="MES06318">
+      <Title>خطأ CR </Title>
+      <Message>الكاسيت موجود (أداة ضبط المستشعر) </Message>
+    </EventString>
+    <EventString Key="MES06330">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Sensor NG (إجراء ثابت) </Message>
+    </EventString>
+    <EventString Key="MES06331">
+      <Title>خطأ CR </Title>
+      <Message>Justifier Sensor NG (ثابت) </Message>
+    </EventString>
+    <EventString Key="MES06333">
+      <Title>خطأ CR </Title>
+      <Message>الكاسيت موجود (أداة ضبط المستشعر) </Message>
+    </EventString>
+    <EventString Key="MES06350">
+      <Title>خطأ CR </Title>
+      <Message>Reciever Sensor NG (علبة التغذية) </Message>
+    </EventString>
+    <EventString Key="MES06351">
+      <Title>خطأ CR </Title>
+      <Message>Reciever Sensor NG (إرسال) </Message>
+    </EventString>
+    <EventString Key="MES06352">
+      <Title>خطأ CR </Title>
+      <Message>Reciever Sensor NG (تفريغ) </Message>
+    </EventString>
+    <EventString Key="MES06353">
+      <Title>خطأ CR </Title>
+      <Message>Reciever Sensor NG (تمت الإزالة) </Message>
+    </EventString>
+    <EventString Key="MES06354">
+      <Title>خطأ CR </Title>
+      <Message>الكاسيت موجود (مستقبل) </Message>
+    </EventString>
+    <EventString Key="MES06355">
+      <Title>خطأ CR </Title>
+      <Message>الكاسيت موجود (مستقبل) </Message>
+    </EventString>
+    <EventString Key="MES06365">
+      <Title>خطأ CR </Title>
+      <Message>Reciever Sensor NG (علبة التغذية) </Message>
+    </EventString>
+    <EventString Key="MES06366">
+      <Title>خطأ CR </Title>
+      <Message>Reciever Sensor NG (إرسال) </Message>
+    </EventString>
+    <EventString Key="MES06367">
+      <Title>خطأ CR </Title>
+      <Message>Reciever Sensor NG (تفريغ) </Message>
+    </EventString>
+    <EventString Key="MES06368">
+      <Title>خطأ CR </Title>
+      <Message>Reciever Sensor NG (تمت الإزالة) </Message>
+    </EventString>
+    <EventString Key="MES06370">
+      <Title>خطأ CR </Title>
+      <Message>الكاسيت موجود (مستقبل) </Message>
+    </EventString>
+    <EventString Key="MES06380">
+      <Title>خطأ CR </Title>
+      <Message>Reciever Sensor NG (علبة التغذية) </Message>
+    </EventString>
+    <EventString Key="MES06381">
+      <Title>خطأ CR </Title>
+      <Message>Reciever Sensor NG (إرسال) </Message>
+    </EventString>
+    <EventString Key="MES06382">
+      <Title>خطأ CR </Title>
+      <Message>Reciever Sensor NG (تفريغ) </Message>
+    </EventString>
+    <EventString Key="MES06383">
+      <Title>خطأ CR </Title>
+      <Message>Reciever Sensor NG (تمت الإزالة) </Message>
+    </EventString>
+    <EventString Key="MES06385">
+      <Title>خطأ CR </Title>
+      <Message>الكاسيت موجود (مستقبل) </Message>
+    </EventString>
+    <EventString Key="MES06400">
+      <Title>خطأ CR </Title>
+      <Message>Back Plate detection Sensor NG (قبل النقل إلى وضع القراءة) </Message>
+    </EventString>
+    <EventString Key="MES06401">
+      <Title>خطأ CR </Title>
+      <Message>Back Plate detection Sensor NG (وضع القراءة قيد التوقف) </Message>
+    </EventString>
+    <EventString Key="MES06402">
+      <Title>خطأ CR </Title>
+      <Message>Back Plate detection Sensor NG (بعد النقل إلى وضع الضغط) </Message>
+    </EventString>
+    <EventString Key="MES06415">
+      <Title>خطأ CR </Title>
+      <Message>Back Plate detection Sensor NG (قبل النقل إلى وضع القراءة) </Message>
+    </EventString>
+    <EventString Key="MES06416">
+      <Title>خطأ CR </Title>
+      <Message>Back Plate detection Sensor NG (وضع القراءة قيد التوقف) </Message>
+    </EventString>
+    <EventString Key="MES06417">
+      <Title>خطأ CR </Title>
+      <Message>Back Plate detection Sensor NG (بعد النقل إلى وضع الضغط) </Message>
+    </EventString>
+    <EventString Key="MES06430">
+      <Title>خطأ CR </Title>
+      <Message>Back Plate detection Sensor NG (قبل النقل إلى وضع القراءة </Message>
+    </EventString>
+    <EventString Key="MES06431">
+      <Title>خطأ CR </Title>
+      <Message>Back Plate detection Sensor NG (وضع القراءة قيد التوقف) </Message>
+    </EventString>
+    <EventString Key="MES06432">
+      <Title>خطأ CR </Title>
+      <Message>Back Plate detection Sensor NG (بعد النقل إلى وضع الضغط) </Message>
+    </EventString>
+    <EventString Key="MES06450">
+      <Title>خطأ CR </Title>
+      <Message>Peel Sensor Plate (القراءة أو المسح). الرجاء عدم استخدام الكاسيت. </Message>
+    </EventString>
+    <EventString Key="MES06451">
+      <Title>خطأ CR </Title>
+      <Message>Peel Sensor NG (عدم التشغيل) </Message>
+    </EventString>
+    <EventString Key="MES06452">
+      <Title>خطأ CR </Title>
+      <Message>Peel Sensor NG (بدء) </Message>
+    </EventString>
+    <EventString Key="MES06453">
+      <Title>خطأ CR </Title>
+      <Message>Peel Sensor NG (تهيئة) </Message>
+    </EventString>
+    <EventString Key="MES06465">
+      <Title>خطأ CR </Title>
+      <Message>Peel Sensor Plate (القراءة أو المسح) </Message>
+    </EventString>
+    <EventString Key="MES06466">
+      <Title>خطأ CR </Title>
+      <Message>Peel Sensor NG (عدم التشغيل) </Message>
+    </EventString>
+    <EventString Key="MES06468">
+      <Title>خطأ CR </Title>
+      <Message>Peel Sensor NG (تهيئة) </Message>
+    </EventString>
+    <EventString Key="MES06480">
+      <Title>خطأ CR </Title>
+      <Message>Peel Sensor Plate (القراءة أو المسح) </Message>
+    </EventString>
+    <EventString Key="MES06481">
+      <Title>خطأ CR </Title>
+      <Message>Peel Sensor NG (عدم التشغيل) </Message>
+    </EventString>
+    <EventString Key="MES06483">
+      <Title>خطأ CR </Title>
+      <Message>Peel Sensor NG (تهيئة) </Message>
+    </EventString>
+    <EventString Key="MES06500">
+      <Title>خطأ CR </Title>
+      <Message>Cassette Insertion Sensor NG (تهيئة) </Message>
+    </EventString>
+    <EventString Key="MES06501">
+      <Title>خطأ CR </Title>
+      <Message>Cassette Insertion Sensor NG (تحميل) </Message>
+    </EventString>
+    <EventString Key="MES06502">
+      <Title>خطأ CR </Title>
+      <Message>Cassette Insertion Sensor NG (تفريغ) </Message>
+    </EventString>
+    <EventString Key="MES06503">
+      <Title>خطأ CR </Title>
+      <Message>اكتشاف كاسيت باللوحة الخلفية </Message>
+    </EventString>
+    <EventString Key="MES06504">
+      <Title>خطأ CR </Title>
+      <Message>Casette Insertion Sensor NG (تفريغ 2-) </Message>
+    </EventString>
+    <EventString Key="MES06515">
+      <Title>خطأ CR </Title>
+      <Message>Casette Insertion Sensor NG (تهيئة) </Message>
+    </EventString>
+    <EventString Key="MES06516">
+      <Title>خطأ CR </Title>
+      <Message>Casette Insertion Sensor NG (تحميل) </Message>
+    </EventString>
+    <EventString Key="MES06517">
+      <Title>خطأ CR </Title>
+      <Message>Casette Insertion Sensor NG (تفريغ) </Message>
+    </EventString>
+    <EventString Key="MES06518">
+      <Title>خطأ CR </Title>
+      <Message>اكتشاف كاسيت باللوحة الخلفية </Message>
+    </EventString>
+    <EventString Key="MES06519">
+      <Title>خطأ CR </Title>
+      <Message>Casette Insertion Sensor NG (تفريغ 2-) </Message>
+    </EventString>
+    <EventString Key="MES06530">
+      <Title>خطأ CR </Title>
+      <Message>Casette Insertion Sensor NG (تهيئة) </Message>
+    </EventString>
+    <EventString Key="MES06531">
+      <Title>خطأ CR </Title>
+      <Message>Casette Insertion Sensor NG (تحميل) </Message>
+    </EventString>
+    <EventString Key="MES06532">
+      <Title>خطأ CR </Title>
+      <Message>Casette Insertion Sensor NG (تفريغ) </Message>
+    </EventString>
+    <EventString Key="MES06533">
+      <Title>خطأ CR </Title>
+      <Message>اكتشاف كاسيت باللوحة الخلفية </Message>
+    </EventString>
+    <EventString Key="MES06534">
+      <Title>خطأ CR </Title>
+      <Message>Casette Insertion Sensor NG (تفريغ 2-) </Message>
+    </EventString>
+    <EventString Key="MES06550">
+      <Title>خطأ CR </Title>
+      <Message>Polygon Rotation NG </Message>
+    </EventString>
+    <EventString Key="MES06551">
+      <Title>خطأ CR </Title>
+      <Message>لا يتم تلقي إشارة اكتمال القراءة </Message>
+    </EventString>
+    <EventString Key="MES06552">
+      <Title>خطأ CR </Title>
+      <Message>إيقاف مصابيح المسح (بدء) </Message>
+    </EventString>
+    <EventString Key="MES06553">
+      <Title>خطأ CR </Title>
+      <Message>إيقاف مصابيح المسح (مسح). مسح الكاسيت غير مكتمل. الرجاء إعادة المحاولة. </Message>
+    </EventString>
+    <EventString Key="MES06554">
+      <Title>خطأ CR </Title>
+      <Message>إيقاف مصباح مسح (بدء) </Message>
+    </EventString>
+    <EventString Key="MES06567">
+      <Title>خطأ CR </Title>
+      <Message>إيقاف مصابيح المسح (بدء) </Message>
+    </EventString>
+    <EventString Key="MES06568">
+      <Title>خطأ CR </Title>
+      <Message>إيقاف مصابيح المسح (مسح) </Message>
+    </EventString>
+    <EventString Key="MES06569">
+      <Title>خطأ CR </Title>
+      <Message>إيقاف مصباح مسح (بدء) </Message>
+    </EventString>
+    <EventString Key="MES06582">
+      <Title>خطأ CR </Title>
+      <Message>إيقاف مصابيح المسح (بدء) </Message>
+    </EventString>
+    <EventString Key="MES06584">
+      <Title>خطأ CR </Title>
+      <Message>إيقاف مصباح مسح (بدء) </Message>
+    </EventString>
+    <EventString Key="MES06600">
+      <Title>خطأ CR </Title>
+      <Message>تم فصل وحدة تزويد الطاقة الرقمية لمروحة المبرد </Message>
+    </EventString>
+    <EventString Key="MES06650">
+      <Title>خطأ CR </Title>
+      <Message>خطأ FPGA (فشل الوصول إلى برنامج تشغيل الأحداث) </Message>
+    </EventString>
+    <EventString Key="MES06651">
+      <Title>خطأ CR </Title>
+      <Message>خطأ FPGA (فشل الوصول إلى MDU) </Message>
+    </EventString>
+    <EventString Key="MES06652">
+      <Title>خطأ CR </Title>
+      <Message>خطأ FPGA (فشل الوصول إلى LMC) </Message>
+    </EventString>
+    <EventString Key="MES06653">
+      <Title>خطأ CR </Title>
+      <Message>خطأ FPGA (فشل التحكم في الإدخال/الإخراج) </Message>
+    </EventString>
+    <EventString Key="MES06654">
+      <Title>خطأ CR </Title>
+      <Message>خطأ FPGA (فشل فتح برنامج تشغيل الصور) </Message>
+    </EventString>
+    <EventString Key="MES06655">
+      <Title>خطأ CR </Title>
+      <Message>خطأ FPGA (فشل الوصول إلى PMU) </Message>
+    </EventString>
+    <EventString Key="MES06668">
+      <Title>خطأ CR </Title>
+      <Message>خطأ FPGA (فشل التحكم في الإدخال/الإخراج) </Message>
+    </EventString>
+    <EventString Key="MES06683">
+      <Title>خطأ CR </Title>
+      <Message>خطأ FPGA (فشل التحكم في الإدخال/الإخراج) </Message>
+    </EventString>
+    <EventString Key="MES06750">
+      <Title>خطأ CR </Title>
+      <Message>NG لمستشعر وضع فتح وغلق لوحة مكتب الاستقبال </Message>
+    </EventString>
+    <EventString Key="MES06765">
+      <Title>خطأ CR </Title>
+      <Message>NG لمستشعر وضع فتح وغلق لوحة مكتب الاستقبال </Message>
+    </EventString>
+    <EventString Key="MES06780">
+      <Title>خطأ CR </Title>
+      <Message>NG لمستشعر وضع فتح وغلق لوحة مكتب الاستقبال </Message>
+    </EventString>
+    <EventString Key="MES06751">
+      <Title>خطأ CR </Title>
+      <Message>NG لمستشعر موقع HP بلوحة مكتب الاستقبال </Message>
+    </EventString>
+    <EventString Key="MES06766">
+      <Title>خطأ CR </Title>
+      <Message>NG لمستشعر موقع HP بلوحة مكتب الاستقبال </Message>
+    </EventString>
+    <EventString Key="MES06785">
+      <Title>خطأ CR </Title>
+      <Message>NG لمستشعر موقع HP بلوحة مكتب الاستقبال </Message>
+    </EventString>
+    <EventString Key="MES10000">
+      <Title>خطأ CR </Title>
+      <Message>خطأ بالذاكرة </Message>
+    </EventString>
+    <EventString Key="MES11000">
+      <Title>خطأ CR </Title>
+      <Message>خطأ بالأجهزة </Message>
+    </EventString>
+    <EventString Key="MES12000">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي Msg (تشغيل جهدٍ عالٍ) </Message>
+    </EventString>
+    <EventString Key="MES12001">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي Msg (تشغيل الليزر) </Message>
+    </EventString>
+    <EventString Key="MES12002">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي Mech.)Msg Ready)‏</Message>
+    </EventString>
+    <EventString Key="MES12003">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي Mech. Msg) (Standby </Message>
+    </EventString>
+    <EventString Key="MES12010">
+      <Title>خطأ CR </Title>
+      <Message>خطأ اتصال مسلسل (Mech. Resend Overflow) </Message>
+    </EventString>
+    <EventString Key="MES12011">
+      <Title>خطأ CR </Title>
+      <Message>خطأ اتصال مسلسل (Mech. CRC error Overflow) </Message>
+    </EventString>
+    <EventString Key="MES12012">
+      <Title>خطأ CR </Title>
+      <Message>خطأ اتصال مسلسل (Mech. Overrun) </Message>
+    </EventString>
+    <EventString Key="MES12013">
+      <Title>خطأ CR </Title>
+      <Message>خطأ اتصال مسلسل (Mech. Timeout) </Message>
+    </EventString>
+    <EventString Key="MES12020">
+      <Title>خطأ CR </Title>
+      <Message>خطأ Msg (Mech. illegal Msg) </Message>
+    </EventString>
+    <EventString Key="MES12200">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي Msg (تهيئة الشبكة) </Message>
+    </EventString>
+    <EventString Key="MES12201">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي Msg (الشبكة جاهزة) </Message>
+    </EventString>
+    <EventString Key="MES12202">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي Msg (وضع التظليل) </Message>
+    </EventString>
+    <EventString Key="MES12203">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي Msg (التحقق من الحالة) </Message>
+    </EventString>
+    <EventString Key="MES12204">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي Msg (البحث عن الرمز الشريطي) </Message>
+    </EventString>
+    <EventString Key="MES12205">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي Msg (أمر الشبكة) </Message>
+    </EventString>
+    <EventString Key="MES12206">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي Msg (طرف القارئ) </Message>
+    </EventString>
+    <EventString Key="MES12207">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي Msg (وضع Qrv) </Message>
+    </EventString>
+    <EventString Key="MES12208">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي Msg (وضع التهيئة) </Message>
+    </EventString>
+    <EventString Key="MES12209">
+      <Title>خطأ CR </Title>
+      <Message>مهلة تلقي Msg (وضع المعلومات) </Message>
+    </EventString>
+    <EventString Key="MES12210">
+      <Title>خطأ CR </Title>
+      <Message>خطأ اتصال تسلسلي (تجاوز إعادة إرسال الشبكة) </Message>
+    </EventString>
+    <EventString Key="MES12211">
+      <Title>خطأ CR </Title>
+      <Message>خطأ اتصال تسلسلي (تجاوز خطأ CRC بالشبكة) </Message>
+    </EventString>
+    <EventString Key="MES12212">
+      <Title>خطأ CR </Title>
+      <Message>خطأ اتصال تسلسلي (تجاوز الشبكة) </Message>
+    </EventString>
+    <EventString Key="MES12213">
+      <Title>خطأ CR </Title>
+      <Message>خطأ اتصال تسلسلي (مهلة الشبكة) </Message>
+    </EventString>
+    <EventString Key="MES12220">
+      <Title>خطأ CR </Title>
+      <Message>خطأ Msg (Net illegal Msg) </Message>
+    </EventString>
+    <EventString Key="MES13000">
+      <Title>خطأ CR </Title>
+      <Message>خطأ وحدة بصرية (H_Sync) </Message>
+    </EventString>
+    <EventString Key="MES13001">
+      <Title>خطأ CR </Title>
+      <Message>خطأ وحدة بصرية (مُعرف المضلع) </Message>
+    </EventString>
+    <EventString Key="MES13003">
+      <Title>خطأ CR </Title>
+      <Message>خطأ وحدة بصرية (ثبات المضلع) </Message>
+    </EventString>
+    <EventString Key="MES13005">
+      <Title>خطأ CR </Title>
+      <Message>خطأ وحدة بصرية (كثافة الليزر) </Message>
+    </EventString>
+    <EventString Key="MES13030">
+      <Title>خطأ CR </Title>
+      <Message>خطأ تحكم SCB (نقل DMA) </Message>
+    </EventString>
+    <EventString Key="MES13031">
+      <Title>خطأ CR </Title>
+      <Message>خطأ تحكم SCB (اتصال SCOM) </Message>
+    </EventString>
+    <EventString Key="MES14000">
+      <Title>خطأ CR </Title>
+      <Message>خطأ معالجة الإشارة (تجاوز الكسب) </Message>
+    </EventString>
+    <EventString Key="MES14001">
+      <Title>خطأ CR </Title>
+      <Message>خطأ معالجة الإشارة (انخفاض الكسب) </Message>
+    </EventString>
+    <EventString Key="MES14002">
+      <Title>خطأ CR </Title>
+      <Message>خطأ معالجة الإشارة (تجاوز الإزاحة) </Message>
+    </EventString>
+    <EventString Key="MES14003">
+      <Title>خطأ CR </Title>
+      <Message>خطأ معالجة الإشارة (انخفاض الإزاحة) </Message>
+    </EventString>
+    <EventString Key="MES14010">
+      <Title>خطأ CR </Title>
+      <Message>خطأ معالجة الإشارة (تجاوز QRV) </Message>
+    </EventString>
+    <EventString Key="MES14011">
+      <Title>خطأ CR </Title>
+      <Message>خطأ معالجة الإشارة (انخفاض QRV) </Message>
+    </EventString>
+    <EventString Key="MES14012">
+      <Title>خطأ CR </Title>
+      <Message>خطأ معالجة الإشارة (عدم تقارب QRV) </Message>
+    </EventString>
+    <EventString Key="MES14013">
+      <Title>خطأ CR </Title>
+      <Message>خطأ معالجة الإشارة (بلا بيانات تظليل) </Message>
+    </EventString>
+    <EventString Key="MES14014">
+      <Title>خطأ CR </Title>
+      <Message>خطأ معالجة الإشارة (بلا بيانات QRV) </Message>
+    </EventString>
+    <EventString Key="MES15000">
+      <Title>خطأ CR </Title>
+      <Message>خطأ معالجة الإشارة (فشل التهيئة) </Message>
+    </EventString>
+    <EventString Key="MES22101">
+      <Title>خطأ CR </Title>
+      <Message>خطأ اتصال متسلسل (فوق العداد N1) </Message>
+    </EventString>
+    <EventString Key="MES22103">
+      <Title>خطأ CR </Title>
+      <Message>خطأ اتصال متسلسل (فوق العداد N3) </Message>
+    </EventString>
+    <EventString Key="MES22104">
+      <Title>خطأ CR </Title>
+      <Message>خطأ اتصال متسلسل (فوق العداد N4) </Message>
+    </EventString>
+    <EventString Key="MES23000">
+      <Title>خطأ CR </Title>
+      <Message>خطأ برنامج (تحكم رئيسي) </Message>
+    </EventString>
+    <EventString Key="MES23100">
+      <Title>خطأ CR </Title>
+      <Message>خطأ برنامج (تحكم متسلسل) </Message>
+    </EventString>
+    <EventString Key="MES23200">
+      <Title>خطأ CR </Title>
+      <Message>خطأ برنامج (حجم ملف البيانات) </Message>
+    </EventString>
+    <EventString Key="MES23900">
+      <Title>خطأ CR </Title>
+      <Message>خطأ برنامج (تحديث البرنامج الثابت) </Message>
+    </EventString>
+    <EventString Key="MES24000">
+      <Title>خطأ CR </Title>
+      <Message>خطأ شبكة (اتصال JM) </Message>
+    </EventString>
+    <EventString Key="MES24500">
+      <Title>خطأ CR </Title>
+      <Message>خطأ شبكة (تكوين JM) </Message>
+    </EventString>
+    <EventString Key="MES25000">
+      <Title>خطأ CR </Title>
+      <Message>خطأ شبكة (بلا مهلة) </Message>
+    </EventString>
+    <EventString Key="MES25100">
+      <Title>خطأ CR </Title>
+      <Message>خطأ شبكة (انقضاء المهلة:في الاتصال العام) </Message>
+    </EventString>
+    <EventString Key="MES25110">
+      <Title>خطأ CR </Title>
+      <Message>خطأ شبكة (رفض:في الاتصال العام) </Message>
+    </EventString>
+    <EventString Key="MES25200">
+      <Title>خطأ CR </Title>
+      <Message>خطأ شبكة (انقضاء المهلة:في نقل الصور) </Message>
+    </EventString>
+    <EventString Key="MES25210">
+      <Title>خطأ CR </Title>
+      <Message>خطأ شبكة (انقضاء المهلة:بعد مسح الصور) </Message>
+    </EventString>
+    <EventString Key="MES25300">
+      <Title>خطأ CR </Title>
+      <Message>خطأ شبكة (انقضاء المهلة/رفض:في نقل الصور) </Message>
+    </EventString>
+    <EventString Key="MES25500">
+      <Title>خطأ CR </Title>
+      <Message>خطأ شبكة (الوجهة:لم يتم العثور عليها) </Message>
+    </EventString>
+    <EventString Key="MES26000">
+      <Title>خطأ CR </Title>
+      <Message>خطأ تشغيل (مهمة غير صالحة) </Message>
+    </EventString>
+    <EventString Key="MES26010">
+      <Title>خطأ CR </Title>
+      <Message>خطأ تشغيل (مُعلمة مهمة غير صالحة) </Message>
+    </EventString>
+    <EventString Key="MES26100">
+      <Title>خطأ CR </Title>
+      <Message>خطأ تشغيل (مهمة غير مشروطة) </Message>
+    </EventString>
+    <EventString Key="MES26200">
+      <Title>خطأ CR </Title>
+      <Message>خطأ تشغيل (وحدة تحكم غير صالحة) </Message>
+    </EventString>
+    <EventString Key="MES26300">
+      <Title>خطأ CR </Title>
+      <Message>خطأ تشغيل (القارئ مشغول) </Message>
+    </EventString>
+    <EventString Key="MES26900">
+      <Title>خطأ CR </Title>
+      <Message>خطأ تشغيل (PowerOFF قيد تنفيذ المهمة) </Message>
+    </EventString>
+    <EventString Key="MES26999">
+      <Title>خطأ CR </Title>
+      <Message>خطأ تشغيل (أمر غير مدعوم) </Message>
+    </EventString>
+    <EventString Key="MES1">
+      <Title>خطأ CR </Title>
+      <Message>تم اكتشاف باب أمامي مفتوح </Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

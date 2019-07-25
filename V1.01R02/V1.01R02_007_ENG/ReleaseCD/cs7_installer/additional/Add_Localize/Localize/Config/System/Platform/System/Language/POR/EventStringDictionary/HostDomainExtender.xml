@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="HostDomainExtender0001">
+      <Title>Status de Ping</Title>
+      <Message>Ligado com sucesso.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0002">
+      <Title>Status de Ping</Title>
+      <Message>Falha ao ligar.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0003">
+      <Title>Confirmação</Title>
+      <Message>Para que serviço é necessário executar o Ping(C-ECHO)？</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0004">
+      <Title>Confirmação</Title>
+      <Message>Concorda em apagar a lista de espera selecionada?</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0005">
+      <Title>Atenção</Title>
+      <Message>Por favor selecione a(s) lista(s) de espera a apagar.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0006">
+      <Title>Informação</Title>
+      <Message>A(s) lista(s) de espera selecionada(s) foi apagada com sucesso.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0007">
+      <Title>Erro</Title>
+      <Message>Erro ao apagar lista de espera.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0008">
+      <Title>Atenção</Title>
+      <Message>Este Host especificado está duplicado com outro CH. As imagens serão exibidas possivelmente em duplicação.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

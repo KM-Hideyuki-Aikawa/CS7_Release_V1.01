@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title />
+      <Message>Vücut boyutunu değiştirmek istiyor munuz? Lütfen teyit edin.</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title />
+      <Message>Çekim sonuçları birden fazla emir için uygulandı. Tetkik etiketleri "{EXAM_TAGS_INFO}"</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title />
+      <Message>Çekim sonuçlarını uygulayacak eşleşen Emir bulunamadı. Lütfen kontrol edin.</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title />
+      <Message>CR Çekimi koşulu için AEC AÇIK duruma getirilemiyor. AEC KAPALI konuma getirilsin mi?</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title />
+      <Message>Bazı emirler için h asta boyutu değiştirilemedi. Lütfen kontrol edin.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="40001">
+      <Title>Nepavyko sukurti eilės failą</Title>
+      <Message>Nepavyko sukurti eilės failą</Message>
+    </EventString>
+    <EventString Key="40002">
+      <Title>Rikiavimas į eilę nepavyko</Title>
+      <Message>Nepavyko pastatyti į eilę</Message>
+    </EventString>
+    <EventString Key="40003">
+      <Title>Rikiavimas į eilę nepavyko</Title>
+      <Message>Pasiektas didžiausias leistinas eilės valdymo pakartotinių bandymų skaičius.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

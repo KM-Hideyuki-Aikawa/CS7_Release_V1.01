@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="OrderListDomain0001">
+      <Title>Fehler</Title>
+      <Message>Fehler bei DB-Update.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0002">
+      <Title>Warnung</Title>
+      <Message>Ungültiger Wert. Ausführung nicht möglich.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0003">
+      <Title>Warnung</Title>
+      <Message>Eingabe ist obligatorisch.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0004">
+      <Title>Fehler</Title>
+      <Message>Ausführung nicht möglich.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0005">
+      <Title>Patienten-Update-Fehler</Title>
+      <Message>Fehler beim Patienten-Update.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0006">
+      <Title>Information</Title>
+      <Message>DB-Daten wurden aktualisiert, aktualisierte Befundung wird angezeigt.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0007">
+      <Title>Fehler</Title>
+      <Message>Befundung wurde aus Datenbank gelöscht, Ausführung des Vorgangs nicht möglich.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0008">
+      <Title>Bestätigung</Title>
+      <Message>Gleiche Patienten-ID: {0}, Patientenname: {1}, Geschlecht: {2}, DOB:{3} in Datenbank vorhanden, möchten Sie die DB-Daten verwenden?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0009">
+      <Title>Bestätigung</Title>
+      <Message>Befundung in Bearbeitung. Möchten Sie ausführen?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0010">
+      <Title>Warnung</Title>
+      <Message>Befundung bereits in Ausführung auf anderer Konsole.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

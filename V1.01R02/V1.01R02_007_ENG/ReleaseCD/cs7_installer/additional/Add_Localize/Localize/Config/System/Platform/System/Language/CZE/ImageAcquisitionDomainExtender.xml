@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>0000</Key>
+      <Value>DALŠÍ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>0020</Key>
+      <Value>:</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>1</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>0040</Key>
+      <Value>Vybrat důvod ztráty snímku</Value>
+      <Comment />
+      <Link />
+      <FontSize>14</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>6</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>0041</Key>
+      <Value>Zrušit</Value>
+      <Comment />
+      <Link />
+      <FontSize>14</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>6</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>0042</Key>
+      <Value>OK</Value>
+      <Comment />
+      <Link />
+      <FontSize>14</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>0043</Key>
+      <Value />
+      <Comment>写損理由（フォントサイズとフォント名のみ）</Comment>
+      <Link />
+      <FontSize>14</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1401</Key>
+      <Value>Potvrdit</Value>
+      <Comment>確認</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1402</Key>
+      <Value>s</Value>
+      <Comment>秒</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>1</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1403</Key>
+      <Value>.</Value>
+      <Comment>番目</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1404</Key>
+      <Value />
+      <Comment>撮影条件：グループ名称</Comment>
+      <Link />
+      <FontSize>13</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1405</Key>
+      <Value />
+      <Comment>撮影条件：条件名称</Comment>
+      <Link />
+      <FontSize>13</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1210</Key>
+      <Value>Studie</Value>
+      <Comment>表示名称</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>4</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1212</Key>
+      <Value>Rozlišení</Value>
+      <Comment>解像度</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>3</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1213</Key>
+      <Value>Velikost</Value>
+      <Comment>サイズ</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>3</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1214</Key>
+      <Value>Směr</Value>
+      <Comment>向き</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1215</Key>
+      <Value>Pozice skenování</Value>
+      <Comment>読取位置</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>4</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1216</Key>
+      <Value>Ztracený snímek</Value>
+      <Comment>写損</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1217</Key>
+      <Value>Zrušit</Value>
+      <Comment>取消</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1218</Key>
+      <Value>(R)</Value>
+      <Comment>(才)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>3</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1219</Key>
+      <Value>(M)</Value>
+      <Comment>(ヶ月)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>4</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1220</Key>
+      <Value>(D)</Value>
+      <Comment>(日)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>3</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1221</Key>
+      <Value>(R)</Value>
+      <Comment>(歳)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UIc</FontName>
+      <MaxNumber>3</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1222</Key>
+      <Value>(M)</Value>
+      <Comment>(ヶ月)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>4</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1223</Key>
+      <Value>(D)</Value>
+      <Comment>(日)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>3</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1224</Key>
+      <Value>Muž</Value>
+      <Comment>男</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>1</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1225</Key>
+      <Value>Žena</Value>
+      <Comment>女</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>1</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1226</Key>
+      <Value>Není známo</Value>
+      <Comment>不明</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1227</Key>
+      <Value>rrrrRMMMdd</Value>
+      <Comment>yyyy年MM月dd日</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>11</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1228</Key>
+      <Value>ggrrYMMMdd</Value>
+      <Comment>ggyy年MM月dd日</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>4</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1229</Key>
+      <Value>HHmmss</Value>
+      <Comment>HH時mm分ss秒</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>9</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1230</Key>
+      <Value>HHmm</Value>
+      <Comment>HH時mm分</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>6</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_0</Key>
+      <Value>Zadání...</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_1</Key>
+      <Value>Probíhá uvolňování</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_2</Key>
+      <Value>Probíhá příprava</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_3</Key>
+      <Value>Připraveno</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_4</Key>
+      <Value>Probíhá připojování...</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_5</Key>
+      <Value>Probíhá zpracovávání...</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_6</Key>
+      <Value>Spouštění</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_7</Key>
+      <Value>Probíhá aktualizace...</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_8</Key>
+      <Value>Probíhá zastavování</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_9</Key>
+      <Value>Chyba</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_10</Key>
+      <Value>Nabíjení...</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_11</Key>
+      <Value>Prosím nabijte</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_12</Key>
+      <Value>Čekání</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_13</Key>
+      <Value>Režim spánku</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_101</Key>
+      <Value>Probíhá odesílání</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_111</Key>
+      <Value>Panel nebyl detekován</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_112</Key>
+      <Value>Zkontrolujte panel</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_113</Key>
+      <Value>Režim spánku</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_121</Key>
+      <Value>Probíhá příprava</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_131</Key>
+      <Value>Čekání na přípravu</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

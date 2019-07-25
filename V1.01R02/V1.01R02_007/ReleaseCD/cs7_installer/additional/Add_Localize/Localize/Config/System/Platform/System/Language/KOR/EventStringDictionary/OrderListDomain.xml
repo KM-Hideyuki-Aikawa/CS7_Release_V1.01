@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="OrderListDomain0001">
+      <Title>오류</Title>
+      <Message>DB 업데이트 오류.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0002">
+      <Title>경고</Title>
+      <Message>유효하지 않은 값이므로 수행할 수 없습니다.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0003">
+      <Title>경고</Title>
+      <Message>입력은 필수 사항입니다.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0004">
+      <Title>오류</Title>
+      <Message>실행할 수 없습니다.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0005">
+      <Title>환자 업데이트 오류</Title>
+      <Message>환자 업데이트 오류입니다.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0006">
+      <Title>정보</Title>
+      <Message>DB 데이터가 업데이트되었습니다. 업데이트된 검사가 표시됩니다.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0007">
+      <Title>오류</Title>
+      <Message>검사가 데이터베이스에서 삭제되었습니다. 실행 작업이 불가능합니다.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0008">
+      <Title>확인</Title>
+      <Message>동일한 환자 ID: {0},환자명: {1},성별: {2},생일:{3}은 데이터베이스에서 확인할 수 있습니다. DB 데이터를 사용하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0009">
+      <Title>확인</Title>
+      <Message>연구가 진행 중 상태입니다. 수행하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0010">
+      <Title>경고</Title>
+      <Message>검사가 다른 콘솔에서 이미 실시되었습니다.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

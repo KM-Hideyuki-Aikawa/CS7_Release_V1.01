@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35540">
+      <Title>Initialisierungsfehler</Title>
+      <Message>Initialisierung fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="35541">
+      <Title>Lesevorgang fehlgeschlagen</Title>
+      <Message>Beim Lesen der Einstelldatei ist ein Fehler aufgetreten.</Message>
+    </EventString>
+    <EventString Key="35542">
+      <Title>Timeout-Fehler</Title>
+      <Message>Ein Timeout ist aufgetreten.</Message>
+    </EventString>
+    <EventString Key="35543">
+      <Title>C35543</Title>
+      <Message />
+    </EventString>
+    <EventString Key="37350">
+      <Title>Interner Fehler</Title>
+      <Message>Interner Fehler bei DICOM-Kommunikation aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>Interner Fehler</Title>
+      <Message>Interner Fehler bei DICOM-Kommunikation aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>Interner Fehler</Title>
+      <Message>Abfrage der DICOM-Kommunikationseinstellung fehlgeschlagen. Prüfen Sie die Kommunikationseinstellung.</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>Kommunikationsfehler</Title>
+      <Message>Kommunikation fehlgeschlagen. Prüfen Sie, ob Kommunikationseinstellung und Server funktionieren.</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>Kommunikationsfehler</Title>
+      <Message>A-ASSOCIATE fehlgeschlagen. Prüfen Sie, ob Kommunikationseinstellung und Server funktionieren.</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>Kommunikationsfehler</Title>
+      <Message>Vom Server bei A-ASSOCIATE wegen ungültiger Einstellung abgewiesen. Prüfen Sie die Kommunikationseinstellung.</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>Kommunikationsfehler</Title>
+      <Message>Interner Fehler bei DICOM-Kommunikation aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>Kommunikationsfehler</Title>
+      <Message>A-ABORT empfangen. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37360">
+      <Title>Interner Fehler</Title>
+      <Message>Interner Fehler bei RIS-AUS-Kommunikation aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="37361">
+      <Title>Interner Fehler</Title>
+      <Message>Interner Fehler bei RIS-AUS-Kommunikation aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="37362">
+      <Title>Interner Fehler</Title>
+      <Message>Interner Fehler bei RIS-AUS-Kommunikation aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="37363">
+      <Title>Interner Fehler</Title>
+      <Message>Interner Fehler bei RIS-AUS-Kommunikation aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="37364">
+      <Title>Interner Fehler</Title>
+      <Message>Interner Fehler bei RIS-AUS-Kommunikation aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>Interner Fehler</Title>
+      <Message>Interner Fehler bei RIS-AUS-Kommunikation aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="37699">
+      <Title>Unbekannter Fehler</Title>
+      <Message>Unbekannter Fehler aufgetreten.[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37662">
+      <Title>Interner Fehler</Title>
+      <Message>Interner Fehler bei HOST-Kommunikation aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="37365">
+      <Title>Interner Fehler</Title>
+      <Message>Interner Fehler bei RIS-AUS-Kommunikation aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="37366">
+      <Title>Interner Fehler</Title>
+      <Message>Interner Fehler bei RIS-AUS-Kommunikation aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="37367">
+      <Title>Interner Fehler</Title>
+      <Message>Interner Fehler bei RIS-AUS-Kommunikation aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="37368">
+      <Title>Interner Fehler</Title>
+      <Message>Interner Fehler bei RIS-AUS-Kommunikation aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="37369">
+      <Title>Interner Fehler</Title>
+      <Message>Interner Fehler bei RIS-AUS-Kommunikation aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="37370">
+      <Title>Interner Fehler</Title>
+      <Message>Interner Fehler bei RIS-AUS-Kommunikation aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="37371">
+      <Title>Interner Fehler</Title>
+      <Message>Interner Fehler bei RIS-AUS-Kommunikation aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="27700">
+      <Title>Kommunikationsfehler</Title>
+      <Message>Kommunikationsfehler bei RIS-AUS-Kommunikation aufgetreten. Prüfen Sie das Kommunikationsziel.</Message>
+    </EventString>
+    <EventString Key="27701">
+      <Title>Kommunikationsfehler</Title>
+      <Message>Kommunikationsfehler bei RIS-AUS-Kommunikation aufgetreten. Prüfen Sie das Kommunikationsziel.</Message>
+    </EventString>
+    <EventString Key="27702">
+      <Title>Kommunikationsfehler</Title>
+      <Message>Kommunikationsfehler bei RIS-AUS-Kommunikation aufgetreten. Prüfen Sie das Kommunikationsziel.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

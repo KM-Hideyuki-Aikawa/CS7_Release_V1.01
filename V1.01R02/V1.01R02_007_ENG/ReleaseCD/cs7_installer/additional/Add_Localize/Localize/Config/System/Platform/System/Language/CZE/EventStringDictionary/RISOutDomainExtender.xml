@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="RISOutDomainExtender0001">
+      <Title>Stav Ping</Title>
+      <Message>Připojení bylo úspěšné.</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0002">
+      <Title>Stav Ping</Title>
+      <Message>Připojení neúspěšné.</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0003">
+      <Title />
+      <Message>Je správné odstranit vybranou frontu?</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0004">
+      <Title>Pozor</Title>
+      <Message>Vyberte fronty, které mají být odstraněny.</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0005">
+      <Title>Potvrzení</Title>
+      <Message>Je správné odstranit vybranou frontu?</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0006">
+      <Title>Informace</Title>
+      <Message>Vybrané fronty úspěšně odstraněny</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0007">
+      <Title>Chyba</Title>
+      <Message>Chyba při odstraňování fronty.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

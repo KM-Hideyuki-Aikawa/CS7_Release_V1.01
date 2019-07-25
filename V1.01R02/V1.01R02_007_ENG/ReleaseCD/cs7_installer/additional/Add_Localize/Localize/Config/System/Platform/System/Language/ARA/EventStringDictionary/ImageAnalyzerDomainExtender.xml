@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0104">
+      <Title>خطأ</Title>
+      <Message>فشل بدء تسلسل الحصول على الصور.</Message>
+    </EventString>
+    <EventString Key="0112">
+      <Title>خطأ</Title>
+      <Message>فشل تحليل التشوش الإلكتروني.</Message>
+    </EventString>
+    <EventString Key="0113">
+      <Title>خطأ</Title>
+      <Message>فشل تحليل التفاوت.</Message>
+    </EventString>
+    <EventString Key="0114">
+      <Title>خطأ</Title>
+      <Message>فشل تحديث خريطة العيوب الأساسية.</Message>
+    </EventString>
+    <EventString Key="0115">
+      <Title>خطأ</Title>
+      <Message>فشل تحليل خريطة العيوب.</Message>
+    </EventString>
+    <EventString Key="0116">
+      <Title>خطأ</Title>
+      <Message>فشل الحصول على الصورة.</Message>
+    </EventString>
+    <EventString Key="0117">
+      <Title>معلومات</Title>
+      <Message>اكتمل تحليل الصورة.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

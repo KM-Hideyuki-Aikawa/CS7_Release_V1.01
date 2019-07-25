@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="SystemMonitorDomain00001">
+      <Title>리더기 구성요소</Title>
+      <Message>(ComponentName)의 (ReaderName)이 만료될 예정입니다. 유지보수 부서로 연락하시기 바랍니다.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00002">
+      <Title>리더기 구성요소</Title>
+      <Message>(ComponentName)이 만료될 예정입니다. 유지보수 부서로 연락하시기 바랍니다.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00003">
+      <Title>리더기 구성요소</Title>
+      <Message>(ComponentName)의 (ReaderName)이 만료되었습다. 유지보수 부서로 연락하시기 바랍니다.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00004">
+      <Title>리더기 구성요소</Title>
+      <Message>(ComponentName)가 만료되었습니다. 유지보수 부서로 연락하시기 바랍니다.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00005">
+      <Title />
+      <Message>시스템을 종료하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00006">
+      <Title />
+      <Message>업데이트가 성공적으로 이루어졌습니다.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00007">
+      <Title />
+      <Message>응용 프로그램에서 성공적으로 로그아웃했습니다.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00008">
+      <Title>오류</Title>
+      <Message>로그아웃 요청을 처리할 수 없습니다.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00009">
+      <Title>오류</Title>
+      <Message>로딩되지 않은 (DomainExtenderName) 플러그인이 있는지 확인하시기 바랍니다.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00010">
+      <Title />
+      <Message>정말로 로그오프하시겠습니까?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

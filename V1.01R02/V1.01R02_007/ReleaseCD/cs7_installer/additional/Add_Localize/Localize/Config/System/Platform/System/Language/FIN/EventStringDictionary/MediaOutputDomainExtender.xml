@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="MediaOutputDomainExtender0000">
+      <Title />
+      <Message>Annettu vuosi ei kelpaa</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0001">
+      <Title />
+      <Message>Annettu kuukausi ei kelpaa</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0002">
+      <Title />
+      <Message>Annettu päivä ei kelpaa</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0003">
+      <Title />
+      <Message>Arvo on alueen ulkopuolella</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0004">
+      <Title />
+      <Message>Pituus on suurempi kuin MaxLength</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0005">
+      <Title />
+      <Message>Pituus on pienempi kuin MinLength</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0006">
+      <Title />
+      <Message>Annettu arvo ei ole numeerinen</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0007">
+      <Title />
+      <Message>Annettu arvo ei kelpaa</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0008">
+      <Title />
+      <Message>Vain kirjaimet sallitaan</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0009">
+      <Title />
+      <Message>Vain Kana sallitaan</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0010">
+      <Title />
+      <Message>Virheellinen arvo. Tässä ei voi käyttää merkkejä '\\', '^' , '='</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0011">
+      <Title />
+      <Message>Kaksitavuisia merkkejä ei sallita</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0012">
+      <Title />
+      <Message>Syötetty merkki ei kelpaa</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0013">
+      <Title />
+      <Message>Tallennusvälineen kirjoitusvirhe</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0014">
+      <Title />
+      <Message>Tallennusvälinettä ei ole asetettu</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0015">
+      <Title />
+      <Message>Tiedot ovat jo olemassa</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0016">
+      <Title />
+      <Message>Tila ei riitä</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0017">
+      <Title />
+      <Message>Määritetty kansion nimi ei kelpaa.</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0018">
+      <Title />
+      <Message>Kansion nimessä ei voi käyttää seuraavia merkkejä. 
+.\/:*?"&amp;lt;&amp;gt;|</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0019">
+      <Title />
+      <Message>Kansion nimi on jo olemassa. Korvataanko?</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0020">
+      <Title />
+      <Message>Peruutus on käynnissä. Odota.</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0021">
+      <Title />
+      <Message>Tässä kohteessa ei voi käyttää merkkejä '\','='.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

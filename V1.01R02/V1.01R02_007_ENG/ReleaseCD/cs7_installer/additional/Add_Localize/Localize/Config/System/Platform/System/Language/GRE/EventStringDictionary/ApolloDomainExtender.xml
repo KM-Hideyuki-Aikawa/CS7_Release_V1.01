@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ApolloDomainExtender0001">
+      <Title>Κατάσταση ping</Title>
+      <Message>Η σύνδεση πραγματοποιήθηκε επιτυχώς.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0002">
+      <Title>Κατάσταση ping</Title>
+      <Message>Η σύνδεση απέτυχε.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0003">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Συμφωνείτε να ακυρωθεί η καταχώριση;</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0004">
+      <Title>Σφάλμα</Title>
+      <Message>Η ακύρωση της συσκευής απέτυχε.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0005">
+      <Title>Σφάλμα</Title>
+      <Message>Δεν είναι δυνατή η επεξεργασία του αιτήματος καθώς δεν έχει επιλεχθεί η συσκευή</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0006">
+      <Title>Πληροφορίες</Title>
+      <Message>Ασύρματη</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0007">
+      <Title>Πληροφορίες</Title>
+      <Message>Ενσύρματη</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

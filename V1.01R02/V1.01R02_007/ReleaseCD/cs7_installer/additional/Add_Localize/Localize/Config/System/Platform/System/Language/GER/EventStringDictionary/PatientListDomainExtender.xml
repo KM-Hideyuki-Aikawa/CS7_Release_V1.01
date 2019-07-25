@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientListDomainExtender0000">
+      <Title />
+      <Message>Eingegebenes Jahr ist ungültig</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0001">
+      <Title />
+      <Message>Eingegebener Monat ist ungültig</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0002">
+      <Title />
+      <Message>Eingegebener Tag ist ungültig</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0003">
+      <Title />
+      <Message>Der Wert liegt außerhalb des Bereichs.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0004">
+      <Title />
+      <Message>Die Länge ist größer als die max. Länge.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0005">
+      <Title />
+      <Message>Die Länge ist kürzer als die min. Länge.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0006">
+      <Title />
+      <Message>Eingegebener Wert ist nicht numerisch</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0007">
+      <Title />
+      <Message>Eingegebener Wert ist ungültig</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0008">
+      <Title />
+      <Message>Nur Alphabete erlaubt</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0009">
+      <Title />
+      <Message>Nur Kana erlaubt</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0010">
+      <Title />
+      <Message>Ungültiger Wert. Kann "\" hier nicht verwenden.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0011">
+      <Title />
+      <Message>Dieses Zeichen ist nicht zulässig.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0012">
+      <Title>Bestätigung</Title>
+      <Message>Möchten Sie ausgewählte Aufzeichnung löschen?</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0013">
+      <Title />
+      <Message>Ungültiger Wert. Kann "\", "^" oder "=" hier nicht verwenden.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0014">
+      <Title />
+      <Message>Ungültiger Wert. Kann "\" oder "=" hier nicht verwenden.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0015">
+      <Title />
+      <Message>Möchten Sie die Befundung aussetzen?</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0016">
+      <Title>Barcode-Suche</Title>
+      <Message>Mehrfachbefundung {0} mit gegebenen Informationen vorhanden.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

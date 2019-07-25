@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="MediaOutputDomainExtender0000">
+      <Title />
+      <Message>Το έτος που εισάχθηκε δεν είναι έγκυρο</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0001">
+      <Title />
+      <Message>Ο μήνας που εισάχθηκε δεν είναι έγκυρος</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0002">
+      <Title />
+      <Message>Η ημέρα που εισάχθηκε δεν είναι έγκυρη</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0003">
+      <Title />
+      <Message>Η τιμή είναι εκτός εύρους</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0004">
+      <Title />
+      <Message>Το μήκος είναι μεγαλύτερο από το μέγιστο μήκος</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0005">
+      <Title />
+      <Message>Το μήκος είναι μικρότερο από το ελάχιστο μήκος</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0006">
+      <Title />
+      <Message>Η τιμή που εισάχθηκε δεν είναι αριθμητική</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0007">
+      <Title />
+      <Message>Η τιμή που εισάχθηκε δεν είναι έγκυρη</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0008">
+      <Title />
+      <Message>Επιτρέπονται μόνο χαρακτήρες αλφάβητου</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0009">
+      <Title />
+      <Message>Επιτρέπονται μόνο χαρακτήρες kana</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0010">
+      <Title />
+      <Message>Μη έγκυρη τιμή. Δεν είναι δυνατή η χρήση των χαρακτήρων '\\', '^' , '=' εδώ</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0011">
+      <Title />
+      <Message>Δεν επιτρέπονται χαρακτήρες διπλού byte</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0012">
+      <Title />
+      <Message>Ο χαρακτήρας που εισάχθηκε δεν είναι έγκυρος</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0013">
+      <Title />
+      <Message>Σφάλμα εγγραφής σε μέσο</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0014">
+      <Title />
+      <Message>Το μέσο δεν έχει εισαχθεί</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0015">
+      <Title />
+      <Message>Τα δεδομένα υπάρχουν ήδη</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0016">
+      <Title />
+      <Message>Δεν υπάρχει αρκετός διαθέσιμος χώρος</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0017">
+      <Title />
+      <Message>Το καθορισμένο όνομα φακέλου δεν είναι έγκυρο.</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0018">
+      <Title />
+      <Message>Δεν είναι δυνατή η χρήση των ακόλουθων χαρακτήρων στο όνομα φακέλου. 
+.\/:*?"&amp;lt;&amp;gt;|</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0019">
+      <Title />
+      <Message>Υπάρχει ήδη φάκελος με αυτό το όνομα. Αντικατάσταση;</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0020">
+      <Title />
+      <Message>Ακύρωση σε εξέλιξη. Περιμένετε.</Message>
+    </EventString>
+    <EventString Key="MediaOutputDomainExtender0021">
+      <Title />
+      <Message>Για αυτό το στοιχείο, δεν είναι δυνατή η χρήση των '\','='.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title>Klaida</Title>
+      <Message>Negaliojantis ženklas. Įveskite teisingą ženklą.</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title>Klaida</Title>
+      <Message>Nustatykite vamzdžio įtampą nuo 1 iki 999. </Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title>Patvirtinimas</Title>
+      <Message>Ar norite įrašyti šiuos pokyčius?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

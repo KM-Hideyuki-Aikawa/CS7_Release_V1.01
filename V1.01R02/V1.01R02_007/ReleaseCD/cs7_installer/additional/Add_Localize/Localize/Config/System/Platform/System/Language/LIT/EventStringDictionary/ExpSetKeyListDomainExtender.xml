@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ExpSetKeyListDomainExtender0000">
+      <Title />
+      <Message>Ar tikrai pakeisti vaizdo apdorojimo parametrus?</Message>
+    </EventString>
+    <EventString Key="ExpSetKeyListDomainExtender0001">
+      <Title />
+      <Message>Ar tikrai pašalinti registruotą kasetės brūkšninį kodą?</Message>
+    </EventString>
+    <EventString Key="ExpSetKeyListDomainExtender0002">
+      <Title />
+      <Message>Negalite registruoti didesnių nei {MaxSize} vaizdų.</Message>
+    </EventString>
+    <EventString Key="ExpSetKeyListDomainExtender0003">
+      <Title />
+      <Message>Brūkšninis kodas yra registruotas šiam įrašymo sąlygų raktui. Ar tikrai pakeisti šį registravimą?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0104">
+      <Title>Fehler</Title>
+      <Message>Start der Bilderfassungssequenz fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="0112">
+      <Title>Fehler</Title>
+      <Message>Analyse elektrischer Störungen fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="0113">
+      <Title>Fehler</Title>
+      <Message>Analyse der Ungleichmäßigkeit fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="0114">
+      <Title>Fehler</Title>
+      <Message>Update der Basisdefektkarte fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="0115">
+      <Title>Fehler</Title>
+      <Message>Analyse der Defektkarte fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="0116">
+      <Title>Fehler</Title>
+      <Message>Erfassen des Bildes fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="0117">
+      <Title>Information</Title>
+      <Message>Bildanalyse abgeschlossen.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

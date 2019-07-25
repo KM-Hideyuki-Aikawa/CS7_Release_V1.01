@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientRegistrationDomainExtender0001">
+      <Title>Erreur</Title>
+      <Message>Année saisie invalide.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0002">
+      <Title>Erreur</Title>
+      <Message>Mois saisi invalide.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0003">
+      <Title>Erreur</Title>
+      <Message>Jour saisi invalide.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0004">
+      <Title>Erreur</Title>
+      <Message>Valeur saisie invalide.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0005">
+      <Title>Erreur</Title>
+      <Message>Le nombre de caractères maximum n'est pas atteint.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0006">
+      <Title>Erreur</Title>
+      <Message>Le nombre de caractères minimum n'est pas atteint.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0007">
+      <Title>Erreur</Title>
+      <Message>Saisir un nombre.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0008">
+      <Title>Erreur</Title>
+      <Message>Valeur saisie invalide</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0009">
+      <Title>Erreur</Title>
+      <Message>Veuillez saisir le caractère alphanumérique.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0010">
+      <Title>Erreur</Title>
+      <Message>Seul kana est autorisé.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0011">
+      <Title>Erreur</Title>
+      <Message>Valeur invalide. "\" inutilisable ici.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0012">
+      <Title>Erreur</Title>
+      <Message>Année saisie invalide.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0013">
+      <Title>Erreur</Title>
+      <Message>Année saisie invalide.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0014">
+      <Title>Erreur</Title>
+      <Message>Année saisie invalide. Saisir une valeur de 1800 ou plus.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0015">
+      <Title>Erreur</Title>
+      <Message>Erreur de plage de date. Veuillez vérifier.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0016">
+      <Title>Erreur</Title>
+      <Message>Heure saisie invalide.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0017">
+      <Title>Erreur</Title>
+      <Message>Minutes saisies invalides.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0018">
+      <Title>Erreur</Title>
+      <Message>Secondes saisies invalides.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0019">
+      <Title>Erreur</Title>
+      <Message>Veuillez saisir l'entier.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0020">
+      <Title>Erreur</Title>
+      <Message>Erreur de recherche survenue</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0021">
+      <Title>Attention</Title>
+      <Message>La modification d'informations patient peut causer des erreurs de correspondance d'étude PACS. Confirmez toutes les données modifiées immédiatement sur PACS.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0022">
+      <Title>Confirmation</Title>
+      <Message>Le PatientID est obligatoire, veuillez saisir le PatientID.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0023">
+      <Title>Confirmation</Title>
+      <Message>Le Study ID est obligatoire, veuillez saisir le Study ID.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0024">
+      <Title>Confirmation</Title>
+      <Message>PatientName est obligatoire, veuillez saisir le PatientName.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0025">
+      <Title>Confirmation</Title>
+      <Message>PatientName est obligatoire, veuillez saisir le PatientName.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0026">
+      <Title>Confirmation</Title>
+      <Message>PatientName est obligatoire, veuillez saisir le PatientName.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0027">
+      <Title>Confirmation</Title>
+      <Message>Le sexe est obligatoire, veuillez saisir le sexe.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0028">
+      <Title>Confirmation</Title>
+      <Message>La date de naissance est obligatoire, veuillez saisir la date de naissance.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0029">
+      <Title>Erreur</Title>
+      <Message>Lecture de la carte magnétique impossible. Redémarrez le système.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0030">
+      <Title>Erreur</Title>
+      <Message>Un champ obligatoire n'est pas rempli. Exécution impossible.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0031">
+      <Title>Confirmation</Title>
+      <Message>Il y a une image exposée dans l'étude, voulez-vous éditer l'étude ?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0032">
+      <Title>Confirmation</Title>
+      <Message>D'accord pour fermer la vue Dr.View ouverte ?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0033">
+      <Title>Confirmation</Title>
+      <Message>Redémarrer Dr.View ? </Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0034">
+      <Title>Confirmation</Title>
+      <Message>L'étude sera remise à l'état suspendu. D'accord ?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0035">
+      <Title>Erreur</Title>
+      <Message>Il n'y a pas d'étude et infos patient correspondants.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0036">
+      <Title>Confirmation</Title>
+      <Message>Étude déjà présente dans la BD. Voulez-vous utiliser cette étude ?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0037">
+      <Title>Confirmation</Title>
+      <Message>Infos patient déjà présentes dans la BD. Voulez-vous utiliser ces infos patient ?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0038">
+      <Title>Erreur</Title>
+      <Message>Impossible de sélectionner plusieurs patients.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0039">
+      <Title>Erreur</Title>
+      <Message>Erreur BD - Échec de création de commande.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0040">
+      <Title>Erreur</Title>
+      <Message>Erreur mise à jour BD patient.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0041">
+      <Title>Erreur</Title>
+      <Message>Le patient correspondant n'est pas présent dans la BD</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0042">
+      <Title>Erreur</Title>
+      <Message>Ce caractère n'est pas autorisé</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0046">
+      <Title>Erreur</Title>
+      <Message>Année future impossible.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0047">
+      <Title>Erreur</Title>
+      <Message>Mois futur impossible.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0048">
+      <Title>Erreur</Title>
+      <Message>Date future impossible.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0049">
+      <Title>Erreur</Title>
+      <Message>L'année entrée n'est pas une année bissextile. Vérifiez la date.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0052">
+      <Title>Confirmation</Title>
+      <Message>Commande enregistrée. Voulez-vous l'écraser ?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0053">
+      <Title>Confirmation</Title>
+      <Message>Même PatientID: {0},Nom du patient: {1},Sexe: {2},DdN:{3} disponible dans base de données, voulez-vous l'écraser ?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0054">
+      <Title>Erreur</Title>
+      <Message>Valeur invalide. "\", "^" ou "=" inutilisables ici.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0055">
+      <Title>Erreur</Title>
+      <Message>Valeur invalide. "\" ou "=" inutilisables ici.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0056">
+      <Title>Erreur</Title>
+      <Message>Fonctionnement impossible</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0057">
+      <Title>Confirmation</Title>
+      <Message>Voulez-vous tout effacer ?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0058">
+      <Title>Erreur</Title>
+      <Message>Veuillez remplir les champs obligatoires</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0059">
+      <Title>Confirmation</Title>
+      <Message>Voulez-vous enregistrer l'étude ?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0060">
+      <Title>Erreur</Title>
+      <Message>Échec de l'enregistrement</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0061">
+      <Title>Confirmation</Title>
+      <Message>Voulez-vous écraser les données ?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0062">
+      <Title>Erreur</Title>
+      <Message>Il n'y a pas d'étude et patient correspondant.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0063">
+      <Title>Erreur</Title>
+      <Message>Veuillez saisir le contenu à chercher.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0064">
+      <Title>Erreur</Title>
+      <Message>Veuillez saisir la valeur pour les champs date et heure</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

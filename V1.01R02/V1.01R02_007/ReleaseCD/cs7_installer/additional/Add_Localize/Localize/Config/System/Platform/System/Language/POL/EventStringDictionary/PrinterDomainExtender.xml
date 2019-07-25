@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PrinterDomainExtender0001">
+      <Title>Stan ping</Title>
+      <Message>Połączono pomyślnie.</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0002">
+      <Title>Stan ping</Title>
+      <Message>Nie można się połączyć.</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0003">
+      <Title />
+      <Message>Dla której usługi wykonano Ping(C-ECHO)?</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0004">
+      <Title>Potwierdzenie</Title>
+      <Message>Czy chcesz usunąć wybraną kolejkę?</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0005">
+      <Title>Uwaga</Title>
+      <Message>Wybierz kolejki do usunięcia.</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0006">
+      <Title>Informacje</Title>
+      <Message>Wybrane kolejki zostały usunięte pomyślnie</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0007">
+      <Title>Błąd</Title>
+      <Message>Błąd podczas usuwania kolejek.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

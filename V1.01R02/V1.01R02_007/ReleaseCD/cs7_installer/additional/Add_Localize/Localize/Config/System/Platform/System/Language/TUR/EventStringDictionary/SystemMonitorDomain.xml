@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="SystemMonitorDomain00001">
+      <Title>Okuyucu Bileşeni</Title>
+      <Message>(BileşenAdı)ndaki (OkuyucuAdı) zaman aşımına uğramak üzere. Lütfen bakımı arayın.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00002">
+      <Title>Okuyucu Bileşeni</Title>
+      <Message>(BileşenAdı) zaman aşımına uğramak üzere. Lütfen bakımı arayın.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00003">
+      <Title>Okuyucu Bileşeni</Title>
+      <Message>(BileşenAdı)ndaki (OkuyucuAdı) zaman aşımına uğradı. Lütfen bakımı arayın.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00004">
+      <Title>Okuyucu Bileşeni</Title>
+      <Message>(BileşenAdı) zaman aşımına uğradı. Lütfen bakımı arayın.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00005">
+      <Title />
+      <Message>Sistemi sona erdirmek mi istiyorsunuz?</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00006">
+      <Title />
+      <Message>Güncelleme Başarılı.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00007">
+      <Title />
+      <Message>Uygulamadaki oturumunuz başarıyla kapatıldı.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00008">
+      <Title>Hata</Title>
+      <Message>Oturumdan çıkma isteğiniz işlenemiyor.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00009">
+      <Title>Hata</Title>
+      <Message>Lütfen (EtkiAlanıGenişletmeAdı)nı kontrol edin. Eklenti yüklenmedi.</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00010">
+      <Title />
+      <Message>Oturumdan çıkmak istediğinizden emin misiniz?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

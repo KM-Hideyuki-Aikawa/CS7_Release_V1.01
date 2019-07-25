@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="LoginWindowDomain0000">
+      <Title />
+      <Message>Użytkownik: "{USERNAME}" jest zalogowany. Aby można było się zalogować, użytkownik: "{USERNAME}" musi się wylogować. Wylogować użytkownika: "{USERNAME}"?</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0001">
+      <Title />
+      <Message>Nieprawidłowa nazwa użytkownika lub hasło</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0002">
+      <Title>Błąd</Title>
+      <Message>Logowanie anulowane</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0003">
+      <Title>Błąd</Title>
+      <Message>System nie może zostać przełączony przez bieżącego użytkownika. {ERRORS}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

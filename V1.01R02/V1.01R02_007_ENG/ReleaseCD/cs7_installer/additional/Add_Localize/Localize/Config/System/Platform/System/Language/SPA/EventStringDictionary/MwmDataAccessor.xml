@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35500">
+      <Title>Error de inicialización</Title>
+      <Message>Fallo al inicializar.</Message>
+    </EventString>
+    <EventString Key="35501">
+      <Title>Error de configuración</Title>
+      <Message>Se produjo un error al leer el archivo de configuración.</Message>
+    </EventString>
+    <EventString Key="35502">
+      <Title>Error de time-out</Title>
+      <Message>Ha ocurrido un time-out.</Message>
+    </EventString>
+    <EventString Key="35503">
+      <Title>Error de enchufe</Title>
+      <Message>Ocurrió un error de enchufe.</Message>
+    </EventString>
+    <EventString Key="37350">
+      <Title>Error interno</Title>
+      <Message>Ocurrió un error interno en comunicación DICOM. Póngase en contacto con el servicio técnico.</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>Error interno</Title>
+      <Message>Ocurrió un error interno en comunicación DICOM. Póngase en contacto con el servicio técnico.</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>Error interno</Title>
+      <Message>Fallo al obtener config. de comunicación DICOM. Compruebe la configuración de comunicación.</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>Error de comunicación</Title>
+      <Message>Fallo de comunicación. Compruebe la config. de comunicación y que el servidor funciona.</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>Error de comunicación</Title>
+      <Message>Fallo en A-ASSOCIATE. Compruebe la config. de comunicación y que el servidor funciona.</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>Error de comunicación</Title>
+      <Message>Rechazado desde servidor en A-ASSOCIATE por configuración inválida. Compruebe la configuración de comunicación.</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>Error de comunicación</Title>
+      <Message>Ocurrió un error interno en comunicación DICOM. Póngase en contacto con el servicio técnico.</Message>
+    </EventString>
+    <EventString Key="37357">
+      <Title>Error de comunicación</Title>
+      <Message>Fallo al comunicar liberación. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>Error de comunicación</Title>
+      <Message>Se ha recibido A-ABORT. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37610">
+      <Title>Error interno</Title>
+      <Message>Ocurrió un error interno en comunicación RIS-IN. Póngase en contacto con el servicio técnico.</Message>
+    </EventString>
+    <EventString Key="37611">
+      <Title>Error interno</Title>
+      <Message>Ocurrió un error interno en comunicación RIS-IN. Póngase en contacto con el servicio técnico.</Message>
+    </EventString>
+    <EventString Key="37612">
+      <Title>Error interno</Title>
+      <Message>Ocurrió un error interno en comunicación RIS-IN. Póngase en contacto con el servicio técnico.</Message>
+    </EventString>
+    <EventString Key="37613">
+      <Title>Error interno</Title>
+      <Message>Ocurrió un error interno en comunicación RIS-IN. Póngase en contacto con el servicio técnico.</Message>
+    </EventString>
+    <EventString Key="37614">
+      <Title>Communication error</Title>
+      <Message>MWM C-FIND request aborted because it exceeded the maximum number of search responses.</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-IN communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-IN communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>Error interno</Title>
+      <Message>Se ha recibido aviso de fin.[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="27740">
+      <Title>Error de comunicación</Title>
+      <Message>Se produjo un error de comunicación en comunicación RIS-IN. Compruebe el destino de comunicación.</Message>
+    </EventString>
+    <EventString Key="27741">
+      <Title>Error de comunicación</Title>
+      <Message>Se produjo un error de comunicación en comunicación RIS-IN. Compruebe el destino de comunicación.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

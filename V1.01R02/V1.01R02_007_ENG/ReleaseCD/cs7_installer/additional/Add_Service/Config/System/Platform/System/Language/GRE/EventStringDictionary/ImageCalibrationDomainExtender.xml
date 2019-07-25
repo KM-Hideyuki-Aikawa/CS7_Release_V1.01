@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title>Προσοχή</Title>
+      <Message>Εισαγάγετε μια αριθμητική τιμή.</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title>Προσοχή</Title>
+      <Message>Εισαγάγετε έγκυρα δεδομένα.</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title>Σφάλμα</Title>
+      <Message>Σφάλμα έναρξης διακρίβωσης απολαβής</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title>Σφάλμα</Title>
+      <Message>Σφάλμα έναρξης διακρίβωσης μετατόπισης</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Θέλετε να ματαιώσετε τη διαδικασία διακρίβωσης απολαβής;</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Θέλετε να ματαιώσετε τη διαδικασία διακρίβωσης απολαβής;</Message>
+    </EventString>
+    <EventString Key="0107">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Θέλετε να ματαιώσετε τη διαδικασία διακρίβωσης απολαβής;</Message>
+    </EventString>
+    <EventString Key="0108">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Η διακρίβωση απολαβής ολοκληρώθηκε επιτυχώς</Message>
+    </EventString>
+    <EventString Key="0109">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Η διακρίβωση μετατόπισης ολοκληρώθηκε επιτυχώς</Message>
+    </EventString>
+    <EventString Key="0110">
+      <Title>Σφάλμα</Title>
+      <Message>Η διακρίβωση απολαβής απέτυχε</Message>
+    </EventString>
+    <EventString Key="0111">
+      <Title>Σφάλμα</Title>
+      <Message>Η διακρίβωση μετατόπισης απέτυχε</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ImageAcquisitionDomainExtender0000">
+      <Title>確認</Title>
+      <Message>您確定要刪除影像嗎？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0001">
+      <Title>確認</Title>
+      <Message>再次曝光？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender1001">
+      <Title>注意</Title>
+      <Message>不得新增超過 {MaxSize} 個曝光影像。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0002">
+      <Title>確認</Title>
+      <Message>您確定要取消刪除嗎？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0003">
+      <Title>確認</Title>
+      <Message>影像尚未採集。
+您確定要完成檢查嗎？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0004">
+      <Title>確認</Title>
+      <Message>要在其他檢查室繼續檢查嗎？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0005">
+      <Title>確認</Title>
+      <Message>該檢查標記登記了暗盒條碼。
+您確定要刪除條碼登記嗎？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0006">
+      <Title>錯誤</Title>
+      <Message>影像讀取過程中出現錯誤。
+請檢查網路，
+重新啟動讀取器。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0007">
+      <Title>錯誤</Title>
+      <Message>患者 ID：{PATIENTID}
+患者姓名：{PATIENTNAME}
+讀取器名稱：{READERNAME}
+未完成影像接收。
+檢查網路。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0008">
+      <Title>警告</Title>
+      <Message>讀取器名稱：{READERNAME}
+您確定要取消影像接收嗎？
+如果取消接收，請重新啟動讀取器。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0009">
+      <Title>錯誤</Title>
+      <Message>正在讀取影像，請稍後登入。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0010">
+      <Title>錯誤</Title>
+      <Message>無法完成檢查。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0011">
+      <Title>錯誤</Title>
+      <Message>無法暫停檢查。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0012">
+      <Title>錯誤</Title>
+      <Message>該暗盒用於普通曝光。
+請檢查檢查標記。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0013">
+      <Title>錯誤</Title>
+      <Message>該暗盒用於進行乳腺 X 光攝影。
+請檢查檢查標記。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0014">
+      <Title>錯誤</Title>
+      <Message>該暗盒用於 PCM。
+請檢查檢查標記。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0015">
+      <Title>錯誤</Title>
+      <Message>該暗盒已經登記。
+請登記其他暗盒。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0016">
+      <Title>注意</Title>
+      <Message>已經開始讀取該暗盒。
+無法刪除條碼登記。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0017">
+      <Title>注意</Title>
+      <Message>已經開始讀取該暗盒。
+無法刪除通過手動登記模式登記的作業。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0018">
+      <Title>注意</Title>
+      <Message>已經開始讀取該暗盒。
+無法刪除通過自動登記模式登記的作業。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0019">
+      <Title>確認</Title>
+      <Message>您確定要暫停該檢查嗎？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0020">
+      <Title>確認</Title>
+      <Message>無採集的影像，您確定要將狀態變更為未啟動？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0021">
+      <Title>確認</Title>
+      <Message>您確定要刪除條碼登記嗎？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0022">
+      <Title>影像重新傳輸</Title>
+      <Message>確定要刪除主控台上的未傳輸影像嗎？[確定]：刪除 [取消]：返回但不刪除</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0023">
+      <Title>影像重新傳輸</Title>
+      <Message>{READERNAME}：有些影像尚未傳輸，要刪除嗎？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0024">
+      <Title>影像傳輸錯誤</Title>
+      <Message>{READERNAME}：影像傳輸過程中出現通訊錯誤。請檢查通訊電纜線的連接狀態。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0025">
+      <Title>影像重新傳輸</Title>
+      <Message>{READERNAME}：「{ImageAcquisitionConditionName}」 尚未傳輸，要擷取影像嗎？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0026">
+      <Title>確認</Title>
+      <Message>您確定要刪除所選的檢查標記嗎？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0027">
+      <Title>確認</Title>
+      <Message>您確定要刪除該檢查嗎？</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0028">
+      <Title>錯誤</Title>
+      <Message>影像傳輸出現逾時。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0029">
+      <Title />
+      <Message>有未傳輸的「{ImageAcquisitionConditionName}」影像。
+由於檢查標記與影像的影像設備不同，所以無法重新採集影像。 
+如果重新採集，請根據檢查標記變更面板狀態。 </Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0030">
+      <Title />
+      <Message>無法獲取未傳輸的影像。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0031">
+      <Title />
+      <Message>無法刪除未傳輸的影像。</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0032">
+      <Title>確認</Title>
+      <Message>您確定要暫停該檢查嗎？</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

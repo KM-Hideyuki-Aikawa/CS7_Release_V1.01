@@ -1,0 +1,242 @@
+<DisplayValues>
+  <DisplayValue>
+    <Value1>Auto</Value1>
+    <Value1>Small</Value1>
+    <Value1>Large</Value1>
+    <ItemName>FocusList</ItemName>
+  </DisplayValue>
+  <DisplayValue>
+    <Value1>No Filter</Value1>
+    <Value1>0.1mm</Value1>
+    <Value1>0.2mm</Value1>
+    <Value1>0.3mm</Value1>
+    <ItemName>FiltersList</ItemName>
+  </DisplayValue>
+  <DisplayValue>
+    <Value1>100M</Value1>
+    <Value1>150M</Value1>
+    <Value1>200M</Value1>
+    <Value1>User</Value1>
+    <ItemName>SIDList</ItemName>
+  </DisplayValue>
+  <DisplayValue>
+    <Value1>1st X-Ray Tube</Value1>
+    <Value1>2nd X-Ray Tube</Value1>
+    <ItemName>ActiveTubeList</ItemName>
+  </DisplayValue>
+  <DisplayValue>
+    <Value1>Exposure Conditions Master</Value1>
+    <Value1>X-Ray Exposure Condition Parameter (EPM)</Value1>
+    <!--<Value1>X-Ray Device Positioning Condition (PPM)</Value1>-->
+    <Value1>Contrast</Value1>
+    <Value1>X-Ray Filter</Value1>
+    <Value1>X-Ray Grid</Value1>
+    <Value1>Exposure Direction Information</Value1>
+    <Value1>Image Laterality Information</Value1>
+    <Value1>Body Part Examined Information</Value1>
+    <Value1>Image Processing Condition</Value1>
+    <Value1>Host Output</Value1>
+    <Value1>Output Condition</Value1>
+    <Value1>Overlay</Value1>
+    <ItemName>MasterSubMasterList</ItemName>
+  </DisplayValue>
+
+  <DisplayValue>
+    <Value1>ExpName</Value1>
+    <Value1>EpmName</Value1>
+    <Value1>PpmName</Value1>
+    <Value1>ContrastName</Value1>
+    <Value1>FilterName</Value1>
+    <Value1>GridName</Value1>
+    <Value1>OrnName</Value1>
+    <Value1>LtrName</Value1>
+    <Value1>BodyPartName</Value1>
+    <Value1>IppName</Value1>
+    <Value1>HstName</Value1>
+    <Value1>PrtName</Value1>
+    <Value1>OvrName</Value1>
+    <ItemName>PEGridNameList</ItemName>
+  </DisplayValue>
+  
+  
+  <!--<DisplayValue>
+    <Value1>Exposure Direction Information</Value1>
+    <ItemName>OrientationInfo</ItemName>
+  </DisplayValue>
+  
+<DisplayValue>
+  <Value1>LateralityInfo</Value1>
+  <ItemName>LateralityInfo</ItemName>
+</DisplayValue>
+
+  <DisplayValue>
+    <Value1>IppName</Value1>
+    <ItemName>IppName</ItemName>
+  </DisplayValue>
+
+  <DisplayValue>
+    <Value1>PpmName</Value1>
+    <ItemName>PpmName</ItemName>
+  </DisplayValue>
+
+  <DisplayValue>
+    <Value1>BodyPart</Value1>
+    <ItemName>BodyPart</ItemName>
+  </DisplayValue>-->
+  
+  <DisplayValue>
+    <Value1>Serial No</Value1>
+    <Value1>Group</Value1>
+    <Value1>Name</Value1>
+    <ItemName>UM_columnNameList</ItemName>
+  </DisplayValue>
+  <!--<DisplayValue>
+    <Value1>Exam Tag ID</Value1>
+    <Value1>Name</Value1>
+    <Value1>Image pixel pitch</Value1>
+    <Value1>Cassette size</Value1>
+    <Value1>Cassette direction</Value1>
+    <Value1>View rotation</Value1>
+    <Value1>View horizontal flip</Value1>
+    <Value1>Read Method</Value1>
+    <Value1>Read Position</Value1>
+    <Value1>Read Sensitivity</Value1>
+    <Value1>Detector Type</Value1>
+    <Value1>Modality Priority</Value1>
+    <Value1>Selected body size</Value1>
+    <Value1>Exposure Condition Parameters</Value1>
+    <Value1>Image Laterality</Value1>
+    <Value1>Exposure Direction</Value1>
+    <Value1>Exposure Part</Value1>
+    <Value1>Image processing parameter</Value1>
+    <Value1>Output Device</Value1>
+    <Value1>HOST1 Output Setting</Value1>
+    <Value1>HOST1 Overlay Setting</Value1>
+    <Value1>HOST2 Output Setting</Value1>
+    <Value1>HOST2 Overlay Setting</Value1>
+    <Value1>HOST3 Output Setting</Value1>
+    <Value1>HOST3 Overlay Setting</Value1>
+    <Value1>HOST4 Output Setting</Value1>
+    <Value1>HOST4 Overlay Setting</Value1>
+    <Value1>Printer Output Setting</Value1>
+    <Value1>Printer Overlay Setting</Value1>
+    <Value1>Contrast</Value1>
+    <Value1>X-Ray Grid</Value1>
+    <Value1>X-Ray Filter</Value1>
+    <ItemName>ExpName</ItemName>
+  </DisplayValue>
+  <DisplayValue>
+    <Value1>X-ray Exposure condition parameter Sub-master ID</Value1>
+    <Value1>X-ray Exposure condition parameter Sub-master ID name</Value1>
+    <Value1>AvailableFlag</Value1>
+    <Value1>APRCode(AnatomicalCode)</Value1>
+    <Value1>ActiveTube</Value1>
+    <Value1>Exposure Control Mode</Value1>
+    <Value1>Tube Voltage</Value1>
+    <Value1>TubeCurrent[uA]</Value1>
+    <Value1>Time[us]</Value1>
+    <Value1>uAs</Value1>
+    <Value1>Focal Size</Value1>
+    <Value1>AECType</Value1>
+    <Value1>AEC</Value1>
+    <Value1>Density</Value1>
+    <Value1>Maximum Tube Voltage</Value1>
+    <Value1>Maximum Tube Current</Value1>
+    <Value1>Maximum Time</Value1>
+    <Value1>SID</Value1>
+    <Value1>X-ray filter</Value1>
+    <Value1>Collimator Shape</Value1>
+    <Value1>Collimator Left Vertical Edge</Value1>
+    <Value1>Collimator Right Vertical Edge</Value1>
+    <Value1>Collimator Upper Horizontal Edge</Value1>
+    <Value1>Collimator Lower Horizontal Edge</Value1>
+    <Value1>AEC Sensitivity</Value1>
+    <Value1>Film Screen</Value1>
+    <ItemName>EpmName</ItemName>
+  </DisplayValue>
+  <DisplayValue>
+    <Value1>HOST output info Sub-master ID</Value1>
+    <Value1>HOST output info Sub-master IDName</Value1>
+    <Value1>Output Method</Value1>
+    <Value1>Output Size</Value1>
+    <Value1>Output Direction</Value1>
+    <Value1>Image Presenting Method</Value1>
+    <Value1>Reading Image Trimming Position</Value1>
+    <Value1>Output Image Position Of The Output Size</Value1>
+    <Value1>Empty Part Density</Value1>
+    <Value1>FOGdensity</Value1>
+    <Value1>MAXdensity</Value1>
+    <Value1>Lighting</Value1>
+    <Value1>Reflected Environment Light</Value1>
+    <ItemName>HostOutputName</ItemName>
+  </DisplayValue>
+  <DisplayValue>
+    <Value1>Printer Output Info Submaster ID</Value1>
+    <Value1>Printer Output Info Submaster IDName</Value1>
+    <Value1>Redirection</Value1>
+    <Value1>Output Destination</Value1>
+    <Value1>Count Of Films</Value1>
+    <Value1>Film Size</Value1>
+    <Value1>Film Direction</Value1>
+    <Value1>Film Format</Value1>
+    <Value1>Image Presenting Method</Value1>
+    <Value1>Reading Image Trimming Position</Value1>
+    <Value1>Output Image Position Of The Film Size</Value1>
+    <Value1>Empty Part Density</Value1>
+    <Value1>FOGdensity</Value1>
+    <Value1>MAXdensity</Value1>
+    <Value1>Lighting</Value1>
+    <Value1>Reflected Environment Light</Value1>
+    <ItemName>PrinterOutputName</ItemName>
+  </DisplayValue>
+  <DisplayValue>
+    <Value1>Contrast SubMaster ID</Value1>
+    <Value1>Contrast SubMaster IDName</Value1>
+    <Value1>Medical Agent</Value1>
+    <Value1>Route</Value1>
+    <Value1>Dosage</Value1>
+    <Value1>Start Time</Value1>
+    <Value1>Stop Time</Value1>
+    <Value1>Total Given Dose</Value1>
+    <Value1>Contrast Dye Inflow Volume</Value1>
+    <Value1>Contrast Dye Flow Duration</Value1>
+    <Value1>Components</Value1>
+    <Value1>Component Density</Value1>
+    <ItemName>ContrastName</ItemName>
+  </DisplayValue>
+  <DisplayValue>
+    <Value1>X-ray Filter Submaster ID</Value1>
+    <Value1>X-ray Filter Submaster IDName</Value1>
+    <Value1>Filter Type</Value1>
+    <Value1>Filter Material</Value1>
+    <Value1>Minimum Filter Thickness</Value1>
+    <Value1>Maximum Filter Thickness</Value1>
+
+    <ItemName>FilterName</ItemName>
+  </DisplayValue>
+  <DisplayValue>
+    <Value1>X-Ray Grid Submaster ID</Value1>
+    <Value1>X-Ray Grid Submaster IDName</Value1>
+    <Value1>Grid</Value1>
+    <Value1>Absorbent Material</Value1>
+    <Value1>Space Material</Value1>
+    <Value1>Thicknes</Value1>
+    <Value1>Pitch</Value1>
+    <Value1>Aspect Ratio V</Value1>
+    <Value1>Aspect Ratio H</Value1>
+    <Value1>Focal Distance</Value1>
+    <ItemName>GridName</ItemName>
+  </DisplayValue>
+  <DisplayValue>
+    <Value1>Overlay submaster ID</Value1>
+    <Value1>Overlay submaster IDName</Value1>
+    <Value1>Stamp</Value1>
+    <Value1>StampPosition</Value1>
+    <Value1>DirectionMarker</Value1>
+    <Value1>DirectionMarker Position</Value1>
+    <Value1>Left and Right Marker</Value1>
+    <Value1>Left and Right Marker Position</Value1>
+    <Value1>Scale</Value1>
+    <ItemName>OverlayName</ItemName>
+  </DisplayValue>-->
+</DisplayValues>

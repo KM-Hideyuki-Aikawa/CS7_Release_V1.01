@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="LoginWindowDomain0000">
+      <Title />
+      <Message>المستخدم: "{USERNAME}" مسجل الدخول. المستخدم: يجب أن يسجل "{USERNAME}" قبل تسجيلك الدخول. هل تريد تسجيل خروج المستخدم: "{USERNAME}"؟</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0001">
+      <Title />
+      <Message>اسم مستخدم أو كلمة مرور خاطئة</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0002">
+      <Title>خطأ</Title>
+      <Message>تم إلغاء تسجيل الدخول</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0003">
+      <Title>خطأ</Title>
+      <Message>لا يمكن تشغيل النظام بواسطة المستخدم الحالي. {ERRORS}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

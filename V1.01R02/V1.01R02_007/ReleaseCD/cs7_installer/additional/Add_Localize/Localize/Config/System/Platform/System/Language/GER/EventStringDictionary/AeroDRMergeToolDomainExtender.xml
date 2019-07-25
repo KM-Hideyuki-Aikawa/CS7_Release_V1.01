@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0001">
+      <Title>Fehler</Title>
+      <Message>Initialisierungsfehler</Message>
+    </EventString>
+    <EventString Key="0002">
+      <Title>Information</Title>
+      <Message>Zusammenf. erfolgreich</Message>
+    </EventString>
+    <EventString Key="0003">
+      <Title>Fehler</Title>
+      <Message>Verzeichnis nicht gefunden</Message>
+    </EventString>
+    <EventString Key="0004">
+      <Title>Fehler</Title>
+      <Message>Datei nicht gefunden</Message>
+    </EventString>
+    <EventString Key="0005">
+      <Title>Fehler</Title>
+      <Message>Syntaxfehler</Message>
+    </EventString>
+    <EventString Key="0006">
+      <Title>Fehler</Title>
+      <Message>Fehler bei Backup-Löschung</Message>
+    </EventString>
+    <EventString Key="0007">
+      <Title>Fehler</Title>
+      <Message>Fehler bei Backup-Erstellung</Message>
+    </EventString>
+    <EventString Key="0008">
+      <Title>Fehler</Title>
+      <Message>Fehler in Zugangsdaten</Message>
+    </EventString>
+    <EventString Key="0009">
+      <Title>Fehler</Title>
+      <Message>Fehler beim Speichern</Message>
+    </EventString>
+    <EventString Key="0010">
+      <Title>Fehler</Title>
+      <Message>Fehler bei der Indexsuche</Message>
+    </EventString>
+    <EventString Key="0011">
+      <Title>Fehler</Title>
+      <Message>Fehler in angefügten Daten</Message>
+    </EventString>
+    <EventString Key="0012">
+      <Title>Fehler</Title>
+      <Message>Fehler beim Kopieren der Kalibrierdaten</Message>
+    </EventString>
+    <EventString Key="0013">
+      <Title>Fehler</Title>
+      <Message>Ausnahmezustand aufgetreten</Message>
+    </EventString>
+    <EventString Key="0014">
+      <Title>Fehler</Title>
+      <Message>Ausnahmezustand aufgetreten</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

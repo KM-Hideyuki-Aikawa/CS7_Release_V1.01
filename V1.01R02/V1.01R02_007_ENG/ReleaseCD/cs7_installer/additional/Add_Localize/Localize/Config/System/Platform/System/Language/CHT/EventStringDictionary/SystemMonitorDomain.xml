@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="SystemMonitorDomain00001">
+      <Title>讀取器組件</Title>
+      <Message>(ComponentName)中的(ReaderName)快過期了，請撥打維護電話。</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00002">
+      <Title>讀取器組件</Title>
+      <Message>(ComponentName)快過期了，請撥打維護電話。</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00003">
+      <Title>讀取器組件</Title>
+      <Message>(ComponentName)中的(ReaderName)過期了，請撥打維護電話。</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00004">
+      <Title>讀取器組件</Title>
+      <Message>(ComponentName)過期了，請撥打維護電話。</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00005">
+      <Title />
+      <Message>要結束系統嗎？</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00006">
+      <Title />
+      <Message>更新成功。</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00007">
+      <Title />
+      <Message>成功從應用程式登出。</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00008">
+      <Title>錯誤</Title>
+      <Message>無法處理您的登出要求。</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00009">
+      <Title>錯誤</Title>
+      <Message>請確定未裝載(DomainExtenderName)外掛程式。</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00010">
+      <Title />
+      <Message>您確定要登出嗎？</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientRegistrationDomainExtender0001">
+      <Title>エラー</Title>
+      <Message>年の値が間違っています。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0002">
+      <Title>エラー</Title>
+      <Message>月の値が間違っています。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0003">
+      <Title>エラー</Title>
+      <Message>日の値が間違っています。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0004">
+      <Title>エラー</Title>
+      <Message>範囲外の値が入力されています。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0005">
+      <Title>エラー</Title>
+      <Message>文字数を超えています。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0006">
+      <Title>エラー</Title>
+      <Message>文字数が不足しています。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0007">
+      <Title>エラー</Title>
+      <Message>数字を入力してください。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0008">
+      <Title>エラー</Title>
+      <Message>範囲外の値が入力されています。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0009">
+      <Title>エラー</Title>
+      <Message>整数を入力してください。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0010">
+      <Title>エラー</Title>
+      <Message>カナを入力してください</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0011">
+      <Title>エラー</Title>
+      <Message>この項目は"\"を使用できません。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0012">
+      <Title>エラー</Title>
+      <Message>年号の入力が間違っています。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0013">
+      <Title>エラー</Title>
+      <Message>年号の入力が間違っています。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0014">
+      <Title>エラー</Title>
+      <Message>年の値が間違っています。1800年以降を入力してください。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0015">
+      <Title>エラー</Title>
+      <Message>不正な文字が入力されています。確認してください。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0016">
+      <Title>エラー</Title>
+      <Message>時の値が間違っています。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0017">
+      <Title>エラー</Title>
+      <Message>分の値が間違っています。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0018">
+      <Title>エラー</Title>
+      <Message>秒の値が間違っています。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0019">
+      <Title>エラー</Title>
+      <Message>整数を入力してください。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0020">
+      <Title>エラー</Title>
+      <Message>検索エラーが発生しました。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0021">
+      <Title>警告</Title>
+      <Message>撮影後に患者情報を修正した場合にPACSで患者入れ違いなどの重大な障害が発生する可能性があります。患者情報を修正しますか？</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0022">
+      <Title>確認</Title>
+      <Message>患者IDは必須項目です。入力してください。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0023">
+      <Title>確認</Title>
+      <Message>検査IDは必須項目です。入力してください。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0024">
+      <Title>確認</Title>
+      <Message>患者氏名(ASCII)は必須項目です。入力してください。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0025">
+      <Title>確認</Title>
+      <Message>患者氏名(カナ)は必須項目です。入力してください。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0026">
+      <Title>確認</Title>
+      <Message>患者氏名（漢字)は必須項目です。入力してください。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0027">
+      <Title>確認</Title>
+      <Message>性別は必須項目です。入力してください。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0028">
+      <Title>確認</Title>
+      <Message>生年月日は必須項目です。入力してください。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0029">
+      <Title>エラー</Title>
+      <Message>磁気カードが読み込めません。再起動してください。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0030">
+      <Title>エラー</Title>
+      <Message>不正な値のため実行できません。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0031">
+      <Title>確認</Title>
+      <Message>検査に撮影済み画像があります。検査を修正しますか？</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0032">
+      <Title>確認</Title>
+      <Message>Dr.Viewを終了しますか？</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0033">
+      <Title>確認</Title>
+      <Message>Dr.Viewを再起動しますか？</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0034">
+      <Title>確認</Title>
+      <Message>検査を保留状態にします。よろしいですか？</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0035">
+      <Title>エラー</Title>
+      <Message>該当する検査・患者情報はありません。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0036">
+      <Title>確認</Title>
+      <Message>該当する検査があります。そちらを表示しますか？</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0037">
+      <Title>確認</Title>
+      <Message>該当する患者情報があります。そちらを表示しますか？</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0038">
+      <Title>エラー</Title>
+      <Message>複数の患者を選択することはできません。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0039">
+      <Title>エラー</Title>
+      <Message>データベースエラー - オーダーを作成できません。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0040">
+      <Title>エラー</Title>
+      <Message>患者データベースの更新エラー</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0041">
+      <Title>エラー</Title>
+      <Message>データベースに該当する患者が登録されていません。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0042">
+      <Title>エラー</Title>
+      <Message>この文字は入力できません。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0046">
+      <Title>エラー</Title>
+      <Message>未来の年は入力できません。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0047">
+      <Title>エラー</Title>
+      <Message>未来の月は入力できません。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0048">
+      <Title>エラー</Title>
+      <Message>未来の日付は入力できません。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0049">
+      <Title>エラー</Title>
+      <Message>入力されている年は、閏年ではありません。日付を確認してください。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0052">
+      <Title>確認</Title>
+      <Message>登録済みの検査です。上書きしますか?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0053">
+      <Title>確認</Title>
+      <Message>同じ患者ID:  {0},患者氏名: {1},性別: {2},DOB:{3} がデータベースにあります。上書きしますか？</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0054">
+      <Title>エラー</Title>
+      <Message>この項目は'\', '^', '='を使用できません。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0055">
+      <Title>エラー</Title>
+      <Message>この項目は'\','='を使用できません。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0056">
+      <Title>エラー</Title>
+      <Message>Operation not possible</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0057">
+      <Title>確認</Title>
+      <Message>フィールド内の値をクリアしますか？</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0058">
+      <Title>エラー</Title>
+      <Message>必須項目を入力してください</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0059">
+      <Title>確認</Title>
+      <Message>この検査を登録しますか？</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0060">
+      <Title>エラー</Title>
+      <Message>登録エラー。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0061">
+      <Title>確認</Title>
+      <Message>このデータを上書きしますか？</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0062">
+      <Title>エラー</Title>
+      <Message>該当する検査、患者がありません。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0063">
+      <Title>エラー</Title>
+      <Message>検索内容を指定してください。</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0064">
+      <Title>エラー</Title>
+      <Message>画像日付と時間両方も入力してください。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

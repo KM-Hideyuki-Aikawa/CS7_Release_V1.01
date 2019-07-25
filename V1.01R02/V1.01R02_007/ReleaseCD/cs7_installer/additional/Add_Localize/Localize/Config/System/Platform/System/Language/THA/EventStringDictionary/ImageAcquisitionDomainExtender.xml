@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ImageAcquisitionDomainExtender0000">
+      <Title>การยืนยัน</Title>
+      <Message>คุณแน่ใจหรือไม่ว่าต้องการละทิ้งภาพ</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0001">
+      <Title>การยืนยัน</Title>
+      <Message>ฉายแสงอีกครั้ง?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender1001">
+      <Title>ข้อควรพิจารณา</Title>
+      <Message>ไม่สามารถเพิ่มการฉายแสงเกินกว่า {MaxSize} ได้</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0002">
+      <Title>การยืนยัน</Title>
+      <Message>คุณแน่ใจหรือไม่ว่าต้องการยกเลิกการละทิ้ง</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0003">
+      <Title>การยืนยัน</Title>
+      <Message>ยังไม่ได้จับภาพ
+คุณแน่ใจหรือไม่ว่าต้องการตรวจดูให้เสร็จสมบูรณ์</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0004">
+      <Title>การยืนยัน</Title>
+      <Message>คุณต้องการตรวจดูต่อในห้องตรวจอื่นหรือไม่</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0005">
+      <Title>การยืนยัน</Title>
+      <Message>บาร์โค้ดตลับทึบแสงถูกลงทะเบียนด้วยการตรวจนี้
+คุณแน่ใจหรือไม่ว่าต้องการลบการลงทะเบียนบาร์โค้ด</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0006">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ข้อผิดพลาดเกิดขึ้นระหว่างการอ่านภาพ
+ตรวจสอบเครือข่าย
+รีสตาร์ทเครื่องอ่าน</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0007">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ID ผู้ป่วย: {PATIENTID}
+ชื่อผู้ป่วย: {PATIENTID}
+ชื่อเครื่องอ่าน: {READERNAME}
+การรับภาพไม่เสร็จสมบูรณ์
+ตรวจสอบเครือข่าย</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0008">
+      <Title>คำเตือน</Title>
+      <Message>ชื่อเครื่องอ่าน: {READERNAME}
+คุณแน่ใจหรือไม่ว่าต้องการยกเลิกการรับภาพ
+ โปรดรีสตาร์ทเครื่องอ่านในกรณีที่การรับถูกยกเลิก</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0009">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ขณะนี้กำลังอ่านภาพอยู่ โปรดเข้าสู่ระบบอีกสักครู่</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0010">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ตรวจดูเสร็จสมบูรณ์ล้มเหลว</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0011">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ระงับการตรวจดูล้มเหลว</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0012">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ตลับทึบแสงนี้ใช้สำหรับการฉายแสงทั่วไป
+ตรวจสอบแท็ก ตรวจ</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0013">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ตลับทึบแสงนี้ใช้สำหรับการเอกซเรย์เต้านมแบบแนบชิด
+ตรวจสอบแท็ก ตรวจ</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0014">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ตลับทึบแสงนี้ใช้สำหรับ PCM
+ตรวจสอบแท็ก ตรวจ</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0015">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ตลับทึบแสงนี้ลงทะเบียนแล้ว
+ลงทะเบียนตลับทึบแสงอื่น</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0016">
+      <Title>ข้อควรพิจารณา</Title>
+      <Message>ตลับทึบแสงนี้เริ่มการอ่านแล้ว
+ไม่สามารถลบการลงทะเบียนบาร์โค้ดได้</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0017">
+      <Title>ข้อควรพิจารณา</Title>
+      <Message>ตลับทึบแสงนี้เริ่มการอ่านแล้ว
+ไม่สามารถลบงานที่ลงทะเบียนด้วยโหมดการลงทะเบียนด้วยตัวเองได้</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0018">
+      <Title>ข้อควรพิจารณา</Title>
+      <Message>ตลับทึบแสงนี้เริ่มการอ่านแล้ว
+ไม่สามารถลบงานที่ลงทะเบียนด้วยโหมดการลงทะเบียนอัตโนมัติได้</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0019">
+      <Title>การยืนยัน</Title>
+      <Message>คุณแน่ใจหรือไม่ว่าต้องการระงับการตรวจดูนี้</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0020">
+      <Title>การยืนยัน</Title>
+      <Message>ไม่มีภาพที่จับไว้ คุณแน่ใจหรือไม่ว่าต้องการเปลี่ยนสถานะเป็นไม่เริ่ม</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0021">
+      <Title>การยืนยัน</Title>
+      <Message>คุณแน่ใจหรือไม่ว่าต้องการลบการลงทะเบียนบาร์โค้ด</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0022">
+      <Title>การถ่ายโอนภาพอีกครั้ง</Title>
+      <Message>ลบภาพที่ไม่ได้ถ่ายโอนบนคอนโซลได้หรือไม่ [ตกลง]: ลบ [ยกเลิก]: ย้อนคืนโดยไม่ลบ</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0023">
+      <Title>การถ่ายโอนภาพอีกครั้ง</Title>
+      <Message>{READERNAME}: บางภาพยังไม่ได้ถ่ายโอนเลย คุณจะลบหรือไม่</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0024">
+      <Title>ข้อผิดพลาดในการถ่ายโอนภาพ</Title>
+      <Message>{READERNAME}: ข้อผิดพลาดในการสื่อสารเกิดขึ้นระหว่างถ่ายโอนภาพ ตรวจสอบสถานะการเชื่อมต่อของสายสื่อสาร</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0025">
+      <Title>การถ่ายโอนภาพอีกครั้ง</Title>
+      <Message>{READERNAME}: "{ImageAcquisitionConditionName}" ยังไม่ได้ถ่ายโอนเลย คุณจะเรียกคืนภาพหรือไม่</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0026">
+      <Title>การยืนยัน</Title>
+      <Message>คุณแน่ใจหรือไม่ว่าต้องการลบแท็กตรวจ ที่เลือกไว้</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0027">
+      <Title>การยืนยัน</Title>
+      <Message>คุณแน่ใจหรือไม่ว่าต้องการลบการตรวจดูนี้</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0028">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>หมดเวลาในการถ่ายโอนภาพ</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0029">
+      <Title />
+      <Message>มีภาพที่ไม่ได้ถ่ายโอนของ "{ImageAcquisitionConditionName}"
+ไม่สามารถบันทึกเก็บภาพอีกครั้งเนื่องจากเครื่องมือตรวจโรคต่างกัน ใส่แท็กและของภาพ
+ ในกรณีของการบันทึกเก็บอีกครั้ง โปรดเปลี่ยนสถานะแผงให้สอดคล้องกับแท็ก การตรวจ</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0030">
+      <Title />
+      <Message>บันทึกเก็บภาพที่ไม่ได้ถ่ายโอนล้มเหลว</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0031">
+      <Title />
+      <Message>ลบภาพที่ไม่ได้ถ่ายโอนล้มเหลว</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0032">
+      <Title>การยืนยัน</Title>
+      <Message>คุณแน่ใจหรือไม่ว่าต้องการระงับการตรวจดูนี้</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0401">
+      <Title>Chyba odesílání</Title>
+      <Message>Došlo k interní chybě v procesu komunikace RTG.</Message>
+    </EventString>
+    <EventString Key="0402">
+      <Title>Interní chyba</Title>
+      <Message>Došlo k interní chybě v procesu komunikace RTG.</Message>
+    </EventString>
+    <EventString Key="0403">
+      <Title>Chyba odesílání</Title>
+      <Message>Odeslání příkazu podmínek expozice pro systém RTG nebylo úspěšné.Restartujte rentgenové zařízení.</Message>
+    </EventString>
+    <EventString Key="0404">
+      <Title>chyba nastavení</Title>
+      <Message>Chyba nastavení parametru systému RTG.</Message>
+    </EventString>
+    <EventString Key="0405">
+      <Title>Chyba zařízení</Title>
+      <Message>Zjištěna chyba systému RTG.</Message>
+    </EventString>
+    <EventString Key="0406">
+      <Title>Chyba odesílání</Title>
+      <Message>Chyba připojení systému RTG.Zkontrolujte síť.</Message>
+    </EventString>
+    <EventString Key="0301">
+      <Title />
+      <Message />
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

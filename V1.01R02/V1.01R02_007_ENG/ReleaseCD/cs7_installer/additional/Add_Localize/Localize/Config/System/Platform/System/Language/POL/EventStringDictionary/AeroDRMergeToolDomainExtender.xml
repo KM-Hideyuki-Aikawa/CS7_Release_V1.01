@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0001">
+      <Title>Błąd</Title>
+      <Message>Błąd inicjowania</Message>
+    </EventString>
+    <EventString Key="0002">
+      <Title>Informacje</Title>
+      <Message>Scalanie zakończone</Message>
+    </EventString>
+    <EventString Key="0003">
+      <Title>Błąd</Title>
+      <Message>Nie odnaleziono katalogu</Message>
+    </EventString>
+    <EventString Key="0004">
+      <Title>Błąd</Title>
+      <Message>Nie odnaleziono pliku</Message>
+    </EventString>
+    <EventString Key="0005">
+      <Title>Błąd</Title>
+      <Message>Błąd składni</Message>
+    </EventString>
+    <EventString Key="0006">
+      <Title>Błąd</Title>
+      <Message>Wystąpił błąd podczas usuwania kopii zapasowej</Message>
+    </EventString>
+    <EventString Key="0007">
+      <Title>Błąd</Title>
+      <Message>Wystąpił błąd podczas tworzenia kopii zapasowej</Message>
+    </EventString>
+    <EventString Key="0008">
+      <Title>Błąd</Title>
+      <Message>Wystąpił błąd podczas uzyskiwania dostępu do danych</Message>
+    </EventString>
+    <EventString Key="0009">
+      <Title>Błąd</Title>
+      <Message>Wystąpił błąd podczas zapisywania</Message>
+    </EventString>
+    <EventString Key="0010">
+      <Title>Błąd</Title>
+      <Message>Wystąpił błąd podczas wyszukiwania indeksu</Message>
+    </EventString>
+    <EventString Key="0011">
+      <Title>Błąd</Title>
+      <Message>Wystąpił błąd podczas dołączania danych</Message>
+    </EventString>
+    <EventString Key="0012">
+      <Title>Błąd</Title>
+      <Message>Wystąpił błąd podczas kopiowania danych kalibracji</Message>
+    </EventString>
+    <EventString Key="0013">
+      <Title>Błąd</Title>
+      <Message>Wystąpił wyjątek</Message>
+    </EventString>
+    <EventString Key="0014">
+      <Title>Błąd</Title>
+      <Message>Wystąpił wyjątek</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

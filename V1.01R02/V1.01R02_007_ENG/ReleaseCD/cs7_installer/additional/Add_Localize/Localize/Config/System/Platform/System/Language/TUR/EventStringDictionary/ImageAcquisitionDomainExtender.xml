@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ImageAcquisitionDomainExtender0000">
+      <Title>Onay</Title>
+      <Message>Görüntüyü atmak istediğinizden emin misiniz?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0001">
+      <Title>Onay</Title>
+      <Message>Yeniden çekilsin mi?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender1001">
+      <Title>Dikkat</Title>
+      <Message>{MaxSize} boyutundan daha büyük çekim eklenemiyor.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0002">
+      <Title>Onay</Title>
+      <Message>Atma işlemini iptal etmek istediğinizden emin misiniz?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0003">
+      <Title>Onay</Title>
+      <Message>Görüntüler alınmadı.
+Çalışmayı tamamlamak istediğinizden emin misiniz?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0004">
+      <Title>Onay</Title>
+      <Message>Çalışmayı farklı bir tetkik odasında sürdürmek ister misiniz?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0005">
+      <Title>Onay</Title>
+      <Message>Bu Tetkik Etiketiyle bir kaset barkodu kaydedildi. 
+Barkod kaydını silmek istediğinizden emin misiniz?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0006">
+      <Title>Hata</Title>
+      <Message>Görüntü okuma sırasında bir hata gerçekleşti.
+Ağı kontrol edin.
+Okuyucuyu yeniden başlatın.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0007">
+      <Title>Hata</Title>
+      <Message>Hasta Kimliği: {PATIENTID}
+ Hasta adı: {PATIENTNAME}
+ Okuyucu adı: {READERNAME}
+ Görüntü alımı tamamlanmadı.
+Ağı kontrol edin.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0008">
+      <Title>Uyarı</Title>
+      <Message>Okuyucu adı: {READERNAME}
+Görüntü alımını iptal etmek istediğinizden emin misiniz?
+ Lütfen alımın iptal edilmesi durumunda okuyucuyu yeniden başlatın.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0009">
+      <Title>Hata</Title>
+      <Message>Şimdi görüntü okunuyor. Lütfen bir süre sonra oturum açın.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0010">
+      <Title>Hata</Title>
+      <Message>Çalışma tamamlanamadı.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0011">
+      <Title>Hata</Title>
+      <Message>Çalışma askıya alınamadı.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0012">
+      <Title>Hata</Title>
+      <Message>Bu kaset genel çekim amaçlıdır.
+Tetkiği kontrol edin. Etiketleyin.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0013">
+      <Title>Hata</Title>
+      <Message>Bu kaset temaslı mamografi amaçlıdır.
+Tetkiği kontrol edin. Etiketleyin.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0014">
+      <Title>Hata</Title>
+      <Message>Bu kaset PCM amaçlıdır.
+Tetkiği kontrol edin. Etiketleyin.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0015">
+      <Title>Hata</Title>
+      <Message>Bu kaset kaydedilmiş durumda.
+Farklı bir kaset kaydedin.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0016">
+      <Title>Dikkat</Title>
+      <Message>Bu kaset okunmaya başlandı.
+Barkod kaydı silinemiyor.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0017">
+      <Title>Dikkat</Title>
+      <Message>Bu kaset okunmaya başlandı.
+Manuel kayıt moduyla kaydedilen işler silinemez.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0018">
+      <Title>Dikkat</Title>
+      <Message>Bu kaset okunmaya başlandı.
+Otomatik kayıt moduyla kaydedilen işler silinemez.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0019">
+      <Title>Onay</Title>
+      <Message>Bu çalışmayı askıya almak istediğinizden emin misiniz?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0020">
+      <Title>Onay</Title>
+      <Message>Alınmış görüntüler yok. Durumu başlanmamış olarak değiştirmek istediğinizden emin misiniz?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0021">
+      <Title>Onay</Title>
+      <Message>Barkod kaydını silmek istediğinizden emin misiniz?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0022">
+      <Title>Görüntüyü yeniden transfer et</Title>
+      <Message>Konsoldaki transfer edilmemiş görüntü (görüntüler) silinsin mi? [TAMAM]: Sil [İptal]: Silmeden geri dön</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0023">
+      <Title>Görüntüyü yeniden transfer et</Title>
+      <Message>{READERNAME}: Bazı görüntüler henüz transfer edilmedi. Onları siliyor musunuz?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0024">
+      <Title>Görüntü transferi hatası</Title>
+      <Message>{READERNAME}: Görüntü transferi sırasında iletişim hatası oluştu. İletişim kablosunun bağlantı durumunu kontrol edin.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0025">
+      <Title>Görüntüyü yeniden transfer et</Title>
+      <Message>{READERNAME}: "{ImageAcquisitionConditionName}" henüz transfer edilmedi. Görüntüyü alıyor musunuz?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0026">
+      <Title>Onay</Title>
+      <Message>Seçilen Tetkiği silmek istediğinizden emin misiniz? Etiketlensin mi?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0027">
+      <Title>Onay</Title>
+      <Message>Bu çalışmayı silmek istediğinizden emin misiniz?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0028">
+      <Title>Hata</Title>
+      <Message>Görüntü transferinde zaman aşımı oluştu.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0029">
+      <Title />
+      <Message>{ImageAcquisitionConditionName} koşulunda transfer edilmemiş bir görüntü var.
+Tetkiğin modalitesindeki bir değişikliğe bağlı olarak görüntü yeniden alınamıyor. Görüntünün etiketi ve.
+ Yeniden görüntü alma durumunda, lütfen tetkiğe karşılık gelen panel durumunu değiştirin. Etiketleyin.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0030">
+      <Title />
+      <Message>Transfer edilmemiş görüntü alınamadı.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0031">
+      <Title />
+      <Message>Transfer edilmemiş görüntü silinemedi.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0032">
+      <Title>Onay</Title>
+      <Message>Bu çalışmayı askıya almak istediğinizden emin misiniz?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

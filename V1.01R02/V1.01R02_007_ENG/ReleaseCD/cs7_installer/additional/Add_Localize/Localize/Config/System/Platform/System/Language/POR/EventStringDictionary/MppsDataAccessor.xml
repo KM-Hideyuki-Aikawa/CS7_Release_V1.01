@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35520">
+      <Title>Erro de inicialização</Title>
+      <Message>Falha ao inicializar.</Message>
+    </EventString>
+    <EventString Key="35521">
+      <Title>Erro de leitura de ajuste</Title>
+      <Message>Ocorreu um erro ao ler o ficheiro de ajuste.</Message>
+    </EventString>
+    <EventString Key="35522">
+      <Title>Erro de timeout </Title>
+      <Message>Ocorreu um timeout.</Message>
+    </EventString>
+    <EventString Key="">
+      <Title />
+      <Message>[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37350">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação DICOM. Contacte o suporte técnico.</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação DICOM. Contacte o suporte técnico.</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>Erro interno</Title>
+      <Message>Falha ao adquirir ajuste de comunicação DICOM. Por favor confirme o ajuste de comunicação.</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>Erro de comunicação</Title>
+      <Message>Falha na comunicação. Por favor confirme o ajuste de comunicação e se o servidor está a funcionar.</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>Erro de comunicação</Title>
+      <Message>Falha em A-ASSOCIATE. Por favor confirme o ajuste de comunicação e se o servidor está a funcionar.</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>Erro de comunicação</Title>
+      <Message>Rejeitado do servidor em A-ASSOCIATE por ajuste inválido. Por favor confirme o ajuste de comunicação.</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>Erro de comunicação</Title>
+      <Message>Ocorreu erro interno na comunicação DICOM. Contacte o suporte técnico.</Message>
+    </EventString>
+    <EventString Key="37357">
+      <Title>Erro de comunicação</Title>
+      <Message>Falhou na comunicação de licença. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>Erro de comunicação</Title>
+      <Message>A-ABORT foi recebido. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37600">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação RIS-OUT. Contacte o suporte técnico.</Message>
+    </EventString>
+    <EventString Key="37601">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação RIS-OUT. Contacte o suporte técnico.</Message>
+    </EventString>
+    <EventString Key="37602">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação RIS-OUT. Contacte o suporte técnico.</Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>Erro interno</Title>
+      <Message>Foi recebido o fim da notificação. [{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37699">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu um erro não definido. [{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37603">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação RIS-OUT. Contacte o suporte técnico.</Message>
+    </EventString>
+    <EventString Key="37604">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação RIS-OUT. Contacte o suporte técnico.</Message>
+    </EventString>
+    <EventString Key="37605">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação RIS-OUT. Contacte o suporte técnico.</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="27730">
+      <Title>Erro de comunicação</Title>
+      <Message>Ocorreu erro de comunicação na comunicação RIS-OUT. Verifique o destino da comunicação.</Message>
+    </EventString>
+    <EventString Key="27731">
+      <Title>Erro de comunicação</Title>
+      <Message>Ocorreu erro de comunicação na comunicação RIS-OUT. Verifique o destino da comunicação.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="JMDomainExtender0001">
+      <Title>Результат Ping</Title>
+      <Message>Подключение выполнено.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0002">
+      <Title>Результат Ping</Title>
+      <Message>Не удалось подключить.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0003">
+      <Title />
+      <Message>Если чтение неожиданно приостанавливается во время возникновения ошибки, это может привести к исчезновению изображения и другим проблемам. При паузе в чтении сохраните отсканированное изображение и перезапустите CS.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0004">
+      <Title />
+      <Message>Удаление задания не выполнено.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0005">
+      <Title />
+      <Message>Удаление задания выполнено.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0006">
+      <Title />
+      <Message>Изменение JM. Регистрация кассеты будет невозможна. Выполнить?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

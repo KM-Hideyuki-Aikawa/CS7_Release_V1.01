@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="LoginWindowDomain0000">
+      <Title />
+      <Message>使用者：「{USERNAME}」已登入。使用者：「{USERNAME}」必須先登出您才能登入。登出使用者：「{USERNAME}」？</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0001">
+      <Title />
+      <Message>使用者名稱或密碼錯誤</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0002">
+      <Title>錯誤</Title>
+      <Message>登入取消</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0003">
+      <Title>錯誤</Title>
+      <Message>目前的使用者不能切換系統。{ERRORS}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title />
+      <Message>Möchten Sie die Körpergröße ändern? Bitte bestätigen.</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title />
+      <Message>Belichtungsergebnisse für mehr als einen Auftrag angewendet. Unters.schlüssel "{EXAM_TAGS_INFO}"</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title />
+      <Message>Passenden Auftrag zum Anwenden der Belichtungsergebnisse nicht gefunden. Bitte prüfen.</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title />
+      <Message>AEC für CR-Belichtungsbedingung schaltet nicht EIN. OK zum Ausschalten des AEC?</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title />
+      <Message>Änderung der Patientengröße bei einigen Aufträgen nicht möglich. Bitte prüfen.</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title />
+      <Message>Möchten Sie die Kollimatorgröße überschreiben?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

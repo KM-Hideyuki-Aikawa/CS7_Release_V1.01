@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="OrderListDomain0001">
+      <Title>錯誤</Title>
+      <Message>資料庫更新錯誤。</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0002">
+      <Title>警告</Title>
+      <Message>無效值，無法執行。</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0003">
+      <Title>警告</Title>
+      <Message>必須輸入。</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0004">
+      <Title>錯誤</Title>
+      <Message>無法執行。</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0005">
+      <Title>患者更新錯誤</Title>
+      <Message>患者更新錯誤。</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0006">
+      <Title>資訊</Title>
+      <Message>資料庫資料已更新，將顯示更新的檢查。</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0007">
+      <Title>錯誤</Title>
+      <Message>檢查已從資料庫刪除，無法執行操作。</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0008">
+      <Title>確認</Title>
+      <Message>資料庫中有相同患者 ID：{0}、患者姓名：{1}、性別：{2}、出生日期：{3}，要使用資料庫資料嗎？</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0009">
+      <Title>確認</Title>
+      <Message>檢查正在進行，要執行嗎？</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0010">
+      <Title>警告</Title>
+      <Message>已經在另一個主控台執行檢查。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientRegistrationDomainExtender0001">
+      <Title>Hata</Title>
+      <Message>Girilen yıl geçersiz.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0002">
+      <Title>Hata</Title>
+      <Message>Girilen ay geçersiz.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0003">
+      <Title>Hata</Title>
+      <Message>Girilen gün geçersiz.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0004">
+      <Title>Hata</Title>
+      <Message>Girilen değer geçersiz.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0005">
+      <Title>Hata</Title>
+      <Message>Maksimum karakter sayısına erişilmedi.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0006">
+      <Title>Hata</Title>
+      <Message>Minimum karakter sayısına erişilmedi.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0007">
+      <Title>Hata</Title>
+      <Message>Sayı girin.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0008">
+      <Title>Hata</Title>
+      <Message>Girilen değer geçersiz</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0009">
+      <Title>Hata</Title>
+      <Message>Lütfen alfanümerik karakter girin.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0010">
+      <Title>Hata</Title>
+      <Message>Yalnızca kana kullanılabilir.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0011">
+      <Title>Hata</Title>
+      <Message>Geçersiz değer. Burada "\" kullanılamaz.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0012">
+      <Title>Hata</Title>
+      <Message>Girilen yıl geçersiz.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0013">
+      <Title>Hata</Title>
+      <Message>Girilen yıl geçersiz.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0014">
+      <Title>Hata</Title>
+      <Message>Entered year is invalid. 1800 veya daha yüksek bir değer girin.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0015">
+      <Title>Hata</Title>
+      <Message>Tarih Aralığı Hatası. Lütfen kontrol edin.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0016">
+      <Title>Hata</Title>
+      <Message>Girilen saat geçersiz.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0017">
+      <Title>Hata</Title>
+      <Message>Girilen dakika geçersiz.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0018">
+      <Title>Hata</Title>
+      <Message>Girilen saniye geçersiz.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0019">
+      <Title>Hata</Title>
+      <Message>Lütfen tamsayıyı girin.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0020">
+      <Title>Hata</Title>
+      <Message>Arama Hatası gerçekleşti</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0021">
+      <Title>Uyarı</Title>
+      <Message>Hasta bilgilerinin değiştirilmesi PACS çalışma eşleşmesinde hatalara yol açabilir. Tüm değiştirilen verileri hemen PACS'ta teyit edin.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0022">
+      <Title>Onay</Title>
+      <Message>Hasta Kimliği zorunludur, Lütfen Hasta Kimliğini girin.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0023">
+      <Title>Onay</Title>
+      <Message>Çalışma Kimliği zorunludur. Lütfen Çalışma Kimliği'ni girin.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0024">
+      <Title>Onay</Title>
+      <Message>HastaAdı zorunludur, Lütfen HastaAdı'nı girin.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0025">
+      <Title>Onay</Title>
+      <Message>HastaAdı zorunludur, Lütfen HastaAdı'nı girin.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0026">
+      <Title>Onay</Title>
+      <Message>HastaAdı zorunludur, Lütfen HastaAdı'nı girin.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0027">
+      <Title>Onay</Title>
+      <Message>Cinsiyet zorunlu alandır. Lütfen cinsiyetinizi girin.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0028">
+      <Title>Onay</Title>
+      <Message>Doğum tarihi zorunludur, Lütfen doğum tarihini girin.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0029">
+      <Title>Hata</Title>
+      <Message>Manyetik kart okunamıyor. Sistemi yeniden başlatın.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0030">
+      <Title>Hata</Title>
+      <Message>Zorunlu Alan Girilmemiş Durumda. Gerçekleştirme Mümkün Değil.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0031">
+      <Title>Onay</Title>
+      <Message>Çalışmada çekilmiş bir görüntü var, çalışmayı düzenlemek istiyor musunuz?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0032">
+      <Title>Onay</Title>
+      <Message>Çalışan Dr.View kapatılsın mı?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0033">
+      <Title>Onay</Title>
+      <Message>Dr.View yeniden başlatılsın mı? </Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0034">
+      <Title>Onay</Title>
+      <Message>Çalışma askıya alınma durumuna geri götürülsün mü?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0035">
+      <Title>Hata</Title>
+      <Message>Karşılık gelen bir çalışma, hasta bilgisi yok.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0036">
+      <Title>Onay</Title>
+      <Message>Çalışma VT'de zaten var. O çalışmayı kullanmak istiyor musun?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0037">
+      <Title>Onay</Title>
+      <Message>Hasta bilgileri zaten VT'de var. O hasta bilgilerini kullanmak istiyor musunuz?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0038">
+      <Title>Hata</Title>
+      <Message>Birden çok hasta seçilemez.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0039">
+      <Title>Hata</Title>
+      <Message>VT hatası - Emir oluşturulamadı.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0040">
+      <Title>Hata</Title>
+      <Message>Hasta VT güncellemesinde hata.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0041">
+      <Title>Hata</Title>
+      <Message>Karşılık gelen hasta VT'nda yok.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0042">
+      <Title>Hata</Title>
+      <Message>Bu karakter kullanılamaz</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0046">
+      <Title>Hata</Title>
+      <Message>Gelecekteki bir yıl kullanılamaz.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0047">
+      <Title>Hata</Title>
+      <Message>Gelecekteki bir ay kullanılamaz.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0048">
+      <Title>Hata</Title>
+      <Message>Gelecekteki bir tarih kullanılamaz.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0049">
+      <Title>Hata</Title>
+      <Message>Girilen yıl artık yıl değil. Tarihi kontrol edin.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0052">
+      <Title>Onay</Title>
+      <Message>Emir kayıtlı. Üstüne yazmak ister misiniz?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0053">
+      <Title>Onay</Title>
+      <Message>Aynı Hasta Kimliği: {0},Hasta Adı: {1},Cinsiyet: {2},Doğum Tarihi:{3} Veritabanında var, üzerine yazmak ister misiniz?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0054">
+      <Title>Hata</Title>
+      <Message>Geçersiz değer. Burada "\", "^" veya "=" kullanılamaz.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0055">
+      <Title>Hata</Title>
+      <Message>Geçersiz değer. Burada "\" veya "=" kullanılamaz.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0056">
+      <Title>Hata</Title>
+      <Message>İşletim yapılamaz</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0057">
+      <Title>Onay</Title>
+      <Message>Tümünü temizlemek ister misiniz?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0058">
+      <Title>Hata</Title>
+      <Message>Lütfen zorunlu alanları girin</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0059">
+      <Title>Onay</Title>
+      <Message>Çalışmayı kaydetmek ister misiniz?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0060">
+      <Title>Hata</Title>
+      <Message>Kayıt Yapılamadı</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0061">
+      <Title>Onay</Title>
+      <Message>Verilerin üzerine yazmak istiyor musun?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0062">
+      <Title>Hata</Title>
+      <Message>Karşılık gelen çalışma, hasta yok.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0063">
+      <Title>Hata</Title>
+      <Message>Lütfen arama içeriğini girin.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0064">
+      <Title>Hata</Title>
+      <Message>Lütfen hem İçerik Tarihi hem de İçerik Saati Alanları için Değer Girin.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

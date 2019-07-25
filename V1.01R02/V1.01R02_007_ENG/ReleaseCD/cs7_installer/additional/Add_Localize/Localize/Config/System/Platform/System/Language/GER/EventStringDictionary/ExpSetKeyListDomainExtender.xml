@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ExpSetKeyListDomainExtender0000">
+      <Title />
+      <Message>OK zum Wechseln der Bildverarbeitungsparameter?</Message>
+    </EventString>
+    <EventString Key="ExpSetKeyListDomainExtender0001">
+      <Title />
+      <Message>OK zum Löschen des registrierten Kassetten-Barcodes?</Message>
+    </EventString>
+    <EventString Key="ExpSetKeyListDomainExtender0002">
+      <Title />
+      <Message>Sie können nicht mehr als {MaxSize} Bilder registrieren.</Message>
+    </EventString>
+    <EventString Key="ExpSetKeyListDomainExtender0003">
+      <Title />
+      <Message>Ein Barcode ist für diesen Zustandserfassungsschlüssel registriert. OK zum Wechsel der Registrierung?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

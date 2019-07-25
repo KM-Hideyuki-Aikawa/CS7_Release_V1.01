@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ApolloDomainExtender0001">
+      <Title>حالة اختبار الاتصال</Title>
+      <Message>تم الاتصال بنجاح.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0002">
+      <Title>حالة اختبار الاتصال</Title>
+      <Message>فشل الاتصال.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0003">
+      <Title>تأكيد</Title>
+      <Message>هل توافق على إلغاء التسجيل؟</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0004">
+      <Title>خطأ</Title>
+      <Message>فشل إلغاء الجهاز.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0005">
+      <Title>خطأ</Title>
+      <Message>لا يمكن معالجة الطلب لأن الجهاز لم يتم تحديده</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0006">
+      <Title>معلومات</Title>
+      <Message>لاسلكي</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0007">
+      <Title>معلومات</Title>
+      <Message>سلكي</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

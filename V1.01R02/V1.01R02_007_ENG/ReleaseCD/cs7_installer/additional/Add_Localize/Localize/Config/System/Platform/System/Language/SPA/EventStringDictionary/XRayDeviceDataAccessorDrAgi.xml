@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1000">
+      <Title>Error de conexión con AeroDR XG BOX</Title>
+      <Message>Compruebe el equipo de conectividad y el cable de conexión.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1001">
+      <Title>AeroDR - Error de conexión con AeroDR XG BOX</Title>
+      <Message>Compruebe el equipo de conectividad y el cable de conexión.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1002">
+      <Title>Error sincronización de campo exposición</Title>
+      <Message>Error config. campo exposición.
+Compruebe conexión de red y toque esta condición de exposición.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1003">
+      <Title>Error de exposición</Title>
+      <Message>Error de comunicación en la exposición. Compruebe conexión de red y toque esta condición de exposición.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1004">
+      <Title>Error actualiz. versión</Title>
+      <Message>Fallo actualiz. versión.
+Compruebe conexión y reinicie la unidad de interfaz de generador AeroDR y CS-7.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1005">
+      <Title>Error de valor config.</Title>
+      <Message>Fallo al aplicar datos de config. 
+Compruebe conexión de red y vuelva a intentar.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1006">
+      <Title>Error de valor config.</Title>
+      <Message>Fallo al obtener datos de config. 
+Compruebe conexión de red y vuelva a intentar.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1007">
+      <Title>Error config. de sincronización de exposición</Title>
+      <Message>Error config. sincronización exposición. Compruebe conexión de red y toque esta condición de exposición.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2000">
+      <Title>Error inicial [AeroDR XG]</Title>
+      <Message>error inicial.
+Suelte el interruptor de exposición.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2001">
+      <Title>Error inicial [AeroDR XG]</Title>
+      <Message>Error inicial.
+Suelte el interruptor de exposición.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2002">
+      <Title>Error inicial [AeroDR XG]</Title>
+      <Message>Error inicial.
+Póngase en contacto con el servicio técnico.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2003">
+      <Title>Error inicial [AeroDR XG]</Title>
+      <Message>Error inicial.
+Suelte el interruptor de exposición.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2004">
+      <Title>Error inicial [AeroDR XG]</Title>
+      <Message>Error inicial.
+Suelte el interruptor de exposición.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2005">
+      <Title>Error inicial [AeroDR XG]</Title>
+      <Message>Error inicial.
+Póngase en contacto con el servicio técnico.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2006">
+      <Title>Error inicial [AeroDR XG]</Title>
+      <Message>Error inicial.
+Suelte el interruptor de exposición.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2007">
+      <Title>Error inicial [AeroDR XG]</Title>
+      <Message>Error inicial.Suelte el interruptor de exposición.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2008">
+      <Title>Error inicial [AeroDR XG]</Title>
+      <Message>Error inicial.
+Póngase en contacto con el servicio técnico.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2200">
+      <Title>Error de exposición [AeroDR XG]</Title>
+      <Message>Error de enlace de exposición con dispositivo de rayos X.Reinicie dispositivo rayos X y unidad interfaz de AeroDR.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2201">
+      <Title>Error de exposición [AeroDR XG]</Title>
+      <Message>Error de enlace exposición con dispositivo rayos X.Póngase en contacto con serv. técnico.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2500">
+      <Title>Error de exposición [AeroDR XG]</Title>
+      <Message>Error de dispositivo interno.
+Reinicie la unidad de interfaz de AeroDR.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2300">
+      <Title>Error de exposición [AeroDR XG]</Title>
+      <Message>Error de dispositivo interno o error de comunicación.Reinicie Detector AeroDR, la unidad de interfaz de AeroDR y CS-7.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2301">
+      <Title>Error de exposición [AeroDR XG]</Title>
+      <Message>Hay un error de dispositivo interno o un error de comunicación. Reinicie Detector AeroDR, la unidad de interfaz de AeroDR y CS-7.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2302">
+      <Title>Error de exposición [AeroDR XG]</Title>
+      <Message>Error de dispositivo interno o error de comunicación.Reinicie Detector AeroDR, la unidad de interfaz de AeroDR y CS-7.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2400">
+      <Title>Error de red AeroDR XG BOX</Title>
+      <Message>Resetee AeroDR XG BOX.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2401">
+      <Title>Error de red AeroDR XG BOX</Title>
+      <Message>Resetee AeroDR XG BOX.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2402">
+      <Title>Error de red AeroDR XG BOX</Title>
+      <Message>Resetee AeroDR XG BOX.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2403">
+      <Title>Error de red AeroDR XG BOX</Title>
+      <Message>Resetee AeroDR XG BOX.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2501">
+      <Title>Error de exposición [AeroDR XG]</Title>
+      <Message>Hay un error de dispositivo interno o un error de comunicación. Póngase en contacto con el servicio técnico.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4100">
+      <Title>Error de exposición [AeroDR XG]</Title>
+      <Message>No se ha soltado interrup. exposición. Suelte interruptor de exposición.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4101">
+      <Title>Error de exposición [AeroDR XG]</Title>
+      <Message>No se ha soltado el interruptor exposición.
+Suelte interrup. exposición.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4102">
+      <Title>Error de exposición [AeroDR XG]</Title>
+      <Message>No se ha soltado el interruptor exposición.
+Suelte interrup. exposición.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

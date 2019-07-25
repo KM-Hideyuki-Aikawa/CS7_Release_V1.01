@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PrinterDomainExtender0001">
+      <Title>Κατάσταση ping</Title>
+      <Message>Η σύνδεση πραγματοποιήθηκε επιτυχώς.</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0002">
+      <Title>Κατάσταση ping</Title>
+      <Message>Η σύνδεση απέτυχε.</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0003">
+      <Title />
+      <Message>Για ποια υπηρεσία πρέπει να εκτελεστεί το Ping (C-ECHO);</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0004">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Συμφωνείτε να διαγραφεί η επιλεγμένη ουρά;</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0005">
+      <Title>Προσοχή</Title>
+      <Message>Επιλέξτε την(τις) ουρά(ές) προς διαγραφή.</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0006">
+      <Title>Πληροφορίες</Title>
+      <Message>Η(Οι) επιλεγμένη(ες) ουρά(ές) διαγράφηκαν επιτυχώς</Message>
+    </EventString>
+    <EventString Key="PrinterDomainExtender0007">
+      <Title>Σφάλμα</Title>
+      <Message>Σφάλμα κατά τη διαγραφή ουράς.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

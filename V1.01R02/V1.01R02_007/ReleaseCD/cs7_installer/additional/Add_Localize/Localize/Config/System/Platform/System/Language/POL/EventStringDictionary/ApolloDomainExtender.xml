@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ApolloDomainExtender0001">
+      <Title>Stan ping</Title>
+      <Message>Połączono pomyślnie.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0002">
+      <Title>Stan ping</Title>
+      <Message>Nie można się połączyć.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0003">
+      <Title>Potwierdzenie</Title>
+      <Message>Czy chcesz anulować rejestrację?</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0004">
+      <Title>Błąd</Title>
+      <Message>Błąd anulowania urządzenia.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0005">
+      <Title>Błąd</Title>
+      <Message>Nie można przetworzyć żądania, ponieważ nie wybrano urządzenia</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0006">
+      <Title>Informacje</Title>
+      <Message>Bezprzewodowa</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0007">
+      <Title>Informacje</Title>
+      <Message>Przewodowa</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

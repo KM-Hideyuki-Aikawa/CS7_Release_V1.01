@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title />
+      <Message>Επιθυμείτε να αλλάξετε το μέγεθος σώματος; Επιβεβαιώστε.</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title />
+      <Message>Τα αποτελέσματα έκθεσης εφαρμόστηκαν σε παραπάνω από μία εντολή. Ετικέτες εξέτασης "{EXAM_TAGS_INFO}"</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title />
+      <Message>Δεν ήταν δυνατή η εύρεση της αντίστοιχης εντολής που να ταιριάζει με τα αποτελέσματα έκθεσης. Ελέγξτε.</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title />
+      <Message>Δεν είναι δυνατή η ενεργοποίηση της συνθήκης AEC για έκθεση CR. Να απενεργοποιηθεί το AEC;</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title />
+      <Message>Δεν ήταν δυνατή η τροποποίηση του μεγέθους ασθενούς για κάποια εντολή. Ελέγξτε.</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title />
+      <Message>Θέλετε να αντικατασταθεί το μέγεθος διοπτήρα;</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

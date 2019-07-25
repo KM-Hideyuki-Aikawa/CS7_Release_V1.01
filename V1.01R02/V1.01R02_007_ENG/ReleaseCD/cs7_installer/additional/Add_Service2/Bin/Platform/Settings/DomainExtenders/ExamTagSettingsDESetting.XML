@@ -1,0 +1,264 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExamTagSettingsDESetting</name>
+    </assembly>
+    <members>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.MonitorLUTSetting">
+            <summary>
+            Monitor LUT setting
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.MonitorLUTSetting.GetLUTSetting(System.Int32)">
+            <summary>
+            The LUT setting of specified viewID is acquired.
+            </summary>
+            <param name="viewID">viewID</param>
+            <returns>LUTSetting</returns>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.MonitorLUTSetting.MonitorLUTFilePath">
+            <summary>
+            LUT File Path
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.MonitorLUTSetting.LUTSettingList">
+            <summary>
+            Monitor LUT setting list
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.LUTSetting">
+            <summary>
+            LUT setting
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.LUTSetting.ViewID">
+            <summary>
+            viewID
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.LUTSetting.DefaultMonitorSetting">
+            <summary>
+            Default monitor LUT
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.LUTSetting.MonitorSetting">
+            <summary>
+            Monitor LUT
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.DefaultMonitorSetting">
+            <summary>
+            Default monitor LUT
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.DefaultMonitorSetting.MonitorName">
+            <summary>
+            Monitor model
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.DefaultMonitorSetting.ApplyLUT">
+            <summary>
+            Application LUT type
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.MonitorSetting">
+            <summary>
+            Monitor LUT normal
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.MonitorSetting.MachineName">
+            <summary>
+            Computer name
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.MonitorSetting.DisplayName">
+            <summary>
+            DisplayName
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.MonitorSetting.ApplyLUT">
+            <summary>
+            Application LUT type
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.IppDefaultInfoSetting.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.IppDefaultInfoSetting.InnerG">
+            <summary>
+            InnerG
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.IppDefaultInfoSetting.InnerS">
+            <summary>
+            InnerS
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.IppDefaultInfoSetting.EProcessing">
+            <summary>
+            EProcessing
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.IppDefaultInfoSetting.FProcessing">
+            <summary>
+            FProcessing
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.IppDefaultInfoSetting.PresetE">
+            <summary>
+            Enhance mode E Processing Prest Values
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.IppDefaultInfoSetting.PresetF">
+            <summary>
+            Enhance mode F Processing Prest Values
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.IppDefaultInfoSetting.GProcessLow">
+            <summary>
+            GProcessLow
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.IppDefaultInfoSetting.GProcessHigh">
+            <summary>
+            GProcessHigh
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.IppDefaultInfoSetting.GProcessRotationRate">
+            <summary>
+            GProcessRotationRate
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.IppDefaultInfoSetting.EMaskSize">
+            <summary>
+            EMaskSize
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.IppDefaultInfoSetting.FMaskSize">
+            <summary>
+            FMaskSize
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.IppDefaultInfoSetting.HSLevel">
+            <summary>
+            HSLevel
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.IppDefaultInfoSetting.SelectedLutGraphColor">
+            <summary>
+            SelectedLutGraphColor
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.IppDefaultInfoSetting.LutGraphColor">
+            <summary>
+            LutGraphColor
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.HpPreset.Hybrid_ON">
+            <summary>
+            Hybrid_ON
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.HpPreset.Hybrid_OFF">
+            <summary>
+            Hybrid_OFF
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.Hybrid.DensityHigh">
+            <summary>
+            DensityHigh
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.Hybrid.DensityLow">
+            <summary>
+            DensityLow
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.BoundaryValues.Low">
+            <summary>
+            Low
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.BoundaryValues.High">
+            <summary>
+            High
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.BoundaryValues.Interval">
+            <summary>
+            Interval
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.RGBColors">
+            <summary>
+            holds Color value - using  A,R,G,B  
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.RGBColors.A">
+            <summary>
+            Alpha Value
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.RGBColors.R">
+            <summary>
+            Red Color value
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.RGBColors.G">
+            <summary>
+            Green Color value
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.RGBColors.B">
+            <summary>
+            Blue Color value
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.DisplayValuesSetting">
+            <summary>
+            DisplayValues
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.DisplayValuesSetting.DisplayInfoList">
+            <summary>
+            DisplayInfoList
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.DisplayValue">
+            <summary>
+            DisplayValue
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.DisplayValue.Value1">
+            <summary>
+            Value1
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.DisplayValue.ItemName">
+            <summary>
+            ItemName
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "T:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.KeyValue" -->
+        <!-- Badly formed XML comment ignored for member "P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.KeyValue.Key" -->
+        <!-- Badly formed XML comment ignored for member "P:Konicaminolta.Consoles.Domains.Extenders.Settings.ExamTagSettingsDESetting.KeyValue.Value" -->
+    </members>
+</doc>

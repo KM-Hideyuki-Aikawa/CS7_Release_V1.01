@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="40001">
+      <Title>Не удалось создать файл очереди</Title>
+      <Message>Не удалось создать файл очереди.</Message>
+    </EventString>
+    <EventString Key="40002">
+      <Title>Не удалось создать очередь</Title>
+      <Message>Не удалось создать очередь.</Message>
+    </EventString>
+    <EventString Key="40003">
+      <Title>Не удалось создать очередь</Title>
+      <Message>Достигнут предел попыток создания очереди.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

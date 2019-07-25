@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0001">
+      <Title>오류</Title>
+      <Message>초기화 오류</Message>
+    </EventString>
+    <EventString Key="0002">
+      <Title>정보</Title>
+      <Message>통합 성공</Message>
+    </EventString>
+    <EventString Key="0003">
+      <Title>오류</Title>
+      <Message>디렉토리를 찾을 수 없습니다.</Message>
+    </EventString>
+    <EventString Key="0004">
+      <Title>오류</Title>
+      <Message>파일을 찾을 수 없습니다.</Message>
+    </EventString>
+    <EventString Key="0005">
+      <Title>오류</Title>
+      <Message>구문 오류입니다.</Message>
+    </EventString>
+    <EventString Key="0006">
+      <Title>오류</Title>
+      <Message>백업 삭제 중 오류가 발생했습니다.</Message>
+    </EventString>
+    <EventString Key="0007">
+      <Title>오류</Title>
+      <Message>백업 생성 중 오류가 발생했습니다.</Message>
+    </EventString>
+    <EventString Key="0008">
+      <Title>오류</Title>
+      <Message>데이터 액세스 중 오류가 발생했습니다.</Message>
+    </EventString>
+    <EventString Key="0009">
+      <Title>오류</Title>
+      <Message>저장 중 오류가 발생했습니다.</Message>
+    </EventString>
+    <EventString Key="0010">
+      <Title>오류</Title>
+      <Message>색인 검색 중 오류가 발생했습니다.</Message>
+    </EventString>
+    <EventString Key="0011">
+      <Title>오류</Title>
+      <Message>부록 데이터에서 오류가 발생했습니다.</Message>
+    </EventString>
+    <EventString Key="0012">
+      <Title>오류</Title>
+      <Message>보정 데이터 복사 중 오류가 발생했습니다.</Message>
+    </EventString>
+    <EventString Key="0013">
+      <Title>오류</Title>
+      <Message>예외가 발생했습니다.</Message>
+    </EventString>
+    <EventString Key="0014">
+      <Title>오류</Title>
+      <Message>예외가 발생했습니다.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

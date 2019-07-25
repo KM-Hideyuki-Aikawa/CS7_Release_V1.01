@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1000">
+      <Title>Ошибка связи с AeroDR XG BOX</Title>
+      <Message>Проверьте сетевое соединение и подключение кабеля.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1001">
+      <Title>AeroDR - ошибка связи с AeroDR XG BOX</Title>
+      <Message>Проверьте сетевое соединение и подключение кабеля.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1002">
+      <Title>Ошибка синхронизации поля экспонирования</Title>
+      <Message>Ошибка настройки поля экспонирования.
+Проверьте сетевое соединение и выберите эти условия облучения.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1003">
+      <Title>Ошибка экспонирования</Title>
+      <Message>Ошибка связи во время экспонирования. Проверьте сетевое соединение и выберите эти условия облучения.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1004">
+      <Title>Ошибка более новой версии</Title>
+      <Message>Более новая версия не работает.
+Проверьте соединение и перезапустите интерфейсный блок генератора AeroDR и CS-7.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1005">
+      <Title>Ошибка настройки значения</Title>
+      <Message>Не удалось настроить данные. 
+Проверьте сетевое соединение и повторите попытку.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1006">
+      <Title>Ошибка настройки значения</Title>
+      <Message>Не удалось получить данные настройки. 
+Проверьте сетевое соединение и повторите попытку.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1007">
+      <Title>Ошибка установки синхронизации экспонирования</Title>
+      <Message>Ошибка настройки синхронизации экспонирования. Проверьте сетевое соединение и выберите эти условия облучения.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2000">
+      <Title>Ошибка запуска [AeroDR XG]</Title>
+      <Message>ошибка запуска.
+Отпустите переключатель облучения.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2001">
+      <Title>Ошибка запуска [AeroDR XG]</Title>
+      <Message>Ошибка запуска. 
+Отпустите переключатель облучения.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2002">
+      <Title>Ошибка запуска [AeroDR XG]</Title>
+      <Message>Ошибка запуска.
+Обратитесь к представителю службы сервиса.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2003">
+      <Title>Ошибка запуска [AeroDR XG]</Title>
+      <Message>Ошибка запуска. 
+Отпустите переключатель облучения.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2004">
+      <Title>Ошибка запуска [AeroDR XG]</Title>
+      <Message>Ошибка запуска. 
+Отпустите переключатель облучения.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2005">
+      <Title>Ошибка запуска [AeroDR XG]</Title>
+      <Message>Ошибка запуска.
+Обратитесь к представителю службы сервиса.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2006">
+      <Title>Ошибка запуска [AeroDR XG]</Title>
+      <Message>Ошибка запуска. 
+Отпустите переключатель облучения.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2007">
+      <Title>Ошибка запуска [AeroDR XG]</Title>
+      <Message>Ошибка запуска. 
+Отпустите переключатель облучения.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2008">
+      <Title>Ошибка запуска [AeroDR XG]</Title>
+      <Message>Ошибка запуска.
+Обратитесь к представителю службы сервиса.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2200">
+      <Title>Ошибка экспонирования [AeroDR XG]</Title>
+      <Message>Ошибка передачи условий облучения с/на рентген. аппарат. Перезапустите рентген. аппарат и интерфейсный блок AeroDR.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2201">
+      <Title>Ошибка экспонирования [AeroDR XG]</Title>
+      <Message>Ошибка передачи условий облучения с/на рентген. аппарат. Обратитесь к представителю службы сервиса.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2500">
+      <Title>Ошибка экспонирования [AeroDR XG]</Title>
+      <Message>Внутренняя ошибка устройства.
+Перезапустите интерфейсный блок AeroDR.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2300">
+      <Title>Ошибка экспонирования [AeroDR XG]</Title>
+      <Message>Внутренняя ошибка устройства или ошибка связи. Перезапустите детектор AeroDR, интерфейсный блок AeroDR и CS-7.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2301">
+      <Title>Ошибка экспонирования [AeroDR XG]</Title>
+      <Message>Внутренняя ошибка устройства или ошибка связи. Перезапустите детектор AeroDR, интерфейсный блок AeroDR и CS-7.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2302">
+      <Title>Ошибка экспонирования [AeroDR XG]</Title>
+      <Message>Внутренняя ошибка устройства или ошибка связи. Перезапустите детектор AeroDR, интерфейсный блок AeroDR и CS-7.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2400">
+      <Title>Сетевая ошибка AeroDR XG BOX</Title>
+      <Message>Выполните сброс AeroDR XG BOX.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2401">
+      <Title>Сетевая ошибка AeroDR XG BOX</Title>
+      <Message>Выполните сброс AeroDR XG BOX.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2402">
+      <Title>Сетевая ошибка AeroDR XG BOX</Title>
+      <Message>Выполните сброс AeroDR XG BOX.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2403">
+      <Title>Сетевая ошибка AeroDR XG BOX</Title>
+      <Message>Выполните сброс AeroDR XG BOX.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2501">
+      <Title>Ошибка экспонирования [AeroDR XG]</Title>
+      <Message>Внутренняя ошибка устройства или ошибка связи. Обратитесь к представителю службы сервиса.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4100">
+      <Title>Ошибка экспонирования [AeroDR XG]</Title>
+      <Message>Переключатель облучения не отпущен. Отпустите переключатель облучения.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4101">
+      <Title>Ошибка экспонирования [AeroDR XG]</Title>
+      <Message>Переключатель облучения не отпущен.
+Отпустите переключатель облучения.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4102">
+      <Title>Ошибка экспонирования [AeroDR XG]</Title>
+      <Message>Переключатель облучения не отпущен.
+Отпустите переключатель облучения.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

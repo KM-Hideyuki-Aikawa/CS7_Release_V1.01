@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0401">
+      <Title>傳送錯誤</Title>
+      <Message>X 光通訊過程出現內部錯誤。</Message>
+    </EventString>
+    <EventString Key="0402">
+      <Title>內部錯誤</Title>
+      <Message>X 光通訊過程出現內部錯誤。</Message>
+    </EventString>
+    <EventString Key="0403">
+      <Title>傳送錯誤</Title>
+      <Message>曝光條件命令傳送給 X 光系統失敗，請重新啟動 X 光裝置。</Message>
+    </EventString>
+    <EventString Key="0404">
+      <Title>設定錯誤</Title>
+      <Message>X 光系統參數設定錯誤。</Message>
+    </EventString>
+    <EventString Key="0405">
+      <Title>裝置錯誤</Title>
+      <Message>檢測到 X 光系統錯誤。</Message>
+    </EventString>
+    <EventString Key="0406">
+      <Title>傳送錯誤</Title>
+      <Message>X 光系統連接錯誤，請檢查網路。</Message>
+    </EventString>
+    <EventString Key="0301">
+      <Title />
+      <Message />
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

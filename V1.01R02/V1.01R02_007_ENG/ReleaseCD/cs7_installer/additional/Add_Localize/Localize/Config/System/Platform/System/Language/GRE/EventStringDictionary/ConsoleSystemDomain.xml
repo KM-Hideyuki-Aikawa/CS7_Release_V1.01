@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ConsoleSystemDomain0001">
+      <Title />
+      <Message>Η υπολειπόμενη ισχύς της μπαταρίας είναι χαμηλή. Φορτίστε την μπαταρία.</Message>
+    </EventString>
+    <EventString Key="ConsoleSystemDomain0003">
+      <Title />
+      <Message>Δεν είναι δυνατή η λήψη εικόνων λόγω χαμηλής στάθμης της μπαταρίας. Φορτίστε την μπαταρία.</Message>
+    </EventString>
+    <EventString Key="ConsoleSystemDomain0005">
+      <Title>Η καταχώριση ολοκληρώθηκε επιτυχώς</Title>
+      <Message>Καταχωρίστηκε το ακόλουθο AeroDR.
+Όνομα AeroDR: {DeviceName}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

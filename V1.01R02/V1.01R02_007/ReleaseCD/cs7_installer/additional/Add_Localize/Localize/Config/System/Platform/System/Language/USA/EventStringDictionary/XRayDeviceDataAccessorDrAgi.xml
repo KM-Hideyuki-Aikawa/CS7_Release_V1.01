@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1000">
+      <Title>AeroDR XG BOX connection error</Title>
+      <Message>Please confirm the networking gear and the cable connection.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1001">
+      <Title>AeroDR - AeroDR XG BOX connection error</Title>
+      <Message>Please confirm the networking gear and the cable connection.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1002">
+      <Title>Exposure field synchronization error</Title>
+      <Message>Exposure field setting error.
+Check the network connection and touch this exposure condition.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1003">
+      <Title>Exposure error</Title>
+      <Message>Communication error at the exposure.Check the network connection and touch this exposure condition.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1004">
+      <Title>Version up error</Title>
+      <Message>Version up failed.
+Check the connection and restart the AeroDR Generator Interface Unit and CS-7.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1005">
+      <Title>Setting value error</Title>
+      <Message>Failed to set the Setting data.  
+Please check network connection and retry.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1006">
+      <Title>Setting value error</Title>
+      <Message>Failed to get the Setting data.  
+Please check network connection and retry.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1007">
+      <Title>Exposure synchronization setting error</Title>
+      <Message>Exposure synchronization setting error. Check the network connection and touch this exposure condition.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2000">
+      <Title>[AeroDR XG]startup error</Title>
+      <Message>startup error.
+Release the exposure switch.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2001">
+      <Title>[AeroDR XG]startup error</Title>
+      <Message>There is a startup error.
+Release the exposure switch.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2002">
+      <Title>[AeroDR XG]startup error</Title>
+      <Message>There is a startup error.
+Contact a service representative.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2003">
+      <Title>[AeroDR XG]startup error</Title>
+      <Message>There is a startup error.
+Release the exposure switch.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2004">
+      <Title>[AeroDR XG]startup error</Title>
+      <Message>There is a startup error.
+Release the exposure switch.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2005">
+      <Title>[AeroDR XG]startup error</Title>
+      <Message>There is a startup error.
+Contact a service representative.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2006">
+      <Title>[AeroDR XG]startup error</Title>
+      <Message>There is a startup error.
+Release the exposure switch.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2007">
+      <Title>[AeroDR XG]startup error</Title>
+      <Message>There is a startup error.Release the exposure switch.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2008">
+      <Title>[AeroDR XG]startup error</Title>
+      <Message>There is a startup error.
+Contact a service representative.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2200">
+      <Title>[AeroDR XG]exposure error</Title>
+      <Message>There is a X-ray device exposure link error.Restart the X-ray device and AeroDR Interface Unit.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2201">
+      <Title>[AeroDR XG]exposure error</Title>
+      <Message>There is a X-ray device exposure link error.Contact a service representative.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2500">
+      <Title>[AeroDR XG]exposure error</Title>
+      <Message>There is an internal device error.
+Restart the AeroDR Interface Unit.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2300">
+      <Title>[AeroDR XG]exposure error</Title>
+      <Message>There is an internal device error or a communication error.Restart the AeroDR  Detector, AeroDR Interface Unit and CS-7.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2301">
+      <Title>[AeroDR XG]exposure error</Title>
+      <Message>There is an interna device error or a communication error. Restart the AeroDR Detector, AeroDR Interface Unit,and CS-7.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2302">
+      <Title>[AeroDR XG]exposure error</Title>
+      <Message>There is an internal device error or a communication error.Restart the AeroDR  Detector, AeroDR Interface Unit and CS-7.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2400">
+      <Title>AeroDR XG BOX Network Error</Title>
+      <Message>Please reset AeroDR XG BOX.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2401">
+      <Title>AeroDR XG BOX Network Error</Title>
+      <Message>Please reset AeroDR XG BOX.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2402">
+      <Title>AeroDR XG BOX Network Error</Title>
+      <Message>Please reset AeroDR XG BOX.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2403">
+      <Title>AeroDR XG BOX Network Error</Title>
+      <Message>Please reset AeroDR XG BOX.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2501">
+      <Title>[AeroDR XG]exposure error</Title>
+      <Message>There is an internal device error or a communication error. Contact a service representative.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4100">
+      <Title>[AeroDR XG]exposure error</Title>
+      <Message>Exposure switch is not released. Release the exposure switch.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4101">
+      <Title>[AeroDR XG]exposure error</Title>
+      <Message>Exposure switch is not released.
+Release the exposure switch.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4102">
+      <Title>[AeroDR XG]exposure error</Title>
+      <Message>Exposure switch is not released.
+Release the exposure switch.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="40001">
+      <Title>Vytvoření souboru fronty neúspěšné</Title>
+      <Message>Vytvoření souboru fronty bylo neúspěšné.</Message>
+    </EventString>
+    <EventString Key="40002">
+      <Title>Řízení front neúspěšné</Title>
+      <Message>Řízení front bylo neúspěšné.</Message>
+    </EventString>
+    <EventString Key="40003">
+      <Title>Řízení front neúspěšné</Title>
+      <Message>Byl dosažen limitní počet pokusů fronty.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

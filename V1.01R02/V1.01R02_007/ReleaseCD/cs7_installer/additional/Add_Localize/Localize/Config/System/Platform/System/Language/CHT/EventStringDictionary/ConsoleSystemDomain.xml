@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ConsoleSystemDomain0001">
+      <Title />
+      <Message>電池剩餘電量不足，請幫電池充電。</Message>
+    </EventString>
+    <EventString Key="ConsoleSystemDomain0003">
+      <Title />
+      <Message>由於電池電量不足，所以無法採集影像，請幫電池充電。</Message>
+    </EventString>
+    <EventString Key="ConsoleSystemDomain0005">
+      <Title>登錄成功</Title>
+      <Message>登錄了 AeroDR 下列資訊。
+AeroDR 名稱：{DeviceName}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

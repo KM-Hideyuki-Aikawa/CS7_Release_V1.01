@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="SystemMonitorDomain00001">
+      <Title>ส่วนประกอบเครื่องอ่าน</Title>
+      <Message>(ReaderName) ใน (ComponentName) กำลังจะหมดอายุ โปรดโทรติดต่อฝ่ายบำรุงรักษา</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00002">
+      <Title>ส่วนประกอบเครื่องอ่าน</Title>
+      <Message>(ComponentName) กำลังจะหมดอายุ โปรดโทรติดต่อฝ่ายบำรุงรักษา</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00003">
+      <Title>ส่วนประกอบเครื่องอ่าน</Title>
+      <Message>(ReaderName) ใน (ComponentName) หมดอายุ โปรดโทรติดต่อฝ่ายบำรุงรักษา</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00004">
+      <Title>ส่วนประกอบเครื่องอ่าน</Title>
+      <Message>(ComponentName) หมดอายุ โปรดโทรติดต่อฝ่ายบำรุงรักษา</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00005">
+      <Title />
+      <Message>คุณต้องการสิ้นสุดระบบหรือไม่</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00006">
+      <Title />
+      <Message>อัพเดตสำเร็จ</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00007">
+      <Title />
+      <Message>คุณล็อกเอาต์ออกจากแอ็พพลิเคชันสำเร็จ</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00008">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ไม่สามารถประมวลผลคำร้องขอล็อกเอาต์ของคุณ</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00009">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>โปรดตรวจสอบว่าไม่ได้โหลดปลั๊กอิน (DomainExtenderName)</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00010">
+      <Title />
+      <Message>คุณแน่ใจหรือไม่ว่าต้องการล็อกอ็อฟ</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

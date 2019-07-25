@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientListDomainExtender0000">
+      <Title />
+      <Message>العام المُدخل غير صالح</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0001">
+      <Title />
+      <Message>الشهر المُدخل غير صالح</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0002">
+      <Title />
+      <Message>اليوم المُدخل غير صالح</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0003">
+      <Title />
+      <Message>القيمة خارج النطاق</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0004">
+      <Title />
+      <Message>الطول أكبر من MaxLength</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0005">
+      <Title />
+      <Message>الطول أقل من MinLength</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0006">
+      <Title />
+      <Message>القيمة المدخلة غير رقمية</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0007">
+      <Title />
+      <Message>القيمة المدخلة غير صالحة</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0008">
+      <Title />
+      <Message>يسمح فقط بالحروف الأبجدية</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0009">
+      <Title />
+      <Message>يسمح فقط بحروف كانا</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0010">
+      <Title />
+      <Message>قيمة غير صالحة. لا يمكن استخدام "\" هنا.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0011">
+      <Title />
+      <Message>هذا الحرف غير مسموح به</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0012">
+      <Title>تأكيد</Title>
+      <Message>هل تريد حذف السجل المحدد؟</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0013">
+      <Title />
+      <Message>قيمة غير صالحة. لا يمكن استخدام "\" أو "^" أو "=" هنا.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0014">
+      <Title />
+      <Message>قيمة غير صالحة. لا يمكن استخدام "\" أو "=" هنا.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0015">
+      <Title />
+      <Message>هل تريد تعليق الدراسة؟</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0016">
+      <Title>بحث رمز الشريط</Title>
+      <Message>الدراسة متعددة {0} موجودة بالمعلومات المعطاة.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

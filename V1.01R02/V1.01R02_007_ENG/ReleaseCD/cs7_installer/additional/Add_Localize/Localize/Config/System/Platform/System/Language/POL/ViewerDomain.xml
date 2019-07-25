@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>1700</Key>
+      <Value>Wróć</Value>
+      <Comment>戻る</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>3</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Favorite</Key>
+      <Value>Ulubione</Value>
+      <Comment>Favoriteタブ文字列(現在はタブには表示されない)</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RoiAdjustmentGroupKey</Key>
+      <Value>ROI</Value>
+      <Comment>RoiAdjustmentタブ文字列</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ValidImageAreaAdjustmentGroupKey</Key>
+      <Value>Obcinanie</Value>
+      <Comment>ValidImageAreaAdjustmentタブ文字列</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RegiusImageProcessingGroupKey</Key>
+      <Value>E/F/H</Value>
+      <Comment>RegiusImageProcessingタブ文字列</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BlackMaskingGroupKey</Key>
+      <Value>Maskowanie</Value>
+      <Comment>BlackMaskingタブ文字列</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

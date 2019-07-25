@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35540">
+      <Title>初始化错误</Title>
+      <Message>初始化失败。</Message>
+    </EventString>
+    <EventString Key="35541">
+      <Title>设置读取错误</Title>
+      <Message>读取设置文件出错。</Message>
+    </EventString>
+    <EventString Key="35542">
+      <Title>超时错误</Title>
+      <Message>出现超时。</Message>
+    </EventString>
+    <EventString Key="35543">
+      <Title>C35543</Title>
+      <Message />
+    </EventString>
+    <EventString Key="37350">
+      <Title>内部错误</Title>
+      <Message>DICOM 通信出现内部错误，请联系服务代表。</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>内部错误</Title>
+      <Message>DICOM 通信出现内部错误，请联系服务代表。</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>内部错误</Title>
+      <Message>获取 DICOM 通信设置失败，请确认通信设置。</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>通信错误</Title>
+      <Message>通信失败，请确认通信设置和服务器正在工作。</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>通信错误</Title>
+      <Message>A-ASSOCIATE 失败，请确认通信设置和服务器正在工作。</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>通信错误</Title>
+      <Message>由于无效设置，A-ASSOCIATE 被服务器拒绝，请确认通信设置。</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>通信错误</Title>
+      <Message>DICOM 通信出现内部错误，请联系服务代表。</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>通信错误</Title>
+      <Message>收到 A-ABORT。[{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37360">
+      <Title>内部错误</Title>
+      <Message>RIS-OUT 通信出现内部错误，请联系服务代表。</Message>
+    </EventString>
+    <EventString Key="37361">
+      <Title>内部错误</Title>
+      <Message>RIS-OUT 通信出现内部错误，请联系服务代表。</Message>
+    </EventString>
+    <EventString Key="37362">
+      <Title>内部错误</Title>
+      <Message>RIS-OUT 通信出现内部错误，请联系服务代表。</Message>
+    </EventString>
+    <EventString Key="37363">
+      <Title>内部错误</Title>
+      <Message>RIS-OUT 通信出现内部错误，请联系服务代表。</Message>
+    </EventString>
+    <EventString Key="37364">
+      <Title>内部错误</Title>
+      <Message>RIS-OUT 通信出现内部错误，请联系服务代表。</Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>内部错误</Title>
+      <Message>RIS-OUT 通信出现内部错误，请联系服务代表。</Message>
+    </EventString>
+    <EventString Key="37699">
+      <Title>未知错误</Title>
+      <Message>出现未知错误。[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37662">
+      <Title>内部错误</Title>
+      <Message>主机通信出现内部错误，请联系服务代表。</Message>
+    </EventString>
+    <EventString Key="37365">
+      <Title>内部错误</Title>
+      <Message>RIS-OUT 通信出现内部错误，请联系服务代表。</Message>
+    </EventString>
+    <EventString Key="37366">
+      <Title>内部错误</Title>
+      <Message>RIS-OUT 通信出现内部错误，请联系服务代表。</Message>
+    </EventString>
+    <EventString Key="37367">
+      <Title>内部错误</Title>
+      <Message>RIS-OUT 通信出现内部错误，请联系服务代表。</Message>
+    </EventString>
+    <EventString Key="37368">
+      <Title>内部错误</Title>
+      <Message>RIS-OUT 通信出现内部错误，请联系服务代表。</Message>
+    </EventString>
+    <EventString Key="37369">
+      <Title>内部错误</Title>
+      <Message>RIS-OUT 通信出现内部错误，请联系服务代表。</Message>
+    </EventString>
+    <EventString Key="37370">
+      <Title>内部错误</Title>
+      <Message>RIS-OUT 通信出现内部错误，请联系服务代表。</Message>
+    </EventString>
+    <EventString Key="37371">
+      <Title>内部错误</Title>
+      <Message>RIS-OUT 通信出现内部错误，请联系服务代表。</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="27700">
+      <Title>通信错误</Title>
+      <Message>RIS-OUT 通信出现通信错误，请检查通信目的地。</Message>
+    </EventString>
+    <EventString Key="27701">
+      <Title>通信错误</Title>
+      <Message>RIS-OUT 通信出现通信错误，请检查通信目的地。</Message>
+    </EventString>
+    <EventString Key="27702">
+      <Title>通信错误</Title>
+      <Message>RIS-OUT 通信出现通信错误，请检查通信目的地。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

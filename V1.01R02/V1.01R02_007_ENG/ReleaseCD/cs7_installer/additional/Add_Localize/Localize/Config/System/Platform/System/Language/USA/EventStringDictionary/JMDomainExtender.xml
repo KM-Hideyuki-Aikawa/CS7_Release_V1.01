@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="JMDomainExtender0001">
+      <Title>Ping Status</Title>
+      <Message>Connected successfully.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0002">
+      <Title>Ping Status</Title>
+      <Message>Failed to connect.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0003">
+      <Title />
+      <Message>If reading is paused unexpectedly during trouble there may lead to the obstacles such as image disappearance and so on. When it is paused, reserve the scan and re-start the CS.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0004">
+      <Title />
+      <Message>Deleting of the job is not success.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0005">
+      <Title />
+      <Message>Deleted the job successfully.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0006">
+      <Title />
+      <Message>Changing the JM.  Cassette registration will become completely disabled. Is it ok？</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

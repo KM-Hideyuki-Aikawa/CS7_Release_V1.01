@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ImageAcquisitionDomainExtender0000">
+      <Title>Potvrzení</Title>
+      <Message>Určitě chcete snímek odstranit?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0001">
+      <Title>Potvrzení</Title>
+      <Message>Exponovat znovu?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender1001">
+      <Title>Pozor</Title>
+      <Message>Nelze přidat expozice přesahující {MaxSize} .</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0002">
+      <Title>Potvrzení</Title>
+      <Message>Určitě chcete zrušit odstranění?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0003">
+      <Title>Potvrzení</Title>
+      <Message>Snímky nebyly pořízeny.
+Určitě chcete studii dokončit?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0004">
+      <Title>Potvrzení</Title>
+      <Message>Chcete ve studii pokračovat v jiné vyšetřovně?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0005">
+      <Title>Potvrzení</Title>
+      <Message>Čárový kód kazety je zaregistrován na tomto štítku vyšetření. 
+Určitě chcete odstranit registraci čárového kódu?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0006">
+      <Title>Chyba</Title>
+      <Message>Došlo k chybě během snímání obrazu.
+Zkontrolujte síť.
+Restartujte čtečku.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0007">
+      <Title>Chyba</Title>
+      <Message>ID pacienta: {PATIENTID}
+Jméno pacienta: {PATIENTID}
+Název čtečky: {READERNAME}
+Příjem snímku není dokončen.
+Zkontrolujte síť.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0008">
+      <Title>Upozornění</Title>
+      <Message>Název čtečky: {READERNAME}
+Určitě chcete zrušit příjem snímku?
+ V případě zrušení příjmu restartujte čtečku.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0009">
+      <Title>Chyba</Title>
+      <Message>Nyní probíhá snímání obrazu. Přihlaste se o něco později.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0010">
+      <Title>Chyba</Title>
+      <Message>Ukončení studie neúspěšné.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0011">
+      <Title>Chyba</Title>
+      <Message>Pozastavení studie neúspěšné.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0012">
+      <Title>Chyba</Title>
+      <Message>Tato kazeta je určena pro běžnou expozici.
+Zkontrolujte Štítek vyšetření.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0013">
+      <Title>Chyba</Title>
+      <Message>Tato kazeta je určena pro kontaktní mamografii.
+Zkontrolujte Štítek vyšetření.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0014">
+      <Title>Chyba</Title>
+      <Message>Tato kazeta je určena pro PCM.
+Zkontrolujte Štítek vyšetření.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0015">
+      <Title>Chyba</Title>
+      <Message>Tato kazeta je již registrována.
+Registrujte jinou kazetu.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0016">
+      <Title>Pozor</Title>
+      <Message>U této kazety již bylo zahájeno snímání.
+Nelze odstranit registraci čárového kódu.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0017">
+      <Title>Pozor</Title>
+      <Message>U této kazety již bylo zahájeno snímání.
+Nelze odstranit úlohy registrované v režimu manuální registrace.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0018">
+      <Title>Pozor</Title>
+      <Message>U této kazety již bylo zahájeno snímání.
+Nelze odstranit úlohy registrované v režimu automatické registrace.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0019">
+      <Title>Potvrzení</Title>
+      <Message>Určitě chcete pozastavit tuto studii?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0020">
+      <Title>Potvrzení</Title>
+      <Message>Žádné pořízené snímky. Určitě chcete změnit status na nezahájeno?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0021">
+      <Title>Potvrzení</Title>
+      <Message>Určitě chcete odstranit registraci čárového kódu?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0022">
+      <Title>Opětný přenos snímku</Title>
+      <Message>Je správné odstranit nepřenesené snímky na konzoli? [OK]: Odstranit [Zrušit]: Vrátit bez odstranění</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0023">
+      <Title>Opětný přenos snímku</Title>
+      <Message>{READERNAME}: Některé snímky nejsou ještě přeneseny. Odstraňujete je?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0024">
+      <Title>Chyba v přenosu snímku</Title>
+      <Message>{READERNAME}: Došlo k chybě komunikace během přenosu snímku. Zkontrolujte připojení komunikačního kabelu.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0025">
+      <Title>Opětný přenos snímku</Title>
+      <Message>{READERNAME}: "{ImageAcquisitionConditionName}" nejsou ještě přeneseny. Načítáte snímek?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0026">
+      <Title>Potvrzení</Title>
+      <Message>Určitě chcete odstranit vybraný štítek vyšetření?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0027">
+      <Title>Potvrzení</Title>
+      <Message>Určitě chcete odstranit tuto studii?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0028">
+      <Title>Chyba</Title>
+      <Message>Při přenosu snímku došlo k vypršení časového limitu.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0029">
+      <Title />
+      <Message>Nepřenesený snímek „{ImageAcquisitionConditionName}“.
+Snímek nelze znovu získat kvůli rozdílu v modalitě Štítku vyšetření a snímku.
+ V případě opětného získání změňte stav panelu v souladu se štítkem vyšetření.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0030">
+      <Title />
+      <Message>Získání nepřeneseného snímku neúspěšné.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0031">
+      <Title />
+      <Message>Odstranění nepřeneseného snímku neúspěšné.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0032">
+      <Title>Potvrzení</Title>
+      <Message>Určitě chcete pozastavit tuto studii?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0001">
+      <Title>Erreur</Title>
+      <Message>Erreur d'initialisation</Message>
+    </EventString>
+    <EventString Key="0002">
+      <Title>Information</Title>
+      <Message>Fusion réussie</Message>
+    </EventString>
+    <EventString Key="0003">
+      <Title>Erreur</Title>
+      <Message>Répertoire introuvable</Message>
+    </EventString>
+    <EventString Key="0004">
+      <Title>Erreur</Title>
+      <Message>Fichier introuvable</Message>
+    </EventString>
+    <EventString Key="0005">
+      <Title>Erreur</Title>
+      <Message>Erreur de syntaxe</Message>
+    </EventString>
+    <EventString Key="0006">
+      <Title>Erreur</Title>
+      <Message>Erreur de suppression de la sauvegarde</Message>
+    </EventString>
+    <EventString Key="0007">
+      <Title>Erreur</Title>
+      <Message>Erreur de création de la sauvegarde</Message>
+    </EventString>
+    <EventString Key="0008">
+      <Title>Erreur</Title>
+      <Message>Erreur lors de l'accès aux données</Message>
+    </EventString>
+    <EventString Key="0009">
+      <Title>Erreur</Title>
+      <Message>Erreur lors de l'enregistrement</Message>
+    </EventString>
+    <EventString Key="0010">
+      <Title>Erreur</Title>
+      <Message>Erreur lors de la recherche d'index</Message>
+    </EventString>
+    <EventString Key="0011">
+      <Title>Erreur</Title>
+      <Message>Erreur lors de l'ajout de données</Message>
+    </EventString>
+    <EventString Key="0012">
+      <Title>Erreur</Title>
+      <Message>Erreur lors de l'étalonnage de la copie de données</Message>
+    </EventString>
+    <EventString Key="0013">
+      <Title>Erreur</Title>
+      <Message>Exception survenue</Message>
+    </EventString>
+    <EventString Key="0014">
+      <Title>Erreur</Title>
+      <Message>Exception survenue</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

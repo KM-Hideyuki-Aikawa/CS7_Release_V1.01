@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="HostDomainExtender0001">
+      <Title>Результат Ping</Title>
+      <Message>Подключение выполнено.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0002">
+      <Title>Результат Ping</Title>
+      <Message>Не удалось подключить.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0003">
+      <Title>Подтверждение</Title>
+      <Message>Для какого сервиса необходимо выполнить Ping(C-ECHO)?</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0004">
+      <Title>Подтверждение</Title>
+      <Message>Удалить выбранную очередь?</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0005">
+      <Title>Внимание</Title>
+      <Message>Выберите очередь(и) для удаления.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0006">
+      <Title>Информация</Title>
+      <Message>Выбранные очереди удалены.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0007">
+      <Title>Ошибка</Title>
+      <Message>Ошибка при удалении очереди.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0008">
+      <Title>Внимание</Title>
+      <Message>Указанный компьютер дублируется другим CH. Выводимые изображения могут дублироваться.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

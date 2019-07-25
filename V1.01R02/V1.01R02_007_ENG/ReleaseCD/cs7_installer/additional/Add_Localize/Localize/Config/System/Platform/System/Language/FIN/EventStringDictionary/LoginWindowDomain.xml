@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="LoginWindowDomain0000">
+      <Title />
+      <Message>Käyttäjä: {USERNAME} on kirjautunut sisään. Käyttäjän: {USERNAME} täytyy kirjautua ulos, ennen kuin voit kirjautua sisään. Kirjaa ulos käyttäjä: {USERNAME}?</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0001">
+      <Title />
+      <Message>Väärä käyttäjätunnus tai salasana</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0002">
+      <Title>Virhe</Title>
+      <Message>Kirjautuminen peruutettu</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0003">
+      <Title>Virhe</Title>
+      <Message>Nykyinen käyttäjä ei voi vaihtaa järjestelmää. {ERRORS}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

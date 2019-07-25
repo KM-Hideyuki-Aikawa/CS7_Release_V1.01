@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="LoginWindowDomain0000">
+      <Title />
+      <Message>Usuario: "{USERNAME}" tiene abierta sesión. Cierre sesión de Usuario: "{USERNAME}" antes de abrirla usted. ¿Cerrar sesión de Usuario: "{USERNAME}"?</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0001">
+      <Title />
+      <Message>Nombre usuario o contraseña incorrectos</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0002">
+      <Title>Error</Title>
+      <Message>Inicio sesión cancelado</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0003">
+      <Title>Error</Title>
+      <Message>El usuario actual no puede cambiar el sistema. {ERRORS}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

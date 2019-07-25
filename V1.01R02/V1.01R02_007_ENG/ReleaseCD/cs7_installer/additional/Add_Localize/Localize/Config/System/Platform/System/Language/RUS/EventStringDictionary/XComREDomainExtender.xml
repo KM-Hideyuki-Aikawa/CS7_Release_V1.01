@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title />
+      <Message>Подтвердите изменение размера тела.</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title />
+      <Message>Результаты облучения, применявшиеся в нескольких работах. Метки исслед. "{EXAM_TAGS_INFO}"</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title />
+      <Message>Не удалось найти соответствующую работу для применения результ. условий облучения. Следует проверить.</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title />
+      <Message>Не удается включить AEC для условий экспонирования CR. Выключить AEC?</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title />
+      <Message>Размер пациента невозможно изменить для некоторой работы. Следует проверить.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

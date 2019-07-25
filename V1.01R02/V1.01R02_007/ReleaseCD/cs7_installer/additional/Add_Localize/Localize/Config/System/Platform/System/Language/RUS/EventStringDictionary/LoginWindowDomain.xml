@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="LoginWindowDomain0000">
+      <Title />
+      <Message>Пользователь "{USERNAME}" вошел в систему. Пользователь "{USERNAME}" должен выйти из системы, перед тем как Вы сможете войти в нее. Выйти пользователю "{USERNAME}"?</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0001">
+      <Title />
+      <Message>Неверное имя пользователя или пароль</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0002">
+      <Title>Ошибка</Title>
+      <Message>Вход в систему отменен</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0003">
+      <Title>Ошибка</Title>
+      <Message>Текущий пользователь не может переключать систему. {ERRORS}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

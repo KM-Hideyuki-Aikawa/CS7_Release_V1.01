@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="HostDomainExtender0001">
+      <Title>Ping 状态</Title>
+      <Message>连接成功。</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0002">
+      <Title>Ping 状态</Title>
+      <Message>连接失败。</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0003">
+      <Title>确认</Title>
+      <Message>什么服务必须执行 Ping(C-ECHO)？</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0004">
+      <Title>确认</Title>
+      <Message>删除所选队列可以吗？</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0005">
+      <Title>注意</Title>
+      <Message>请选择要删除的队列。</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0006">
+      <Title>信息</Title>
+      <Message>成功删除所选队列。</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0007">
+      <Title>错误</Title>
+      <Message>队列删除错误。</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0008">
+      <Title>注意</Title>
+      <Message>指定的主机与其它通道完全相同，可能重复输出图像。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

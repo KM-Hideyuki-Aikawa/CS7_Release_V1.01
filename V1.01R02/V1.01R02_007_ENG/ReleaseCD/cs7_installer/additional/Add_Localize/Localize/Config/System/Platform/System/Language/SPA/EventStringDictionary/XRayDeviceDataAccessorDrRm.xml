@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="XRayDeviceDataAccessorDrRm7102">
+      <Title>Error al registrar el número de regulación</Title>
+      <Message>Hay cuatro registrados.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7103">
+      <Title>Detector AeroDR desconocido</Title>
+      <Message>Detector AeroDR desconocido.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7104">
+      <Title>Dispositivo exposición desconocido</Title>
+      <Message>Dispositivo exposición desconocido.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7105">
+      <Title>Error de RM</Title>
+      <Message>Error de tabla de gestión de RM. Póngase en contacto con el servicio técnico.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7106">
+      <Title>Error actualiz. versión</Title>
+      <Message>La actualiz. versión no coincide. Póngase en contacto con el servicio técnico.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7107">
+      <Title>Error de RM</Title>
+      <Message>Error de tabla de gestión de RM. Póngase en contacto con el servicio técnico.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7108">
+      <Title>Error de RM</Title>
+      <Message>Error de tabla de gestión de RM. Póngase en contacto con el servicio técnico.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7109">
+      <Title>Error de RM</Title>
+      <Message>Error de tabla de gestión de RM. Compruebe la conexión de red.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7110">
+      <Title>Error de RM</Title>
+      <Message>Error de tabla de gestión de RM. Compruebe la conexión de red.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7111">
+      <Title>Error al cancelar el registro</Title>
+      <Message>Se produjo un error al cancelar el registro del panel AeroDR.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7112">
+      <Title>Error de cambio de sala de radiología</Title>
+      <Message>Se produjo un error durante el cambio de sala de radiología.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7113">
+      <Title>Error de comunicación de proceso secundario</Title>
+      <Message>No se puede comunicar.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7114">
+      <Title>Error de config. de ajuste de activación</Title>
+      <Message>Se produjo un error al activar la configuración del panel AeroDR.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7115">
+      <Title>Actualiz. RM</Title>
+      <Message>Se ha actualizado la tabla de gestión de RM. Reinicie el dispositivo.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7116">
+      <Title>Error de licencia</Title>
+      <Message>La licencia del panel que ha intentado registrar no existe o el número de licencias es insuficiente. Obtenga una licencia o registre el panel para el número de licencias obtenidas.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7117">
+      <Title>Error</Title>
+      <Message>Ocurrió un error al transmitir la configuración del RM.
+Compruebe conexión de red y vuelva a intentar.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7118">
+      <Title>Error</Title>
+      <Message>Error de configuración en configuración de CS-7.
+Confirme la configuración y vuelva a intentar.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

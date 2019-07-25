@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35500">
+      <Title>Initialisierungsfehler</Title>
+      <Message>Initialisierung fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="35501">
+      <Title>Einstellfehler</Title>
+      <Message>Beim Lesen der Einstelldatei ist ein Fehler aufgetreten.</Message>
+    </EventString>
+    <EventString Key="35502">
+      <Title>Timeout-Fehler</Title>
+      <Message>Ein Timeout ist aufgetreten.</Message>
+    </EventString>
+    <EventString Key="35503">
+      <Title>Sockelfehler</Title>
+      <Message>Ein Sockelfehler ist aufgetreten.</Message>
+    </EventString>
+    <EventString Key="37350">
+      <Title>Interner Fehler</Title>
+      <Message>Interner Fehler bei DICOM-Kommunikation aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>Interner Fehler</Title>
+      <Message>Interner Fehler bei DICOM-Kommunikation aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>Interner Fehler</Title>
+      <Message>Abfrage der DICOM-Kommunikationseinstellung fehlgeschlagen. Prüfen Sie die Kommunikationseinstellung.</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>Kommunikationsfehler</Title>
+      <Message>Kommunikation fehlgeschlagen. Prüfen Sie, ob Kommunikationseinstellung und Server funktionieren.</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>Kommunikationsfehler</Title>
+      <Message>A-ASSOCIATE fehlgeschlagen. Prüfen Sie, ob Kommunikationseinstellung und Server funktionieren.</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>Kommunikationsfehler</Title>
+      <Message>Vom Server bei A-ASSOCIATE wegen ungültiger Einstellung abgewiesen. Prüfen Sie die Kommunikationseinstellung.</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>Kommunikationsfehler</Title>
+      <Message>Interner Fehler bei DICOM-Kommunikation aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="37357">
+      <Title>Kommunikationsfehler</Title>
+      <Message>Fehler bei Freigabe der Kommunikation aufgetreten. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>Kommunikationsfehler</Title>
+      <Message>A-ABORT empfangen. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37610">
+      <Title>Interner Fehler</Title>
+      <Message>Interner Fehler bei RIS-EIN-Kommunikation aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="37611">
+      <Title>Interner Fehler</Title>
+      <Message>Interner Fehler bei RIS-EIN-Kommunikation aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="37612">
+      <Title>Interner Fehler</Title>
+      <Message>Interner Fehler bei RIS-EIN-Kommunikation aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="37613">
+      <Title>Interner Fehler</Title>
+      <Message>Interner Fehler bei RIS-EIN-Kommunikation aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="37614">
+      <Title>Communication error</Title>
+      <Message>MWM C-FIND request aborted because it exceeded the maximum number of search responses.</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-IN communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-IN communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>Interner Fehler</Title>
+      <Message>Endbenachrichtigung empfangen.[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="27740">
+      <Title>Kommunikationsfehler</Title>
+      <Message>Kommunikationsfehler bei RIS-EIN-Kommunikation aufgetreten. Prüfen Sie das Kommunikationsziel.</Message>
+    </EventString>
+    <EventString Key="27741">
+      <Title>Kommunikationsfehler</Title>
+      <Message>Kommunikationsfehler bei RIS-EIN-Kommunikation aufgetreten. Prüfen Sie das Kommunikationsziel.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

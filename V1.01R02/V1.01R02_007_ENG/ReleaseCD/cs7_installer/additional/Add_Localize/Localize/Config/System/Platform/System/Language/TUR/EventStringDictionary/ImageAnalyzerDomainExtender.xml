@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0104">
+      <Title>Hata</Title>
+      <Message>Görüntü alma dizisi başlatılamadı.</Message>
+    </EventString>
+    <EventString Key="0112">
+      <Title>Hata</Title>
+      <Message>Elektriksel gürültü analiz edilemedi.</Message>
+    </EventString>
+    <EventString Key="0113">
+      <Title>Hata</Title>
+      <Message>Eş.it olmayan dağılım analiz edilemedi</Message>
+    </EventString>
+    <EventString Key="0114">
+      <Title>Hata</Title>
+      <Message>Temel defekt haritası güncellenemedi.</Message>
+    </EventString>
+    <EventString Key="0115">
+      <Title>Hata</Title>
+      <Message>Failed to analyze defect map.</Message>
+    </EventString>
+    <EventString Key="0116">
+      <Title>Hata</Title>
+      <Message>Görüntü alınamadı.</Message>
+    </EventString>
+    <EventString Key="0117">
+      <Title>Bilgi</Title>
+      <Message>Görüntü analizi tamamlandı.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

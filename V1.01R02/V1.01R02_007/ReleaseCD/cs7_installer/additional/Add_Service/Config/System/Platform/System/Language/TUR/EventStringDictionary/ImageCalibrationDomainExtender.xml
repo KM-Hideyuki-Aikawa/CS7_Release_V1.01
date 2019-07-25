@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title>Dikkat</Title>
+      <Message>Lütfen sayısal değer girin.</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title>Dikkat</Title>
+      <Message>Lütfen geçeril veri girin</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title>Hata</Title>
+      <Message>Kazanç kalibrasyonu başlatma hatası</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title>Hata</Title>
+      <Message>Denge kalibrasyonu başlatma hatası</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title>Onay</Title>
+      <Message>Kazanç kalibrasyon sürecini yarıda kesmek ister misiniz?</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title>Onay</Title>
+      <Message>Kazanç kalibrasyon sürecini yarıda kesmek ister misiniz?</Message>
+    </EventString>
+    <EventString Key="0107">
+      <Title>Onay</Title>
+      <Message>Kazanç kalibrasyon sürecini yarıda kesmek ister misiniz?</Message>
+    </EventString>
+    <EventString Key="0108">
+      <Title>Onay</Title>
+      <Message>Kazanç kalibrasyonu başarıyla tamamlandı</Message>
+    </EventString>
+    <EventString Key="0109">
+      <Title>Onay</Title>
+      <Message>Denge kalibrasyonu başarıyla tamamlandı</Message>
+    </EventString>
+    <EventString Key="0110">
+      <Title>Hata</Title>
+      <Message>Kazanç kalibrasyonu yapılamadı</Message>
+    </EventString>
+    <EventString Key="0111">
+      <Title>Hata</Title>
+      <Message>Denge kalibrasyonu yapılamadı</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

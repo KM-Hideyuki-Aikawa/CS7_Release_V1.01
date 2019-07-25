@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientRegistrationDomainExtender0001">
+      <Title>Virhe</Title>
+      <Message>Annettu vuosi ei kelpaa.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0002">
+      <Title>Virhe</Title>
+      <Message>Annettu kuukausi ei kelpaa.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0003">
+      <Title>Virhe</Title>
+      <Message>Annettu päivä ei kelpaa.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0004">
+      <Title>Virhe</Title>
+      <Message>Annettu arvo ei kelpaa.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0005">
+      <Title>Virhe</Title>
+      <Message>Merkkien maksimimäärää ei ole saavutettu.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0006">
+      <Title>Virhe</Title>
+      <Message>Merkkien minimimäärää ei ole saavutettu.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0007">
+      <Title>Virhe</Title>
+      <Message>Syötä numero.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0008">
+      <Title>Virhe</Title>
+      <Message>Annettu arvo ei kelpaa</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0009">
+      <Title>Virhe</Title>
+      <Message>Syötä aakkosnumeerinen merkki.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0010">
+      <Title>Virhe</Title>
+      <Message>Vain kana on sallittu.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0011">
+      <Title>Virhe</Title>
+      <Message>Virheellinen arvo. Tässä ei voi käyttää merkkiä "\".</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0012">
+      <Title>Virhe</Title>
+      <Message>Annettu vuosi ei kelpaa.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0013">
+      <Title>Virhe</Title>
+      <Message>Annettu vuosi ei kelpaa.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0014">
+      <Title>Virhe</Title>
+      <Message>Annettu vuosi ei kelpaa. Arvon täytyy olla vähintään 1800.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0015">
+      <Title>Virhe</Title>
+      <Message>Päivämääräalueen virhe. Tarkista.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0016">
+      <Title>Virhe</Title>
+      <Message>Annettu tunti ei kelpaa.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0017">
+      <Title>Virhe</Title>
+      <Message>Annetut minuutit eivät kelpaa.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0018">
+      <Title>Virhe</Title>
+      <Message>Annetut sekunnit eivät kelpaa.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0019">
+      <Title>Virhe</Title>
+      <Message>Syötä kokonaisluku.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0020">
+      <Title>Virhe</Title>
+      <Message>Tapahtui hakuvirhe</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0021">
+      <Title>Varoitus</Title>
+      <Message>Potilastietojen muuttaminen voi aiheuttaa virheitä PACS-tutkimuksen tunnistuksessa. Tarkista kaikki muuttuneet tiedot välittömästi PACS:issa.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0022">
+      <Title>Vahvistus</Title>
+      <Message>Potilastunnus on pakollinen, anna potilastunnus.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0023">
+      <Title>Vahvistus</Title>
+      <Message>Tutkimustunnus on pakollinen, anna tutkimustunnus.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0024">
+      <Title>Vahvistus</Title>
+      <Message>Potilasnimi on pakollinen, anna potilasnimi.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0025">
+      <Title>Vahvistus</Title>
+      <Message>Potilasnimi on pakollinen, anna potilasnimi.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0026">
+      <Title>Vahvistus</Title>
+      <Message>Potilasnimi on pakollinen, anna potilasnimi.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0027">
+      <Title>Vahvistus</Title>
+      <Message>Sukupuoli täytyy mainita, ilmoita sukupuoli.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0028">
+      <Title>Vahvistus</Title>
+      <Message>Syntymäaika täytyy mainita, ilmoita syntymäaika.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0029">
+      <Title>Virhe</Title>
+      <Message>Magneettikorttia ei voi lukea. Käynnistä järjestelmä uudelleen.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0030">
+      <Title>Virhe</Title>
+      <Message>Pakollista kenttää ei ole täytetty. Ei voi suorittaa.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0031">
+      <Title>Vahvistus</Title>
+      <Message>Tutkimuksessa on valotettu kuva. Haluatko muokata tutkimusta?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0032">
+      <Title>Vahvistus</Title>
+      <Message>Onko OK, että käynnissä oleva Dr.View suljetaan?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0033">
+      <Title>Vahvistus</Title>
+      <Message>Käynnistetäänkö Dr.View uudelleen? </Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0034">
+      <Title>Vahvistus</Title>
+      <Message>Tutkimus palautetaan keskeytystilaan. Onko OK?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0035">
+      <Title>Virhe</Title>
+      <Message>Ei vastaavaa tutkimusta, potilastietoja.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0036">
+      <Title>Vahvistus</Title>
+      <Message>Tutkimus on jo tietokannassa. Haluatko käyttää tätä tutkimusta?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0037">
+      <Title>Vahvistus</Title>
+      <Message>Potilastiedot ovat jo tietokannassa. Haluatko käyttää näitä potilastietoja?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0038">
+      <Title>Virhe</Title>
+      <Message>Useita potilaita ei voi valita.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0039">
+      <Title>Virhe</Title>
+      <Message>DB-virhe- Luontijärjestys epäonnistui.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0040">
+      <Title>Virhe</Title>
+      <Message>Potilaan tietokannan päivitysvirhe.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0041">
+      <Title>Virhe</Title>
+      <Message>Ei vastaavaa potilasta tietokannassa</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0042">
+      <Title>Virhe</Title>
+      <Message>Tätä merkkiä ei saa käyttää</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0046">
+      <Title>Virhe</Title>
+      <Message>Tuleva vuosi ei mahdollinen.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0047">
+      <Title>Virhe</Title>
+      <Message>Tuleva kuukausi ei mahdollinen.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0048">
+      <Title>Virhe</Title>
+      <Message>Tuleva päivämäärä ei mahdollinen.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0049">
+      <Title>Virhe</Title>
+      <Message>Syötetty vuosi ei ole karkausvuosi. Tarkista päivämäärä.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0052">
+      <Title>Vahvistus</Title>
+      <Message>Tilaus on rekisteröity. Haluatko korvata?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0053">
+      <Title>Vahvistus</Title>
+      <Message>Sama potilastunnus: {0}, potilaan nimi: {1}, sukupuoli: {2}, syntymäaika:{3} saatavilla tietokannassa, korvataanko?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0054">
+      <Title>Virhe</Title>
+      <Message>Virheellinen arvo. Tässä ei voi käyttää merkkejä "\", "^" tai "=".</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0055">
+      <Title>Virhe</Title>
+      <Message>Virheellinen arvo. Tässä ei voi käyttää merkkejä "\" tai "=".</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0056">
+      <Title>Virhe</Title>
+      <Message>Toiminta ei mahdollista</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0057">
+      <Title>Vahvistus</Title>
+      <Message>Haluatko tyhjentää kaikki?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0058">
+      <Title>Virhe</Title>
+      <Message>Syötä pakolliset kentät</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0059">
+      <Title>Vahvistus</Title>
+      <Message>Haluatko rekisteröidä tutkimuksen?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0060">
+      <Title>Virhe</Title>
+      <Message>Rekisteröinti epäonnistui</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0061">
+      <Title>Vahvistus</Title>
+      <Message>Haluatko korvata tiedot?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0062">
+      <Title>Virhe</Title>
+      <Message>Ei vastaavaa tutkimusta, potilasta.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0063">
+      <Title>Virhe</Title>
+      <Message>Syöt haun sisältö.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0064">
+      <Title>Virhe</Title>
+      <Message>Syötä arvo kenttiin Sisällön päivämäärä ja Sisällön kellonaika</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

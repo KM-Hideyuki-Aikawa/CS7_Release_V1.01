@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0401">
+      <Title>Gönderme hatası</Title>
+      <Message>Röntgen iletişim sürecinde dahili hata oluştu.</Message>
+    </EventString>
+    <EventString Key="0402">
+      <Title>İç hata</Title>
+      <Message>Röntgen iletişim sürecinde dahili hata oluştu.</Message>
+    </EventString>
+    <EventString Key="0403">
+      <Title>Gönderme hatası</Title>
+      <Message>Röntgen sistemi için çekim koşulları komut gönderme çalışmadı.Röntgen cihazını yeniden başlatın.</Message>
+    </EventString>
+    <EventString Key="0404">
+      <Title>ayar hatası</Title>
+      <Message>Röntgen sistemi hatasına parametre ayarı.</Message>
+    </EventString>
+    <EventString Key="0405">
+      <Title>Cihaz hatası</Title>
+      <Message>Röntgen sistemi hatası saptandı.</Message>
+    </EventString>
+    <EventString Key="0406">
+      <Title>Gönderme hatası</Title>
+      <Message>Röntgen sistemi bağlantı hatası.Ağı kontrol edin.</Message>
+    </EventString>
+    <EventString Key="0301">
+      <Title />
+      <Message />
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

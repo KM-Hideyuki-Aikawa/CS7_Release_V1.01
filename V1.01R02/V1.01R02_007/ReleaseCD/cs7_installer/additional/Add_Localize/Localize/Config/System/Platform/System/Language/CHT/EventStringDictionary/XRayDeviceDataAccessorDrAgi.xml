@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1000">
+      <Title>AeroDR XG BOX 連接錯誤</Title>
+      <Message>請確認網路裝置和電纜線連接。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1001">
+      <Title>AeroDR - AeroDR XG BOX 連接錯誤</Title>
+      <Message>請確認網路裝置和電纜線連接。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1002">
+      <Title>曝光區域同步錯誤</Title>
+      <Message>曝光區域設定錯誤。
+檢查網路連接並點擊該曝光條件。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1003">
+      <Title>曝光錯誤</Title>
+      <Message>曝光通訊錯誤，請檢查網路連接並點擊該曝光條件。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1004">
+      <Title>版本升級錯誤</Title>
+      <Message>版本升級失敗。
+檢查連接並重新啟動 AeroDR 生成程式介面單元和 CS-7。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1005">
+      <Title>設定值錯誤</Title>
+      <Message>無法設定設定資料。 
+請檢查網路連接並重試。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1006">
+      <Title>設定值錯誤</Title>
+      <Message>無法取得設定資料。 
+請檢查網路連接並重試。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1007">
+      <Title>曝光同步設定錯誤</Title>
+      <Message>曝光同步設定錯誤， 請檢查網路連接並點擊該曝光條件。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2000">
+      <Title>[AeroDR XG]啟動錯誤</Title>
+      <Message>啟動錯誤。
+鬆開曝光開關。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2001">
+      <Title>[AeroDR XG]啟動錯誤</Title>
+      <Message>啟動錯誤。
+鬆開曝光開關。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2002">
+      <Title>[AeroDR XG]啟動錯誤</Title>
+      <Message>啟動錯誤。
+請聯繫服務代表。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2003">
+      <Title>[AeroDR XG]啟動錯誤</Title>
+      <Message>啟動錯誤。
+鬆開曝光開關。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2004">
+      <Title>[AeroDR XG]啟動錯誤</Title>
+      <Message>啟動錯誤。
+鬆開曝光開關。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2005">
+      <Title>[AeroDR XG]啟動錯誤</Title>
+      <Message>啟動錯誤。
+請聯繫服務代表。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2006">
+      <Title>[AeroDR XG]啟動錯誤</Title>
+      <Message>啟動錯誤。
+鬆開曝光開關。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2007">
+      <Title>[AeroDR XG]啟動錯誤</Title>
+      <Message>啟動錯誤。鬆開曝光開關。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2008">
+      <Title>[AeroDR XG]啟動錯誤</Title>
+      <Message>啟動錯誤。
+請聯繫服務代表。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2200">
+      <Title>[AeroDR XG]曝光錯誤</Title>
+      <Message>X 光機的曝光連結錯誤，請重新啟動 X 光機和 AeroDR 介面元件。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2201">
+      <Title>[AeroDR XG]曝光錯誤</Title>
+      <Message>X 光機的曝光連結錯誤，請聯繫服務代表。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2500">
+      <Title>[AeroDR XG]曝光錯誤</Title>
+      <Message>內部裝置錯誤。
+請重新啟動 AeroDR 介面單元。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2300">
+      <Title>[AeroDR XG]曝光錯誤</Title>
+      <Message>內部裝置錯誤或通訊錯誤，請重新啟動 AeroDR 探測儀、AeroDR 介面元件和 CS-7。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2301">
+      <Title>[AeroDR XG]曝光錯誤</Title>
+      <Message>內部裝置錯誤或通訊錯誤， 請重新啟動 AeroDR、AeroDR 介面單元和 CS-7。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2302">
+      <Title>[AeroDR XG]曝光錯誤</Title>
+      <Message>內部裝置錯誤或通訊錯誤，請重新啟動 AeroDR 探測儀、AeroDR 介面元件和 CS-7。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2400">
+      <Title>AeroDR XG BOX 網路錯誤</Title>
+      <Message>請重設 AeroDR XG BOX。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2401">
+      <Title>AeroDR XG BOX 網路錯誤</Title>
+      <Message>請重設 AeroDR XG BOX。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2402">
+      <Title>AeroDR XG BOX 網路錯誤</Title>
+      <Message>請重設 AeroDR XG BOX。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2403">
+      <Title>AeroDR XG BOX 網路錯誤</Title>
+      <Message>請重設 AeroDR XG BOX。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2501">
+      <Title>[AeroDR XG]曝光錯誤</Title>
+      <Message>內部裝置錯誤或通訊錯誤，請聯繫服務代表。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4100">
+      <Title>[AeroDR XG]曝光錯誤</Title>
+      <Message>曝光開關未鬆開，請鬆開曝光開關。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4101">
+      <Title>[AeroDR XG]曝光錯誤</Title>
+      <Message>曝光開關未鬆開，
+鬆開曝光開關。</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4102">
+      <Title>[AeroDR XG]曝光錯誤</Title>
+      <Message>曝光開關未鬆開，
+鬆開曝光開關。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientListDomainExtender0000">
+      <Title />
+      <Message>Girilen yıl geçersiz</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0001">
+      <Title />
+      <Message>Girilen ay geçersiz</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0002">
+      <Title />
+      <Message>Girilen gün geçersiz</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0003">
+      <Title />
+      <Message>Değer aralık dışında</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0004">
+      <Title />
+      <Message>Uzunluk MaksUzunluk'tan büyük</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0005">
+      <Title />
+      <Message>Uzunluk MinUzunluk'tan düşük</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0006">
+      <Title />
+      <Message>Girilen değer sayısal değil</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0007">
+      <Title />
+      <Message>Girilen değer geçersiz</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0008">
+      <Title />
+      <Message>Yalnızca alfabe kullanılabilir</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0009">
+      <Title />
+      <Message>Yalnızca kana kullanılabilir</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0010">
+      <Title />
+      <Message>Geçersiz değer. Burada "\" kullanılamaz.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0011">
+      <Title />
+      <Message>Bu karakter kullanılamaz</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0012">
+      <Title>Onay</Title>
+      <Message>Seçilen kaydı silmek ister misiniz?</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0013">
+      <Title />
+      <Message>Geçersiz değer. Burada "\", "^" veya "=" kullanılamaz.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0014">
+      <Title />
+      <Message>Geçersiz değer. Burada "\" veya "=" kullanılamaz.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0015">
+      <Title />
+      <Message>Çalışmayı Askıya Almak İster misiniz?</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0016">
+      <Title>Bar Kod Araması</Title>
+      <Message>Verilen Bilgiler Sahip Birden Çok {0} Çalışma Var.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

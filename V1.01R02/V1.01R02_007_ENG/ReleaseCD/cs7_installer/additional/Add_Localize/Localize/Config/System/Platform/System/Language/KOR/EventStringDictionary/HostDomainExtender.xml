@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="HostDomainExtender0001">
+      <Title>핑 상태</Title>
+      <Message>성공적으로 연결되었습니다.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0002">
+      <Title>핑 상태</Title>
+      <Message>연결하지 못했습니다.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0003">
+      <Title>확인</Title>
+      <Message>핑(C-ECHO)을 실행해야 하는 서비스는 어느 것입니까?</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0004">
+      <Title>확인</Title>
+      <Message>선택된 대기열을 삭제하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0005">
+      <Title>주의</Title>
+      <Message>삭제될 대기열을 선택하십시오.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0006">
+      <Title>정보</Title>
+      <Message>선택된 대기열이 성공적으로 삭제되었습니다.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0007">
+      <Title>오류</Title>
+      <Message>대기열 삭제 중 오류가 발생했습니다.</Message>
+    </EventString>
+    <EventString Key="HostDomainExtender0008">
+      <Title>주의</Title>
+      <Message>지정한 호스트는 다른 CH와 중복됩니다. 이미지가 중복되어 출력될 수 있습니다.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

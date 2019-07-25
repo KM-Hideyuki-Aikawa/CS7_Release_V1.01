@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title>エラー</Title>
+      <Message>不正な入力です。この文字は入力できません。</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title>エラー</Title>
+      <Message>管電圧には、1～999の値を指定してください。</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title>確認</Title>
+      <Message>変更を保存しますか？</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

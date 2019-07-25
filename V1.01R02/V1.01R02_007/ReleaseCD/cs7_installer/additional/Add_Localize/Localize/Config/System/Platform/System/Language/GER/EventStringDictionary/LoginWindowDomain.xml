@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="LoginWindowDomain0000">
+      <Title />
+      <Message>Benutzer "{USERNAME}" ist angemeldet. Benutzer "{USERNAME}" muss sich abmelden, bevor Sie sich anmelden können. Benutzer "{USERNAME}" abmelden?</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0001">
+      <Title />
+      <Message>Falscher Benutzername oder Passwort</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0002">
+      <Title>Fehler</Title>
+      <Message>Anmeldung annulliert</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0003">
+      <Title>Fehler</Title>
+      <Message>Umschalten des Systems vom aktuellen Benutzer nicht möglich. {ERRORS}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

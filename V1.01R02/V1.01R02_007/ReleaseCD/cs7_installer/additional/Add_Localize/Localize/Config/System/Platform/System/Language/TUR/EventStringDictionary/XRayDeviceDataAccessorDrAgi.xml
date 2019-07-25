@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1000">
+      <Title>AeroDR XG BOX bağlantı hatası</Title>
+      <Message>Lütfen ağ ekipmanını ve kablo bağlantısını doğrulayın.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1001">
+      <Title>AeroDR - AeroDR XG BOX bağlantı hatası</Title>
+      <Message>Lütfen ağ ekipmanını ve kablo bağlantısını doğrulayın.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1002">
+      <Title>Çekim alanı senkronizasyon hatası</Title>
+      <Message>Çekim alanı ayar hatası.
+Ağ bağlantısını kontrol edin ve bu çekim koşuluna dokunun.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1003">
+      <Title>Çekim hatası</Title>
+      <Message>Çekimde iletişim hatası.Ağ bağlantısını kontrol edin ve bu çekim koşuluna dokunun.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1004">
+      <Title>Sürüm yükseltme hatası</Title>
+      <Message>Sürüm yükseltilemedi.
+Bağlantıyı kontrol edin ve AeroDR Jeneratör Arayüz Ünitesini ve CS-7'yi yeniden başlatın.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1005">
+      <Title>Ayar değeri hatası</Title>
+      <Message>Ayar verileri belirlenemedi. 
+Lütfen ağ bağlantısını kontrol edin ve yeniden deneyin.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1006">
+      <Title>Ayar değeri hatası</Title>
+      <Message>Ayar verileri belirlenemedi. 
+Lütfen ağ bağlantısını kontrol edin ve yeniden deneyin.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1007">
+      <Title>Çekim senkronizasyon ayarı hatası</Title>
+      <Message>Çekim senkronizasyon ayarı hatası. Ağ bağlantısını kontrol edibn ve bu çekim koşuluna dokunun.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2000">
+      <Title>[AeroDR XG]başlatma hatası</Title>
+      <Message>başlatma hatası
+Çekim düğmesini bırakın.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2001">
+      <Title>[AeroDR XG]başlatma hatası</Title>
+      <Message>Bir başlatma hatası var.
+Çekim düğmesini bırakın.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2002">
+      <Title>[AeroDR XG]başlatma hatası</Title>
+      <Message>Bir başlatma hatası var.
+Servis temsilcisiyle iletişim kurun.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2003">
+      <Title>[AeroDR XG]başlatma hatası</Title>
+      <Message>Bir başlatma hatası var.
+Çekim düğmesini bırakın.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2004">
+      <Title>[AeroDR XG]başlatma hatası</Title>
+      <Message>Bir başlatma hatası var.
+Çekim düğmesini bırakın.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2005">
+      <Title>[AeroDR XG]başlatma hatası</Title>
+      <Message>Bir başlatma hatası var.
+Servis temsilcisiyle iletişim kurun.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2006">
+      <Title>[AeroDR XG]başlatma hatası</Title>
+      <Message>Bir başlatma hatası var.
+Çekim düğmesini bırakın.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2007">
+      <Title>[AeroDR XG]başlatma hatası</Title>
+      <Message>Bir başlatma hatası var.Çekim düğmesini bırakın.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2008">
+      <Title>[AeroDR XG]başlatma hatası</Title>
+      <Message>Bir başlatma hatası var.
+Servis temsilcisiyle iletişim kurun.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2200">
+      <Title>[AeroDR XG]çekim hatası</Title>
+      <Message>Röntgen cihazı çekim bağlantı hatası var. Röntgen cihazını ve AeroDR Arayüz Ünitesini yeniden başlatın.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2201">
+      <Title>[AeroDR XG]çekim hatası</Title>
+      <Message>Röntgen cihazı çekim bağlantı hatası var.Bir servis temsilcisiyle iletişim kurun.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2500">
+      <Title>[AeroDR XG]çekim hatası</Title>
+      <Message>Dahili bir cihaz hatası var.
+AeroDR Arayüz Ünitesini yeniden başlatın.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2300">
+      <Title>[AeroDR XG]çekim hatası</Title>
+      <Message>Bir dahili cihaz hatası veya iletişim hatası var. AeroDR Detektörü, AeroDR Arayüz Ünitesini ve CS-7'i yeniden başlatın.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2301">
+      <Title>[AeroDR XG]çekim hatası</Title>
+      <Message>Bir dahili cihaz hatası veya iletişim hatası var. AeroDR Detektörü, AeroDR Arayüz Ünitesini ve CS-7'i yeniden başlatın.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2302">
+      <Title>[AeroDR XG]çekim hatası</Title>
+      <Message>Bir dahili cihaz hatası veya iletişim hatası var. AeroDR Detektörü, AeroDR Arayüz Ünitesini ve CS-7'i yeniden başlatın.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2400">
+      <Title>AeroDR XG BOX Ağ Hatası</Title>
+      <Message>Lütfen AeroDR XG BOX'u sıfırlayın.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2401">
+      <Title>AeroDR XG BOX Ağ Hatası</Title>
+      <Message>Lütfen AeroDR XG BOX'u sıfırlayın.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2402">
+      <Title>AeroDR XG BOX Ağ Hatası</Title>
+      <Message>Lütfen AeroDR XG BOX'u sıfırlayın.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2403">
+      <Title>AeroDR XG BOX Ağ Hatası</Title>
+      <Message>Lütfen AeroDR XG BOX'u sıfırlayın.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2501">
+      <Title>[AeroDR XG]çekim hatası</Title>
+      <Message>Bir dahili cihaz hatası veya iletişim hatası var. Bir servis temsilcisiyle iletişim kurun.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4100">
+      <Title>[AeroDR XG]çekim hatası</Title>
+      <Message>Çekim düğmesi bırakılmadı. Çekim düğmesini bırakın.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4101">
+      <Title>[AeroDR XG]çekim hatası</Title>
+      <Message>Çekim düğmesi bırakılmadı.
+Çekim düğmesini bırakın.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4102">
+      <Title>[AeroDR XG]çekim hatası</Title>
+      <Message>Çekim düğmesi bırakılmadı.
+Çekim düğmesini bırakın.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

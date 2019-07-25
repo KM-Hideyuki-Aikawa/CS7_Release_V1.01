@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35500">
+      <Title>初始化錯誤</Title>
+      <Message>初始化失敗。</Message>
+    </EventString>
+    <EventString Key="35501">
+      <Title>設定錯誤</Title>
+      <Message>讀取設定檔時出現錯誤。</Message>
+    </EventString>
+    <EventString Key="35502">
+      <Title>逾時錯誤</Title>
+      <Message>出現逾時。</Message>
+    </EventString>
+    <EventString Key="35503">
+      <Title>套接字錯誤</Title>
+      <Message>出現套接字錯誤。</Message>
+    </EventString>
+    <EventString Key="37350">
+      <Title>內部錯誤</Title>
+      <Message>DICOM 通訊出現內部錯誤，請聯繫服務代表。</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>內部錯誤</Title>
+      <Message>DICOM 通訊出現內部錯誤，請聯繫服務代表。</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>內部錯誤</Title>
+      <Message>取得 DICOM 通訊設定失敗，請確認通訊設定。</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>通訊錯誤</Title>
+      <Message>通訊失敗，請確認通訊設定和伺服器可以運作。</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>通訊錯誤</Title>
+      <Message>A-ASSOCIATE 失敗，請確認通訊設定和伺服器可以運作。</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>通訊錯誤</Title>
+      <Message>由於無效設定，A-ASSOCIATE 被伺服器拒絕，請確認通訊設定。</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>通訊錯誤</Title>
+      <Message>DICOM 通訊出現內部錯誤，請聯繫服務代表。</Message>
+    </EventString>
+    <EventString Key="37357">
+      <Title>通訊錯誤</Title>
+      <Message>進行通訊失敗。[{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>通訊錯誤</Title>
+      <Message>收到 A-ABORT。[{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37610">
+      <Title>內部錯誤</Title>
+      <Message>RIS-IN 通訊出現內部錯誤，請聯繫服務代表。</Message>
+    </EventString>
+    <EventString Key="37611">
+      <Title>內部錯誤</Title>
+      <Message>RIS-IN 通訊出現內部錯誤，請聯繫服務代表。</Message>
+    </EventString>
+    <EventString Key="37612">
+      <Title>內部錯誤</Title>
+      <Message>RIS-IN 通訊出現內部錯誤，請聯繫服務代表。</Message>
+    </EventString>
+    <EventString Key="37613">
+      <Title>內部錯誤</Title>
+      <Message>RIS-IN 通訊出現內部錯誤，請聯繫服務代表。</Message>
+    </EventString>
+    <EventString Key="37614">
+      <Title>Communication error</Title>
+      <Message>MWM C-FIND request aborted because it exceeded the maximum number of search responses.</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-IN communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-IN communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>內部錯誤</Title>
+      <Message>收到結束通知。[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="27740">
+      <Title>通訊錯誤</Title>
+      <Message>RIS-IN 通訊出現通訊錯誤， 請檢查通訊目的地。</Message>
+    </EventString>
+    <EventString Key="27741">
+      <Title>通訊錯誤</Title>
+      <Message>RIS-IN 通訊出現通訊錯誤， 請檢查通訊目的地。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

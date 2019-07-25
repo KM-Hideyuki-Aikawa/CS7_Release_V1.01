@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ExposureRoomDomainExtender0001">
+      <Title>การยืนยัน</Title>
+      <Message>ห้องฉายแสงจะเปลี่ยนเป็น [ห้องฉายแสง 2] ได้หรือไม่ เมื่อมีคอนโซลเชื่อมต่อกับ [ห้องฉายแสง 2] คอนโซลนั้นจะถูกตัดออก โปรดยืนยันว่าไม่มีการฉายแสงใน [ห้องฉายแสง 2] ต้องรีสตาร์ทระบบหลังการเปลี่ยนแปลง </Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0002">
+      <Title>เปลี่ยนห้องที่ใช้งานสำเร็จ</Title>
+      <Message>ห้องที่ใช้งานถูกเปลี่ยน ซึ่งต้องรีสตาร์ทแอ็พพลิเคชัน</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0003">
+      <Title>ข้อผิดพลาดในการเปลี่ยนห้อง</Title>
+      <Message>ไม่สามารถเปลี่ยนห้องฉายแสงได้เนื่องจาก [XXX]</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0004">
+      <Title>การยืนยัน</Title>
+      <Message>แบบไร้สายจะตั้งค่าเป็น เปิดใช้งาน / ปิดใช้งาน ทำได้หรือไม่</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0005">
+      <Title>Confirmation</Title>
+      <Message>Please wait till wireless switching happens.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

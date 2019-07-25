@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ImageAcquisitionDomainExtender0000">
+      <Title>Potwierdzenie</Title>
+      <Message>Czy na pewno chcesz odrzucić obraz?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0001">
+      <Title>Potwierdzenie</Title>
+      <Message>Naświetlić ponownie?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender1001">
+      <Title>Uwaga</Title>
+      <Message>Nie można dodać naświetleń większych niż {MaxSize} .</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0002">
+      <Title>Potwierdzenie</Title>
+      <Message>Czy na pewno chcesz anulować odrzucenie?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0003">
+      <Title>Potwierdzenie</Title>
+      <Message>Nie zarejestrowano żadnych obrazów.
+Czy na pewno chcesz zakończyć badanie?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0004">
+      <Title>Potwierdzenie</Title>
+      <Message>Czy chcesz kontynuować badanie w innym pomieszczeniu badań?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0005">
+      <Title>Potwierdzenie</Title>
+      <Message>Dla tego znacznika badania jest zarejestrowany kod kreskowy kasety. 
+Czy na pewno chcesz usunąć rejestrację kodu kreskowego?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0006">
+      <Title>Błąd</Title>
+      <Message>Wystąpił błąd podczas odczytywania obrazu.
+Sprawdź sieć.
+Uruchom ponownie czytnik.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0007">
+      <Title>błąd</Title>
+      <Message>ID pacjenta: {PATIENTID}
+Nazwisko pacjenta: {PATIENTNAME}
+Nazwa czytnika: {READERNAME}
+Nie można ukończyć odbierania obrazu.
+Sprawdź sieć.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0008">
+      <Title>Ostrzeżenie</Title>
+      <Message>Nazwa czytnika: {READERNAME}
+Czy na pewno chcesz anulować odbiór obrazu?
+ W przypadku anulowania odbioru uruchom ponownie czytnik.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0009">
+      <Title>Błąd</Title>
+      <Message>Odczytywanie obrazu w toku. Zaloguj się za chwilę.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0010">
+      <Title>Błąd</Title>
+      <Message>Nie można ukończyć badania.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0011">
+      <Title>Błąd</Title>
+      <Message>Nie można zawiesić badania.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0012">
+      <Title>Błąd</Title>
+      <Message>Ta kaseta służy do ogólnego naświetlania.
+Sprawdź znacznik badania.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0013">
+      <Title>Błąd</Title>
+      <Message>Ta kaseta służy do mammografii kontaktowej.
+Sprawdź znacznik badania.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0014">
+      <Title>Błąd</Title>
+      <Message>Ta kaseta służy do PCM.
+Sprawdź znacznik badania.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0015">
+      <Title>Błąd</Title>
+      <Message>Ta kaseta jest już zarejestrowana.
+Zarejestruj inną kasetę.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0016">
+      <Title>Uwaga</Title>
+      <Message>Ta kaseta rozpoczęła już odczyt.
+Nie można usunąć rejestracji kodu kreskowego.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0017">
+      <Title>Uwaga</Title>
+      <Message>Ta kaseta rozpoczęła już odczyt.
+Nie można usunąć zadań zarejestrowanych w trybie rejestracji ręcznej.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0018">
+      <Title>Uwaga</Title>
+      <Message>Ta kaseta rozpoczęła już odczyt.
+Nie można usunąć zadań zarejestrowanych w trybie rejestracji automatycznej.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0019">
+      <Title>Potwierdzenie</Title>
+      <Message>Czy na pewno chcesz zawiesić to badanie?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0020">
+      <Title>Potwierdzenie</Title>
+      <Message>Brak zarejestrowanych obrazów. Czy na pewno chcesz zmienić stan na nierozpoczęty?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0021">
+      <Title>Potwierdzenie</Title>
+      <Message>Czy na pewno chcesz usunąć rejestrację kodu kreskowego?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0022">
+      <Title>Ponowne przesyłanie obrazów</Title>
+      <Message>Czy chcesz usunąć nieprzesłane obrazy z konsoli? [OK]: Usuń [Anuluj]: Powróć bez usuwania</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0023">
+      <Title>Ponowne przesyłanie obrazów</Title>
+      <Message>{READERNAME}: Niektóre obrazy nie zostały jeszcze przesłane. Czy chcesz je usunąć?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0024">
+      <Title>Błąd przesyłania obrazu</Title>
+      <Message>{READERNAME}: Wystąpił błąd komunikacji podczas przesyłania obrazu. Sprawdź stan połączenia kabla.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0025">
+      <Title>Ponowne przesyłanie obrazów</Title>
+      <Message>{READERNAME}: Nie przesłano jeszcze "{ImageAcquisitionConditionName}". Czy chcesz pobrać obraz?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0026">
+      <Title>Potwierdzenie</Title>
+      <Message>Czy na pewno chcesz usunąć wybrany znacznik badania?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0027">
+      <Title>Potwierdzenie</Title>
+      <Message>Czy na pewno chcesz usunąć to badanie?</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0028">
+      <Title>Błąd</Title>
+      <Message>Przekroczenie limitu czasu podczas przesyłania obrazu.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0029">
+      <Title />
+      <Message>Istnieje nieprzesłany obraz "{ImageAcquisitionConditionName}".
+Nie można ponownie pobrać obrazu ze względu na różnicę modalności znacznika badania i obrazu.
+ W przypadku ponownego pobierania zmień stan panelu odpowiadający znacznikowibadania.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0030">
+      <Title />
+      <Message>Nie można pobrać nieprzesłanego obrazu.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0031">
+      <Title />
+      <Message>Nie można usunąć nieprzesłanego obrazu.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0032">
+      <Title>Potwierdzenie</Title>
+      <Message>Czy na pewno chcesz zawiesić to badanie?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

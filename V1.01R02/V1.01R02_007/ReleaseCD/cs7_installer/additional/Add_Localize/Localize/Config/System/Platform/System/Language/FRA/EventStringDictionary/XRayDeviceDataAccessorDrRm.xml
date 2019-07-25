@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="XRayDeviceDataAccessorDrRm7102">
+      <Title>Erreur du nombre de régulation d'enregistrement</Title>
+      <Message>Quatre sont enregistrées.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7103">
+      <Title>Détecteur AeroDR inconnu</Title>
+      <Message>Détecteur AeroDR inconnu.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7104">
+      <Title>Appareil d'exposition inconnu</Title>
+      <Message>Appareil d'exposition inconnu.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7105">
+      <Title>Erreur RM</Title>
+      <Message>Erreur de table de gestion RM. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7106">
+      <Title>Erreur de maj de version</Title>
+      <Message>Maj de version ne correspond pas. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7107">
+      <Title>Erreur RM</Title>
+      <Message>Erreur de table de gestion RM. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7108">
+      <Title>Erreur RM</Title>
+      <Message>Erreur de table de gestion RM. Contactez un responsable maintenance.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7109">
+      <Title>Erreur RM</Title>
+      <Message>Erreur de table de gestion RM.Vérifiez la connexion réseau.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7110">
+      <Title>Erreur RM</Title>
+      <Message>Erreur de table de gestion RM.Vérifiez la connexion réseau.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7111">
+      <Title>Erreur d'annulation d'enregistrement</Title>
+      <Message>Une erreur est survenue lors de l'annulation de l'enregistrement de l'écran AeroDR.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7112">
+      <Title>Erreur de commutation de la salle radiologie.</Title>
+      <Message>Une erreur est survenue pendant la commutation de la salle radiologie.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7113">
+      <Title>Erreur de communication du processus de fond</Title>
+      <Message>Impossible de communiquer.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7114">
+      <Title>Erreur de paramétrage de l'activation de config</Title>
+      <Message>Une erreur s'est produite avec l'activation de config de l'écran AeroDR.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7115">
+      <Title>Maj RM</Title>
+      <Message>La table de gestion RM a été mise à jour. Redémarrez l'appareil.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7116">
+      <Title>Erreur de licence</Title>
+      <Message>La licence de l'écran que vous avez essayé d'enregistrer n'existe pas ou le nombre de licences est insuffisant. Obtenez une licence ou enregistrez l'écran pour le nombre de licences obtenues.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7117">
+      <Title>Erreur</Title>
+      <Message>Erreur lors du transfert du paramétrage RM.
+Veuillez vérifier la connexion réseau et réessayer.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrRm7118">
+      <Title>Erreur</Title>
+      <Message>Erreur de configuration dans le paramétrage CS-7.
+Veuillez vérifier le paramétrage et réessayer.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

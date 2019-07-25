@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ApolloDomainExtender0001">
+      <Title>Ping Durumu</Title>
+      <Message>Başarıyla bağlandı.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0002">
+      <Title>Ping Durumu</Title>
+      <Message>Bağlanamadı.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0003">
+      <Title>Onay</Title>
+      <Message>Kayıt iptal iptal edilsin mi?</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0004">
+      <Title>Hata</Title>
+      <Message>Cihaz iptali yapılamadı.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0005">
+      <Title>Hata</Title>
+      <Message>Cihaz seçilmediğinden istek işlenemez</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0006">
+      <Title>Bilgi</Title>
+      <Message>KABLOSUZ</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0007">
+      <Title>Bilgi</Title>
+      <Message>Kablolu</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

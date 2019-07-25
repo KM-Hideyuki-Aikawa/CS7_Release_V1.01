@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="JMDomainExtender0001">
+      <Title>Κατάσταση ping</Title>
+      <Message>Η σύνδεση πραγματοποιήθηκε επιτυχώς.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0002">
+      <Title>Κατάσταση ping</Title>
+      <Message>Η σύνδεση απέτυχε.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0003">
+      <Title />
+      <Message>Εάν η ανάγνωση τεθεί σε παύση απροσδόκητα σε περίπτωση προβλήματος, αυτό μπορεί να οδηγήσει σε άλλα προβλήματα όπως εξαφάνιση της εικόνας κ.λπ. Εάν η ανάγνωση τεθεί σε παύση, διατηρήστε τη σάρωση και επανεκκινήστε το CS.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0004">
+      <Title />
+      <Message>Η διαγραφή της εργασίας απέτυχε.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0005">
+      <Title />
+      <Message>Η διαγραφή της εργασίας ολοκληρώθηκε επιτυχώς.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0006">
+      <Title />
+      <Message>Αλλαγή του JM. Η καταχώριση κασέτας θα απενεργοποιηθεί πλήρως. Συμφωνείτε;</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

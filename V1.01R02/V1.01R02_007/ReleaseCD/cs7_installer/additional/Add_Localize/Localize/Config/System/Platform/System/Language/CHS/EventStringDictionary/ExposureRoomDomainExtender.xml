@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ExposureRoomDomainExtender0001">
+      <Title>确认</Title>
+      <Message>曝光室将更改为 [曝光室 2]，可以吗？如果控制台连接 [曝光室 2]，将切断控制台连接。请确认 [exposure room 2] 没有曝光。它要求更改后重新启动系统。 </Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0002">
+      <Title>激活室更改成功。</Title>
+      <Message>激活室更改了，这需要重新启动应用程序</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0003">
+      <Title>室更改错误。</Title>
+      <Message>由于 [XXX] 无法更改曝光室。</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0004">
+      <Title>确认</Title>
+      <Message>无线使用将设置为启用/禁用，可以吗？</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0005">
+      <Title>Confirmation</Title>
+      <Message>Please wait till wireless switching happens.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

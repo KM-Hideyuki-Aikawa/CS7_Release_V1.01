@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35500">
+      <Title>初始化错误</Title>
+      <Message>初始化失败。</Message>
+    </EventString>
+    <EventString Key="35501">
+      <Title>设置错误</Title>
+      <Message>读取设置文件出错。</Message>
+    </EventString>
+    <EventString Key="35502">
+      <Title>超时错误</Title>
+      <Message>出现超时。</Message>
+    </EventString>
+    <EventString Key="35503">
+      <Title>套接字错误</Title>
+      <Message>出现套接字错误。</Message>
+    </EventString>
+    <EventString Key="37350">
+      <Title>内部错误</Title>
+      <Message>DICOM 通信出现内部错误，请联系维修代表。</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>内部错误</Title>
+      <Message>DICOM 通信出现内部错误，请联系维修代表。</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>内部错误</Title>
+      <Message>获取 DICOM 通信设置失败，请确认通信设置。</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>通信错误</Title>
+      <Message>通信失败，请确认通信设置和服务器正在工作。</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>通信错误</Title>
+      <Message>A-ASSOCIATE 失败，请确认通信设置和服务器正在工作。</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>通信错误</Title>
+      <Message>由于无效设置，A-ASSOCIATE 被服务器拒绝，请确认通信设置。</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>通信错误</Title>
+      <Message>DICOM 通信出现内部错误，请联系维修代表。</Message>
+    </EventString>
+    <EventString Key="37357">
+      <Title>通信错误</Title>
+      <Message>进行通信失败。[{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>通信错误</Title>
+      <Message>收到 A-ABORT。[{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37610">
+      <Title>内部错误</Title>
+      <Message>RIS-IN 通信出现内部错误，请联系维修代表。</Message>
+    </EventString>
+    <EventString Key="37611">
+      <Title>内部错误</Title>
+      <Message>RIS-IN 通信出现内部错误，请联系维修代表。</Message>
+    </EventString>
+    <EventString Key="37612">
+      <Title>内部错误</Title>
+      <Message>RIS-IN 通信出现内部错误，请联系维修代表。</Message>
+    </EventString>
+    <EventString Key="37613">
+      <Title>内部错误</Title>
+      <Message>RIS-IN 通信出现内部错误，请联系维修代表。</Message>
+    </EventString>
+    <EventString Key="37614">
+      <Title>Communication error</Title>
+      <Message>MWM C-FIND request aborted because it exceeded the maximum number of search responses.</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-IN communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-IN communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>内部错误</Title>
+      <Message>收到结束通知。[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="27740">
+      <Title>通信错误</Title>
+      <Message>RIS-IN 通信出现通信错误， 检查通信目的地。</Message>
+    </EventString>
+    <EventString Key="27741">
+      <Title>通信错误</Title>
+      <Message>RIS-IN 通信出现通信错误， 检查通信目的地。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

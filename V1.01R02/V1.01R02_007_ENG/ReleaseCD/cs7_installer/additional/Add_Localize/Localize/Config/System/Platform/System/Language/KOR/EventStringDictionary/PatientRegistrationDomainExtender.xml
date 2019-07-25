@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientRegistrationDomainExtender0001">
+      <Title>오류</Title>
+      <Message>입력한 연도가 유효하지 않습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0002">
+      <Title>오류</Title>
+      <Message>입력한 월이 유효하지 않습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0003">
+      <Title>오류</Title>
+      <Message>입력한 일자가 유효하지 않습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0004">
+      <Title>오류</Title>
+      <Message>입력한 값이 유효하지 않습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0005">
+      <Title>오류</Title>
+      <Message>최대 문자 수에 도달하지 않았습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0006">
+      <Title>오류</Title>
+      <Message>최소 문자 수에 도달하지 않았습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0007">
+      <Title>오류</Title>
+      <Message>숫자를 입력합니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0008">
+      <Title>오류</Title>
+      <Message>입력된 값이 유효하지 않습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0009">
+      <Title>오류</Title>
+      <Message>문자 및 숫자를 입력해 주십시오.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0010">
+      <Title>오류</Title>
+      <Message>오직 카나만 허용됩니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0011">
+      <Title>오류</Title>
+      <Message>유효하지 않은 값입니다. 여기에 "\"를 사용할 수 없습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0012">
+      <Title>오류</Title>
+      <Message>입력한 연도가 유효하지 않습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0013">
+      <Title>오류</Title>
+      <Message>입력한 연도가 유효하지 않습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0014">
+      <Title>오류</Title>
+      <Message>입력한 연도가 유효하지 않습니다. 1800 이상의 값을 입력합니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0015">
+      <Title>오류</Title>
+      <Message>일자 범위 오류입니다. 확인해 주십시오.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0016">
+      <Title>오류</Title>
+      <Message>입력한 시간이 유효하지 않습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0017">
+      <Title>오류</Title>
+      <Message>입력한 분이 유효하지 않습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0018">
+      <Title>오류</Title>
+      <Message>입력한 초가 유효하지 않습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0019">
+      <Title>오류</Title>
+      <Message>정수를 입력해 주십시오.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0020">
+      <Title>오류</Title>
+      <Message>검색 오류 발생</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0021">
+      <Title>경고</Title>
+      <Message>환자 정보를 변경하면 PACS 검사 매칭에 오류가 발생할 수도 있습니다. PACS의 변경된 모든 데이터를 지금 바로 확인하십시오.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0022">
+      <Title>확인</Title>
+      <Message>PatientID(환자 ID)는 필수 항목입니다. PatientID(환자 ID)를 입력해 주십시오.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0023">
+      <Title>확인</Title>
+      <Message>연구 ID는 필수입니다. 연구 ID를 입력하십시오.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0024">
+      <Title>확인</Title>
+      <Message>PatientName(환자 이름)은 필수 항목입니다. PatientName(환자 이름)을 입력해 주십시오.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0025">
+      <Title>확인</Title>
+      <Message>PatientName(환자 이름)은 필수 항목입니다. PatientName(환자 이름)을 입력해 주십시오.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0026">
+      <Title>확인</Title>
+      <Message>PatientName(환자 이름)은 필수 항목입니다. PatientName(환자 이름)을 입력해 주십시오.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0027">
+      <Title>확인</Title>
+      <Message>성별은 필수 항목입니다. 성별을 입력해 주십시오.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0028">
+      <Title>확인</Title>
+      <Message>생일은 필수 항목입니다. 생일을 입력해 주십시오.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0029">
+      <Title>오류</Title>
+      <Message>자기 카드를 판독할 수 없습니다. 시스템을 재시작하십시오.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0030">
+      <Title>오류</Title>
+      <Message>필수 항목이 입력되지 않았습니다. 실행할 수 없습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0031">
+      <Title>확인</Title>
+      <Message>연구에서 노출된 이미지가 있습니다. 연구를 편집하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0032">
+      <Title>확인</Title>
+      <Message>실행 중인 Dr.View를 종료하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0033">
+      <Title>확인</Title>
+      <Message>Dr.View를 재시작하시겠습니까? </Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0034">
+      <Title>확인</Title>
+      <Message>검사가 중지 상태로 되돌아갑니다. 수락하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0035">
+      <Title>오류</Title>
+      <Message>해당되는 연구, 환자 정보가 없습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0036">
+      <Title>확인</Title>
+      <Message>검사가 이미 DB에 존재합니다. 이 검사를 사용하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0037">
+      <Title>확인</Title>
+      <Message>환자 정보가 이미 DB에 존재합니다. 이 환자 정보를 사용하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0038">
+      <Title>오류</Title>
+      <Message>다수의 환자를 선택할 수 없습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0039">
+      <Title>오류</Title>
+      <Message>DB 오류 - 순서 생성에 실패했습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0040">
+      <Title>오류</Title>
+      <Message>환자 DB 업데이트 오류</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0041">
+      <Title>오류</Title>
+      <Message>해당 환자가 DB에 존재하지 않습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0042">
+      <Title>오류</Title>
+      <Message>이 문자는 허용되지 않습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0046">
+      <Title>오류</Title>
+      <Message>추후 연도가 가능하지 않습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0047">
+      <Title>오류</Title>
+      <Message>추후 월이 가능하지 않습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0048">
+      <Title>오류</Title>
+      <Message>추후 일자가 가능하지 않습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0049">
+      <Title>오류</Title>
+      <Message>입력된 연도가 윤년이 아닙니다. 일자를 확인하십시오.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0052">
+      <Title>확인</Title>
+      <Message>순서가 등록되었습니다. 덮어쓰시겠습니까?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0053">
+      <Title>확인</Title>
+      <Message>동일한 환자 ID: {0},환자명: {1},성별: {2},생일:{3}은 데이터베이스에서 확인할 수 있습니다. 덮어쓰시겠습니까?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0054">
+      <Title>오류</Title>
+      <Message>유효하지 않은 값입니다. 여기에 "\", "^" 또는 "="를 사용할 수 없습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0055">
+      <Title>오류</Title>
+      <Message>유효하지 않은 값입니다. 여기에 "\" 또는 "="를 사용할 수 없습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0056">
+      <Title>오류</Title>
+      <Message>작동이 불가능합니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0057">
+      <Title>확인</Title>
+      <Message>모두 제거하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0058">
+      <Title>오류</Title>
+      <Message>필수란을 입력해 주십시오.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0059">
+      <Title>확인</Title>
+      <Message>검사를 등록하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0060">
+      <Title>오류</Title>
+      <Message>등록 실패</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0061">
+      <Title>확인</Title>
+      <Message>데이터를 덮어쓰시겠습니까?</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0062">
+      <Title>오류</Title>
+      <Message>해당되는 검사(환자)가 없습니다.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0063">
+      <Title>오류</Title>
+      <Message>검색 내용을 입력해 주십시오.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0064">
+      <Title>오류</Title>
+      <Message>내용 작성 일자 및 내용 작성 시간 란을 입력해 주십시오. </Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

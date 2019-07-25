@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35540">
+      <Title>Başlatma Hatası</Title>
+      <Message>İlk duruma getirilemedi.</Message>
+    </EventString>
+    <EventString Key="35541">
+      <Title>ayar okuma hatası</Title>
+      <Message>Ayar dosyasını okumada hata oluştu.</Message>
+    </EventString>
+    <EventString Key="35542">
+      <Title>zaman aşımı hatası</Title>
+      <Message>Zaman aşımı gerçekleşti.</Message>
+    </EventString>
+    <EventString Key="35543">
+      <Title>C35543</Title>
+      <Message />
+    </EventString>
+    <EventString Key="37350">
+      <Title>İç hata</Title>
+      <Message>DICOM iletişiminde iç hata oluştu.Bir servis temsilcisiyle iletişim kurun.</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>İç hata</Title>
+      <Message>DICOM iletişiminde iç hata oluştu.Bir servis temsilcisiyle iletişim kurun.</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>İç hata</Title>
+      <Message>DICOM iletişim ayarı alınamadı. Lütfen iletişim ayarını teyit edin.</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>İletişim hatası</Title>
+      <Message>İletişim kurulamadı. Lütfen iletişim ayarını ve sunucunun çalışıyor olduğunu teyit edin.</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>İletişim hatası</Title>
+      <Message>A-ASSOCIATE işleminde hata. Lütfen iletişim ayarını ve sunucunun çalışıyor olduğunu teyit edin.</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>İletişim hatası</Title>
+      <Message>Geçersiz ayara bağlı olarak A-ASSOCIATE işlemi sunucudan reddedildi. Lütfen iletişim ayarını teyit edin.</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>İletişim hatası</Title>
+      <Message>DICOM iletişiminde iç hata oluştu.Bir servis temsilcisiyle iletişim kurun.</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>İletişim hatası</Title>
+      <Message>A-ABORT alındı. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37360">
+      <Title>İç hata</Title>
+      <Message>RIS-OUT iletişiminde iç hata gerçekleşti.Servis temsilcisiyle iletişim kurun.</Message>
+    </EventString>
+    <EventString Key="37361">
+      <Title>İç hata</Title>
+      <Message>RIS-OUT iletişiminde iç hata gerçekleşti.Servis temsilcisiyle iletişim kurun.</Message>
+    </EventString>
+    <EventString Key="37362">
+      <Title>İç hata</Title>
+      <Message>RIS-OUT iletişiminde iç hata gerçekleşti.Servis temsilcisiyle iletişim kurun.</Message>
+    </EventString>
+    <EventString Key="37363">
+      <Title>İç hata</Title>
+      <Message>RIS-OUT iletişiminde iç hata gerçekleşti.Servis temsilcisiyle iletişim kurun.</Message>
+    </EventString>
+    <EventString Key="37364">
+      <Title>İç hata</Title>
+      <Message>RIS-OUT iletişiminde iç hata gerçekleşti.Servis temsilcisiyle iletişim kurun.</Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>İç hata</Title>
+      <Message>RIS-OUT iletişiminde iç hata gerçekleşti.Servis temsilcisiyle iletişim kurun.</Message>
+    </EventString>
+    <EventString Key="37699">
+      <Title>Bilinmeyen hata</Title>
+      <Message>Bilinmeyen hata gerçekleşti.[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37662">
+      <Title>İç hata</Title>
+      <Message>ANA MAKİNE iletişiminde iç hata gerçekleşti.Lütfen servis temsilcisiyle iletişim kurun.</Message>
+    </EventString>
+    <EventString Key="37365">
+      <Title>İç hata</Title>
+      <Message>RIS-OUT iletişiminde iç hata gerçekleşti.Servis temsilcisiyle iletişim kurun.</Message>
+    </EventString>
+    <EventString Key="37366">
+      <Title>İç hata</Title>
+      <Message>RIS-OUT iletişiminde iç hata gerçekleşti.Servis temsilcisiyle iletişim kurun.</Message>
+    </EventString>
+    <EventString Key="37367">
+      <Title>İç hata</Title>
+      <Message>RIS-OUT iletişiminde iç hata gerçekleşti.Servis temsilcisiyle iletişim kurun.</Message>
+    </EventString>
+    <EventString Key="37368">
+      <Title>İç hata</Title>
+      <Message>RIS-OUT iletişiminde iç hata gerçekleşti.Servis temsilcisiyle iletişim kurun.</Message>
+    </EventString>
+    <EventString Key="37369">
+      <Title>İç hata</Title>
+      <Message>RIS-OUT iletişiminde iç hata gerçekleşti.Servis temsilcisiyle iletişim kurun.</Message>
+    </EventString>
+    <EventString Key="37370">
+      <Title>İç hata</Title>
+      <Message>RIS-OUT iletişiminde iç hata gerçekleşti.Servis temsilcisiyle iletişim kurun.</Message>
+    </EventString>
+    <EventString Key="37371">
+      <Title>İç hata</Title>
+      <Message>RIS-OUT iletişiminde iç hata gerçekleşti.Servis temsilcisiyle iletişim kurun.</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="27700">
+      <Title>İletişim hatası</Title>
+      <Message>RIS-OUT iletişiminde iletişim hatası gerçekleşti. İletişim hedefini kontrol edin.</Message>
+    </EventString>
+    <EventString Key="27701">
+      <Title>İletişim hatası</Title>
+      <Message>RIS-OUT iletişiminde iletişim hatası gerçekleşti. İletişim hedefini kontrol edin.</Message>
+    </EventString>
+    <EventString Key="27702">
+      <Title>İletişim hatası</Title>
+      <Message>RIS-OUT iletişiminde iletişim hatası gerçekleşti. İletişim hedefini kontrol edin.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

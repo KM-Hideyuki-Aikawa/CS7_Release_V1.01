@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="JMDomainExtender0001">
+      <Title>Ping Durumu</Title>
+      <Message>Başarıyla bağlandı.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0002">
+      <Title>Ping Durumu</Title>
+      <Message>Bağlanamadı.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0003">
+      <Title />
+      <Message>Sorun sırasında okuma beklenmedik biçimde duraklatılırsa, görüntünün yok olması ve benzeri gibi engeller ortaya çıkabilir. Duraklatıldığında, taramayı ayırın ve CS'i yeniden başlatın.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0004">
+      <Title />
+      <Message>İş başarıyla silinemedi.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0005">
+      <Title />
+      <Message>İş başarıyla silindi.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0006">
+      <Title />
+      <Message>JM değiştiriliyor. Kaset kaydetme tümüyle devre dışı bırakılacak. Onayıyor musunuz？</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

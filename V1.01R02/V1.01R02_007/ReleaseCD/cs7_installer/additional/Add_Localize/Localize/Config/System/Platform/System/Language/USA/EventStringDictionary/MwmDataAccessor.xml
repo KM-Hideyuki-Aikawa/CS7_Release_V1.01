@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35500">
+      <Title>Initialization error</Title>
+      <Message>Failed to initialize.</Message>
+    </EventString>
+    <EventString Key="35501">
+      <Title>Setting error</Title>
+      <Message>There was an error with reading the setting file.</Message>
+    </EventString>
+    <EventString Key="35502">
+      <Title>Time-out error</Title>
+      <Message>A time-out occurred.</Message>
+    </EventString>
+    <EventString Key="35503">
+      <Title>Socket error</Title>
+      <Message>A socket error occurred.</Message>
+    </EventString>
+    <EventString Key="37350">
+      <Title>Internal error</Title>
+      <Message>Internal error occurred in DICOM communication. Contact a service representative.</Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>Internal error</Title>
+      <Message>Internal error occurred in DICOM communication. Contact a service representative.</Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>Internal error</Title>
+      <Message>Failed to get DICOM communication setting. Please confirm communication setting.</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>Communication error</Title>
+      <Message>Failed in communication. Please confirm communication setting and server is working.</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>Communication error</Title>
+      <Message>Failed in A-ASSOCIATE. Please confirm communication setting and server is working.</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>Communication error</Title>
+      <Message>Rejected from server in A-ASSOCIATE due to invalid setting. Please confirm communication setting.</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>Communication error</Title>
+      <Message>Internal error occurred in DICOM communication. Contact a service representative.</Message>
+    </EventString>
+    <EventString Key="37357">
+      <Title>Communication error</Title>
+      <Message>It failed in the communication of release. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>Communication error</Title>
+      <Message>A-ABORT was received. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37610">
+      <Title>Internal error</Title>
+      <Message>Internal error occurred in RIS-IN communication. Contact a service representative.</Message>
+    </EventString>
+    <EventString Key="37611">
+      <Title>Internal error</Title>
+      <Message>Internal error occurred in RIS-IN communication. Contact a service representative.</Message>
+    </EventString>
+    <EventString Key="37612">
+      <Title>Internal error</Title>
+      <Message>Internal error occurred in RIS-IN communication. Contact a service representative.</Message>
+    </EventString>
+    <EventString Key="37613">
+      <Title>Internal error</Title>
+      <Message>Internal error occurred in RIS-IN communication. Contact a service representative.</Message>
+    </EventString>
+    <EventString Key="37614">
+      <Title>Communication error</Title>
+      <Message>MWM C-FIND request aborted because it exceeded the maximum number of search responses.</Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-IN communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-IN communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>Internal error</Title>
+      <Message>The end notification was received.[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="27740">
+      <Title>Communication error</Title>
+      <Message>Communication error occurred in RIS-IN communication. Check the communication destination.</Message>
+    </EventString>
+    <EventString Key="27741">
+      <Title>Communication error</Title>
+      <Message>Communication error occurred in RIS-IN communication. Check the communication destination.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

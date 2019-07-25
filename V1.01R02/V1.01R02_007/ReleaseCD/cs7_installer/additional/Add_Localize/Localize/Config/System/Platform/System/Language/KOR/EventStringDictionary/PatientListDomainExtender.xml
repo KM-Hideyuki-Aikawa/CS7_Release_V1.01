@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientListDomainExtender0000">
+      <Title />
+      <Message>입력된 연도가 유효하지 않습니다.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0001">
+      <Title />
+      <Message>입력된 월이 유효하지 않습니다.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0002">
+      <Title />
+      <Message>입력된 일자가 유효하지 않습니다.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0003">
+      <Title />
+      <Message>값이 범위를 벗어난 상태입니다.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0004">
+      <Title />
+      <Message>길이가 MaxLength(최대 길이)보다 깁니다.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0005">
+      <Title />
+      <Message>길이가 MinLength(최소 길이)보다 짧습니다.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0006">
+      <Title />
+      <Message>입력된 값이 숫자가 아닙니다.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0007">
+      <Title />
+      <Message>입력된 값이 유효하지 않습니다.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0008">
+      <Title />
+      <Message>알파벳만 허용됩니다.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0009">
+      <Title />
+      <Message>카나만 허용됩니다.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0010">
+      <Title />
+      <Message>유효하지 않은 값입니다. 여기에 "\"를 사용할 수 없습니다.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0011">
+      <Title />
+      <Message>이 문자는 허용되지 않습니다.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0012">
+      <Title>확인</Title>
+      <Message>선택했던 기록을 삭제하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0013">
+      <Title />
+      <Message>유효하지 않은 값입니다. 여기에 "\", "^" 또는 "="를 사용할 수 없습니다.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0014">
+      <Title />
+      <Message>유효하지 않은 값입니다. 여기에 "\" 또는 "="를 사용할 수 없습니다.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0015">
+      <Title />
+      <Message>검사를 중지하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0016">
+      <Title>바코드 검색</Title>
+      <Message>다수의 {0} 검사가 지정된 정보와 함께 존재합니다.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

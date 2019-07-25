@@ -1,0 +1,2464 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EquipmentInfoToolDomainExtender</name>
+    </assembly>
+    <members>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.FocusExtension">
+            <summary> 
+            IsFocused attached property. Is useful when used with a TextBox control placed inside a ListView item.
+            When the TextBox is selected. It sets the ListView.SelectedItem with DataContext of the parent ListViewItem
+            for the TextBox control
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>    
+        </member>
+        <member name="F:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.FocusExtension.IsFocusedProperty">
+            <summary>
+            IsFocusedProperty
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.FocusExtension.GetIsFocused(System.Windows.DependencyObject)">
+            <summary> 
+            Getter for IsFocused property
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.FocusExtension.SetIsFocused(System.Windows.DependencyObject,System.Boolean)">
+            <summary> 
+            Setter for IsFocused property
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.FocusExtension.OnIsFocusedPropertyChanged(System.Windows.DependencyObject,System.Windows.DependencyPropertyChangedEventArgs)">
+            <summary> 
+            IsFocused property changed handler
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.KeyPress">
+            <summary>
+            KeyPress
+            </summary>
+            <param name="param"></param>
+            <param name="handled"></param>
+            <param name="cmdParm"></param>
+            <param name="selLength"></param>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.KeyPressCommand">
+            <summary> 
+            To be used along with keyboard events
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.KeyPressCommand.#ctor">
+            <summary> 
+            Initialise the command. 
+            </summary> 
+            <remarks>
+            1. Function Explanation
+            KeyPressCommand function
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.KeyPressCommand.OnQueryEnabled(System.Object,System.Windows.Input.CanExecuteRoutedEventArgs)">
+            <summary> 
+            Default implementation always allows the command to execute. 
+            </summary> 
+            <param name="sender"></param> 
+            <param name="e"></param> 
+            <remarks>
+            1. Function Explanation
+            OnQueryEnabled function
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.KeyPressCommand.OnExecute(System.Object,System.Windows.Input.ExecutedRoutedEventArgs)">
+            <summary> 
+            Subclasses must provide the execution logic. 
+            </summary> 
+            <param name="sender"></param> 
+            <param name="e"></param>
+            <remarks>
+            1. Function Explanation
+            OnExecute function
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.KeyPressCommand.CanExecute(System.Object)">
+            <summary>
+            CanExecute
+            </summary>
+            <param name="parameter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.KeyPressCommand.Execute(System.Object,System.Boolean@,System.Object,System.Int32)">
+            <summary>
+            Execute
+            </summary>
+            <param name="parameter"></param>
+            <param name="handled"></param>
+            <param name="cmdParm"></param>
+            <param name="selLength"></param>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.KeyPressCommand.Execute(System.Object)">
+            <summary>
+            Execute
+            </summary>
+            <param name="parameter"></param>
+        </member>
+        <member name="E:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.KeyPressCommand.KeyPress">
+            <summary>
+            KeyPress
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.KeyPressCommand.Command">
+            <summary> 
+            Expose a command that can be bound to from XAML. 
+            </summary> 
+            <remarks>
+            1. Function Explanation
+            Command function
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="E:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.KeyPressCommand.CanExecuteChanged">
+            <summary>
+            CanExecuteChanged
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.KeyDownCommandBinding">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="F:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.KeyDownCommandBinding.CommandProperty">
+            <summary> 
+            Command to execute. 
+            </summary> 
+        </member>
+        <member name="F:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.KeyDownCommandBinding.ParameterProperty">
+            <summary> 
+            Parameter to be passed to the command. 
+            </summary> 
+        </member>
+        <member name="F:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.KeyDownCommandBinding.KeyProperty">
+            <summary> 
+            The key to be used as a trigger to execute the command. 
+            </summary> 
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.KeyDownCommandBinding.GetCommand(System.Windows.DependencyObject)">
+            <summary>
+            
+            </summary>
+            <param name="sender"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.KeyDownCommandBinding.SetCommand(System.Windows.DependencyObject,Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.KeyPressCommand)">
+            <summary>
+            
+            </summary>
+            <param name="sender"></param>
+            <param name="command"></param>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.KeyDownCommandBinding.GetParameter(System.Windows.DependencyObject)">
+            <summary>
+            
+            </summary>
+            <param name="sender"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.KeyDownCommandBinding.SetParameter(System.Windows.DependencyObject,System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="sender"></param>
+            <param name="parameter"></param>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.KeyDownCommandBinding.GetKey(System.Windows.DependencyObject)">
+            <summary>
+            
+            </summary>
+            <param name="sender"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.KeyDownCommandBinding.SetKey(System.Windows.DependencyObject,System.Windows.Input.Key)">
+            <summary>
+            
+            </summary>
+            <param name="sender"></param>
+            <param name="key"></param>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Converters.SelectedItemToCanDelete">
+            <summary> 
+            ValueConverter to check wether the device info is deletable or not 
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Converters.SelectedItemToCanDelete.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)">
+            <summary> 
+            Function returns true or false if the device info is deletable or not
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Converters.SelectedItemToCanDelete.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)">
+            <summary> 
+            Converter to check wether the device info is deletable or not 
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.EquipmentInfoToolDomainExtender">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="F:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.EquipmentInfoToolDomainExtender._domainModel">
+            <summary>
+            Domain Extender Model
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.EquipmentInfoToolDomainExtender.#ctor">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.EquipmentInfoToolDomainExtender.GetAutherName">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.EquipmentInfoToolDomainExtender.GetDescription">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.EquipmentInfoToolDomainExtender.GetOfficialName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.EquipmentInfoToolDomainExtender.GetVersion">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.EquipmentInfoToolDomainExtender.QueryInterface``1">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.EquipmentInfoToolDomainExtender.GetPlugin">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.EquipmentInfoToolDomainExtender.Initialize">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.EquipmentInfoToolDomainExtender.GetDomainExtender(Konicaminolta.Platform.Frameworks.Infos.DomainExtenderInstanceInfo,Konicaminolta.Platform.Frameworks.Interfaces.IDomainModel)">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.EquipmentInfoToolDomainExtender.InitializeEnd">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.EquipmentInfoToolDomainExtender.GetDomainExtenderInstanceInfo(Konicaminolta.Platform.Frameworks.Interfaces.IDomainModel,Konicaminolta.Platform.Frameworks.Infos.DomainExtenderOption)">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.EquipmentInfoToolDomainExtender.GetDomainExtenderFeatureInfo">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Converters.SelectedItemToCanReset">
+            <summary> 
+            ValueConverter to decide whether deviceinfo supports maintenance reset
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>  
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Converters.SelectedItemToCanReset.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)">
+            <summary> 
+            Function to find out wether deviceinfo support maintenance reset
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Converters.SelectedItemToCanReset.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)">
+            <summary> 
+            Convert back implementation
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Converters.TextContentToIsEnabled">
+            <summary> 
+            Multivalue converter to check wether textbox should readonly
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>       
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Converters.TextContentToIsEnabled.Convert(System.Object[],System.Type,System.Object,System.Globalization.CultureInfo)">
+            <summary> 
+            Function to check wether textbox should be readonly
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Converters.TextContentToIsEnabled.ConvertBack(System.Object,System.Type[],System.Object,System.Globalization.CultureInfo)">
+            <summary> 
+            Convert back implementation
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ActivationDataItem">
+            <summary> 
+            Theses class is used for deserializing connection data from ActivationDataItem.xml
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ActivationDataItem.ConnectionDataList">
+            <summary> 
+            Collection of connection data items
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ActivationDataItem.ConsoleData">
+            <summary> 
+            Console software and hardware information
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ConnectionData">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>   
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ConnectionData.StartingDate">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ConnectionData.Version3">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ConnectionData.Version2">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ConnectionData.Version1">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ConnectionData.SubSerialNo">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ConnectionData.SerialNo">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ConnectionData.ModelName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ConnectionData.VendorName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ConnectionData.ChannelNo">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ConnectionData.ConnectionName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ConsoleData">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ConsoleData.HardwareData">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ConsoleData.SystemData">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.SystemData">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.SystemData.OptionSoftwareData">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.SystemData.AntivirusSoftwareDataList">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.SystemData.HotFixDataList">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.SystemData.NetFrameworkVersion">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.SystemData.IEVersion">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.SystemData.Timezone">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.SystemData.LocationLanguage">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.SystemData.OSProductID">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.SystemData.OSBuildNo">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.SystemData.OSVersion">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.SystemData.OSServicePack">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.SystemData.OSName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.SystemData.LoginUserName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.SystemData.WorkgroupName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.SystemData.MachineName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.SystemData.InstallationDate">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.HotFixData">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>  
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.HotFixData.Date">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.HotFixData.KBNo">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.HotFixData.Name">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.AntivirusSoftwareData">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>    
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.AntivirusSoftwareData.PatternFileVersion">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.AntivirusSoftwareData.SearchEngineVersion">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.AntivirusSoftwareData.ProductVersion">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.AntivirusSoftwareData.Name">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.OptionSoftwareData">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.OptionSoftwareData.ProductSerialNo">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.OptionSoftwareData.ProductVersion">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.OptionSoftwareData.ProductName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.OptionSoftwareData.Manufacturer">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.OptionSoftwareData.SerialNo">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.HardWareData">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.HardWareData.PCIExpressBoardDataList">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.HardWareData.NetworkDeviceDataList">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.HardWareData.BarcodeReaderDataList">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.HardWareData.MagneticCardReaderDataList">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.HardWareData.DisplayDeviceDataList">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.HardWareData.DiscDriveDataList">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.HardWareData.VirtualMemory">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.HardWareData.FreeMemory">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.HardWareData.BIOSSerialNo">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.HardWareData.BIOSVersion">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.HardWareData.HWModelName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.HardWareData.HWVendorName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DiscDriveData">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DiscDriveData.FreeMemory">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DiscDriveData.Capacity">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DiscDriveData.Category">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DiscDriveData.ConnectionIF">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DiscDriveData.Version">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DiscDriveData.SerialNo">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DiscDriveData.VendorName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DiscDriveData.ModelName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DiscDriveData.Name">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DisplayDeviceData">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DisplayDeviceData.Resolution">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DisplayDeviceData.Version">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DisplayDeviceData.SerialNo">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DisplayDeviceData.VendorName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DisplayDeviceData.ModelName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DisplayDeviceData.Name">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.MagneticCardReaderData">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.MagneticCardReaderData.SerialNo">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.BarcodeReaderData">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.BarcodeReaderData.SerialNo">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.NetworkDeviceData">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.NetworkDeviceData.SecondaryWINSServer">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.NetworkDeviceData.PrimaryWINSServer">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.NetworkDeviceData.SecondaryDNSServer">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.NetworkDeviceData.PrimaryDNSServer">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.NetworkDeviceData.DefaultGateway">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.NetworkDeviceData.SubnetMask">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.NetworkDeviceData.IPAddress">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.NetworkDeviceData.DHCP">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.NetworkDeviceData.MACAddress">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.NetworkDeviceData.Version">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.NetworkDeviceData.VendorName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.NetworkDeviceData.ModelName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.NetworkDeviceData.Name">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.PCIBoardData">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.PCIBoardData.Version">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.PCIBoardData.SerialNo">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.PCIBoardData.VendorName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.PCIBoardData.ModelName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.PCIExpressBoardData">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.PCIExpressBoardData.Version">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.PCIExpressBoardData.SerialNo">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.PCIExpressBoardData.VendorName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.PCIExpressBoardData.ModelName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderItemViewModel">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderItemViewModel.#ctor(Konicaminolta.Consoles.DomainExtenders.Interfaces.MaintenanceDomain.IItemInfo,Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderModel)">
+            <summary>
+            
+            </summary>
+            <param name="itemInfo"></param>
+            <param name="model"></param>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderItemViewModel.GetItemView">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderItemViewModel.DeletePage">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderItemViewModel.PreparePage">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderItemViewModel.ReflectPage">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderItemViewModel.ValidatePage">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="E:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderItemViewModel.PropertyChanged">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderItemViewModel.LicenseExists">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderItemViewModel.EquipmentInfoToolData">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderItemViewModel.LocalizedDIctionary">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderItemViewModel.CaptionInstallCompleted">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderItemViewModel.CaptionActivation">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderItemViewModel.CaptionReset">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderItemViewModel.CaptionDelete">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderItemViewModel.CaptionReturn">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderItemViewModel.HeaderSerialNumber">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderItemViewModel.HeaderProductName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderItemViewModel.HeaderStartUseDate">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderItemViewModel.TitleInformation">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderItemViewModel.FilePaths">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolData">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolData.InstallCompletedDate">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolData.ActivationDate">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolData.ConfigurationActivationKey">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolData.AltConfigurationActivationKeyList">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.FilePaths">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.FilePaths.GetPath(System.String)">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.FilePaths.FilePathCollection">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.FilePath">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.FilePath.Key">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.FilePath.Value">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ItemInfoData">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.LicenseConfigurationInfo">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.LicenseConfigurationInfo.Key3">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.LicenseConfigurationInfo.Key2">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.LicenseConfigurationInfo.Key1">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DeviceInfos">
+            <summary> 
+            Class containing collection of DeviceInfos
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DeviceInfos.DeviceInfoList">
+            <summary> 
+            Collection of DeviceInfos
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DeviceInfo">
+            <summary> 
+            DeviceInfo class representing each device registered with CS-7 and also licenses available to the console 
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DeviceInfo.OnPropertyChanged(System.String)">
+            <summary> 
+            Function to be used to notify property change
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DeviceInfo.OnKeyPress(System.Object,System.Boolean@,System.Object,System.Int32)">
+            <summary> 
+            Command to handle keypress event.
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="E:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DeviceInfo.PropertyChanged">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DeviceInfo.KeyPressCommand">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DeviceInfo.SerialNumber">
+            <summary> 
+            These property represents the serial number for the device. Serial number should 
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DeviceInfo.ProductName">
+            <summary> 
+            These property represents the product name for the device. This depends on the product code of the device.
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DeviceInfo.StartUseDate">
+            <summary> 
+            These property represents the start use date for the device
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DeviceInfo.MaintenanceType">
+            <summary> 
+            These property contains the maintenance type information for the device.
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DeviceInfo.HasMaintenenceInfo">
+            <summary> 
+            These property represents whether the device has maintenance info.
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DeviceInfo.IsDeletable">
+            <summary> 
+            These property represents whether the device info can be deleted.
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DeviceInfo.ConnectionName">
+            <summary> 
+            Represents the connection type for the device
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DeviceInfo.ModelName">
+            <summary> 
+            Represents product code
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DeviceInfo.SubSerialNumber">
+            <summary> 
+            Represents Sub-Serial number for a device
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ResetMaintenanceInfoModel">
+            <summary> 
+            Model class to manage MaintenanceInfo reset
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>      
+        </member>
+        <member name="F:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ResetMaintenanceInfoModel._parentModel">
+            <summary>
+            Item view model instance.
+            </summary>
+        </member>
+        <member name="F:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ResetMaintenanceInfoModel._deviceInfo">
+            <summary>
+            Device info instance to reset maintenance info
+            </summary>
+        </member>
+        <member name="F:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ResetMaintenanceInfoModel._maintenanceType">
+            <summary>
+            Maintenance type can be either readingcount or exposurecount 
+            </summary>
+        </member>
+        <member name="F:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ResetMaintenanceInfoModel._channelsAvailable">
+            <summary>
+            List of channels available in XG-Box in case of maintenance 
+            type equals to exposure count
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ResetMaintenanceInfoModel.#ctor(Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderItemViewModel,Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DeviceInfo)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="model"></param>
+            <param name="deviceInfo"></param>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ResetMaintenanceInfoModel.Close">
+            <summary>
+            Window close handler
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ResetMaintenanceInfoModel.ChannelsAvailable">
+            <summary>
+            List of channels available in XG-Box in case of maintenance 
+            type equals to exposure count
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ResetMaintenanceInfoModel.MaintenanceType">
+            <summary>
+            Maintenance type can be either readingcount or exposurecount 
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ResetMaintenanceInfoModel.LocalizeDictionary">
+            <summary> 
+            Localize dictionary used for localization purpose
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.CommandInfo">
+            <summary> 
+            CommandInfo class represents the command parameter and caption data for the button to be displayed in the maintenance reset window
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>    
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.CommandInfo.Caption">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.CommandInfo.Parameter">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.CommandInfo.SelectCommand">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.CommandInfo.FontFamily">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.CommandInfo.FontSize">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Platform">
+            <summary>
+            Platform Wrap-Class
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Platform.Instance">
+            <summary>
+            Platform instance property
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderModel">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderModel.#ctor(Konicaminolta.Platform.CommonResources.PluginBases.DomainExtenderBase)">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderModel.GetItemInfo(Konicaminolta.Consoles.DomainExtenders.Interfaces.MaintenanceDomain.SettingMode,Konicaminolta.Consoles.DomainExtenders.Interfaces.MaintenanceDomain.LayoutType)">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderModel.GetItemView(Konicaminolta.Consoles.DomainExtenders.Interfaces.MaintenanceDomain.IItemInfo)">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderModel.AttachDomainModel(Konicaminolta.Platform.Frameworks.Interfaces.IDomainModel)">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderModel.DetachDomainModel(Konicaminolta.Platform.Frameworks.Interfaces.IDomainModel)">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderModel.GetPluginBaseView">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderModel.GetRequireCategoryInterface">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderModel.HasPluginBaseView">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderModel.SettingCompleted">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderModel.LocalizedDictionary">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DeviceInfoManager">
+            <summary> 
+            Manages the device info for the console. Allows to delete and save device infos.
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DeviceInfoManager.#ctor(Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderItemViewModel)">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="E:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DeviceInfoManager.PropertyChanged">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DeviceInfoManager.LicenseExists">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DeviceInfoManager.DeviceInfoList">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DeviceInfoManager.MaintenanceInfos">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.DeviceInfoManager.ProductMatrix">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.MaintenanceInfos">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.MaintenanceInfos.GetMaintenanceType(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="serialNumber"></param>
+            <returns></returns>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.MaintenanceInfos.MaintenanceInfoList">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.MaintenanceInfo">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.MaintenanceInfo.MaintenanceType">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.MaintenanceInfo.Code">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ProductMatrix">
+            <summary> 
+            Class provides access to the list of ProductInfos
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ProductMatrix.GetProductName(System.String)">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ProductMatrix.ProductInfoList">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ProductInfo">
+            <summary> 
+            Class represents product code and product name as key value pair
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>        
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ProductInfo.Key">
+            <summary> 
+            Property represents product code
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>   
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ProductInfo.Value">
+            <summary> 
+            Property represents product name for the corresponding product code
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Plugin.Instance">
+            <summary>
+            Plugin instance property
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.RelayCommand">
+            <summary> 
+            ICommand implementation to handle button commands.
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="F:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.RelayCommand._execute">
+            <summary> 
+            Delegate refers to the function to be executed when command occurs.
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="F:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.RelayCommand._canExecute">
+            <summary> 
+            Delegate to execute the code for checking whether it can handle the command.
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.RelayCommand.#ctor(System.Action{System.Object})">
+            <summary> 
+            Constructor.
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.RelayCommand.#ctor(System.Action{System.Object},System.Predicate{System.Object})">
+            <summary> 
+            Constructor.
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.RelayCommand.CanExecute(System.Object)">
+            <summary> 
+            ICommand CanExecute method implementation
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.RelayCommand.Execute(System.Object)">
+            <summary> 
+            ICommand Execute method implementation.
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="E:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Command.RelayCommand.CanExecuteChanged">
+            <summary> 
+            CanExecuteChanged event.
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Utility.CheckConnectivity">
+            <summary> 
+            Class contains method to check state of internet connection
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>    
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Utility.CheckConnectivity.InternetGetConnectedState(System.Int32@,System.Int32)">
+            <summary> 
+            Interoperating win32 api function InternetGetConnectedState in wininet.dll assembly
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Utility.CheckConnectivity.IsConnectedToInternet">
+            <summary> 
+            Function to check state of internet connection
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.EquipmentInfoCollectDomainExtenderItemViewViewModel">
+            <summary> 
+            ItemInfo ViewModel
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.EquipmentInfoCollectDomainExtenderItemViewViewModel.#ctor(Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.EquipmentInfoToolDomainExtenderItemViewModel)">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="E:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.EquipmentInfoCollectDomainExtenderItemViewViewModel.PropertyChanged">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.EquipmentInfoCollectDomainExtenderItemViewViewModel.LicenseExists">
+            <summary> 
+            Returns true if a valid system is avaliable in the system
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.EquipmentInfoCollectDomainExtenderItemViewViewModel.CaptionInstallCompleted">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.EquipmentInfoCollectDomainExtenderItemViewViewModel.CaptionActivation">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.EquipmentInfoCollectDomainExtenderItemViewViewModel.CaptionReset">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.EquipmentInfoCollectDomainExtenderItemViewViewModel.CaptionDelete">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.EquipmentInfoCollectDomainExtenderItemViewViewModel.CaptionReturn">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.EquipmentInfoCollectDomainExtenderItemViewViewModel.HeaderSerialNumber">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.EquipmentInfoCollectDomainExtenderItemViewViewModel.HeaderProductName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.EquipmentInfoCollectDomainExtenderItemViewViewModel.HeaderStartUseDate">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.EquipmentInfoCollectDomainExtenderItemViewViewModel.TitleInformation">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.EquipmentInfoCollectDomainExtenderItemViewViewModel.DeviceInfoList">
+            <summary> 
+            Collection of DeviceInfos.
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.EquipmentInfoCollectDomainExtenderItemViewViewModel.InstallCompletedDate">
+            <summary> 
+            Returns the install completed date of the system.
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.EquipmentInfoCollectDomainExtenderItemViewViewModel.IsInstallCompletionNeeded">
+            <summary> 
+            Retuns true if license exists and 
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------     -----          --------------               ---------------
+                            Aved        Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.EquipmentInfoCollectDomainExtenderItemViewViewModel.CanActivate">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.EquipmentInfoCollectDomainExtenderItemViewViewModel.ActivationDate">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.EquipmentInfoCollectDomainExtenderItemViewViewModel.OnInstallCompleted">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.EquipmentInfoCollectDomainExtenderItemViewViewModel.OnActivation">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.EquipmentInfoCollectDomainExtenderItemViewViewModel.OnDeleteRegisteredInfo">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.EquipmentInfoCollectDomainExtenderItemViewViewModel.OnResetMaintenanceInfo">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.EquipmentInfoCollectDomainExtenderItemViewViewModel.OnClose">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.OfflineActivationViewModel">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>   
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.OfflineActivationViewModel.BackCloseClick(System.Object)">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.ResetMaintenanceInfoViewModel">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.ResetMaintenanceInfoViewModel.#ctor(Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.Model.ResetMaintenanceInfoModel)">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.ResetMaintenanceInfoViewModel.OnSelect(System.Object)">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.ResetMaintenanceInfoViewModel.Caption">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.ResetMaintenanceInfoViewModel.CommandList">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.ViewModel.ResetMaintenanceInfoViewModel.Title">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.View.EquipmentInfoToolDomainExtenderView">
+            <summary>
+            Interaction logic for ActivationEquipmentInfoCollectDEView.xaml
+            </summary>
+            <summary>
+            EquipmentInfoToolDomainExtenderView
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.View.EquipmentInfoToolDomainExtenderView.#ctor">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.View.EquipmentInfoToolDomainExtenderView.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.View.EquipmentInfoToolDomainExtenderView.SortAdorner">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.View.EquipmentInfoToolDomainExtenderView.SortAdorner.#ctor(System.Windows.UIElement,System.ComponentModel.ListSortDirection)">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.View.EquipmentInfoToolDomainExtenderView.SortAdorner.OnRender(System.Windows.Media.DrawingContext)">
+            <summary> 
+            
+            </summary> 
+            <remarks>
+                
+            2. Revision History
+            DD/MM/YYYY      Name            Description                 Release Version
+            -----------    ------          --------------               ---------------
+                            Aved           Initial Version 
+            </remarks>
+        </member>
+        <member name="P:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.View.EquipmentInfoToolDomainExtenderView.SortAdorner.Direction">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.View.OfflineActivationView">
+            <summary>
+            Interaction logic for OfflineActivation.xaml
+            </summary>
+            <summary>
+            OfflineActivationView
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.View.OfflineActivationView.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.View.OfflineActivationView.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.View.ResetMaintenanceInfoView">
+            <summary>
+            Interaction logic for ResetMaintenanceInfoView.xaml
+            </summary>
+            <summary>
+            ResetMaintenanceInfoView
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.View.ResetMaintenanceInfoView.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Konicaminolta.Consoles.Domains.Extenders.EquipmentInfoToolDomainExtender.View.ResetMaintenanceInfoView.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:XamlGeneratedNamespace.GeneratedInternalTypeHelper">
+            <summary>
+            GeneratedInternalTypeHelper
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.CreateInstance(System.Type,System.Globalization.CultureInfo)">
+            <summary>
+            CreateInstance
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.GetPropertyValue(System.Reflection.PropertyInfo,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            GetPropertyValue
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.SetPropertyValue(System.Reflection.PropertyInfo,System.Object,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            SetPropertyValue
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.CreateDelegate(System.Type,System.Object,System.String)">
+            <summary>
+            CreateDelegate
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.AddEventHandler(System.Reflection.EventInfo,System.Object,System.Delegate)">
+            <summary>
+            AddEventHandler
+            </summary>
+        </member>
+    </members>
+</doc>

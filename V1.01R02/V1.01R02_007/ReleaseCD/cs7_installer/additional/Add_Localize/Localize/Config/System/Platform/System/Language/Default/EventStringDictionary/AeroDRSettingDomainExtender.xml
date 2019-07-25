@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="AeroDRSettingDomainExtender0003">
+      <Title>Error</Title>
+      <Message>Invalid correction data is selected.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0004">
+      <Title>Confirmation</Title>
+      <Message>Correction data is already existiong. Are you sure you want to overwrite it?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0005">
+      <Title>Error</Title>
+      <Message>Failed to add AeroDR panel.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0006">
+      <Title>Error</Title>
+      <Message>Failed to get AeroDR panel information.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0007">
+      <Title>Error</Title>
+      <Message>Failed to configure AeroDR panel.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0008">
+      <Title>Error</Title>
+      <Message>Failed to add XG BOX.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0009">
+      <Title>Error</Title>
+      <Message>Failed to get XG BOX.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0010">
+      <Title>Error</Title>
+      <Message>Failed to configure XG BOX.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0011">
+      <Title>Error</Title>
+      <Message>Failed to delete AeroDR panel.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0012">
+      <Title>Confirmation</Title>
+      <Message>Are you sure you want to unregister AeroDR panel?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0013">
+      <Title>Confirmation</Title>
+      <Message>Configuration of AeroDR panel has not been downloaded. Are you sure you want to unregister AeroDR panel?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0014">
+      <Title>Confirmation</Title>
+      <Message>There is AeroDR panel(s) or XG BOX(s) whose configuration has not been uploaded. Are you sure you want to save the configuration?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0015">
+      <Title>Attention</Title>
+      <Message>Cannot cancel chages. Because configuration of AeroDR panel or XG BOX has been already uploaded.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0016">
+      <Title>Error</Title>
+      <Message>There is invalid data. Please confirm your inputs.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0017">
+      <Title>Error</Title>
+      <Message>Please change configuration of AeroDR panel.</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0018">
+      <Title>Confirmation</Title>
+      <Message>Are you sure you want to send the setting to server?</Message>
+    </EventString>
+    <EventString Key="AeroDRSettingDomainExtender0019">
+      <Title>Error</Title>
+      <Message>Error occured in transfer the setting. Please check the network connection and retry.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

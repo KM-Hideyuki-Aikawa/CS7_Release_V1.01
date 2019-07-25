@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientListDomainExtender0000">
+      <Title />
+      <Message>Année saisie invalide</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0001">
+      <Title />
+      <Message>Mois saisi invalide</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0002">
+      <Title />
+      <Message>Jour saisi invalide</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0003">
+      <Title />
+      <Message>Valeur hors limite</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0004">
+      <Title />
+      <Message>Longueur supérieure à MaxLength</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0005">
+      <Title />
+      <Message>Longueur inférieure à MinLength</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0006">
+      <Title />
+      <Message>Valeur saisie non numérique</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0007">
+      <Title />
+      <Message>Valeur saisie invalide</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0008">
+      <Title />
+      <Message>Alphabet seul autorisé</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0009">
+      <Title />
+      <Message>Kana seul autorisé</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0010">
+      <Title />
+      <Message>Valeur invalide. "\" inutilisable ici.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0011">
+      <Title />
+      <Message>Ce caractère n'est pas autorisé</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0012">
+      <Title>Confirmation</Title>
+      <Message>Voulez-vous supprimer l'enregistrement sélectionné ?</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0013">
+      <Title />
+      <Message>Valeur invalide. "\", "^" ou "=" inutilisables ici.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0014">
+      <Title />
+      <Message>Valeur invalide. "\" ou "=" inutilisables ici.</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0015">
+      <Title />
+      <Message>Voulez-vous suspendre l'étude ?</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0016">
+      <Title>Recherche de code barre</Title>
+      <Message>Plusieurs études {0} existent avec les informations données.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="JMDomainExtender0001">
+      <Title>Ping-Status</Title>
+      <Message>Erfolgreich verbunden.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0002">
+      <Title>Ping-Status</Title>
+      <Message>Verbindung fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0003">
+      <Title />
+      <Message>Wenn der Lesevorgang bei Problemen unerwartet angehalten wird, kann dies zu Störungen wie Verschwinden des Bildes usw. führen. Reservieren Sie in diesem Fall den Scanvorgang und starten Sie den CS neu.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0004">
+      <Title />
+      <Message>Löschen des Jobs war nicht erfolgreich.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0005">
+      <Title />
+      <Message>Löschen des Jobs war erfolgreich.</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0006">
+      <Title />
+      <Message>Wechseln des JM. Kassettenregistrierung wird vollständig deaktiviert. Ist das OK?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

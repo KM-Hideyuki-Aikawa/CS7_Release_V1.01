@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ImageAcquisitionDomainExtender0000">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Είστε βέβαιοι ότι επιθυμείτε να απορρίψετε την εικόνα;</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0001">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Επανάληψη έκθεσης;</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender1001">
+      <Title>Προσοχή</Title>
+      <Message>Δεν είναι δυνατή η προσθήκη εκθέσεων πέρα από {MaxSize}.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0002">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Είστε βέβαιοι ότι επιθυμείτε να ακυρώσετε την απόρριψη;</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0003">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Δεν έχουν ληφθεί εικόνες.
+Είστε βέβαιοι ότι επιθυμείτε να ολοκληρώσετε τη μελέτη;</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0004">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Επιθυμείτε να συνεχίσετε τη μελέτη σε διαφορετικό δωμάτιο εξέτασης;</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0005">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Καταχωρίστηκε ένας γραμμικός κωδικός κασέτας με αυτήν την ετικέτα εξέτασης. 
+Είστε βέβαιοι ότι επιθυμείτε να διαγράψετε την καταχώριση του γραμμικού κωδικού;</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0006">
+      <Title>Σφάλμα</Title>
+      <Message>Παρουσιάστηκε σφάλμα κατά την ανάγνωση της εικόνας.
+Ελέγξτε το δίκτυο.
+Επανεκκινήστε τον αναγνώστη.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0007">
+      <Title>σφάλμα</Title>
+      <Message>Αναγνωριστικό ασθενούς: {PATIENTID}
+Όνομα ασθενούς: {PATIENTNAME}
+Όνομα αναγνώστη: {READERNAME}
+Η λήψη της εικόνας δεν ολοκληρώθηκε.
+Ελέγξτε το δίκτυο.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0008">
+      <Title>Προειδοποίηση</Title>
+      <Message>Όνομα αναγνώστη: {READERNAME}
+Είστε βέβαιοι ότι επιθυμείτε να ακυρώσετε τη λήψη της εικόνας;
+ Επανεκκινήστε τον αναγνώστη σε περίπτωση ακύρωσης της λήψης.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0009">
+      <Title>Σφάλμα</Title>
+      <Message>Ανάγνωση εικόνας σε εξέλιξη. Συνδεθείτε μετά από λίγο.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0010">
+      <Title>Σφάλμα</Title>
+      <Message>Δεν ήταν δυνατή η ολοκλήρωση της μελέτης.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0011">
+      <Title>Σφάλμα</Title>
+      <Message>Η αναστολή της μελέτης απέτυχε.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0012">
+      <Title>Σφάλμα</Title>
+      <Message>Αυτή η κασέτα προορίζεται για γενική έκθεση.
+Ελέγξτε την ετικέτα εξέτασης.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0013">
+      <Title>Σφάλμα</Title>
+      <Message>Αυτή η κασέτα προορίζεται για μαστογραφία επαφής.
+Ελέγξτε την ετικέτα εξέτασης.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0014">
+      <Title>Σφάλμα</Title>
+      <Message>Αυτή η κασέτα προορίζεται για μαστογραφία με μέθοδο αντίθεσης-φάσης (PCM).
+Ελέγξτε την ετικέτα εξέτασης.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0015">
+      <Title>Σφάλμα</Title>
+      <Message>Αυτή η κασέτα έχει ήδη καταχωριστεί.
+Καταχωρίστε μια διαφορετική κασέτα.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0016">
+      <Title>Προσοχή</Title>
+      <Message>Η ανάγνωση αυτής της κασέτας έχει ήδη ξεκινήσει.
+Δεν είναι δυνατή η διαγραφή της καταχώρισης γραμμικού κωδικού.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0017">
+      <Title>Προσοχή</Title>
+      <Message>Η ανάγνωση αυτής της κασέτας έχει ήδη ξεκινήσει.
+Δεν είναι δυνατή η διαγραφή των εργασιών που καταχωρίστηκαν σε λειτουργία χειροκίνητης καταχώρισης.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0018">
+      <Title>Προσοχή</Title>
+      <Message>Η ανάγνωση αυτής της κασέτας έχει ήδη ξεκινήσει.
+Δεν είναι δυνατή η διαγραφή των εργασιών που καταχωρίστηκαν σε λειτουργία αυτόματης καταχώρισης.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0019">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Είστε βέβαιοι ότι επιθυμείτε να αναστείλετε αυτήν τη μελέτη;</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0020">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Δεν έχουν ληφθεί εικόνες. Είστε βέβαιοι ότι επιθυμείτε να αλλάξετε την κατάσταση σε "Δεν έχει ξεκινήσει";</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0021">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Είστε βέβαιοι ότι επιθυμείτε να διαγράψετε την καταχώριση του γραμμικού κωδικού;</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0022">
+      <Title>Επανάληψη μεταφοράς εικόνας</Title>
+      <Message>Να γίνει διαγραφεί των εικόνων που δεν έχουν μεταφερθεί στην κονσόλα; [OK]: Διαγραφή [Άκυρο]: Επιστροφή χωρίς διαγραφή</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0023">
+      <Title>Επανάληψη μεταφοράς εικόνας</Title>
+      <Message>{READERNAME}: Κάποιες εικόνες δεν έχουν μεταφερθεί ακόμη. Θέλετε να διαγραφούν;</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0024">
+      <Title>Σφάλμα μεταφοράς εικόνας</Title>
+      <Message>{READERNAME}: Παρουσιάστηκε σφάλμα επικοινωνίας κατά τη μεταφορά εικόνας. Ελέγξτε την κατάσταση επικοινωνίας του καλωδίου επικοινωνίας.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0025">
+      <Title>Επανάληψη μεταφοράς εικόνας</Title>
+      <Message>{READERNAME}: Η συνθήκη λήψης εικόνας "{ImageAcquisitionConditionName}" δεν έχει μεταφερθεί ακόμη. Θέλετε να ανακτηθεί;</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0026">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Είστε βέβαιοι ότι επιθυμείτε να διαγράψετε την επιλεγμένη ετικέτα εξέτασης;</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0027">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Είστε βέβαιοι ότι επιθυμείτε να διαγράψετε αυτήν τη μελέτη;</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0028">
+      <Title>Σφάλμα</Title>
+      <Message>Προέκυψε λήξη χρονικού ορίου κατά τη μεταφορά εικόνας.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0029">
+      <Title />
+      <Message>Υπάρχει μια εικόνα που δεν έχει μεταφερθεί της συνθήκης "{ImageAcquisitionConditionName}".
+Δεν είναι δυνατή η επανάληψη λήψης της εικόνας λόγω διαφοράς στη μέθοδο εξέτασης. Ετικέτα της εικόνας.
+ Σε περίπτωση επανάληψης λήψης, αλλάξτε την κατάσταση του πίνακα ανάλογα με την ετικέτα εξέτασης.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0030">
+      <Title />
+      <Message>Η λήψη της εικόνας που δεν έχει μεταφερθεί απέτυχε.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0031">
+      <Title />
+      <Message>Η διαγραφής της εικόνας που δεν έχει μεταφερθεί απέτυχε.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0032">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Είστε βέβαιοι ότι επιθυμείτε να αναστείλετε αυτήν τη μελέτη;</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

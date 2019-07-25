@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1000">
+      <Title>Chyba připojení AeroDR XG BOX</Title>
+      <Message>Potvrďte připojení síťového vybavení a kabelů.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1001">
+      <Title>ní Chyba připojení AeroDR - AeroDR XG BOX</Title>
+      <Message>Potvrďte připojení síťového vybavení a kabelů.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1002">
+      <Title>Chyba synchronizace expozičního pole</Title>
+      <Message>Chyba nastavení expozičního pole.
+Zkontrolujte síťové připojení a dotkněte se této expoziční podmínky.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1003">
+      <Title>Chyba expozice</Title>
+      <Message>Chyba komunikace při expozici. Zkontrolujte síťové připojení a dotkněte se této expoziční podmínky.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1004">
+      <Title>Chyba aktualizace verze</Title>
+      <Message>Aktualizace verze neúspěšná.
+Zkontrolujte připojení a restartujte AeroDR Generator Interface Unit a CS-7.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1005">
+      <Title>Chyba hodnoty nastavení</Title>
+      <Message>Nastavení Dat nastavení bylo neúspěšné. 
+Zkontrolujte síťové připojení a zkuste znovu.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1006">
+      <Title>Chyba hodnoty nastavení</Title>
+      <Message>Získání Dat nastavení bylo neúspěšné. 
+Zkontrolujte síťové připojení a zkuste znovu.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1007">
+      <Title>Chyba nastavení synchronizace expozice</Title>
+      <Message>Chyba nastavení synchronizace expozice. Zkontrolujte síťové připojení a dotkněte se této expoziční podmínky.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2000">
+      <Title>Chyba spuštění[AeroDR XG]</Title>
+      <Message>chyba spuštění.
+Uvolněte spínač expozice.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2001">
+      <Title>Chyba spuštění[AeroDR XG]</Title>
+      <Message>Došlo k chybě spuštění.
+Uvolněte spínač expozice.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2002">
+      <Title>Chyba spuštění[AeroDR XG]</Title>
+      <Message>Došlo k chybě spuštění.
+Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2003">
+      <Title>Chyba spuštění[AeroDR XG]</Title>
+      <Message>Došlo k chybě spuštění.
+Uvolněte spínač expozice.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2004">
+      <Title>Chyba spuštění[AeroDR XG]</Title>
+      <Message>Došlo k chybě spuštění.
+Uvolněte spínač expozice.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2005">
+      <Title>Chyba spuštění[AeroDR XG]</Title>
+      <Message>Došlo k chybě spuštění.
+Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2006">
+      <Title>Chyba spuštění[AeroDR XG]</Title>
+      <Message>Došlo k chybě spuštění.
+Uvolněte spínač expozice.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2007">
+      <Title>Chyba spuštění[AeroDR XG]</Title>
+      <Message>Došlo k chybě spuštění.Uvolněte spínač expozice.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2008">
+      <Title>Chyba spuštění[AeroDR XG]</Title>
+      <Message>Došlo k chybě spuštění.
+Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2200">
+      <Title>Chyba expozice[AeroDR XG]</Title>
+      <Message>Došlo k chybě expozice rentgenového expozičního zařízení.Restartujte rentgenové expoziční zařízení a AeroDR Interface Unit.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2201">
+      <Title>Chyba expozice[AeroDR XG]</Title>
+      <Message>Došlo k chybě expozice rentgenového expozičního zařízení.Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2500">
+      <Title>Chyba expozice[AeroDR XG]</Title>
+      <Message>Došlo k interní chybě zařízení.
+Restartujte AeroDR Interface Unit.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2300">
+      <Title>Chyba expozice[AeroDR XG]</Title>
+      <Message>Došlo k interní chybě zařízení nebo k chybě komunikace.Restartujte AeroDR, Detektor, AeroDR Interface Unit a CS-7.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2301">
+      <Title>Chyba expozice[AeroDR XG]</Title>
+      <Message>Došlo k interní chybě zařízení nebo k chybě komunikace. Restartujte AeroDR, Detektor, AeroDR Interface Unit a CS-7.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2302">
+      <Title>Chyba expozice[AeroDR XG]</Title>
+      <Message>Došlo k interní chybě zařízení nebo k chybě komunikace.Restartujte AeroDR, Detektor, AeroDR Interface Unit a CS-7.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2400">
+      <Title>Chyba sítě AeroDR XG BOX</Title>
+      <Message>Resetujte AeroDR XG BOX.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2401">
+      <Title>Chyba sítě AeroDR XG BOX</Title>
+      <Message>Resetujte AeroDR XG BOX.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2402">
+      <Title>Chyba sítě AeroDR XG BOX</Title>
+      <Message>Resetujte AeroDR XG BOX.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2403">
+      <Title>Chyba sítě AeroDR XG BOX</Title>
+      <Message>Resetujte AeroDR XG BOX.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2501">
+      <Title>Chyba expozice[AeroDR XG]</Title>
+      <Message>Došlo k interní chybě zařízení nebo k chybě komunikace. Kontaktujte servisního zástupce.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4100">
+      <Title>Chyba expozice[AeroDR XG]</Title>
+      <Message>Spínač expozice není uvolněn. Uvolněte spínač expozice.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4101">
+      <Title>Chyba expozice[AeroDR XG]</Title>
+      <Message>Spínač expozice není uvolněn.
+Uvolněte spínač expozice.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4102">
+      <Title>Chyba expozice[AeroDR XG]</Title>
+      <Message>Spínač expozice není uvolněn.
+Uvolněte spínač expozice.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

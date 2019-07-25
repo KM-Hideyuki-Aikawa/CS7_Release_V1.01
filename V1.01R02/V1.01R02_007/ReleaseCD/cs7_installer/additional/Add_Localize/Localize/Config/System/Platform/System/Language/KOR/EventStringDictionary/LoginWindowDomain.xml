@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="LoginWindowDomain0000">
+      <Title />
+      <Message>사용자: "{USERNAME}"가 로그인한 상태입니다. 로그인하기 전 사용자: "{USERNAME}"를 로그오프해야 합니다. 사용자: "{USERNAME}"를 로그오프하시겠습니까?</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0001">
+      <Title />
+      <Message>잘못된 사용자 이름 또는 암호</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0002">
+      <Title>오류</Title>
+      <Message>로그인 취소</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0003">
+      <Title>오류</Title>
+      <Message>현재 사용자에 의해 시스템 전환이 불가능합니다. {ERRORS}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

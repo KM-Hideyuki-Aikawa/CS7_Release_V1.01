@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ApolloDomainExtender0001">
+      <Title>Statut du ping</Title>
+      <Message>Connexion réussie.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0002">
+      <Title>Statut du ping</Title>
+      <Message>Échec de connexion.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0003">
+      <Title>Confirmation</Title>
+      <Message>D'accord pour annuler l'enregistrement ?</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0004">
+      <Title>Erreur</Title>
+      <Message>Échec annulation de l'appareil.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0005">
+      <Title>Erreur</Title>
+      <Message>Traitement de requête impossible car l'appareil n'est pas sélectionné</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0006">
+      <Title>Information</Title>
+      <Message>Sans fil</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0007">
+      <Title>Information</Title>
+      <Message>Câblé</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

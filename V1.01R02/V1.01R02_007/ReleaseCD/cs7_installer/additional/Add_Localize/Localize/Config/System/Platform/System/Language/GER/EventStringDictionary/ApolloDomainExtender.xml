@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ApolloDomainExtender0001">
+      <Title>Ping-Status</Title>
+      <Message>Erfolgreich verbunden.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0002">
+      <Title>Ping-Status</Title>
+      <Message>Verbindung fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0003">
+      <Title>Bestätigung</Title>
+      <Message>OK zum Abbruch der Registrierung?</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0004">
+      <Title>Fehler</Title>
+      <Message>Geräteannullierung fehlgeschlagen.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0005">
+      <Title>Fehler</Title>
+      <Message>Anfrage kann nicht verarbeitet werden, da Gerät nicht ausgewählt.</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0006">
+      <Title>Information</Title>
+      <Message>Drahtlos</Message>
+    </EventString>
+    <EventString Key="ApolloDomainExtender0007">
+      <Title>Information</Title>
+      <Message>Verkabelt</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

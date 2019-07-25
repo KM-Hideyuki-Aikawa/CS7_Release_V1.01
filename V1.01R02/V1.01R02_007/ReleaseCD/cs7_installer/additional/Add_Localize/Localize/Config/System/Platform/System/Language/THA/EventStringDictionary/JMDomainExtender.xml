@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="JMDomainExtender0001">
+      <Title>สถานะ Ping</Title>
+      <Message>เชื่อมต่อสำเร็จแล้ว</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0002">
+      <Title>สถานะ Ping</Title>
+      <Message>เชื่อมต่อล้มเหลว</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0003">
+      <Title />
+      <Message>หากการอ่านหยุดชั่วคราวโดยไม่คาดคิดระหว่างมีปัญหา อาจก่อให้เกิดอุปสรรค เช่น ภาพหายไป และอื่นๆ เมื่อหยุดชั่วคราว ให้สงวนภาพสแกนและรีสตาร์ท CS</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0004">
+      <Title />
+      <Message>การลบงานไม่สำเร็จ</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0005">
+      <Title />
+      <Message>ลบงานสำเร็จ</Message>
+    </EventString>
+    <EventString Key="JMDomainExtender0006">
+      <Title />
+      <Message>การเปลี่ยน JM การลงทะเบียนตลับทึบแสงจะปิดใช้งานโดยสมบูรณ์ ทำได้หรือไม่</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

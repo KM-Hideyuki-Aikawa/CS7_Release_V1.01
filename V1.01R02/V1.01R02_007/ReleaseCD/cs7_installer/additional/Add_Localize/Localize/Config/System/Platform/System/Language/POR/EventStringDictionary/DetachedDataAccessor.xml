@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35540">
+      <Title>Erro de inicialização</Title>
+      <Message>Falha ao inicializar.</Message>
+    </EventString>
+    <EventString Key="35541">
+      <Title>Erro de leitura de ajuste</Title>
+      <Message>Ocorreu um erro ao ler o ficheiro de ajuste.</Message>
+    </EventString>
+    <EventString Key="35542">
+      <Title>Erro de timeout </Title>
+      <Message>Ocorreu um timeout.</Message>
+    </EventString>
+    <EventString Key="35543">
+      <Title>C35543</Title>
+      <Message />
+    </EventString>
+    <EventString Key="37350">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação DICOM. Contacte o suporte técnico. </Message>
+    </EventString>
+    <EventString Key="37351">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação DICOM. Contacte o suporte técnico. </Message>
+    </EventString>
+    <EventString Key="37352">
+      <Title>Erro interno</Title>
+      <Message>Falha ao adquirir ajuste de comunicação DICOM. Por favor confirme o ajuste de comunicação.</Message>
+    </EventString>
+    <EventString Key="37353">
+      <Title>Erro de comunicação</Title>
+      <Message>Falha na comunicação. Por favor confirme o ajuste de comunicação e se o servidor está a funcionar.</Message>
+    </EventString>
+    <EventString Key="37354">
+      <Title>Erro de comunicação</Title>
+      <Message>Falha em A-ASSOCIATE. Por favor confirme o ajuste de comunicação e se o servidor está a funcionar.</Message>
+    </EventString>
+    <EventString Key="37355">
+      <Title>Erro de comunicação</Title>
+      <Message>Rejeitado do servidor em A-ASSOCIATE por ajuste inválido. Por favor confirme o ajuste de comunicação.</Message>
+    </EventString>
+    <EventString Key="37356">
+      <Title>Erro de comunicação</Title>
+      <Message>Ocorreu erro interno na comunicação DICOM. Contacte o suporte técnico. </Message>
+    </EventString>
+    <EventString Key="37358">
+      <Title>Erro de comunicação</Title>
+      <Message>A-ABORT foi recebido. [{STATUS}][{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="37360">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação RIS-OUT. Contacte o suporte técnico. </Message>
+    </EventString>
+    <EventString Key="37361">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação RIS-OUT. Contacte o suporte técnico. </Message>
+    </EventString>
+    <EventString Key="37362">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação RIS-OUT. Contacte o suporte técnico. </Message>
+    </EventString>
+    <EventString Key="37363">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação RIS-OUT. Contacte o suporte técnico. </Message>
+    </EventString>
+    <EventString Key="37364">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação RIS-OUT. Contacte o suporte técnico. </Message>
+    </EventString>
+    <EventString Key="37698">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação RIS-OUT. Contacte o suporte técnico. </Message>
+    </EventString>
+    <EventString Key="37699">
+      <Title>Erro desconhecido</Title>
+      <Message>Ocorreu erro desconhecido.[{STATUS}]</Message>
+    </EventString>
+    <EventString Key="37662">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação HOST. Contacte o suporte técnico. </Message>
+    </EventString>
+    <EventString Key="37365">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação RIS-OUT. Contacte o suporte técnico. </Message>
+    </EventString>
+    <EventString Key="37366">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação RIS-OUT. Contacte o suporte técnico. </Message>
+    </EventString>
+    <EventString Key="37367">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação RIS-OUT. Contacte o suporte técnico. </Message>
+    </EventString>
+    <EventString Key="37368">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação RIS-OUT. Contacte o suporte técnico. </Message>
+    </EventString>
+    <EventString Key="37369">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação RIS-OUT. Contacte o suporte técnico. </Message>
+    </EventString>
+    <EventString Key="37370">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação RIS-OUT. Contacte o suporte técnico. </Message>
+    </EventString>
+    <EventString Key="37371">
+      <Title>Erro interno</Title>
+      <Message>Ocorreu erro interno na comunicação RIS-OUT. Contacte o suporte técnico. </Message>
+    </EventString>
+    <EventString Key="37680">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received permanent reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="37681">
+      <Title>Communication error</Title>
+      <Message>RIS-OUT communication received transient reject for A-ASSOCIATE request. </Message>
+    </EventString>
+    <EventString Key="27700">
+      <Title>Erro de comunicação</Title>
+      <Message>Ocorreu erro de comunicação na comunicação RIS-OUT. Verifique o destino da comunicação.</Message>
+    </EventString>
+    <EventString Key="27701">
+      <Title>Erro de comunicação</Title>
+      <Message>Ocorreu erro de comunicação na comunicação RIS-OUT. Verifique o destino da comunicação.</Message>
+    </EventString>
+    <EventString Key="27702">
+      <Title>Erro de comunicação</Title>
+      <Message>Ocorreu erro de comunicação na comunicação RIS-OUT. Verifique o destino da comunicação.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

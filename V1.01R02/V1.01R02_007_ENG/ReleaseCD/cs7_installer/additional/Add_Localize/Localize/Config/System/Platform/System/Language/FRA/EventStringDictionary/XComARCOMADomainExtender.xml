@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title />
+      <Message>Voulez-vous modifier la taille du corps, veuillez confirmer ?</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title />
+      <Message>Résultats d'exposition appliqués à plus d'une commande. Labels d'exam "{EXAM_TAGS_INFO}"</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title />
+      <Message>Impossible de trouver la commande correspondante pour appliquer les résultats d'exposition. Veuillez vérifier.</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title />
+      <Message>Impossible d'activer AEC pour condition d'exposition CR. D'accord pour éteindre l'AEC ?</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title />
+      <Message>Impossible de modifier la taille du patient pour certaine commande. Veuillez vérifier.</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title />
+      <Message>Voulez-vous écraser la taille du collimateur ?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

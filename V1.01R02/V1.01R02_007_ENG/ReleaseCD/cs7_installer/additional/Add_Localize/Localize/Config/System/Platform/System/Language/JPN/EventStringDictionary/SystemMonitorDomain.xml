@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="SystemMonitorDomain00001">
+      <Title>警告</Title>
+      <Message>（コンポーネント名）の（リーダー名）の使用期間がもうすぐ終了します。サービスエンジニアに電話してください。</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00002">
+      <Title>警告</Title>
+      <Message>（コンポーネント名）の使用期間がもうすぐ終了します。サービスエンジニアに電話してください。</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00003">
+      <Title>警告</Title>
+      <Message>（コンポーネント名）の（リーダー名）の使用期間が終了しています。サービスエンジニアに電話してください。</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00004">
+      <Title>警告</Title>
+      <Message>（コンポーネント名）の使用期間が終了しています。サービスエンジニアに電話してください。</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00005">
+      <Title />
+      <Message>システムを終了しますか？</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00006">
+      <Title>更新結果</Title>
+      <Message>更新成功</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00007">
+      <Title />
+      <Message>アプリケーションから正常にログアウトしました。</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00008">
+      <Title>エラー</Title>
+      <Message>ログアウト要求を処理できません。</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00009">
+      <Title>エラー</Title>
+      <Message>（ドメインエクステンダー名）を確認してください。プラグインがロードされていません。</Message>
+    </EventString>
+    <EventString Key="SystemMonitorDomain00010">
+      <Title />
+      <Message>ログオフします。よろしいですか？</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

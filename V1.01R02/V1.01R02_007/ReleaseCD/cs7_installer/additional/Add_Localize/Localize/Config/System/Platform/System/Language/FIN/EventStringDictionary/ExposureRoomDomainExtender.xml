@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ExposureRoomDomainExtender0001">
+      <Title>Vahvistus</Title>
+      <Message>Valotushuoneeksi vaihdetaan [valotushuone 2]. Onko OK? Jos [valotushuoneeseen 2] on liitetty konsoli, se poistetaan käytöstä. Tarkista, että [valotushuoneessa 2] ei ole valotusta. Se vaatii järjestelmän uudelleenkäynnistyksen vaihdon jälkeen. </Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0002">
+      <Title>Aktiivisen huoneen vaihto onnistui.</Title>
+      <Message>Aktiivinen huone on vaihdettu. Tämä vaatii sovelluksen käynnistämisen uudelleen</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0003">
+      <Title>Virhe vaihdettaessa huonetta.</Title>
+      <Message>Valotushuonetta ei voi vaihtaa, syy: [XXX].</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0004">
+      <Title>Vahvistus</Title>
+      <Message>Langaton käyttö otetaan käyttöön/pois käytöstä. OK?</Message>
+    </EventString>
+    <EventString Key="ExposureRoomDomainExtender0005">
+      <Title>Confirmation</Title>
+      <Message>Please wait till wireless switching happens.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

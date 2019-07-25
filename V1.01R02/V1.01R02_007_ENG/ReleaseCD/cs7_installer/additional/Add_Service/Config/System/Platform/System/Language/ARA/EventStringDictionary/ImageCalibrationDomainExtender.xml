@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title>تنبيه</Title>
+      <Message>الرجاء إدخال قيمة رقمية.</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title>تنبيه</Title>
+      <Message>الرجاء إدخال بيانات صالحة.</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title>خطأ</Title>
+      <Message>خطأ في بدء معايرة الكسب</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title>خطأ</Title>
+      <Message>خطأ في بدء معايرة الإزاحة</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title>تأكيد</Title>
+      <Message>هل تريد إجهاض عملية معايرة الكسب؟</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title>تأكيد</Title>
+      <Message>هل تريد إجهاض عملية معايرة الكسب؟</Message>
+    </EventString>
+    <EventString Key="0107">
+      <Title>تأكيد</Title>
+      <Message>هل تريد إجهاض عملية معايرة الكسب؟</Message>
+    </EventString>
+    <EventString Key="0108">
+      <Title>تأكيد</Title>
+      <Message>اكتملت معايرة الكسب بنجاح</Message>
+    </EventString>
+    <EventString Key="0109">
+      <Title>تأكيد</Title>
+      <Message>اكتملت معايرة الإزاحة بنجاح</Message>
+    </EventString>
+    <EventString Key="0110">
+      <Title>خطأ</Title>
+      <Message>فشلت معايرة الكسب</Message>
+    </EventString>
+    <EventString Key="0111">
+      <Title>خطأ</Title>
+      <Message>فشلت معايرة الإزاحة</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

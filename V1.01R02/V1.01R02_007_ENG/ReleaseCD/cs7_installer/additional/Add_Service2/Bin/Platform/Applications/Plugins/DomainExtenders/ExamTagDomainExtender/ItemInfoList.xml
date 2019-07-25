@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemInfo>
+  <!--<SettingMode>
+    <Mode>2</Mode>
+    <LayoutType>
+      <Type>1</Type>
+      <LargeLevel>
+        <ID>0x00000100</ID>
+        <Caption>Setting</Caption>
+        <MidLevel>
+          <ID>0x00000300</ID>
+          <Caption>Exam Tag</Caption>
+          <SmallLevel>
+            <ID>0x00000100</ID>
+            <Caption>ExamTag_Lite</Caption>
+          </SmallLevel>
+        </MidLevel>
+      </LargeLevel>
+    </LayoutType>
+  </SettingMode>-->
+<SettingMode>
+    <Mode>2</Mode>
+    <LayoutType>
+      <Type>1</Type>
+      <LargeLevel>
+        <ID>0x00000100</ID>
+        <Caption>Setting</Caption>
+        <MidLevel>
+          <ID>0x00000300</ID>
+          <Caption>Exam Tag</Caption>
+          <SmallLevel>
+            <ID>0x00000200</ID>
+            <Caption>ExamTag_PRO</Caption>
+          </SmallLevel>
+        </MidLevel>
+      </LargeLevel>
+    </LayoutType>
+  </SettingMode>
+</ItemInfo>

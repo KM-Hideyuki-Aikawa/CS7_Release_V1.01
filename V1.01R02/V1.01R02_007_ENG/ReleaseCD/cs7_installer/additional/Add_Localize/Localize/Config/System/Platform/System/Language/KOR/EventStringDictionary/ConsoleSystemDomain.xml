@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ConsoleSystemDomain0001">
+      <Title />
+      <Message>잔여 배터리 전원이 낮습니다. 배터리를 충전하십시오.</Message>
+    </EventString>
+    <EventString Key="ConsoleSystemDomain0003">
+      <Title />
+      <Message>낮은 배터리 전원으로 인해 이미지를 포착할 수 없습니다. 배터리를 충전하십시오.</Message>
+    </EventString>
+    <EventString Key="ConsoleSystemDomain0005">
+      <Title>등록 성공</Title>
+      <Message>다음 AeroDR이 등록되었습니다.
+AeroDR 이름: {DeviceName}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

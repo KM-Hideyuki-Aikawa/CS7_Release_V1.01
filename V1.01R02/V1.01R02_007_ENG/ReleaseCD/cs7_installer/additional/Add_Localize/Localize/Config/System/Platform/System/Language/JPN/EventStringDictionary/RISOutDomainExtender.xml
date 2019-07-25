@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="RISOutDomainExtender0001">
+      <Title>Ping 結果</Title>
+      <Message>接続に成功しました。</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0002">
+      <Title>Ping 結果</Title>
+      <Message>接続に失敗しました。</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0003">
+      <Title />
+      <Message>選択したキューを削除します。よろしいですか？</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0004">
+      <Title>注意</Title>
+      <Message>削除するキューを選択してください。</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0005">
+      <Title>確認</Title>
+      <Message>選択したキューを削除します。よろしいですか？</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0006">
+      <Title>情報</Title>
+      <Message>キューの削除に成功しました。</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0007">
+      <Title>エラー</Title>
+      <Message>キューの削除に失敗しました。</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

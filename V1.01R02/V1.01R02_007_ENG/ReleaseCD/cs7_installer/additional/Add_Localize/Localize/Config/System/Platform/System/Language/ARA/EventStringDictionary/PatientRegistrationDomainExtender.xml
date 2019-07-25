@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientRegistrationDomainExtender0001">
+      <Title>خطأ</Title>
+      <Message>العام الذي تم إدخاله غير صالح.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0002">
+      <Title>خطأ</Title>
+      <Message>الشهر الذي تم إدخاله غير صالح.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0003">
+      <Title>خطأ</Title>
+      <Message>اليوم الذي تم إدخاله غير صالح.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0004">
+      <Title>خطأ</Title>
+      <Message>القيمة المدخلة غير صالحة.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0005">
+      <Title>خطأ</Title>
+      <Message>لم يتم بلوغ العدد الأقصى للأحرف.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0006">
+      <Title>خطأ</Title>
+      <Message>لم يتم بلوغ العدد الأدنى للأحرف.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0007">
+      <Title>خطأ</Title>
+      <Message>أدخل رقماً.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0008">
+      <Title>خطأ</Title>
+      <Message>القيمة المدخلة غير صالحة</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0009">
+      <Title>خطأ</Title>
+      <Message>الرجاء إدخال الحرف الأبجدي الرقمي.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0010">
+      <Title>خطأ</Title>
+      <Message>مسموح بحروف كانا فقط.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0011">
+      <Title>خطأ</Title>
+      <Message>قيمة غير صالحة. لا يمكن استخدام "\" هنا.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0012">
+      <Title>خطأ</Title>
+      <Message>العام الذي تم إدخاله غير صالح.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0013">
+      <Title>خطأ</Title>
+      <Message>العام الذي تم إدخاله غير صالح.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0014">
+      <Title>خطأ</Title>
+      <Message>العام الذي تم إدخاله غير صالح. أدخل قيمة تساوي 1800 أو أعلى.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0015">
+      <Title>خطأ</Title>
+      <Message>خطأ نطاق التاريخ. الرجاء التحقق.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0016">
+      <Title>خطأ</Title>
+      <Message>الساعة المدخلة غير صالحة.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0017">
+      <Title>خطأ</Title>
+      <Message>الدقائق المدخلة غير صالحة.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0018">
+      <Title>خطأ</Title>
+      <Message>الثواني المدخلة غير صالحة.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0019">
+      <Title>خطأ</Title>
+      <Message>الرجاء إدخال عدد صحيح.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0020">
+      <Title>خطأ</Title>
+      <Message>حدث خطأ بالبحث</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0021">
+      <Title>تحذير</Title>
+      <Message>قد يؤدي تغيير معلومات المريض إلى أخطاء في مطابقة دراسة PACS. قم بتأكيد جميع البيانات المتغيرة فوراً على PACS.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0022">
+      <Title>تأكيد</Title>
+      <Message>PatientID إجباري، يرجى إدخال PatientID.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0023">
+      <Title>تأكيد</Title>
+      <Message>مُعرّف الدراسة إجباري، يرجي إدخال مُعرّف الدراسة.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0024">
+      <Title>تأكيد</Title>
+      <Message>PatientNameإجباري، يرجى إدخال PatientName.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0025">
+      <Title>تأكيد</Title>
+      <Message>PatientNameإجباري، يرجى إدخال PatientName.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0026">
+      <Title>تأكيد</Title>
+      <Message>PatientNameإجباري، يرجى إدخال PatientName.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0027">
+      <Title>تأكيد</Title>
+      <Message>النوع إجباري، يرجى إدخال النوع.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0028">
+      <Title>تأكيد</Title>
+      <Message>تاريخ الميلاد إجباري، يرجى إدخال تاريخ الميلاد.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0029">
+      <Title>خطأ</Title>
+      <Message>لا يمكن قراءة البطاقة الممغنطة. أعد تشغيل النظام.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0030">
+      <Title>خطأ</Title>
+      <Message>لم يتم إدخال الحقل الإجباري. الإجراء غير ممكن.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0031">
+      <Title>تأكيد</Title>
+      <Message>هناك صورة معروضة في الدراسة، هل تريد تحرير الدراسة؟</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0032">
+      <Title>تأكيد</Title>
+      <Message>هل توافق على إغلاق عرض الطبيب قيد التشغيل؟</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0033">
+      <Title>تأكيد</Title>
+      <Message>هل تريد إعادة تشغيل عرض الطبيب ؟ </Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0034">
+      <Title>تأكيد</Title>
+      <Message>سيتم إرجاع الدراسة إلى الحالة المعلقة. هل أنت موافق؟</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0035">
+      <Title>خطأ</Title>
+      <Message>ليست هناك دراسة مطابقة، معلومات المريض</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0036">
+      <Title>تأكيد</Title>
+      <Message>الدراسة موجودة بالفعل في قاعدة البيانات. هل تريد استخدام هذه الدراسة؟</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0037">
+      <Title>تأكيد</Title>
+      <Message>معلومات المريض موجودة بالفعل في قاعدة البيانات. هل تريد استخدام هذه المعلومات؟</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0038">
+      <Title>خطأ</Title>
+      <Message>لا يمكن تحديد مرضى متعددين.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0039">
+      <Title>خطأ</Title>
+      <Message>خطأ قاعدة البيانات - فشل طلب الإنشاء.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0040">
+      <Title>خطأ</Title>
+      <Message>حدث خطأ في تحديث قاعدة بيانات المريض.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0041">
+      <Title>خطأ</Title>
+      <Message>المريض المطابق غير موجود في قاعدة البيانات</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0042">
+      <Title>خطأ</Title>
+      <Message>هذا الحرف غير مسموح به</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0046">
+      <Title>خطأ</Title>
+      <Message>السنة المستقبلية غير ممكنة.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0047">
+      <Title>خطأ</Title>
+      <Message>الشهر المستقبلي غير ممكن.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0048">
+      <Title>خطأ</Title>
+      <Message>التاريخ المستقبلي غير ممكن.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0049">
+      <Title>خطأ</Title>
+      <Message>السنة المدخلة ليست سنة كبيسة. تحقق من التاريخ.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0052">
+      <Title>تأكيد</Title>
+      <Message>الطلب مسجل. هل تريد الاستبدال؟</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0053">
+      <Title>تأكيد</Title>
+      <Message>نفس مُعرف المريض: {0}،اسم المريض: {1}،النوع: {2}،DOB:{3} متوفر في قاعدة البيانات، هل تريد الاستبدال؟</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0054">
+      <Title>خطأ</Title>
+      <Message>قيمة غير صالحة. لا يمكن استخدام "\" أو "^" أو "=" هنا.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0055">
+      <Title>خطأ</Title>
+      <Message>قيمة غير صالحة. لا يمكن استخدام "\" أو "=" هنا.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0056">
+      <Title>خطأ</Title>
+      <Message>العملية غير ممكنة</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0057">
+      <Title>تأكيد</Title>
+      <Message>هل تريد أن تمسح الكل؟</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0058">
+      <Title>خطأ</Title>
+      <Message>الرجاء إدخال الحقول الإجبارية</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0059">
+      <Title>تأكيد</Title>
+      <Message>هل تريد تسجيل الدراسة؟</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0060">
+      <Title>خطأ</Title>
+      <Message>فشل التسجيل</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0061">
+      <Title>تأكيد</Title>
+      <Message>هل تريد استبدال البيانات؟</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0062">
+      <Title>خطأ</Title>
+      <Message>ليست هناك دراسة مطابقة، المريض.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0063">
+      <Title>خطأ</Title>
+      <Message>الرجاء إدخال المحتوى للبحث.</Message>
+    </EventString>
+    <EventString Key="PatientRegistrationDomainExtender0064">
+      <Title>خطأ</Title>
+      <Message>برجاء إدخال قيمة لكل من حقلي تاريخ المحتوى ووقت المحتوى</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

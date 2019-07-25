@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>0000</Key>
+      <Value>ДАЛЕЕ</Value>
+      <Comment />
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>0020</Key>
+      <Value>:</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>1</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>0040</Key>
+      <Value>Выбрать причину некачественности изображения</Value>
+      <Comment />
+      <Link />
+      <FontSize>14</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>6</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>0041</Key>
+      <Value>Отмена</Value>
+      <Comment />
+      <Link />
+      <FontSize>14</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>6</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>0042</Key>
+      <Value>ОК</Value>
+      <Comment />
+      <Link />
+      <FontSize>14</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>0043</Key>
+      <Value />
+      <Comment>写損理由（フォントサイズとフォント名のみ）</Comment>
+      <Link />
+      <FontSize>14</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1401</Key>
+      <Value>Подтвердить</Value>
+      <Comment>確認</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1402</Key>
+      <Value>s</Value>
+      <Comment>秒</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>1</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1403</Key>
+      <Value>th</Value>
+      <Comment>番目</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1404</Key>
+      <Value />
+      <Comment>撮影条件：グループ名称</Comment>
+      <Link />
+      <FontSize>13</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1405</Key>
+      <Value />
+      <Comment>撮影条件：条件名称</Comment>
+      <Link />
+      <FontSize>13</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1210</Key>
+      <Value>Исследование</Value>
+      <Comment>表示名称</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>4</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1212</Key>
+      <Value>Разрешение</Value>
+      <Comment>解像度</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>3</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1213</Key>
+      <Value>Размер</Value>
+      <Comment>サイズ</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>3</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1214</Key>
+      <Value>Направление</Value>
+      <Comment>向き</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1215</Key>
+      <Value>Положение сканирования</Value>
+      <Comment>読取位置</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>4</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1216</Key>
+      <Value>Некачественное изображение</Value>
+      <Comment>写損</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1217</Key>
+      <Value>Отмена</Value>
+      <Comment>取消</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1218</Key>
+      <Value>(Y)</Value>
+      <Comment>(才)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>3</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1219</Key>
+      <Value>(M)</Value>
+      <Comment>(ヶ月)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>4</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1220</Key>
+      <Value>(D)</Value>
+      <Comment>(日)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>3</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1221</Key>
+      <Value>(Y)</Value>
+      <Comment>(歳)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UIc</FontName>
+      <MaxNumber>3</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1222</Key>
+      <Value>(M)</Value>
+      <Comment>(ヶ月)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>4</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1223</Key>
+      <Value>(D)</Value>
+      <Comment>(日)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>3</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1224</Key>
+      <Value>Муж.</Value>
+      <Comment>男</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>1</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1225</Key>
+      <Value>Жен.</Value>
+      <Comment>女</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>1</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1226</Key>
+      <Value>Неизвестно</Value>
+      <Comment>不明</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1227</Key>
+      <Value>yyyyYMMMdd</Value>
+      <Comment>yyyy年MM月dd日</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>11</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1228</Key>
+      <Value>ggyyYMMMdd</Value>
+      <Comment>ggyy年MM月dd日</Comment>
+      <Link />
+      <FontSize>11</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>4</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1229</Key>
+      <Value>HHmmss</Value>
+      <Comment>HH時mm分ss秒</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>9</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1230</Key>
+      <Value>HHmm</Value>
+      <Comment>HH時mm分</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>segoe UI</FontName>
+      <MaxNumber>6</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_0</Key>
+      <Value>Ввод...</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_1</Key>
+      <Value>Разблокировка</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_2</Key>
+      <Value>Подготовка</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_3</Key>
+      <Value>Готово</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_4</Key>
+      <Value>Подключение...</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_5</Key>
+      <Value>Обработка...</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_6</Key>
+      <Value>Запуск</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_7</Key>
+      <Value>Обновление...</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_8</Key>
+      <Value>Остановка</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_9</Key>
+      <Value>Ошибка</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_10</Key>
+      <Value>Зарядка...</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_11</Key>
+      <Value>Пожалуйста, зарядите</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_12</Key>
+      <Value>Ожидание</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_13</Key>
+      <Value>Спящий режим</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_101</Key>
+      <Value>Передача</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_111</Key>
+      <Value>Панель не обнаружена</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_112</Key>
+      <Value>Следует проверить панель</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_113</Key>
+      <Value>Спящий режим</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_121</Key>
+      <Value>Подготовка</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ReaderStatus_131</Key>
+      <Value>Ожидание подготовки</Value>
+      <Comment />
+      <Link />
+      <FontSize>28</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>0</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

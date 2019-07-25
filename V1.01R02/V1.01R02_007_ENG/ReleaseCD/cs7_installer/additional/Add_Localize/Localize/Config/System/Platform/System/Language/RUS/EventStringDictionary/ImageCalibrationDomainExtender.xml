@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title>Внимание</Title>
+      <Message>Введите численное значение.</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title>Внимание</Title>
+      <Message>Введите действительные данные</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title>Ошибка</Title>
+      <Message>Ошибка запуска калибровки усиления</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title>Ошибка</Title>
+      <Message>Ошибка запуска калибровки смещения</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title>Подтверждение</Title>
+      <Message>Отменить процесс калибровки усиления?</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title>Подтверждение</Title>
+      <Message>Отменить процесс калибровки усиления??</Message>
+    </EventString>
+    <EventString Key="0107">
+      <Title>Подтверждение</Title>
+      <Message>Отменить процесс калибровки усиления?</Message>
+    </EventString>
+    <EventString Key="0108">
+      <Title>Подтверждение</Title>
+      <Message>Калибровка усиления завершена</Message>
+    </EventString>
+    <EventString Key="0109">
+      <Title>Подтверждение</Title>
+      <Message>Калибровка смещения завершена</Message>
+    </EventString>
+    <EventString Key="0110">
+      <Title>Ошибка</Title>
+      <Message>Не удалось выполнить калибровку усиления</Message>
+    </EventString>
+    <EventString Key="0111">
+      <Title>Ошибка</Title>
+      <Message>Не удалось выполнить калибровку смещения</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1000">
+      <Title>AeroDR XG BOX Verbindungsfehler</Title>
+      <Message>Bitte prüfen Sie die Netzwerkausrüstung und die Kabelverbindung.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1001">
+      <Title>AeroDR - AeroDR XG BOX Verbindungsfehler</Title>
+      <Message>Bitte prüfen Sie die Netzwerkausrüstung und die Kabelverbindung.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1002">
+      <Title>Belichtungsfeld-Synchronisationsfehler</Title>
+      <Message>Belichtungsfeld-Einstellfehler.
+Prüfen Sie die Netzwerkverbindung und berühren Sie diese Belichtungsbedingung.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1003">
+      <Title>Belichtungsfehler</Title>
+      <Message>Kommunikationsfehler bei Belichtung. Prüfen Sie die Netzwerkverbindung und diese Belichtungsbedingung.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1004">
+      <Title>Versions-Updatefehler</Title>
+      <Message>Versions-Update fehlgeschlagen.
+Prüfen Sie die Verbindung und starten die AeroDR Generator Interface Unit sowie CS-7 neu.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1005">
+      <Title>Fehler im Einstellwert</Title>
+      <Message>Einstellen der Daten fehlgeschlagen. 
+Prüfen Sie die Netzwerkverbindung und versuchen es erneut.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1006">
+      <Title>Fehler im Einstellwert</Title>
+      <Message>Abfrage der Einstelldaten fehlgeschlagen. 
+Prüfen Sie die Netzwerkverbindung und versuchen es erneut.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi1007">
+      <Title>Fehler in Belichtungssynchronisationseinstellung</Title>
+      <Message>Fehler in Belichtungssynchronisationseinstellung. Prüfen Sie die Netzwerkverbindung und berühren Sie diese Belichtungsbedingung.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2000">
+      <Title>[AeroDR XG] Startfehler</Title>
+      <Message>Startfehler.
+Geben Sie den Belichtungsschalter frei.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2001">
+      <Title>[AeroDR XG] Startfehler</Title>
+      <Message>Startfehler aufgetreten.
+Geben Sie den Belichtungsschalter frei.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2002">
+      <Title>[AeroDR XG] Startfehler</Title>
+      <Message>Startfehler aufgetreten.
+Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2003">
+      <Title>[AeroDR XG] Startfehler</Title>
+      <Message>Startfehler aufgetreten.
+Geben Sie den Belichtungsschalter frei.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2004">
+      <Title>[AeroDR XG] Startfehler</Title>
+      <Message>Startfehler aufgetreten.
+Geben Sie den Belichtungsschalter frei.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2005">
+      <Title>[AeroDR XG] Startfehler</Title>
+      <Message>Startfehler aufgetreten.
+Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2006">
+      <Title>[AeroDR XG] Startfehler</Title>
+      <Message>Startfehler aufgetreten.
+Geben Sie den Belichtungsschalter frei.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2007">
+      <Title>[AeroDR XG] Startfehler</Title>
+      <Message>Startfehler aufgetreten. Geben Sie den Belichtungsschalter frei.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2008">
+      <Title>[AeroDR XG] Startfehler</Title>
+      <Message>Startfehler aufgetreten.
+Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2200">
+      <Title>[AeroDR XG] Belichtungsfehler</Title>
+      <Message>Belichtungsverbindung zum Röntgengerät fehlerhaft. Starten Sie das Röntgengerät und die AeroDR Interface Unit neu.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2201">
+      <Title>[AeroDR XG] Belichtungsfehler</Title>
+      <Message>Belichtungsverbindung zum Röntgengerät fehlerhaft. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2500">
+      <Title>[AeroDR XG] Belichtungsfehler</Title>
+      <Message>Interner Gerätefehler aufgetreten.
+Starten Sie die AeroDR Interface Unit neu.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2300">
+      <Title>[AeroDR XG] Belichtungsfehler</Title>
+      <Message>Interner Gerätefehler oder Kommunikationsfehler aufgetreten. Starten Sie AeroDR Detector, AeroDR Interface Unit und CS-7 neu.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2301">
+      <Title>[AeroDR XG] Belichtungsfehler</Title>
+      <Message>Interner Gerätefehler oder Kommunikationsfehler aufgetreten. Starten Sie AeroDR Detector, AeroDR Interface Unit und CS-7 neu.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2302">
+      <Title>[AeroDR XG] Belichtungsfehler</Title>
+      <Message>Interner Gerätefehler oder Kommunikationsfehler aufgetreten. Starten Sie AeroDR Detector, AeroDR Interface Unit und CS-7 neu.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2400">
+      <Title>AeroDR XG BOX Netzwerkfehler</Title>
+      <Message>Starten Sie AeroDR XG BOX neu.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2401">
+      <Title>AeroDR XG BOX Netzwerkfehler</Title>
+      <Message>Starten Sie AeroDR XG BOX neu.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2402">
+      <Title>AeroDR XG BOX Netzwerkfehler</Title>
+      <Message>Starten Sie AeroDR XG BOX neu.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2403">
+      <Title>AeroDR XG BOX Netzwerkfehler</Title>
+      <Message>Starten Sie AeroDR XG BOX neu.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi2501">
+      <Title>[AeroDR XG] Belichtungsfehler</Title>
+      <Message>Interner Gerätefehler oder Kommunikationsfehler aufgetreten. Wenden Sie sich an den Kundendienst.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4100">
+      <Title>[AeroDR XG] Belichtungsfehler</Title>
+      <Message>Belichtungsschalter ist nicht freigegeben. Geben Sie den Belichtungsschalter frei.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4101">
+      <Title>[AeroDR XG] Belichtungsfehler</Title>
+      <Message>Belichtungsschalter ist nicht freigegeben.
+Geben Sie den Belichtungsschalter frei.</Message>
+    </EventString>
+    <EventString Key="XRayDeviceDataAccessorDrAgi4102">
+      <Title>[AeroDR XG] Belichtungsfehler</Title>
+      <Message>Belichtungsschalter ist nicht freigegeben.
+Geben Sie den Belichtungsschalter frei.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

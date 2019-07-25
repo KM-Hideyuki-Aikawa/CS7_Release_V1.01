@@ -1,0 +1,149 @@
+﻿<?xml version="1.0"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>InitializeMsg1</Key>
+      <Value>Please select the data to be initialized</Value>
+      <Comment>Please select the data to be initialized</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InitializeMsg2</Key>
+      <Value>Initialization would restore the shipment defaults</Value>
+      <Comment>Initialization would restore the shipment defaults</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Log</Key>
+      <Value>Log</Value>
+      <Comment>Log</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LogMsg</Key>
+      <Value>All Log（Maintenance Log,DB Log,Reader Log,Hipaa Log,Debug Log etc) will be deleted</Value>
+      <Comment>All Log（Maintenance Log,DB Log,Reader Log,Hipaa Log,Debug Log etc) will be deleted</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>LblSettings</Key>
+      <Value>Settings</Value>
+      <Comment>Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SettingsMsg</Key>
+      <Value>System Settings, device settings and DB(master) will be initialized</Value>
+      <Comment>System Settings, device settings and DB(master) will be initialized</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CorrectionData</Key>
+      <Value>Correction Data</Value>
+      <Comment>Correction Data</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CorrectionDataMsg</Key>
+      <Value>Correction data of DR Cassette ,CR Cassette will be deleted</Value>
+      <Comment>Correction data of DR Cassette ,CR Cassette will be deleted</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OperationData</Key>
+      <Value>Operation Data</Value>
+      <Comment>Operation Data</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OperationDataMsg</Key>
+      <Value>Images, DB(transactions) and maintenance data will be initialized</Value>
+      <Comment>Images, DB(transactions) and maintenance data will be initialized</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BtnInitialize</Key>
+      <Value>Initialize</Value>
+      <Comment>Initialize</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>BtnClose</Key>
+      <Value>Close</Value>
+      <Comment>Close</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InitializationCompletedMessage</Key>
+      <Value>Initialization process completed</Value>
+      <Comment>InitializationCompletedMessage</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MessageBoxTitle</Key>
+      <Value>Initialization</Value>
+      <Comment>MessageBoxTitle</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>InitializationConfirmationMessage</Key>
+      <Value>Are you sure you want to start Initialization process?</Value>
+      <Comment>InitializationConfirmationMessage</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DefaultSettingFolderNotAvailableMessage</Key>
+      <Value>Setting folders are not available in the DefaultSettings path, initialization process cannot be started.</Value>
+      <Comment>DefaultSettingFolderNotAvailableMessage</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>64</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

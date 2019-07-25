@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0001">
+      <Title>Error</Title>
+      <Message>Initialization Error</Message>
+    </EventString>
+    <EventString Key="0002">
+      <Title>Information</Title>
+      <Message>Merge Success</Message>
+    </EventString>
+    <EventString Key="0003">
+      <Title>Error</Title>
+      <Message>Directory Not Found</Message>
+    </EventString>
+    <EventString Key="0004">
+      <Title>Error</Title>
+      <Message>File Not Found</Message>
+    </EventString>
+    <EventString Key="0005">
+      <Title>Error</Title>
+      <Message>Sysntax Error</Message>
+    </EventString>
+    <EventString Key="0006">
+      <Title>Error</Title>
+      <Message>Error occurred in backup deletion</Message>
+    </EventString>
+    <EventString Key="0007">
+      <Title>Error</Title>
+      <Message>Error occurred in backup creation</Message>
+    </EventString>
+    <EventString Key="0008">
+      <Title>Error</Title>
+      <Message>Error occurred in accessing data</Message>
+    </EventString>
+    <EventString Key="0009">
+      <Title>Error</Title>
+      <Message>Error occurred in saving</Message>
+    </EventString>
+    <EventString Key="0010">
+      <Title>Error</Title>
+      <Message>Error occurred in finding index</Message>
+    </EventString>
+    <EventString Key="0011">
+      <Title>Error</Title>
+      <Message>Error occurred in append data</Message>
+    </EventString>
+    <EventString Key="0012">
+      <Title>Error</Title>
+      <Message>Error occurred in calibration data copying</Message>
+    </EventString>
+    <EventString Key="0013">
+      <Title>Error</Title>
+      <Message>Exception occurred</Message>
+    </EventString>
+    <EventString Key="0014">
+      <Title>Error</Title>
+      <Message>Exception occurred</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

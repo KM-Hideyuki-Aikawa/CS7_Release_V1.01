@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="LoginWindowDomain0000">
+      <Title />
+      <Message>ผู้ใช้: "{USERNAME}" เข้าสู่ระบบ ผู้ใช้: "{USERNAME}" ต้องออกจากระบบก่อนที่คุณจะเข้าสู่ระบบ ผู้ใช้ที่ออกจากระบบ: "{USERNAME}"?</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0001">
+      <Title />
+      <Message>ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0002">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ยกเลิกการเข้าสู่ระบบ</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0003">
+      <Title>ข้อผิดพลาด</Title>
+      <Message>ระบบไม่สามารถสลับโดยผู้ใช้ปัจจุบัน {ERRORS}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

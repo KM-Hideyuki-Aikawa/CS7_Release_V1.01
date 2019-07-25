@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemInfo>
+  <!--Simple & TreeStylel-->
+  
+  <!--Detail & TreeStylel-->
+ 
+  <!--UserTool & TreeStylel-->
+  
+  <!--Simple & TileStylel-->
+ 
+  <!--Detail & TileStylel-->
+  
+  <!--UserTool & TileStylel-->
+  <SettingMode>
+    <Mode>2</Mode>
+    <LayoutType>
+      <Type>1</Type>
+      <LargeLevel>
+        <ID>0x00000200</ID>
+        <Caption>Backup/Restore</Caption>
+        <MidLevel>
+          <ID>0x00000200</ID>
+          <Caption>Restore</Caption>
+          <SmallLevel>
+            <ID>0x00000200</ID>
+            <Caption>Restore</Caption>
+          </SmallLevel>
+        </MidLevel>
+      </LargeLevel>
+    </LayoutType>
+  </SettingMode>
+</ItemInfo>

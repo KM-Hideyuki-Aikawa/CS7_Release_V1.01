@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title>Erro</Title>
+      <Message>Caracter inválido, Por favor insira o caracter correto.</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title>Erro</Title>
+      <Message>Por favor ajuste a tensão do tubo entre 1 e 999.</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title>Confirmação</Title>
+      <Message>Pretende guardar as alterações?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

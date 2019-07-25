@@ -1,0 +1,1637 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="MES04001">
+      <Title>ข้อผิดพลาดของ CR </Title>
+      <Message>NG เซ็นเซอร์ HP1(ชุดลำเลียง)</Message>
+    </EventString>
+    <EventString Key="MES04002">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP1(ชุดลำเลียง) </Message>
+    </EventString>
+    <EventString Key="MES04011">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP2(ชุดลำเลียง) </Message>
+    </EventString>
+    <EventString Key="MES04012">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP2(ชุดลำเลียง) </Message>
+    </EventString>
+    <EventString Key="MES04013">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP2(ชุดลำเลียง) </Message>
+    </EventString>
+    <EventString Key="MES04014">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP2(ชุดลำเลียง) </Message>
+    </EventString>
+    <EventString Key="MES04015">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP2(ชุดลำเลียง) </Message>
+    </EventString>
+    <EventString Key="MES04020">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์การจัดตำแหน่ง(เริ่ม) </Message>
+    </EventString>
+    <EventString Key="MES04021">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์การจัดตำแหน่ง(ตัวป้อน) </Message>
+    </EventString>
+    <EventString Key="MES04022">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์การจัดตำแหน่ง(ยึดเกาะ) </Message>
+    </EventString>
+    <EventString Key="MES04023">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์การจัดตำแหน่ง(กำบัง) </Message>
+    </EventString>
+    <EventString Key="MES04024">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์การจัดตำแหน่ง(คายประจุ) </Message>
+    </EventString>
+    <EventString Key="MES04025">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์การจัดตำแหน่ง </Message>
+    </EventString>
+    <EventString Key="MES04026">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์การจัดตำแหน่งด้านซ้าย(เตรียมใช้) </Message>
+    </EventString>
+    <EventString Key="MES04027">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์การจัดตำแหน่งด้านขวา(เตรียมใช้) </Message>
+    </EventString>
+    <EventString Key="MES04030">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับอุปกรณ์ยก(เริ่ม) </Message>
+    </EventString>
+    <EventString Key="MES04031">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับอุปกรณ์ยก(ตัวป้อน) </Message>
+    </EventString>
+    <EventString Key="MES04032">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับอุปกรณ์ยก(ยึดเกาะ) </Message>
+    </EventString>
+    <EventString Key="MES04033">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับอุปกรณ์ยก(กำบัง) </Message>
+    </EventString>
+    <EventString Key="MES04034">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับอุปกรณ์ยก(ก่อนยก) </Message>
+    </EventString>
+    <EventString Key="MES04035">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ล็อค </Message>
+    </EventString>
+    <EventString Key="MES04036">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP อุปกรณ์ยก </Message>
+    </EventString>
+    <EventString Key="MES04037">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับอุปกรณ์ยก(หลังยก) </Message>
+    </EventString>
+    <EventString Key="MES04041">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์เปิดชัตเตอร์ของตัวป้อน </Message>
+    </EventString>
+    <EventString Key="MES04042">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ปิดชัตเตอร์ของตัวป้อน </Message>
+    </EventString>
+    <EventString Key="MES04043">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์เปิดชัตเตอร์ของตัวป้อน </Message>
+    </EventString>
+    <EventString Key="MES04044">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ปิดชัตเตอร์ของตัวป้อน </Message>
+    </EventString>
+    <EventString Key="MES04045">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์แผ่นครอบด้านหลังตลับทึบแสง </Message>
+    </EventString>
+    <EventString Key="MES04046">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับการโค้งงอของแผ่นด้านหลัง </Message>
+    </EventString>
+    <EventString Key="MES04047">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับการยึดเกาะของแผ่นด้านหลัง </Message>
+    </EventString>
+    <EventString Key="MES04048">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ปิดชัตเตอร์การดีดออก </Message>
+    </EventString>
+    <EventString Key="MES04051">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ปิดชัตเตอร์ของตัวคายประจุ </Message>
+    </EventString>
+    <EventString Key="MES04061">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP สแกนช้า </Message>
+    </EventString>
+    <EventString Key="MES04062">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับการยึดเกาะของแผ่นด้านหลัง </Message>
+    </EventString>
+    <EventString Key="MES04063">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับการโค้งงอของแผ่นด้านหลัง </Message>
+    </EventString>
+    <EventString Key="MES04064">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ V-Sync </Message>
+    </EventString>
+    <EventString Key="MES04065">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับการยึดเกาะของแผ่นด้านหลัง </Message>
+    </EventString>
+    <EventString Key="MES04066">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับการยึดเกาะของแผ่นด้านหลัง </Message>
+    </EventString>
+    <EventString Key="MES04067">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับการยึดเกาะของแผ่นด้านหลัง </Message>
+    </EventString>
+    <EventString Key="MES04068">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับการยึดเกาะของแผ่นด้านหลัง </Message>
+    </EventString>
+    <EventString Key="MES04069">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับการยึดเกาะของแผ่นด้านหลัง </Message>
+    </EventString>
+    <EventString Key="MES04070">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับการยึดเกาะของแผ่นด้านหลัง </Message>
+    </EventString>
+    <EventString Key="MES04071">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับตรงกลางของตัวป้อน </Message>
+    </EventString>
+    <EventString Key="MES04072">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับด้านซ้ายของตัวป้อน </Message>
+    </EventString>
+    <EventString Key="MES04073">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์แผ่นครอบด้านหลังตลับทึบแสง(เตรียมใช้) </Message>
+    </EventString>
+    <EventString Key="MES04074">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับการโค้งงอของแผ่นด้านหลัง(เตรียมใช้) </Message>
+    </EventString>
+    <EventString Key="MES04075">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับการยึดเกาะของแผ่นด้านหลัง(เตรียมใช้) </Message>
+    </EventString>
+    <EventString Key="MES04076">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG กำลังไฟ 24V(ตามปกติ) </Message>
+    </EventString>
+    <EventString Key="MES04077">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG กำลังไฟ 24V(ปิดฝาครอบ) </Message>
+    </EventString>
+    <EventString Key="MES04081">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับกระแสไฟของไฟล้างภาพ 1 </Message>
+    </EventString>
+    <EventString Key="MES04082">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับกระแสไฟของไฟล้างภาพ 2 </Message>
+    </EventString>
+    <EventString Key="MES04091">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์เปิดฝาครอบหน้า </Message>
+    </EventString>
+    <EventString Key="MES04101">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG มอเตอร์สแกนช้า </Message>
+    </EventString>
+    <EventString Key="MES04102">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG มอเตอร์ชุดลำเลียง </Message>
+    </EventString>
+    <EventString Key="MES04103">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG มอเตอร์อุปกรณ์ยก </Message>
+    </EventString>
+    <EventString Key="MES04104">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG มอเตอร์การจัดตำแหน่ง </Message>
+    </EventString>
+    <EventString Key="MES04105">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาเปิด/ปิดชัตเตอร์ของตัวป้อน </Message>
+    </EventString>
+    <EventString Key="MES04106">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาล็อค </Message>
+    </EventString>
+    <EventString Key="MES04107">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG มอเตอร์โหลด </Message>
+    </EventString>
+    <EventString Key="MES04150">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>การประมวลผลเตรียมใช้ของล็อค </Message>
+    </EventString>
+    <EventString Key="MES04151">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>การประมวลผลเตรียมใช้ของชัตเตอร์ของตัวป้อน </Message>
+    </EventString>
+    <EventString Key="MES04152">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>การประมวลผลเตรียมใช้ของอุปกรณ์ยก </Message>
+    </EventString>
+    <EventString Key="MES04153">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>การประมวลผลเตรียมใช้การจัดตำแหน่ง </Message>
+    </EventString>
+    <EventString Key="MES04154">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>การประมวลผลเตรียมใช้ชุดลำเลียง </Message>
+    </EventString>
+    <EventString Key="MES04155">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>การประมวลผลเตรียมใช้สแกนช้า </Message>
+    </EventString>
+    <EventString Key="MES04156">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เริ่มการดำเนินการถ่ายโอน 1 </Message>
+    </EventString>
+    <EventString Key="MES04157">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เริ่มการดำเนินการถ่ายโอน 2 </Message>
+    </EventString>
+    <EventString Key="MES04158">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เริ่มการดำเนินการคายประจุของตัวป้อน </Message>
+    </EventString>
+    <EventString Key="MES04159">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เริ่มการดำเนินการคายประจุ </Message>
+    </EventString>
+    <EventString Key="MES04160">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เปิดชัตเตอร์ของตัวป้อน </Message>
+    </EventString>
+    <EventString Key="MES04161">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ปิดชัตเตอร์ของตัวป้อน </Message>
+    </EventString>
+    <EventString Key="MES04162">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เริ่มล็อค </Message>
+    </EventString>
+    <EventString Key="MES04163">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เวลาตรวจจับตลับทึบแสงตกหล่น </Message>
+    </EventString>
+    <EventString Key="MES04164">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ไม่ได้แจ้งสิทธิอนุญาตให้เปิดไฟล้างภาพ </Message>
+    </EventString>
+    <EventString Key="MES04165">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ไม่ได้แจ้งสิทธิอนุญาตให้ปิดไฟล้างภาพ </Message>
+    </EventString>
+    <EventString Key="MES04167">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>การประมวลผลเตรียมใช้มอเตอร์โหลด </Message>
+    </EventString>
+    <EventString Key="MES04200">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ GetStatus(เตรียมใช้) </Message>
+    </EventString>
+    <EventString Key="MES04201">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ GetStatus(พร้อมใช้) </Message>
+    </EventString>
+    <EventString Key="MES04202">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ GetStatus(ตรวจจับบาร์โค้ด) </Message>
+    </EventString>
+    <EventString Key="MES04203">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ GetStatus(เปิดแรงดันไฟฟ้าสูง) </Message>
+    </EventString>
+    <EventString Key="MES04204">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ GetStatus(เปิดเลเซอร์) </Message>
+    </EventString>
+    <EventString Key="MES04205">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ GetStatus(ยกเลิกบาร์โค้ด) </Message>
+    </EventString>
+    <EventString Key="MES04206">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ GetStatus(ประมวลผล) </Message>
+    </EventString>
+    <EventString Key="MES04207">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ GetStatus(หยุดชั่วคราว) </Message>
+    </EventString>
+    <EventString Key="MES04208">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ GetStatus(เปิดฝาครอบหน้า) </Message>
+    </EventString>
+    <EventString Key="MES04209">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ GetStatus(ปิดฝาครอบหน้า) </Message>
+    </EventString>
+    <EventString Key="MES04210">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ GetStatus(ผิดพลาด) </Message>
+    </EventString>
+    <EventString Key="MES04211">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ GetStatus(สแตนด์บาย) </Message>
+    </EventString>
+    <EventString Key="MES04212">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ GetStatus(การลำเลียงของโหมดล้างภาพ) </Message>
+    </EventString>
+    <EventString Key="MES04213">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ GetStatus(ปิดเครื่องหลังจากพร้อมใช้) </Message>
+    </EventString>
+    <EventString Key="MES04214">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับการลงทะเบียนปกติดี </Message>
+    </EventString>
+    <EventString Key="MES04215">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ได้รับ GetStatus ผิดพลาด(เปิดเลเซอร์) </Message>
+    </EventString>
+    <EventString Key="MES04216">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ GoBackward </Message>
+    </EventString>
+    <EventString Key="MES04217">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>เปิดเลเซอร์โดยไม่เปิดการส่งแรงดันไฟฟ้าสูง(1) </Message>
+    </EventString>
+    <EventString Key="MES04218">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>เปิดเลเซอร์โดยไม่เปิดการส่งแรงดันไฟฟ้าสูง(2) </Message>
+    </EventString>
+    <EventString Key="MES04219">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>คำสั่งไม่ถูกต้อง </Message>
+    </EventString>
+    <EventString Key="MES04221">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ StartSubScan </Message>
+    </EventString>
+    <EventString Key="MES04900">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>มีตลับทึบแสงอยู่(อุปกรณ์ยก) </Message>
+    </EventString>
+    <EventString Key="MES04901">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>มีตลับทึบแสงอยู่(จัดตำแหน่ง) </Message>
+    </EventString>
+    <EventString Key="MES04902">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>มีตลับทึบแสงอยู่(เปิดฝาครอบตัวคายประจุ) </Message>
+    </EventString>
+    <EventString Key="MES04903">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>มีตลับทึบแสงอยู่(ยึดเกาะแผ่นด้านหลัง) </Message>
+    </EventString>
+    <EventString Key="MES04904">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ปิดไฟล้างภาพ(2) </Message>
+    </EventString>
+    <EventString Key="MES04905">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดในการสื่อสาร SCB </Message>
+    </EventString>
+    <EventString Key="MES04906">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ตลับทึบแสงโค้งงอ[%s] </Message>
+    </EventString>
+    <EventString Key="MES04907">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>การเปิดตลับทึบแสงผิดพลาด[%s] </Message>
+    </EventString>
+    <EventString Key="MES04908">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ตลับทึบแสงตกหล่น[%s] </Message>
+    </EventString>
+    <EventString Key="MES04909">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>การตรวจจับช่องว่างตลับทึบแสง(แผ่นแม่เหล็กไฟฟ้าด้านหลัง) </Message>
+    </EventString>
+    <EventString Key="MES04910">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>การตรวจจับช่องว่างตลับทึบแสง(การหลุดลอกของตลับทึบแสง) </Message>
+    </EventString>
+    <EventString Key="MES04914">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>การเปิดการดึงภาพ (เตรียมใช้) </Message>
+    </EventString>
+    <EventString Key="MES04917">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เปิดชัตเตอร์ของตัวป้อน(ปลดล็อค) </Message>
+    </EventString>
+    <EventString Key="MES04918">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG 1 การยกเลิกการเชื่อมต่อ FAN </Message>
+    </EventString>
+    <EventString Key="MES04920">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG 3 การยกเลิกการเชื่อมต่อ FAN </Message>
+    </EventString>
+    <EventString Key="MES04921">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ไฟล้างภาพ </Message>
+    </EventString>
+    <EventString Key="MES06000">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP จัสติไฟเออร์ (ย้ายไปยัง HP) </Message>
+    </EventString>
+    <EventString Key="MES06001">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์จัสติไฟเออร์ (ย้ายไปยัง HP) </Message>
+    </EventString>
+    <EventString Key="MES06002">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP จัสติไฟเออร์ (ตำแหน่งยึดตลับทึบแสง) </Message>
+    </EventString>
+    <EventString Key="MES06003">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์จัสติไฟเออร์ (ตำแหน่งยึดตลับทึบแสง) </Message>
+    </EventString>
+    <EventString Key="MES06004">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์จัสติไฟเออร์ (ตำแหน่งรองรับตลับทึบแสง) </Message>
+    </EventString>
+    <EventString Key="MES06005">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์จัสติไฟเออร์ (ตำแหน่งยึดตลับทึบแสง -2) </Message>
+    </EventString>
+    <EventString Key="MES06006">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP จัสติไฟเออร์ (ย้ายไปยัง HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06007">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์จัสติไฟเออร์ (ย้ายไปยัง HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06008">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP จัสติไฟเออร์ (ย้ายไปยัง HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06009">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์จัสติไฟเออร์ (ย้ายไปยัง HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06010">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP จัสติไฟเออร์ (ตำแหน่งรองรับตลับทึบแสง) </Message>
+    </EventString>
+    <EventString Key="MES06011">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์จัสติไฟเออร์ (ตำแหน่งรองรับตลับทึบแสง -2) </Message>
+    </EventString>
+    <EventString Key="MES06015">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP จัสติไฟเออร์ (ย้ายไปยัง HP) </Message>
+    </EventString>
+    <EventString Key="MES06016">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์จัสติไฟเออร์ (ย้ายไปยัง HP) </Message>
+    </EventString>
+    <EventString Key="MES06017">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP จัสติไฟเออร์ (ตำแหน่งยึดตลับทึบแสง) </Message>
+    </EventString>
+    <EventString Key="MES06018">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์จัสติไฟเออร์ (ตำแหน่งยึดตลับทึบแสง) </Message>
+    </EventString>
+    <EventString Key="MES06019">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์จัสติไฟเออร์ (ตำแหน่งรองรับตลับทึบแสง) </Message>
+    </EventString>
+    <EventString Key="MES06020">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์จัสติไฟเออร์ (ตำแหน่งยึดตลับทึบแสง -2) </Message>
+    </EventString>
+    <EventString Key="MES06021">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP จัสติไฟเออร์ (ย้ายไปยัง HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06022">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์จัสติไฟเออร์ (ย้ายไปยัง HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06023">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP จัสติไฟเออร์ (ย้ายไปยัง HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06024">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์จัสติไฟเออร์ (ย้ายไปยัง HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06025">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP จัสติไฟเออร์ (ตำแหน่งรองรับตลับทึบแสง) </Message>
+    </EventString>
+    <EventString Key="MES06026">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์จัสติไฟเออร์ (ตำแหน่งรองรับตลับทึบแสง -2) </Message>
+    </EventString>
+    <EventString Key="MES06030">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP จัสติไฟเออร์ (ย้ายไปยัง HP) </Message>
+    </EventString>
+    <EventString Key="MES06031">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์จัสติไฟเออร์ (ย้ายไปยัง HP) </Message>
+    </EventString>
+    <EventString Key="MES06032">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP จัสติไฟเออร์ (ตำแหน่งยึดตลับทึบแสง) </Message>
+    </EventString>
+    <EventString Key="MES06033">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์จัสติไฟเออร์ (ตำแหน่งยึดตลับทึบแสง) </Message>
+    </EventString>
+    <EventString Key="MES06034">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์จัสติไฟเออร์ (ตำแหน่งรองรับตลับทึบแสง) </Message>
+    </EventString>
+    <EventString Key="MES06035">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์จัสติไฟเออร์ (ตำแหน่งยึดตลับทึบแสง -2) </Message>
+    </EventString>
+    <EventString Key="MES06036">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP จัสติไฟเออร์ (ย้ายไปยัง HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06037">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์จัสติไฟเออร์ (ย้ายไปยัง HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06038">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP จัสติไฟเออร์ (ย้ายไปยัง HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06039">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์จัสติไฟเออร์ (ย้ายไปยัง HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06040">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP จัสติไฟเออร์ (ตำแหน่งรองรับตลับทึบแสง) </Message>
+    </EventString>
+    <EventString Key="MES06041">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์จัสติไฟเออร์ (ตำแหน่งรองรับตลับทึบแสง -2) </Message>
+    </EventString>
+    <EventString Key="MES06050">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ตัวรับสัญญาณ (ย้ายไปยัง HP) </Message>
+    </EventString>
+    <EventString Key="MES06051">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์อุปกรณ์ยก (ย้ายไปยัง HP) </Message>
+    </EventString>
+    <EventString Key="MES06052">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ตัวรับสัญญาณ (ตำแหน่ง 1) </Message>
+    </EventString>
+    <EventString Key="MES06053">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์อุปกรณ์ยก (ตำแหน่ง 1) </Message>
+    </EventString>
+    <EventString Key="MES06054">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์อุปกรณ์ยก (ตำแหน่ง 2) </Message>
+    </EventString>
+    <EventString Key="MES06055">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์อุปกรณ์ยก (ต่ำลงเล็กน้อยที่ตำแหน่ง 2) </Message>
+    </EventString>
+    <EventString Key="MES06056">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์อุปกรณ์ยก (ตำแหน่ง 1 -2) </Message>
+    </EventString>
+    <EventString Key="MES06057">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ตัวรับสัญญาณ (ย้ายไปยัง HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06058">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์อุปกรณ์ยก (ย้ายไปยัง HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06059">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ตัวรับสัญญาณ (ย้ายไปยัง HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06060">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์อุปกรณ์ยก (ย้ายไปยัง HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06061">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ตัวรับสัญญาณ (ย้ายไปยังตำแหน่ง 2) </Message>
+    </EventString>
+    <EventString Key="MES06062">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์อุปกรณ์ยก (ตำแหน่ง 2 -2) </Message>
+    </EventString>
+    <EventString Key="MES06065">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ตัวรับสัญญาณ (ย้ายไปยัง HP) </Message>
+    </EventString>
+    <EventString Key="MES06066">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์อุปกรณ์ยก (ย้ายไปยัง HP) </Message>
+    </EventString>
+    <EventString Key="MES06067">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ตัวรับสัญญาณ (ตำแหน่ง 1) </Message>
+    </EventString>
+    <EventString Key="MES06068">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์อุปกรณ์ยก (ตำแหน่ง 1) </Message>
+    </EventString>
+    <EventString Key="MES06069">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์อุปกรณ์ยก (ตำแหน่ง 2) </Message>
+    </EventString>
+    <EventString Key="MES06070">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์อุปกรณ์ยก (ต่ำลงเล็กน้อยที่ตำแหน่ง 2) </Message>
+    </EventString>
+    <EventString Key="MES06071">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์อุปกรณ์ยก (ตำแหน่ง 1 -2) </Message>
+    </EventString>
+    <EventString Key="MES06072">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ตัวรับสัญญาณ (ย้ายไปยัง HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06073">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์อุปกรณ์ยก (ย้ายไปยัง HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06074">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ตัวรับสัญญาณ (ย้ายไปยัง HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06075">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์อุปกรณ์ยก (ย้ายไปยัง HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06076">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ตัวรับสัญญาณ (ตำแหน่ง 2) </Message>
+    </EventString>
+    <EventString Key="MES06077">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์อุปกรณ์ยก (ตำแหน่ง 2 -2) </Message>
+    </EventString>
+    <EventString Key="MES06080">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ตัวรับสัญญาณ (ย้ายไปยัง HP) </Message>
+    </EventString>
+    <EventString Key="MES06081">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์อุปกรณ์ยก (ย้ายไปยัง HP) </Message>
+    </EventString>
+    <EventString Key="MES06082">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ตัวรับสัญญาณ (ตำแหน่ง 1) </Message>
+    </EventString>
+    <EventString Key="MES06083">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์อุปกรณ์ยก (ตำแหน่ง 1) </Message>
+    </EventString>
+    <EventString Key="MES06084">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์อุปกรณ์ยก (ตำแหน่ง 2) </Message>
+    </EventString>
+    <EventString Key="MES06085">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์อุปกรณ์ยก (ต่ำลงเล็กน้อยที่ตำแหน่ง 2) </Message>
+    </EventString>
+    <EventString Key="MES06086">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์อุปกรณ์ยก (ตำแหน่ง 1 -2) </Message>
+    </EventString>
+    <EventString Key="MES06087">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ตัวรับสัญญาณ (ย้ายไปยัง HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06088">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์อุปกรณ์ยก (ย้ายไปยัง HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06089">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ตัวรับสัญญาณ (ย้ายไปยัง HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06090">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์อุปกรณ์ยก (ย้ายไปยัง HP -3) </Message>
+    </EventString>
+    <EventString Key="MES06091">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ตัวรับสัญญาณ (ตำแหน่ง 2) </Message>
+    </EventString>
+    <EventString Key="MES06092">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์อุปกรณ์ยก (ตำแหน่ง 2 -2) </Message>
+    </EventString>
+    <EventString Key="MES06100">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตัวลำเลียง (ตำแหน่งการอ่าน) </Message>
+    </EventString>
+    <EventString Key="MES06101">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์ตัวลำเลียง (ตำแหน่งการอ่าน) </Message>
+    </EventString>
+    <EventString Key="MES06102">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตัวลำเลียง (ย้ายไปยัง HP) </Message>
+    </EventString>
+    <EventString Key="MES06103">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ตัวลำเลียง (ย้ายไปยัง HP) </Message>
+    </EventString>
+    <EventString Key="MES06104">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์ตัวลำเลียง (ย้ายไปยัง HP) </Message>
+    </EventString>
+    <EventString Key="MES06105">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ตัวลำเลียง (ตำแหน่งการกด) </Message>
+    </EventString>
+    <EventString Key="MES06106">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์ตัวลำเลียง (ตำแหน่งการกด) </Message>
+    </EventString>
+    <EventString Key="MES06107">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตัวลำเลียง (ตำแหน่งการอ่าน 2) </Message>
+    </EventString>
+    <EventString Key="MES06108">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์ตัวลำเลียง (ตำแหน่งการอ่าน 2) </Message>
+    </EventString>
+    <EventString Key="MES06109">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตัวลำเลียง (ตำแหน่งการกด 2) </Message>
+    </EventString>
+    <EventString Key="MES06110">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์ตัวลำเลียง (ตำแหน่งการกด 2) </Message>
+    </EventString>
+    <EventString Key="MES06111">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์ตัวลำเลียง (ตำแหน่งการส่งผ่าน HP) </Message>
+    </EventString>
+    <EventString Key="MES06112">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ตัวลำเลียง (ย้ายไปยัง HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06113">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์ตัวลำเลียง (ย้ายไปยัง HP-2) </Message>
+    </EventString>
+    <EventString Key="MES06115">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตัวลำเลียง (ตำแหน่งการอ่าน) </Message>
+    </EventString>
+    <EventString Key="MES06116">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์ตัวลำเลียง (ตำแหน่งการอ่าน) </Message>
+    </EventString>
+    <EventString Key="MES06117">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตัวลำเลียง (ย้ายไปยัง HP) </Message>
+    </EventString>
+    <EventString Key="MES06118">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ตัวลำเลียง (ย้ายไปยัง HP) </Message>
+    </EventString>
+    <EventString Key="MES06119">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์ตัวลำเลียง (ย้ายไปยัง HP) </Message>
+    </EventString>
+    <EventString Key="MES06120">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ตัวลำเลียง (ตำแหน่งการกด) </Message>
+    </EventString>
+    <EventString Key="MES06121">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์ตัวลำเลียง (ตำแหน่งการกด) </Message>
+    </EventString>
+    <EventString Key="MES06122">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตัวลำเลียง (ตำแหน่งการอ่าน -2) </Message>
+    </EventString>
+    <EventString Key="MES06123">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์ตัวลำเลียง (ตำแหน่งการอ่าน -2) </Message>
+    </EventString>
+    <EventString Key="MES06124">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตัวลำเลียง (ตำแหน่งการกด -2) </Message>
+    </EventString>
+    <EventString Key="MES06125">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์ตัวลำเลียง (ตำแหน่งการกด -2) </Message>
+    </EventString>
+    <EventString Key="MES06126">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์ตัวลำเลียง (ตำแหน่งการส่งผ่าน HP) </Message>
+    </EventString>
+    <EventString Key="MES06127">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ตัวลำเลียง (ย้ายไปยัง HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06128">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์ตัวลำเลียง (ย้ายไปยัง HP-2) </Message>
+    </EventString>
+    <EventString Key="MES06130">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตัวลำเลียง (ตำแหน่งการอ่าน) </Message>
+    </EventString>
+    <EventString Key="MES06131">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์ตัวลำเลียง (ตำแหน่งการอ่าน) </Message>
+    </EventString>
+    <EventString Key="MES06132">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตัวลำเลียง (ย้ายไปยัง HP) </Message>
+    </EventString>
+    <EventString Key="MES06133">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ตัวลำเลียง (ย้ายไปยัง HP) </Message>
+    </EventString>
+    <EventString Key="MES06134">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์ตัวลำเลียง (ย้ายไปยัง HP) </Message>
+    </EventString>
+    <EventString Key="MES06135">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ตัวลำเลียง (ตำแหน่งการกด) </Message>
+    </EventString>
+    <EventString Key="MES06136">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์ตัวลำเลียง (ตำแหน่งการกด) </Message>
+    </EventString>
+    <EventString Key="MES06137">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตัวลำเลียง (ตำแหน่งการอ่าน -2) </Message>
+    </EventString>
+    <EventString Key="MES06138">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์ตัวลำเลียง (ตำแหน่งการอ่าน -2) </Message>
+    </EventString>
+    <EventString Key="MES06139">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตัวลำเลียง (ตำแหน่งการกด -2) </Message>
+    </EventString>
+    <EventString Key="MES06140">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์ตัวลำเลียง (ตำแหน่งการกด -2) </Message>
+    </EventString>
+    <EventString Key="MES06141">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์ตัวลำเลียง (ตำแหน่งการส่งผ่าน HP) </Message>
+    </EventString>
+    <EventString Key="MES06142">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ HP ตัวลำเลียง (ย้ายไปยัง HP -2) </Message>
+    </EventString>
+    <EventString Key="MES06143">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์ตัวลำเลียง (ย้ายไปยัง HP-2) </Message>
+    </EventString>
+    <EventString Key="MES06150">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เตรียมใช้ตัวถอดรหัส </Message>
+    </EventString>
+    <EventString Key="MES06151">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์สแกนย่อย (HP ทางกลไก) </Message>
+    </EventString>
+    <EventString Key="MES06152">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์สแกนย่อย (ตำแหน่งการอ่านเสร็จสมบูรณ์) </Message>
+    </EventString>
+    <EventString Key="MES06153">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์สแกนย่อย (HP ทางกลไก -2) </Message>
+    </EventString>
+    <EventString Key="MES06165">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เตรียมใช้ตัวถอดรหัส </Message>
+    </EventString>
+    <EventString Key="MES06166">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์สแกนย่อย (HP ทางกลไก) </Message>
+    </EventString>
+    <EventString Key="MES06167">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์สแกนย่อย (ตำแหน่งการอ่านเสร็จสมบูรณ์) </Message>
+    </EventString>
+    <EventString Key="MES06168">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์สแกนย่อย (HP ทางกลไก -2) </Message>
+    </EventString>
+    <EventString Key="MES06180">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เตรียมใช้ตัวถอดรหัส </Message>
+    </EventString>
+    <EventString Key="MES06181">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์สแกนย่อย (HP ทางกลไก) </Message>
+    </EventString>
+    <EventString Key="MES06182">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์สแกนย่อย (ตำแหน่งการอ่านเสร็จสมบูรณ์) </Message>
+    </EventString>
+    <EventString Key="MES06183">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ควบคุมมอเตอร์สแกนย่อย (HP ทางกลไก -2) </Message>
+    </EventString>
+    <EventString Key="MES06200">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ชัตเตอร์แทรกการเปิด </Message>
+    </EventString>
+    <EventString Key="MES06201">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ชัตเตอร์แทรกการปิด </Message>
+    </EventString>
+    <EventString Key="MES06215">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ชัตเตอร์แทรกการเปิด </Message>
+    </EventString>
+    <EventString Key="MES06216">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ชัตเตอร์แทรกการปิด </Message>
+    </EventString>
+    <EventString Key="MES06230">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ชัตเตอร์แทรกการเปิด </Message>
+    </EventString>
+    <EventString Key="MES06231">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ชัตเตอร์แทรกการปิด </Message>
+    </EventString>
+    <EventString Key="MES06250">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ปลดล็อคมอเตอร์ (เตรียมใช้) </Message>
+    </EventString>
+    <EventString Key="MES06251">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ปลดล็อคมอเตอร์ (ล็อค) </Message>
+    </EventString>
+    <EventString Key="MES06252">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ปลดล็อคมอเตอร์ (ปลด) </Message>
+    </EventString>
+    <EventString Key="MES06265">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ปลดล็อคมอเตอร์ (เตรียมใช้) </Message>
+    </EventString>
+    <EventString Key="MES06266">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ปลดล็อคมอเตอร์ (ล็อค) </Message>
+    </EventString>
+    <EventString Key="MES06267">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ปลดล็อคมอเตอร์ (ปลด) </Message>
+    </EventString>
+    <EventString Key="MES06280">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ปลดล็อคมอเตอร์ (เตรียมใช้) </Message>
+    </EventString>
+    <EventString Key="MES06281">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ปลดล็อคมอเตอร์ (ล็อค) </Message>
+    </EventString>
+    <EventString Key="MES06282">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG ปลดล็อคมอเตอร์ (ปลด) </Message>
+    </EventString>
+    <EventString Key="MES06300">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์จัสติไฟเออร์ (การดำเนินการยึดติด) </Message>
+    </EventString>
+    <EventString Key="MES06301">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์จัสติไฟเออร์ (ยึดติด) </Message>
+    </EventString>
+    <EventString Key="MES06302">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>มีตลับทึบแสงอยู่ (จัสติไฟเออร์เซ็นเซอร์) </Message>
+    </EventString>
+    <EventString Key="MES06303">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>มีตลับทึบแสงอยู่ (จัสติไฟเออร์เซ็นเซอร์) </Message>
+    </EventString>
+    <EventString Key="MES06315">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์จัสติไฟเออร์ (การดำเนินการยึดติด) </Message>
+    </EventString>
+    <EventString Key="MES06316">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์จัสติไฟเออร์ (ยึดติด) </Message>
+    </EventString>
+    <EventString Key="MES06318">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>มีตลับทึบแสงอยู่ (จัสติไฟเออร์เซ็นเซอร์) </Message>
+    </EventString>
+    <EventString Key="MES06330">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์จัสติไฟเออร์ (การดำเนินการยึดติด) </Message>
+    </EventString>
+    <EventString Key="MES06331">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์จัสติไฟเออร์ (ยึดติด) </Message>
+    </EventString>
+    <EventString Key="MES06333">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>มีตลับทึบแสงอยู่ (จัสติไฟเออร์เซ็นเซอร์) </Message>
+    </EventString>
+    <EventString Key="MES06350">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตัวรับสัญญาณ (ตัวป้อน) </Message>
+    </EventString>
+    <EventString Key="MES06351">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตัวรับสัญญาณ (ส่ง) </Message>
+    </EventString>
+    <EventString Key="MES06352">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตัวรับสัญญาณ (คายประจุ) </Message>
+    </EventString>
+    <EventString Key="MES06353">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตัวรับสัญญาณ (ถอดออก) </Message>
+    </EventString>
+    <EventString Key="MES06354">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>มีตลับทึบแสงอยู่ (ตัวรับสัญญาณ) </Message>
+    </EventString>
+    <EventString Key="MES06355">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>มีตลับทึบแสงอยู่ (ตัวรับสัญญาณ) </Message>
+    </EventString>
+    <EventString Key="MES06365">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตัวรับสัญญาณ (ตัวป้อน) </Message>
+    </EventString>
+    <EventString Key="MES06366">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตัวรับสัญญาณ (ส่ง) </Message>
+    </EventString>
+    <EventString Key="MES06367">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตัวรับสัญญาณ (คายประจุ) </Message>
+    </EventString>
+    <EventString Key="MES06368">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตัวรับสัญญาณ (ถอดออก) </Message>
+    </EventString>
+    <EventString Key="MES06370">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>มีตลับทึบแสงอยู่ (ตัวรับสัญญาณ) </Message>
+    </EventString>
+    <EventString Key="MES06380">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตัวรับสัญญาณ (ตัวป้อน) </Message>
+    </EventString>
+    <EventString Key="MES06381">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตัวรับสัญญาณ (ส่ง) </Message>
+    </EventString>
+    <EventString Key="MES06382">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตัวรับสัญญาณ (คายประจุ) </Message>
+    </EventString>
+    <EventString Key="MES06383">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตัวรับสัญญาณ (ถอดออก) </Message>
+    </EventString>
+    <EventString Key="MES06385">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>มีตลับทึบแสงอยู่ (ตัวรับสัญญาณ) </Message>
+    </EventString>
+    <EventString Key="MES06400">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับแผ่นครอบด้านหลัง (ก่อนย้ายไปยังตำแหน่งการอ่าน) </Message>
+    </EventString>
+    <EventString Key="MES06401">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับแผ่นครอบด้านหลัง (ตำแน่งการอ่านกำลังหยุด) </Message>
+    </EventString>
+    <EventString Key="MES06402">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับแผ่นครอบด้านหลัง (หลังย้ายไปยังตำแหน่งการกด) </Message>
+    </EventString>
+    <EventString Key="MES06415">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับแผ่นครอบด้านหลัง (ก่อนย้ายไปยังตำแหน่งการอ่าน) </Message>
+    </EventString>
+    <EventString Key="MES06416">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับแผ่นครอบด้านหลัง (ตำแน่งการอ่านกำลังหยุด) </Message>
+    </EventString>
+    <EventString Key="MES06417">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับแผ่นครอบด้านหลัง (หลังย้ายไปยังตำแหน่งการกด) </Message>
+    </EventString>
+    <EventString Key="MES06430">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับแผ่นครอบด้านหลัง (ก่อนย้ายไปยังตำแหน่งการอ่าน) </Message>
+    </EventString>
+    <EventString Key="MES06431">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับแผ่นครอบด้านหลัง (ตำแน่งการอ่านกำลังหยุด) </Message>
+    </EventString>
+    <EventString Key="MES06432">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจจับแผ่นครอบด้านหลัง (หลังย้ายไปยังตำแหน่งการกด) </Message>
+    </EventString>
+    <EventString Key="MES06450">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>แผ่นเซ็นเซอร์ตรวจการหลุดลอก (การอ่านหรือการล้างภาพ) โปรดหลีกเลี่ยงการใช้ตลับทึบแสง </Message>
+    </EventString>
+    <EventString Key="MES06451">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจการหลุดลอก (ไม่ทำงาน) </Message>
+    </EventString>
+    <EventString Key="MES06452">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจการลอก (เริ่ม) </Message>
+    </EventString>
+    <EventString Key="MES06453">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจการหลุดลอก (เตรียมใช้) </Message>
+    </EventString>
+    <EventString Key="MES06465">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>แผ่นเซ็นเซอร์ตรวจการหลุดลอก (การอ่านหรือการล้าง) </Message>
+    </EventString>
+    <EventString Key="MES06466">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจการหลุดลอก (ไม่ทำงาน) </Message>
+    </EventString>
+    <EventString Key="MES06468">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจการหลุดลอก (เตรียมใช้) </Message>
+    </EventString>
+    <EventString Key="MES06480">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>แผ่นเซ็นเซอร์ตรวจการหลุดลอก (การอ่านหรือการล้าง) </Message>
+    </EventString>
+    <EventString Key="MES06481">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจการหลุดลอก (ไม่ทำงาน) </Message>
+    </EventString>
+    <EventString Key="MES06483">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตรวจการหลุดลอก (เตรียมใช้) </Message>
+    </EventString>
+    <EventString Key="MES06500">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์แทรกตลับทึบแสง (เตรียมใช้) </Message>
+    </EventString>
+    <EventString Key="MES06501">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์แทรกตลับทึบแสง (โหลด) </Message>
+    </EventString>
+    <EventString Key="MES06502">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์แทรกตลับทึบแสง (คายประจุ) </Message>
+    </EventString>
+    <EventString Key="MES06503">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>การตรวจจับตลับทึบแสงแผ่นครอบด้านหลัง </Message>
+    </EventString>
+    <EventString Key="MES06504">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์แทรกตลับทึบแสง (คายประจุ -2 ) </Message>
+    </EventString>
+    <EventString Key="MES06515">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์แทรกตลับทึบแสง (เตรียมใช้) </Message>
+    </EventString>
+    <EventString Key="MES06516">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์แทรกตลับทึบแสง (โหลด) </Message>
+    </EventString>
+    <EventString Key="MES06517">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์แทรกตลับทึบแสง (คายประจุ) </Message>
+    </EventString>
+    <EventString Key="MES06518">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>การตรวจจับตลับทึบแสงแผ่นครอบด้านหลัง </Message>
+    </EventString>
+    <EventString Key="MES06519">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์แทรกตลับทึบแสง (คายประจุ -2 ) </Message>
+    </EventString>
+    <EventString Key="MES06530">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์แทรกตลับทึบแสง (เตรียมใช้) </Message>
+    </EventString>
+    <EventString Key="MES06531">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์แทรกตลับทึบแสง (โหลด) </Message>
+    </EventString>
+    <EventString Key="MES06532">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์แทรกตลับทึบแสง (คายประจุ) </Message>
+    </EventString>
+    <EventString Key="MES06533">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>การตรวจจับตลับทึบแสงแผ่นครอบด้านหลัง </Message>
+    </EventString>
+    <EventString Key="MES06534">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์แทรกตลับทึบแสง (คายประจุ -2 ) </Message>
+    </EventString>
+    <EventString Key="MES06550">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG การหมุนหลายเหลี่ยม </Message>
+    </EventString>
+    <EventString Key="MES06551">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ไม่ได้รับสัญญาณการอ่านเสร็จสมบูรณ์ </Message>
+    </EventString>
+    <EventString Key="MES06552">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ไฟล้างภาพ 2 ดวงดับ (เริ่ม) </Message>
+    </EventString>
+    <EventString Key="MES06553">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ไฟล้างภาพ 2 ดวงดับ (ล้าง) ล้างภาพตลับทึบแสงไม่เสร็จสมบูรณ์ โปรดลองอีกครั้ง </Message>
+    </EventString>
+    <EventString Key="MES06554">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ไฟล้างภาพ 1 ดวงดับ (เริ่ม) </Message>
+    </EventString>
+    <EventString Key="MES06567">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ไฟล้างภาพ 2 ดวงดับ (เริ่ม) </Message>
+    </EventString>
+    <EventString Key="MES06568">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ไฟล้างภาพ 2 ดวงดับ (ล้าง) </Message>
+    </EventString>
+    <EventString Key="MES06569">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ไฟล้างภาพ 1 ดวงดับ (เริ่ม) </Message>
+    </EventString>
+    <EventString Key="MES06582">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ไฟล้างภาพ 2 ดวงดับ (เริ่ม) </Message>
+    </EventString>
+    <EventString Key="MES06584">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ไฟล้างภาพ 1 ดวงดับ (เริ่ม) </Message>
+    </EventString>
+    <EventString Key="MES06600">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>แหล่งจ่ายไฟดิจิทัลของพัดลมคูลเลอร์ปลดการเชื่อมต่อ </Message>
+    </EventString>
+    <EventString Key="MES06650">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาด FPGA (การเข้าถึงไดรเวอร์เหตุการณ์ล้มเหลว) </Message>
+    </EventString>
+    <EventString Key="MES06651">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาด FPGA (เข้าถึง MDU ล้มเหลว) </Message>
+    </EventString>
+    <EventString Key="MES06652">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาด FPGA (เข้าถึง LMC ล้มเหลว) </Message>
+    </EventString>
+    <EventString Key="MES06653">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาด FPGA (การควบคุม I/O ล้มเหลว) </Message>
+    </EventString>
+    <EventString Key="MES06654">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาด FPGA (เปิดไดรเวอร์ภา้พล้มเหลว) </Message>
+    </EventString>
+    <EventString Key="MES06655">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาด FPGA (เข้าถึง PMU ล้มเหลว) </Message>
+    </EventString>
+    <EventString Key="MES06668">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาด FPGA (การควบคุม I/O ล้มเหลว) </Message>
+    </EventString>
+    <EventString Key="MES06683">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาด FPGA (การควบคุม I/O ล้มเหลว) </Message>
+    </EventString>
+    <EventString Key="MES06750">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตำแหน่งการเปิดและปิดแผ่นพื้นโต๊ะรับสัญญาณ </Message>
+    </EventString>
+    <EventString Key="MES06765">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตำแหน่งการเปิดและปิดแผ่นพื้นโต๊ะรับสัญญาณ </Message>
+    </EventString>
+    <EventString Key="MES06780">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตำแหน่งการเปิดและปิดแผ่นพื้นโต๊ะรับสัญญาณ </Message>
+    </EventString>
+    <EventString Key="MES06751">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตำแหน่ง HP แผ่นพื้นโต๊ะรับสัญญาณ </Message>
+    </EventString>
+    <EventString Key="MES06766">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตำแหน่ง HP แผ่นพื้นโต๊ะรับสัญญาณ </Message>
+    </EventString>
+    <EventString Key="MES06785">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>NG เซ็นเซอร์ตำแหน่ง HP แผ่นพื้นโต๊ะรับสัญญาณ </Message>
+    </EventString>
+    <EventString Key="MES10000">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดของหน่วยความจำ </Message>
+    </EventString>
+    <EventString Key="MES11000">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดของฮาร์ดแวร์ </Message>
+    </EventString>
+    <EventString Key="MES12000">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ Msg (เปิดแรงดันไฟฟ้าสูง) </Message>
+    </EventString>
+    <EventString Key="MES12001">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ Msg (เปิดเลเซอร์) </Message>
+    </EventString>
+    <EventString Key="MES12002">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ Msg (กลไก พร้อมใช้) </Message>
+    </EventString>
+    <EventString Key="MES12003">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ Msg (กลไก สแตนบายด์) </Message>
+    </EventString>
+    <EventString Key="MES12010">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดของการสื่อสารแบบอนุกรม (โอเวอร์โฟลว การส่งใหม่ทางกลไก) </Message>
+    </EventString>
+    <EventString Key="MES12011">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดของการสื่อสารแบบอนุกรม (โอเวอร์โฟลว ข้อผิดพลาด CRC ทางกลไก) </Message>
+    </EventString>
+    <EventString Key="MES12012">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดของการสื่อสารแบบอนุกรม (โอเวอร์รัน ทางกลไก) </Message>
+    </EventString>
+    <EventString Key="MES12013">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดของการสื่อสารแบบอนุกรม (กลไก หมดเวลา) </Message>
+    </EventString>
+    <EventString Key="MES12020">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาด Msg (Msg ไม่ถูกต้องทางกลไก) </Message>
+    </EventString>
+    <EventString Key="MES12200">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ Msg (เตรียมใช้ทั้งหมด) </Message>
+    </EventString>
+    <EventString Key="MES12201">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ Msg (พร้อมใช้ทั้งหมด) </Message>
+    </EventString>
+    <EventString Key="MES12202">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ Msg (ใส่แรเงา) </Message>
+    </EventString>
+    <EventString Key="MES12203">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ Msg (ตรวจสอบสถานะ) </Message>
+    </EventString>
+    <EventString Key="MES12204">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ Msg (ค้นหาบาร์โค้ด) </Message>
+    </EventString>
+    <EventString Key="MES12205">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ Msg (คำสั่งทั้งหมด) </Message>
+    </EventString>
+    <EventString Key="MES12206">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ Msg (เครื่องอ่านสิ้นสุด) </Message>
+    </EventString>
+    <EventString Key="MES12207">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ Msg (ใส่ Qrv) </Message>
+    </EventString>
+    <EventString Key="MES12208">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ Msg (ใส่ Config) </Message>
+    </EventString>
+    <EventString Key="MES12209">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>หมดเวลาได้รับ Msg (ใส่ข้อมูล) </Message>
+    </EventString>
+    <EventString Key="MES12210">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดในการสื่อสารแบบอนุกรม (โอเวอร์โฟลวการส่งใหม่ทั้งหมด) </Message>
+    </EventString>
+    <EventString Key="MES12211">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดในการสื่อสารแบบอนุกรม (โอเวอร์โฟลวข้อผิดพลาด CRC ทั้งหมด) </Message>
+    </EventString>
+    <EventString Key="MES12212">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดในการสื่อสารแบบอนุกรม (โอเวอร์รันทั้งหมด) </Message>
+    </EventString>
+    <EventString Key="MES12213">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดในการสื่อสารแบบอนุกรม (หมดเวลาทั้งหมด) </Message>
+    </EventString>
+    <EventString Key="MES12220">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาด Msg (Msg ไม่ถูกต้องทั้งหมด) </Message>
+    </EventString>
+    <EventString Key="MES13000">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดชุดแสง (H_Sync) </Message>
+    </EventString>
+    <EventString Key="MES13001">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดชุดแสง (ID หลายเหลี่ยม) </Message>
+    </EventString>
+    <EventString Key="MES13003">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดชุดแสง (ความเสถียรหลายเหลี่ยม) </Message>
+    </EventString>
+    <EventString Key="MES13005">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดชุดแสง (ความเข้มเลเซอร์) </Message>
+    </EventString>
+    <EventString Key="MES13030">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดในการควบคุม SCB (ถ่ายโอน DMA) </Message>
+    </EventString>
+    <EventString Key="MES13031">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดในการควบคุม SCB (การสื่อสาร SCOM) </Message>
+    </EventString>
+    <EventString Key="MES14000">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดประมวลผลสัญญาณ (โอเวอร์โฟลวอัตราขยาย) </Message>
+    </EventString>
+    <EventString Key="MES14001">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดประมวลผลสัญญาณ (อันเดอร์โฟลวอัตราขยาย) </Message>
+    </EventString>
+    <EventString Key="MES14002">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดประมวลผลสัญญาณ (โอเวอร์โฟลวชดเชย) </Message>
+    </EventString>
+    <EventString Key="MES14003">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดประมวลผลสัญญาณ (อันเดอร์โฟลวชดเชย) </Message>
+    </EventString>
+    <EventString Key="MES14010">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดประมวลผลสัญญาณ (โอเวอร์โฟลว QRV) </Message>
+    </EventString>
+    <EventString Key="MES14011">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดประมวลผลสัญญาณ (อันเดอร์โฟลว QRV) </Message>
+    </EventString>
+    <EventString Key="MES14012">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดประมวลผลสัญญาณ (QRV ไม่มีความลู่เข้า) </Message>
+    </EventString>
+    <EventString Key="MES14013">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดประมวลผลสัญญาณ (ไม่มีข้อมูลการแรเงา) </Message>
+    </EventString>
+    <EventString Key="MES14014">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดประมวลผลสัญญาณ (ไม่มีข้อมูล QRV) </Message>
+    </EventString>
+    <EventString Key="MES15000">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดประมวลผลสัญญาณ (การเตรียมใช้ล้มเหลว) </Message>
+    </EventString>
+    <EventString Key="MES22101">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดในการสื่อสารแบบอนุกรม (ตัวนับเกิน N1) </Message>
+    </EventString>
+    <EventString Key="MES22103">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดในการสื่อสารแบบอนุกรม (ตัวนับเกิน N3) </Message>
+    </EventString>
+    <EventString Key="MES22104">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดในการสื่อสารแบบอนุกรม (ตัวนับเกิน N4) </Message>
+    </EventString>
+    <EventString Key="MES23000">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดของโปรแกรม (การควบคุมหลัก) </Message>
+    </EventString>
+    <EventString Key="MES23100">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดของโปรแกรม (การควบคุมลำดับ) </Message>
+    </EventString>
+    <EventString Key="MES23200">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดของโปรแกรม (ขนาดไฟล์ข้อมูล) </Message>
+    </EventString>
+    <EventString Key="MES23900">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดของโปรแกรม (อัพเดตเฟิร์มแวร์) </Message>
+    </EventString>
+    <EventString Key="MES24000">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดของเครือข่าย (การเชื่อมต่อ JM) </Message>
+    </EventString>
+    <EventString Key="MES24500">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดของเครือข่าย (การตั้งค่าคอนฟิก JM) </Message>
+    </EventString>
+    <EventString Key="MES25000">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดของเครือข่าย (ไม่หมดเวลา) </Message>
+    </EventString>
+    <EventString Key="MES25100">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดของเครือข่าย (หมดเวลา: ในการสื่อสารทั่วไป) </Message>
+    </EventString>
+    <EventString Key="MES25110">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดของเครือข่าย (การปฏิเสธ: ในการสื่อสารทั่วไป) </Message>
+    </EventString>
+    <EventString Key="MES25200">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดของเครือข่าย (หมดเวลา: ในการส่งภาพ) </Message>
+    </EventString>
+    <EventString Key="MES25210">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดของเครือข่าย (หมดเวลา: หลังการสแกนภาพ) </Message>
+    </EventString>
+    <EventString Key="MES25300">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดของเครือข่าย (หมดเวลา/การปฏิเสธ: ในการส่งภาพ) </Message>
+    </EventString>
+    <EventString Key="MES25500">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดของเครือข่าย (ปลายทาง: ไม่พบ) </Message>
+    </EventString>
+    <EventString Key="MES26000">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดในการทำงาน (งานไม่ถูกต้อง) </Message>
+    </EventString>
+    <EventString Key="MES26010">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดในการทำงาน (พารามิเตอร์งานไม่ถูกต้อง) </Message>
+    </EventString>
+    <EventString Key="MES26100">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดในการทำงาน (งานไม่มีโหมด) </Message>
+    </EventString>
+    <EventString Key="MES26200">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดในการทำงาน (คอนโซลไม่ถูกต้อง) </Message>
+    </EventString>
+    <EventString Key="MES26300">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดในการทำงาน (เครื่องอ่านไม่ว่าง) </Message>
+    </EventString>
+    <EventString Key="MES26900">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดในการทำงาน (ปิดเครื่องใต้การดำเนินการงาน) </Message>
+    </EventString>
+    <EventString Key="MES26999">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ข้อผิดพลาดในการทำงาน (คำสั่งที่ไม่สนับสนุน) </Message>
+    </EventString>
+    <EventString Key="MES1">
+      <Title>ข้อผิดพลาดของ CR</Title>
+      <Message>ตรวจพบฝาครอบหน้าเปิดอยู่ </Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

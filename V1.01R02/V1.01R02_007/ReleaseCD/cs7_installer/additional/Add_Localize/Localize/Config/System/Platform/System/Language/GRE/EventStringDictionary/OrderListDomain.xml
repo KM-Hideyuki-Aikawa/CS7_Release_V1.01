@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="OrderListDomain0001">
+      <Title>Σφάλμα</Title>
+      <Message>Σφάλμα ενημέρωσης βάσης δεδομένων.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0002">
+      <Title>Προειδοποίηση</Title>
+      <Message>Μη έγκυρη τιμή, δεν είναι δυνατή η εκτέλεση.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0003">
+      <Title>Προειδοποίηση</Title>
+      <Message>Η εισαγωγή είναι υποχρεωτική.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0004">
+      <Title>Σφάλμα</Title>
+      <Message>Δεν είναι δυνατή η εκτέλεση.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0005">
+      <Title>Σφάλμα ενημέρωσης ασθενούς</Title>
+      <Message>Σφάλμα ενημέρωσης ασθενούς.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0006">
+      <Title>Πληροφορίες</Title>
+      <Message>Η βάση δεδομένων ενημερώθηκε, θα εμφανιστεί η ενημερωμένη μελέτη.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0007">
+      <Title>Σφάλμα</Title>
+      <Message>Η μελέτη διαγράφηκε από τη βάση δεδομένων, η λειτουργία εκτέλεσης δεν είναι δυνατή.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0008">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Τα ίδια εξής στοιχεία: Αναγνωριστικό ασθενούς: {0}, Όνομα ασθενούς: {1}, Φύλο: {2}, Ημερομηνία γέννησης:{3} υπάρχουν στη βάση δεδομένων, θέλετε να χρησιμοποιήσετε τα δεδομένα της βάσης δεδομένων;</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0009">
+      <Title>Επιβεβαίωση</Title>
+      <Message>Η μελέτη βρίσκεται σε εξέλιξη. Επιθυμείτε εκτέλεση;</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0010">
+      <Title>Προειδοποίηση</Title>
+      <Message>Η μελέτη εκτελείται ήδη σε άλλη κονσόλα.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

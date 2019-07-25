@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0001">
+      <Title>Erro</Title>
+      <Message>Erro de inicialização</Message>
+    </EventString>
+    <EventString Key="0002">
+      <Title>Informação</Title>
+      <Message>Fusão bem-sucedida</Message>
+    </EventString>
+    <EventString Key="0003">
+      <Title>Erro</Title>
+      <Message>Diretório não encontrado</Message>
+    </EventString>
+    <EventString Key="0004">
+      <Title>Erro</Title>
+      <Message>Ficheiro não encontrado</Message>
+    </EventString>
+    <EventString Key="0005">
+      <Title>Erro</Title>
+      <Message>Erro de sintaxe</Message>
+    </EventString>
+    <EventString Key="0006">
+      <Title>Erro</Title>
+      <Message>Ocorreu erro ao apagar cópia de segurança</Message>
+    </EventString>
+    <EventString Key="0007">
+      <Title>Erro</Title>
+      <Message>Ocorreu erro ao criar cópia de segurança</Message>
+    </EventString>
+    <EventString Key="0008">
+      <Title>Erro</Title>
+      <Message>Ocorreu erro ao aceder aos dados</Message>
+    </EventString>
+    <EventString Key="0009">
+      <Title>Erro</Title>
+      <Message>Ocorreu erro na gravação</Message>
+    </EventString>
+    <EventString Key="0010">
+      <Title>Erro</Title>
+      <Message>Ocorreu erro ao encontrar índice </Message>
+    </EventString>
+    <EventString Key="0011">
+      <Title>Erro</Title>
+      <Message>Ocorreu erro ao anexar dados</Message>
+    </EventString>
+    <EventString Key="0012">
+      <Title>Erro</Title>
+      <Message>Ocorreu erro ao copiar dados de calibragem</Message>
+    </EventString>
+    <EventString Key="0013">
+      <Title>Erro</Title>
+      <Message>Ocorreu exceção</Message>
+    </EventString>
+    <EventString Key="0014">
+      <Title>Erro</Title>
+      <Message>Ocorreu exceção</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

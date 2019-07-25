@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="35560">
+      <Title>initialization error</Title>
+      <Message>Failed to initialize.</Message>
+    </EventString>
+    <EventString Key="35561">
+      <Title>setting error</Title>
+      <Message>There was an error with reading the setting file.</Message>
+    </EventString>
+    <EventString Key="35562">
+      <Title>time-out error</Title>
+      <Message>A time-out occurred.</Message>
+    </EventString>
+    <EventString Key="35563">
+      <Title>C35563</Title>
+      <Message />
+    </EventString>
+    <EventString Key="037300">
+      <Title>Internal error</Title>
+      <Message>Termination status[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037307">
+      <Title>Internal error</Title>
+      <Message>Initialization error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037308">
+      <Title>Internal error</Title>
+      <Message>Initialization error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037309">
+      <Title>Internal error</Title>
+      <Message>Initialization error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037310">
+      <Title>Internal error</Title>
+      <Message>Initialization error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037311">
+      <Title>Internal error</Title>
+      <Message>Initialization error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037312">
+      <Title>Internal error</Title>
+      <Message>Initialization error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037314">
+      <Title>Internal error</Title>
+      <Message>Initialization error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037315">
+      <Title>Internal error</Title>
+      <Message>Initialization error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037316">
+      <Title>Internal error</Title>
+      <Message>Initialization error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037317">
+      <Title>Internal error</Title>
+      <Message>Initialization error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037318">
+      <Title>Internal error</Title>
+      <Message>Initialization error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037319">
+      <Title>Internal error</Title>
+      <Message>Initialization error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037320">
+      <Title>Internal error</Title>
+      <Message>Initialization error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037321">
+      <Title>Internal error</Title>
+      <Message>Initialization error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037322">
+      <Title>Internal error</Title>
+      <Message>Initialization error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037323">
+      <Title>Internal error</Title>
+      <Message>Initialization error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037324">
+      <Title>Internal error</Title>
+      <Message>Initialization error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037325">
+      <Title>Internal error</Title>
+      <Message>Initialization error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037326">
+      <Title>Internal error</Title>
+      <Message>Initialization error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037338">
+      <Title>Internal error</Title>
+      <Message>Conversion error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037339">
+      <Title>Internal error</Title>
+      <Message>Conversion error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037340">
+      <Title>Internal error</Title>
+      <Message>Conversion error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037341">
+      <Title>Internal error</Title>
+      <Message>Conversion error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037342">
+      <Title>Internal error</Title>
+      <Message>Conversion error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037343">
+      <Title>Internal error</Title>
+      <Message>Conversion error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037344">
+      <Title>Internal error</Title>
+      <Message>Conversion error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037345">
+      <Title>Internal error</Title>
+      <Message>Conversion error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037346">
+      <Title>Internal error</Title>
+      <Message>Conversion error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037347">
+      <Title>Internal error</Title>
+      <Message>Conversion error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037348">
+      <Title>Internal error</Title>
+      <Message>Conversion error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037349">
+      <Title>Internal error</Title>
+      <Message>Conversion error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037400">
+      <Title>Internal error</Title>
+      <Message>Conversion error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037401">
+      <Title>Internal error</Title>
+      <Message>Conversion error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037402">
+      <Title>Internal error</Title>
+      <Message>Conversion error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037403">
+      <Title>Internal error</Title>
+      <Message>Health check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037404">
+      <Title>Internal error</Title>
+      <Message>Health check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037405">
+      <Title>Internal error</Title>
+      <Message>Health check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037406">
+      <Title>Internal error</Title>
+      <Message>Health check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037407">
+      <Title>Internal error</Title>
+      <Message>Health check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037408">
+      <Title>Internal error</Title>
+      <Message>Health check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037409">
+      <Title>Internal error</Title>
+      <Message>Health check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037410">
+      <Title>Internal error</Title>
+      <Message>Health check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037411">
+      <Title>Internal error</Title>
+      <Message>Health check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037412">
+      <Title>Internal error</Title>
+      <Message>Health check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037413">
+      <Title>Internal error</Title>
+      <Message>Health check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037414">
+      <Title>Internal error</Title>
+      <Message>Health check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037415">
+      <Title>Internal error</Title>
+      <Message>Health check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037416">
+      <Title>Internal error</Title>
+      <Message>Health check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037417">
+      <Title>Internal error</Title>
+      <Message>Health check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037418">
+      <Title>Internal error</Title>
+      <Message>Health check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037419">
+      <Title>Internal error</Title>
+      <Message>Health check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037420">
+      <Title>Internal error</Title>
+      <Message>Health check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037421">
+      <Title>Internal error</Title>
+      <Message>Health check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037422">
+      <Title>Internal error</Title>
+      <Message>Scheduled check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037423">
+      <Title>Internal error</Title>
+      <Message>Scheduled check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037424">
+      <Title>Internal error</Title>
+      <Message>Scheduled check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037425">
+      <Title>Internal error</Title>
+      <Message>Scheduled check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037426">
+      <Title>Internal error</Title>
+      <Message>Scheduled check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037427">
+      <Title>Internal error</Title>
+      <Message>Scheduled check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037428">
+      <Title>Internal error</Title>
+      <Message>Scheduled check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037429">
+      <Title>Internal error</Title>
+      <Message>Scheduled check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037430">
+      <Title>Internal error</Title>
+      <Message>Scheduled check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037431">
+      <Title>Internal error</Title>
+      <Message>Termination error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037432">
+      <Title>Internal error</Title>
+      <Message>Termination error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037433">
+      <Title>Internal error</Title>
+      <Message>Termination error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037434">
+      <Title>Internal error</Title>
+      <Message>Termination error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037435">
+      <Title>Internal error</Title>
+      <Message>Termination error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037436">
+      <Title>Internal error</Title>
+      <Message>Termination error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037437">
+      <Title>Internal error</Title>
+      <Message>Termination error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037438">
+      <Title>Internal error</Title>
+      <Message>Termination error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037441">
+      <Title>Internal error</Title>
+      <Message>Termination error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037442">
+      <Title>Internal error</Title>
+      <Message>Termination error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037443">
+      <Title>Internal error</Title>
+      <Message>Termination error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037444">
+      <Title>Internal error</Title>
+      <Message>Termination error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037454">
+      <Title>Internal error</Title>
+      <Message>Study performing error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037455">
+      <Title>Internal error</Title>
+      <Message>Study performing error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037456">
+      <Title>Internal error</Title>
+      <Message>Study performing error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037457">
+      <Title>Internal error</Title>
+      <Message>Error in study completed notification to RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037458">
+      <Title>Internal error</Title>
+      <Message>Error in study completed notification to RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037459">
+      <Title>Internal error</Title>
+      <Message>Error in study completed notification to RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037460">
+      <Title>Internal error</Title>
+      <Message>Error in study completed notification to RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037461">
+      <Title>Internal error</Title>
+      <Message>Error in study completed notification to RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037462">
+      <Title>Internal error</Title>
+      <Message>Error in study completed notification to RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037463">
+      <Title>Internal error</Title>
+      <Message>Error in study completed notification to RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037464">
+      <Title>Internal error</Title>
+      <Message>Error in study completed notification to RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037465">
+      <Title>Internal error</Title>
+      <Message>Error in study completed notification to RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037466">
+      <Title>Internal error</Title>
+      <Message>Error in study completed notification to RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037467">
+      <Title>Internal error</Title>
+      <Message>Error in study completed notification to RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037468">
+      <Title>Internal error</Title>
+      <Message>Error in study completed notification to RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037469">
+      <Title>Internal error</Title>
+      <Message>Error in study completed notification to RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037470">
+      <Title>Internal error</Title>
+      <Message>Error in study completed notification to RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037471">
+      <Title>Internal error</Title>
+      <Message>Error in study completed notification to RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037472">
+      <Title>Internal error</Title>
+      <Message>Error in study completed notification to RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037473">
+      <Title>Internal error</Title>
+      <Message>Patient search error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037474">
+      <Title>Internal error</Title>
+      <Message>Patient search error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037475">
+      <Title>Internal error</Title>
+      <Message>Patient search error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037476">
+      <Title>Internal error</Title>
+      <Message>Patient search error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037477">
+      <Title>Internal error</Title>
+      <Message>Patient search error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037478">
+      <Title>Internal error</Title>
+      <Message>Patient search error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037479">
+      <Title>Internal error</Title>
+      <Message>Patient search error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037480">
+      <Title>Internal error</Title>
+      <Message>Patient search error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037481">
+      <Title>Internal error</Title>
+      <Message>Patient search error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037482">
+      <Title>Internal error</Title>
+      <Message>Patient search error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037483">
+      <Title>Internal error</Title>
+      <Message>Patient search error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037484">
+      <Title>Internal error</Title>
+      <Message>Patient search error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037485">
+      <Title>Internal error</Title>
+      <Message>Patient search error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037486">
+      <Title>Internal error</Title>
+      <Message>Patient search error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="037487">
+      <Title>Internal error</Title>
+      <Message>Patient search error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027600">
+      <Title>Internal error</Title>
+      <Message>Initialization error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027601">
+      <Title>Internal error</Title>
+      <Message>Initialization error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027602">
+      <Title>Internal error</Title>
+      <Message>Initialization error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027603">
+      <Title>Internal error</Title>
+      <Message>Initialization error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027604">
+      <Title>Internal error</Title>
+      <Message>Initialization error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027605">
+      <Title>Internal error</Title>
+      <Message>Health check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027606">
+      <Title>Internal error</Title>
+      <Message>Scheduled check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027607">
+      <Title>Internal error</Title>
+      <Message>Scheduled check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027608">
+      <Title>Internal error</Title>
+      <Message>Scheduled check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027618">
+      <Title>Internal error</Title>
+      <Message>Error in study completed notification to RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027619">
+      <Title>Internal error</Title>
+      <Message>Error in study completed notification to RIS[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027620">
+      <Title>Internal error</Title>
+      <Message>Patient search error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027621">
+      <Title>Internal error</Title>
+      <Message>Patient search error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027622">
+      <Title>Internal error</Title>
+      <Message>Patient search error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027623">
+      <Title>Internal error</Title>
+      <Message>Patient search error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027624">
+      <Title>Internal error</Title>
+      <Message>Patient search error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027625">
+      <Title>Internal error</Title>
+      <Message>Patient search error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027626">
+      <Title>Internal error</Title>
+      <Message>Patient search error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027628">
+      <Title>Internal error</Title>
+      <Message>Folder check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027629">
+      <Title>Internal error</Title>
+      <Message>Folder check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027630">
+      <Title>Internal error</Title>
+      <Message>Folder check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027631">
+      <Title>Internal error</Title>
+      <Message>Folder check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027632">
+      <Title>Internal error</Title>
+      <Message>Folder check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027633">
+      <Title>Internal error</Title>
+      <Message>Folder check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027634">
+      <Title>Internal error</Title>
+      <Message>Folder check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027635">
+      <Title>Internal error</Title>
+      <Message>Folder check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027636">
+      <Title>Internal error</Title>
+      <Message>Folder check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027637">
+      <Title>Internal error</Title>
+      <Message>Folder check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027638">
+      <Title>Internal error</Title>
+      <Message>Folder check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027639">
+      <Title>Internal error</Title>
+      <Message>Folder check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027640">
+      <Title>Internal error</Title>
+      <Message>Folder check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027641">
+      <Title>Internal error</Title>
+      <Message>Folder check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027642">
+      <Title>Internal error</Title>
+      <Message>Folder check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="027643">
+      <Title>Internal error</Title>
+      <Message>Folder check error[{ERRORMESSAGE}]</Message>
+    </EventString>
+    <EventString Key="FE">
+      <Title>Internal error</Title>
+      <Message>Internal error occurred in communication. Contact a service representative.</Message>
+    </EventString>
+    <EventString Key="FF">
+      <Title>Internal error</Title>
+      <Message>Internal error occurred in communication. Contact a service representative.</Message>
+    </EventString>
+    <EventString Key="01">
+      <Title>Internal error</Title>
+      <Message>Internal error occurred in communication. Contact a service representative.</Message>
+    </EventString>
+    <EventString Key="02">
+      <Title>Internal error</Title>
+      <Message>Internal error occurred in communication. Contact a service representative.</Message>
+    </EventString>
+    <EventString Key="03">
+      <Title>Internal error</Title>
+      <Message>Internal error occurred in communication. Contact a service representative.</Message>
+    </EventString>
+    <EventString Key="04">
+      <Title>Internal error</Title>
+      <Message>Internal error occurred in communication. Contact a service representative.</Message>
+    </EventString>
+    <EventString Key="05">
+      <Title>Internal error</Title>
+      <Message>Internal error occurred in communication. Contact a service representative.</Message>
+    </EventString>
+    <EventString Key="06">
+      <Title>Internal error</Title>
+      <Message>Internal error occurred in communication. Contact a service representative.</Message>
+    </EventString>
+    <EventString Key="07">
+      <Title>Internal error</Title>
+      <Message>Internal error occurred in communication. Contact a service representative.</Message>
+    </EventString>
+    <EventString Key="08">
+      <Title>Internal error</Title>
+      <Message>Internal error occurred in communication. Contact a service representative.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

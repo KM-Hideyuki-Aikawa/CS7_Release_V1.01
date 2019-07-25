@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ImageAcquisitionDomainExtender0000">
+      <Title>تأكيد</Title>
+      <Message>هل ترغب بالفعل في تجاهل الصورة؟</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0001">
+      <Title>تأكيد</Title>
+      <Message>هل تريد العرض مرة أخري؟</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender1001">
+      <Title>تنبيه</Title>
+      <Message>لا يمكن إضافة عمليات تعرض أكثر من {MaxSize} .</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0002">
+      <Title>تأكيد</Title>
+      <Message>هل ترغب بالفعل في إلغاء التجاهل؟</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0003">
+      <Title>تأكيد</Title>
+      <Message>لم يتم التقاط الصور.
+هل ترغب بالفعل في إتمام الدراسة؟</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0004">
+      <Title>تأكيد</Title>
+      <Message>هل ترغب في متابعة الدراسة في غرفة فحص أخرى؟</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0005">
+      <Title>تأكيد</Title>
+      <Message>الرمز الشريطي للعلبة مسجل مع هذا الفحص. العلامة. 
+هل ترغب بالفعل في حذف تسجيل الرمز الشريطي؟</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0006">
+      <Title>خطأ</Title>
+      <Message>حدث خطأ أثناء قراءة الصورة.
+تحقق من الشبكة.
+قم بإعادة تشغيل القارئ.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0007">
+      <Title>خطأ</Title>
+      <Message>مُعرّف المريض: {PATIENTID}
+اسم المريض: {PATIENTNAME}
+اسم القارئ: {READERNAME}
+لم تكتمل عملية استقبال الصورة.
+تحقق من الشبكة.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0008">
+      <Title>تحذير</Title>
+      <Message>اسم القارئ: {READERNAME}
+هل ترغب بالفعل في إلغاء استقبال الصورة؟
+ برجاء إعادة تشغيل القارئ في حالة إلغاء الاستقبال.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0009">
+      <Title>خطأ</Title>
+      <Message>تتم قراءة الصورة الآن. برجاء تسجيل الدخول بعد قليل.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0010">
+      <Title>خطأ</Title>
+      <Message>فشل إتمام الدراسة.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0011">
+      <Title>خطأ</Title>
+      <Message>فشل تعليق الدراسة.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0012">
+      <Title>خطأ</Title>
+      <Message>هذه العلبة مناسبة للتعرض العام.
+تحقق من الفحص. العلامة.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0013">
+      <Title>خطأ</Title>
+      <Message>هذه العلبة خاصة بتصوير الثدي بالأشعة.
+تحقق من الفحص. العلامة.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0014">
+      <Title>خطأ</Title>
+      <Message>هذه العلبة خاصة بجهاز تصوير الثدي المرحلي المتباين (PCM‎‏).‏‎&amp;#xD;&amp;#xA‏‎;تحقق من الفحص. العلامة.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0015">
+      <Title>خطأ</Title>
+      <Message>هذه العلبة مسجلة بالفعل.
+قم بتسجيل علبة مختلفة.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0016">
+      <Title>تنبيه</Title>
+      <Message>بدأت هذه العلبة القراءة بالفعل.
+يتعذر حذف تسجيل الرمز الشريطي.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0017">
+      <Title>تنبيه</Title>
+      <Message>بدأت هذه العلبة القراءة بالفعل.
+يتعذر حذف المهام المسجلة باستخدام وضع التسجيل اليدوي.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0018">
+      <Title>تنبيه</Title>
+      <Message>بدأت هذه العلبة القراءة بالفعل.‎‎‏
+يتعذر حذف المهام المسجلة باستخدام وضع التسجيل التلقائي.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0019">
+      <Title>تأكيد</Title>
+      <Message>هل ترغب بالفعل في تعليق هذه الدراسة؟</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0020">
+      <Title>تأكيد</Title>
+      <Message>لا توجد صور ملتقطة. هل ترغب بالفعل في تغيير الحالة إلى لم تبدأ؟</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0021">
+      <Title>تأكيد</Title>
+      <Message>هل ترغب بالفعل في حذف تسجيل الرمز الشريطي؟</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0022">
+      <Title>إعادة نقل الصور</Title>
+      <Message>هل توافق على حذف الصورة (الصور) التي لم يتم نقلها على وحدة التحكم؟ [موافق]: حذف [إلغاء]: الرجوع بدون حذف</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0023">
+      <Title>إعادة نقل الصور</Title>
+      <Message> {READERNAME}: لم يتم نقل بعض الصور بعد. هل تريد حذفها؟ 
+</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0024">
+      <Title>خطأ في نقل الصور</Title>
+      <Message>{READERNAME}: حدث خطأ اتصال أثناء نقل الصور. حدث خطأ اتصال أثناء نقل الصور. تحقق من حالة توصيل كابل الاتصال. 
+</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0025">
+      <Title>إعادة نقل الصور</Title>
+      <Message>{READERNAME}: {ImageAc‎quisitionConditionName‎} لم يتم نقلها بعد. هل تريد استرداد الصورة؟</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0026">
+      <Title>تأكيد</Title>
+      <Message>هل ترغب بالفعل في حذف الفحص المحدد. العلامة؟</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0027">
+      <Title>تأكيد</Title>
+      <Message>هل ترغب بالفعل في حذف هذه الدراسة؟</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0028">
+      <Title>خطأ</Title>
+      <Message>حدث انقضاء للمهلة خلال نقل الصور.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0029">
+      <Title />
+      <Message>هذه صورة غير منقولة لـ "{ImageAcquisitionConditionName}".
+ تعذر إعادة الحصول على الصورة بسبب اختلاف نمط الفحص. علامة الصورة.
+ في حالة إعادة الحصول على الصورة، يرجى تغيير حالة اللوحة المقابلة للفحص. العلامة.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0030">
+      <Title />
+      <Message>فشل الحصول على الصورة غير المنقولة.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0031">
+      <Title />
+      <Message>فشل الحصول على الصورة غير المنقولة.</Message>
+    </EventString>
+    <EventString Key="ImageAcquisitionDomainExtender0032">
+      <Title>تأكيد</Title>
+      <Message>هل ترغب بالفعل في تعليق هذه الدراسة؟</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

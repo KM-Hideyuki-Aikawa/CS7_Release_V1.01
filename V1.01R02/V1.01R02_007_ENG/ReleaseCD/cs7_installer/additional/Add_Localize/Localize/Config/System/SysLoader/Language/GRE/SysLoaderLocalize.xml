@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>1001</Key>
+      <Value>CS-7</Value>
+      <Comment>CS-7 起動</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1002</Key>
+      <Value>Ρύθμιση</Value>
+      <Comment>設定</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1003</Key>
+      <Value>Εισαγωγή άδειας χρήσης</Value>
+      <Comment>ライセンスインポート</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1004</Key>
+      <Value>Τερματισμός</Value>
+      <Comment>シャットダウン</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1005</Key>
+      <Value>Επανεκκίνηση</Value>
+      <Comment>再起動</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1006</Key>
+      <Value>Επιφάνεια εργασίας των Windows</Value>
+      <Comment>Windows デスクトップ</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>13</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2001</Key>
+      <Value>Ρύθμιση αφύπνισης μέσω τοπικού δικτύου</Value>
+      <Comment>WOL設定</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2002</Key>
+      <Value>Απομακρυσμένη συντήρηση</Value>
+      <Comment>RemoteMaintenance</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2101</Key>
+      <Value>Ρύθμιση WOL (Αφύπνιση μέσω τοπικού δικτύου)</Value>
+      <Comment>WOL(Wake ON LAN)設定</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2102</Key>
+      <Value>Αφύπνιση κονσόλας</Value>
+      <Comment>他コンソールの起動</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2103</Key>
+      <Value>Αφύπνιση μέσω τοπικού δικτύου ON/OFF</Value>
+      <Comment>WakeOnLanの有効</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2104</Key>
+      <Value>ON</Value>
+      <Comment>ON</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2105</Key>
+      <Value>Αφύπνιση υπολογιστή 1</Value>
+      <Comment>PC1の起動</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2106</Key>
+      <Value>Διεύθυνση MAC υπολογιστή 1</Value>
+      <Comment>PC1のMACアドレス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>8</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2107</Key>
+      <Value>Αφύπνιση υπολογιστή 2</Value>
+      <Comment>PC2の起動</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2108</Key>
+      <Value>Διεύθυνση MAC υπολογιστή 2</Value>
+      <Comment>PC2のMACアドレス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>8</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2109</Key>
+      <Value>Αφύπνιση υπολογιστή 3</Value>
+      <Comment>PC3の起動</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2110</Key>
+      <Value>Διεύθυνση MAC υπολογιστή 3</Value>
+      <Comment>PC3のMACアドレス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>8</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2111</Key>
+      <Value>Αφύπνιση υπολογιστή 4</Value>
+      <Comment>PC4の起動</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2112</Key>
+      <Value>Διεύθυνση MAC υπολογιστή 4</Value>
+      <Comment>PC4のMACアドレス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>8</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2113</Key>
+      <Value>Αφύπνιση υπολογιστή 5</Value>
+      <Comment>PC5の起動</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2114</Key>
+      <Value>Διεύθυνση MAC υπολογιστή 5</Value>
+      <Comment>PC5のMACアドレス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>8</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2115</Key>
+      <Value>Αφύπνιση υπολογιστή 6</Value>
+      <Comment>PC6の起動</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2116</Key>
+      <Value>Διεύθυνση MAC υπολογιστή 6</Value>
+      <Comment>PC6のMACアドレス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>8</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2117</Key>
+      <Value>Αφύπνιση υπολογιστή 7</Value>
+      <Comment>PC7の起動</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2118</Key>
+      <Value>Διεύθυνση MAC υπολογιστή 7</Value>
+      <Comment>PC7のMACアドレス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>8</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2119</Key>
+      <Value>Αφύπνιση υπολογιστή 8</Value>
+      <Comment>PC8の起動</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2120</Key>
+      <Value>Διεύθυνση MAC υπολογιστή 8</Value>
+      <Comment>PC8のMACアドレス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>8</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2121</Key>
+      <Value>OK</Value>
+      <Comment>OK</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>7</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2122</Key>
+      <Value>Άκυρο</Value>
+      <Comment>Cancel</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>7</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2201</Key>
+      <Value>Απομακρυσμένη συντήρηση</Value>
+      <Comment>RemoteMaintenance</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2202</Key>
+      <Value>Εκτέλεση απομακρυσμένης συντήρησης</Value>
+      <Comment>RemoteMaintenance起動</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2203</Key>
+      <Value>ON</Value>
+      <Comment>ON</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2204</Key>
+      <Value>OK</Value>
+      <Comment>OK</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2205</Key>
+      <Value>Άκυρο</Value>
+      <Comment>Cancel</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2301</Key>
+      <Value>Εισαγωγή</Value>
+      <Comment>Import</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2302</Key>
+      <Value>Άκυρο</Value>
+      <Comment>Cancel</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2303</Key>
+      <Value>Καταχώριση</Value>
+      <Comment>Regist</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2304</Key>
+      <Value>Στοιχεία πελάτη</Value>
+      <Comment>Customer Info</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>4</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2305</Key>
+      <Value>Αναγνωριστικό πελάτη</Value>
+      <Comment>Customer ID</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>4</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2306</Key>
+      <Value>Επωνυμία ιδρύματος</Value>
+      <Comment>InstitutionName</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>3</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2307</Key>
+      <Value>Διεύθυνση ιδρύματος</Value>
+      <Comment>InstitutionAddress</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>4</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2308</Key>
+      <Value>Τηλέφωνο ιδρύματος</Value>
+      <Comment>InstitutionTel</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>4</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2401</Key>
+      <Value>Κοινός κωδικός</Value>
+      <Comment>Common Code</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>5</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2402</Key>
+      <Value>Επεξήγηση</Value>
+      <Comment>Explanation</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2403</Key>
+      <Value>Ποσό</Value>
+      <Comment>Amount</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2501</Key>
+      <Value>ΤΥΠΙΚΟ ΛΟΓΙΣΜΙΚΟ CS-7</Value>
+      <Comment>CS-7 STANDARD SOFTWARE</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>12</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2502</Key>
+      <Value>ΑΔΕΙΑ ΑΝΙΧΝΕΥΤΗ HQ CS-7 (ΜΕΓ. 4)</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>22</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2503</Key>
+      <Value>ΑΔΕΙΑ ΤΥΠΙΚΟΥ ΑΝΙΧΝΕΥΤΗ CS-7 (ΜΕΓ. 4)</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>21</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2504</Key>
+      <Value>ΣΥΝΔΕΣΗ ΣΥΣΚΕΥΗΣ ΑΚΤΙΝΩΝ Χ CS-7</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>14</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2505</Key>
+      <Value>ΣΥΝΔΕΣΗ ΑΣΥΡΜΑΤΟΥ ΤΟΠΙΚΟΥ ΔΙΚΤΥΟΥ CS-7</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2506</Key>
+      <Value>ΧΑΜΗΛΗ ΔΙΕΚΠΕΡΑΙΩΤΙΚΟΤΗΤΑ CR CS-7</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2507</Key>
+      <Value>ΜΕΤΡΙΑ ΔΙΕΚΠΕΡΑΙΩΤΙΚΟΤΗΤΑ CR CS-7</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2508</Key>
+      <Value>ΥΨΗΛΗ ΔΙΕΚΠΕΡΑΙΩΤΙΚΟΤΗΤΑ CR CS-7 (ΜΕΓ. 15)</Value>
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>18</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2509</Key>
+      <Value />
+      <Comment>CS-7 電子カルテシステム接続ライセンス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>21</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2510</Key>
+      <Value>ΣΥΝΔΕΣΗ MWM/DETACHED</Value>
+      <Comment>RIS-IN接続ライセンス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>13</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2511</Key>
+      <Value>ΣΥΝΔΕΣΗ MPPS/DETACHED</Value>
+      <Comment>RIS-OUT接続ライセンス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>14</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2512</Key>
+      <Value />
+      <Comment>CS-7 RISビルトイン接続ライセンス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2513</Key>
+      <Value>ΕΞΑΓΩΓΗ ΣΕ ΑΠΟΘΗΚΕΥΣΗ DICOM (ΜΕΓ. 4)</Value>
+      <Comment>CS-7 ホスト出力追加ライセンス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>17</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2514</Key>
+      <Value>ΕΚΤΥΠΩΣΗ DICOM (ΜΕΓ. 2)</Value>
+      <Comment>CS-7 PRINTER接続ライセンス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>19</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2515</Key>
+      <Value>ΑΠΟΘΗΚΕΥΣΗ ΣΕ ΜΕΣΑ CS-7</Value>
+      <Comment>CS-7 メディア出力ライセンス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>16</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2516</Key>
+      <Value>ΑΠΛΗ ΡΥΘΜΙΣΗ ΚΛΕΙΔΙΟΥ ΕΤΙΚΕΤΑΣ CS-7</Value>
+      <Comment>簡易版条件キーライセンス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>17</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2517</Key>
+      <Value>ΛΕΠΤΟΜΕΡΗΣ ΡΥΘΜΙΣΗ ΚΛΕΙΔΙΟΥ ΕΤΙΚΕΤΑΣ CS-7</Value>
+      <Comment>詳細版条件キーライセンス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>17</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2518</Key>
+      <Value>ΛΕΠΤΟΜΕΡΗΣ ΡΥΘΜΙΣΗ ΕΙΚΟΝΑΣ</Value>
+      <Comment>CS-7 詳細版画像処理ライセンス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>17</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2519</Key>
+      <Value>ΛΕΠΤΟΜΕΡΗ ΣΧΟΛΙΑ CS-7</Value>
+      <Comment>詳細版アノテーションライセンス</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>20</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3001</Key>
+      <Value>Η προσωρινή άδεια χρήσης έληξε.  Εγγραφείτε για την άδεια χρήσης.</Value>
+      <Comment>試用期間あるいは基本ライセンスが切れています。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>23</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3002</Key>
+      <Value>Η προσωρινή άδεια χρήσης χρησιμοποιείται.  
+Θα λήξει σε {0}ημέρα(ες) {1}ώρα(ες) {2}λεπτό(ά).  
+Εγγραφείτε για την άδεια χρήσης.</Value>
+      <Comment>試用期間の期限が{0}日まで迫っています。LMSライセンスの登録をお願いします。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>9</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3003</Key>
+      <Value>Η καταχώριση του εξοπλισμού CS-7 δεν έχει ολοκληρωθεί.  
+Εκτελέστε την Καταχώριση εξοπλισμού.</Value>
+      <Comment>CS-7の機器登録が行われていません。機器登録を行ってください。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>30</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3004</Key>
+      <Value>Η άδεια χρήσης έληξε.  
+Ελέγξτε την άδεια χρήσης σας.</Value>
+      <Comment>ライセンスが無効になっています。ライセンスを確認してください。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>33</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3005</Key>
+      <Value>Το CS-7 έχει ήδη αρχίσει να λειτουργεί</Value>
+      <Comment>既にCS-7は起動中です。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>11</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3006</Key>
+      <Value>Η βασική άδεια χρήσης έληξε.</Value>
+      <Comment>基本ライセンスが切れています。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>15</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3007</Key>
+      <Value>Δεν είναι δυνατή η καταχώριση της άδειας χρήσης για μη έγκυρη διεύθυνση MAC.
+Επιβεβαιώστε ότι η άδεια χρήσης αντιστοιχεί στον εξοπλισμό. </Value>
+      <Comment>ライセンスのMACアドレスと機器のMACアドレスが異なるため、登録できません。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>40</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3008</Key>
+      <Value>Δεν ήταν δυνατή η ανάγνωση του αρχείου άδειας χρήσης LMS.</Value>
+      <Comment>LMSライセンスファイルの読み込みに失敗しました。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>26</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3009</Key>
+      <Value>Δεν ήταν δυνατή η καταχώριση του αρχείου άδειας χρήσης LMS.</Value>
+      <Comment>LMSライセンスファイルの登録に失敗しました。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>26</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3010</Key>
+      <Value>Δεν ήταν δυνατή η ανάγνωση του αρχείου ρύθμισης παραμέτρων της αφύπνισης.</Value>
+      <Comment>WakeOnLAN設定ファイルの読み込みに失敗しました。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>29</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3011</Key>
+      <Value>Δεν ήταν δυνατή η καταχώριση του αρχείου ρύθμισης παραμέτρων της αφύπνισης μέσω τοπικού δικτύου.</Value>
+      <Comment>WakeOnLAN設定ファイルの登録に失敗しました。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>27</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3012</Key>
+      <Value>Δεν ήταν δυνατή η ανάγνωση του αρχείου ρύθμισης παραμέτρων της απομακρυσμένης συντήρησης.</Value>
+      <Comment>リモートメンテナンス設定ファイルの読み込みに失敗しました。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>30</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3013</Key>
+      <Value>Δεν ήταν δυνατή η καταχώριση του αρχείου ρύθμισης παραμέτρων της απομακρυσμένης συντήρησης.</Value>
+      <Comment>リモートメンテナンス設定ファイルの登録に失敗しました。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>28</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3014</Key>
+      <Value>Σφάλμα μη έγκυρης άδειας χρήσης. Καταχωρίστε μια γνήσια άδεια χρήσης.</Value>
+      <Comment>不正なライセンスエラーです。ライセンス登録をお願いします。</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>30</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>4001</Key>
+      <Value>Σφάλμα</Value>
+      <Comment>エラー</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>3</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>4002</Key>
+      <Value>Προειδοποίηση</Value>
+      <Comment>警告</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Segoe UI</FontName>
+      <MaxNumber>2</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

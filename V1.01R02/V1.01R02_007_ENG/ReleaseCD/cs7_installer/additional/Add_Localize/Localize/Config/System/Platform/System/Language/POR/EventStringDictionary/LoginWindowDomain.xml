@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="LoginWindowDomain0000">
+      <Title />
+      <Message>O utilizador: "{USERNAME}" efetuou o login. O utilizador: "{USERNAME}"deve efetuar o logoff antes que possa efetuar o login. Efetuar logoff do utilizador: "{USERNAME}"?</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0001">
+      <Title />
+      <Message>Nome de utilizador e palavra-passe incorretos.</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0002">
+      <Title>Erro</Title>
+      <Message>Login cancelado</Message>
+    </EventString>
+    <EventString Key="LoginWindowDomain0003">
+      <Title>Erro</Title>
+      <Message>O sistema não pode ser ligado pelo utilizador atual. {ERRORS}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

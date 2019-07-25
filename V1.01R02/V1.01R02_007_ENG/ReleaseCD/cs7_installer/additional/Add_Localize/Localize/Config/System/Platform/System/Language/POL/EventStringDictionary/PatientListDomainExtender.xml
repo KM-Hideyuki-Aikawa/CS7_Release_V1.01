@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="PatientListDomainExtender0000">
+      <Title />
+      <Message>Wprowadzony rok jest nieprawidłowy</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0001">
+      <Title />
+      <Message>Wprowadzony miesiąc jest nieprawidłowy</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0002">
+      <Title />
+      <Message>Wprowadzony dzień jest nieprawidłowy</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0003">
+      <Title />
+      <Message>Wartość spoza zakresu</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0004">
+      <Title />
+      <Message>Długość jest większa niż MaxLength</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0005">
+      <Title />
+      <Message>Długość jest mniejsza niż MinLength</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0006">
+      <Title />
+      <Message>Wprowadzona wartość nie jest numeryczna</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0007">
+      <Title />
+      <Message>Wprowadzona wartość jest nieprawidłowa</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0008">
+      <Title />
+      <Message>Dozwolone są tylko znaki alfabetu</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0009">
+      <Title />
+      <Message>Dozwolone są tylko znaki Kana</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0010">
+      <Title />
+      <Message>Nieprawidłowa wartość. Nie można użyć znaku "\".</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0011">
+      <Title />
+      <Message>Ten znak nie jest dozwolony</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0012">
+      <Title>Potwierdzenie</Title>
+      <Message>Czy chcesz usunąć wybrany wpis?</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0013">
+      <Title />
+      <Message>Nieprawidłowa wartość. Nie można użyć znaków "\", "^" i "=" .</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0014">
+      <Title />
+      <Message>Nieprawidłowa wartość. Nie można użyć znaków "\" i "=".</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0015">
+      <Title />
+      <Message>Czy chcesz zawiesić badanie?</Message>
+    </EventString>
+    <EventString Key="PatientListDomainExtender0016">
+      <Title>Wyszukiwanie kodów kreskowych</Title>
+      <Message>Podane informacje odpowiadają wielu badaniom {0}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

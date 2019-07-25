@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="RISOutDomainExtender0001">
+      <Title>Statut du ping</Title>
+      <Message>Connexion réussie.</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0002">
+      <Title>Statut du ping</Title>
+      <Message>Échec de connexion.</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0003">
+      <Title />
+      <Message>D'accord pour supprimer la file d'attente sélectionnée ?</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0004">
+      <Title>Attention</Title>
+      <Message>Veuillez sélectionner la(les) file(s) à supprimer.</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0005">
+      <Title>Confirmation</Title>
+      <Message>D'accord pour supprimer la file d'attente sélectionnée ?</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0006">
+      <Title>Information</Title>
+      <Message>Suppression réussie des files d'attente sélectionnées</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0007">
+      <Title>Erreur</Title>
+      <Message>Erreur de suppression de la file.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

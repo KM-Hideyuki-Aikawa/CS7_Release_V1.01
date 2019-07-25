@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalizeDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalizeList>
+    <LocalizeInfo>
+      <Key>AutoResizeSettingsView</Key>
+      <Value>オートリサイズ設定</Value>
+      <Comment>Auto Size Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AutoResizeLabelExplanationData</Key>
+      <Value>HOSTの最大受信サイズに制限がある場合、上限サイズを指定します．</Value>
+      <Comment>Specify the upper threshold size for size when there is a restriction for maximum reception size in HOST side.</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>AvailableLabelData</Key>
+      <Value>リサイズを有効する (このバージョンでは有効にしないでください)</Value>
+      <Comment>Resize existence</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>FileSizeLabelData</Key>
+      <Value>上限サイズ [Byte]</Value>
+      <Comment>Byte</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OutputSettingsView</Key>
+      <Value>出力設定</Value>
+      <Comment>Output Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SkipErrorQueueLabelData</Key>
+      <Value>エラーキュー出力</Value>
+      <Comment>Error Queue Output.</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SkipErrorQueueLabelExplanationData</Key>
+      <Value>出力エラー発生時に次キューの出力を行う場合、ONを指定します．</Value>
+      <Comment>Specify ON when performing the following queue process during output error generation.</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SameSOPInstanceUIDLabelData</Key>
+      <Value>同一UID符番</Value>
+      <Comment>Identical UID Number</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SameSOPInstanceUIDLabelExplanationData</Key>
+      <Value>同一画像を複数HOSTへ配信する時にSOPインスタンスUIDを同一にする場合、ONを指定します．</Value>
+      <Comment>Speicfy ON when making the SOP instance UID identical when delivering identical image to multiple host.</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StoredDaysTimeoutLabelData</Key>
+      <Value>タイムアウト日数</Value>
+      <Comment>Time out days</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StoredDaysTimeoutLabelExplanationData</Key>
+      <Value>Storage Commitmentのタイムアウトの日数を指定します．</Value>
+      <Comment>Specify the timeout days of Storage Commitment</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TimeoutActionLabelData</Key>
+      <Value>タイムアウト時の動作</Value>
+      <Comment>Action During Timeout</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TimeoutActionLabelExplanationData</Key>
+      <Value>Storage Commitmentのタイムアウト発生時の動作を指定します．</Value>
+      <Comment>Specify the operation during the timeout generation</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DICOMSettingsView</Key>
+      <Value>DICOMタグ拡張設定</Value>
+      <Comment>DICOM Expansion Stettings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StudyDescriptionLabelData</Key>
+      <Value>検査記述子(0008,1030)</Value>
+      <Comment>Inspection Descriptor</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ProtocolNameLabelData</Key>
+      <Value>プロトコル名(0018,1030)</Value>
+      <Comment>Protocol Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SeriesDescriptionLabelData</Key>
+      <Value>シリーズ記述子(0008,103E)</Value>
+      <Comment>Series Descriptor</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PixelSpacingLabelData</Key>
+      <Value>画像画素間隔(0018,1164), 画素間隔(0028,0030)</Value>
+      <Comment>Pixel Interval</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>RelativeXrayExposureLabelData</Key>
+      <Value>相対X線量(0018,1164)</Value>
+      <Comment>Relative X Ray Dosage</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WindowCenterLabelData</Key>
+      <Value>ウィンドウ中心(0028,1050)</Value>
+      <Comment>Window Center</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>WindowWidthLabelData</Key>
+      <Value>ウィンドウ幅(0028,1051)</Value>
+      <Comment>Window Width</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageSettingsView</Key>
+      <Value>画像設定</Value>
+      <Comment>Image Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageReductionModeLabelData</Key>
+      <Value>縮小方法</Value>
+      <Comment>Reduction Mode</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageReductionModeLabelExplanationData</Key>
+      <Value>オートリサイズする場合の縮小方法を指定します．</Value>
+      <Comment>Specify the reduction method in case of reducing and sending the image.</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresentationSizeModeLabelData</Key>
+      <Value>提示寸法モード</Value>
+      <Comment>Presentation Size Mode</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresentationSizeModeLabelExplanationData</Key>
+      <Value>GSPSのHOSTに対して要求する表示方法を指定します．</Value>
+      <Comment>Specify the display method that will be requested from host.</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>HostDisplaySettingsView</Key>
+      <Value>機器設定</Value>
+      <Comment>Device Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresetSelectionLabelData</Key>
+      <Value>プリセット選択</Value>
+      <Comment>Preset Selection</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PresetSelectionLabelExplanationData</Key>
+      <Value>接続するHOSTを選択します．</Value>
+      <Comment>Target manufactured goods will be selected when associated with in-house product</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MarkerNameLabelData</Key>
+      <Value>メーカー名称</Value>
+      <Comment>Maker Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MarkerNameLabelExplanationData</Key>
+      <Value>接続するHOSTのメーカー名称を入力します．</Value>
+      <Comment>Input the maker name of to be connected host.</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ModelNameLabelData</Key>
+      <Value>モデル名称</Value>
+      <Comment>Model Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ModelNameLabelExplanationData</Key>
+      <Value>接続するHOSTのモデル名称を入力します．</Value>
+      <Comment>Input the model name of to be connected host</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NameLabelData</Key>
+      <Value>表示名称</Value>
+      <Comment>Name</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>NameLabelExplanationData</Key>
+      <Value>画面へ表示する名称を指定します．</Value>
+      <Comment>Specify the name to be displayed on system monitor etc</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GeneralSettingsView</Key>
+      <Value>コマンド設定</Value>
+      <Comment>Command Setting</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ServicesClassLabelData</Key>
+      <Value>サービスクラス</Value>
+      <Comment>Service Class</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageIODLabelData</Key>
+      <Value>画像IOD</Value>
+      <Comment>Image IOD</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageIODLabelExplanationData</Key>
+      <Value>画像付帯情報の種別を指定します．</Value>
+      <Comment>Process method of image will be specified. No process will be specified in case of in-house products</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StorageCommitmentLabelData</Key>
+      <Value>Storage Commitment</Value>
+      <Comment>Storage Commitment</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>StorageCommitmentLabelExplanationData</Key>
+      <Value>Storage Commitmentを使用する場合、ONを指定します。</Value>
+      <Comment>Storage Commitmentを使用する場合、ONを指定します．</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GSPSLabelData</Key>
+      <Value>GSPS</Value>
+      <Comment>GSPS</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GSPSLabelExplanationData</Key>
+      <Value>GSPSを使用する場合、ONを指定します．</Value>
+      <Comment>Specify ON when using GSPS</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageLabelData</Key>
+      <Value>画像</Value>
+      <Comment>Image</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PhotometricLabelData</Key>
+      <Value>光度測定解釈</Value>
+      <Comment>Photometric Interpretation</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>PhotometricLabelExplanationData</Key>
+      <Value>画像の解釈(MONOCHROME1 0=白、MONOCHROME2 0=黒)を指定します．</Value>
+      <Comment>Specify how to measure the brightness. Specify monochrome 1(pixel minimum vlue = white color) in case of in-house product.)</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageProcessingLabelData</Key>
+      <Value>画像処理</Value>
+      <Comment>Image Processing</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ImageProcessingLabelExplanationData</Key>
+      <Value>画像の処理方法を指定します．</Value>
+      <Comment>Specify how to process image. Specify no processing in case of in-house product.</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DICOMClientSettingsView</Key>
+      <Value>通信設定</Value>
+      <Comment>Communication Settings</Comment>
+      <Link />
+      <FontSize>12</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TCPIPLabelData</Key>
+      <Value>TCP/IP</Value>
+      <Comment>TCP/IP</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IPAddress1LabelData</Key>
+      <Value>IPアドレス</Value>
+      <Comment>IP Address</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IPAddress1LabelExplanationData</Key>
+      <Value>HOSTのIPアドレスを指定します．</Value>
+      <Comment>Specify host IP address</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IPAddress2LabelData</Key>
+      <Value>IPアドレス(Storage Commitment)</Value>
+      <Comment>IP Address (Storage Commitment)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IPAddress2LabelExplanationData</Key>
+      <Value>HOSTのIPアドレス(Storage Commitment)を指定します．</Value>
+      <Comment>Specify host IP address</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Port1LabelData</Key>
+      <Value>ポート番号</Value>
+      <Comment>Port Number</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Port1LabelExplanationData</Key>
+      <Value>HOSTのポート番号を指定します．</Value>
+      <Comment>Specify communication port with host</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Port2LabelData</Key>
+      <Value>ポート番号(Storage Commitment)</Value>
+      <Comment>Port Number (Storage Commitment)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Port2LabelExplanationData</Key>
+      <Value>HOSTのポート番号(Storage Commitment)を指定します．</Value>
+      <Comment>Specify  communication port with host</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DICOMLabelData</Key>
+      <Value>DICOM</Value>
+      <Comment>DICOM</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransferSyntax1LabelData</Key>
+      <Value>転送構文</Value>
+      <Comment>Transfer Syntax</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransferSyntax1LabelExplanationData</Key>
+      <Value>HOSTの転送構文を指定します．</Value>
+      <Comment>Specify transfer syntax</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransferSyntax2LabelData</Key>
+      <Value>転送構文(Storage Commitment)</Value>
+      <Comment>Transfer Syntax ( Storage Commitment)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TransferSyntax2LabelExplanationData</Key>
+      <Value>HOSTの転送構文(Storage Commitment)を指定します．</Value>
+      <Comment>Specify transfer syntax</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ServerAE1LabelData</Key>
+      <Value>HOST AEタイトル</Value>
+      <Comment>HOST Side AE Title</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ServerAE1LabelExplanationData</Key>
+      <Value>HOSTのAEタイトルを指定します．</Value>
+      <Comment>Specify host side AE title</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ServerAE2LabelData</Key>
+      <Value>HOST AEタイトル(Storage Commitment)</Value>
+      <Comment>HOST Side AE Title(Storage Commitment)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ServerAE2ExplanationData</Key>
+      <Value>HOSTのHOST AEタイトル(Storage Commitment)を指定します．</Value>
+      <Comment>Specify AE title of host side</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ClientAE1LabelData</Key>
+      <Value>CS-7 AEタイトル</Value>
+      <Comment>CS-7 Side AE Title</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ClientAE1LabelExplanationData</Key>
+      <Value>CS-7のAEタイトルを指定します．</Value>
+      <Comment>Specify console side AE title</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ClientAE2LabelData</Key>
+      <Value>CS-7 AEタイトル(Storage Commitment)</Value>
+      <Comment>CS-7 Side AE Title(Storage Commitment)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ClientAE2LabelExplanationData</Key>
+      <Value>CS-7のAEタイトル(Storage Commitment)を指定します．</Value>
+      <Comment>Specify console side AE title</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CharacterCode1LabelData</Key>
+      <Value>キャラクタセット</Value>
+      <Comment>Character Set</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CharacterCode1LabelExplanationData</Key>
+      <Value>キャラクタセットを指定します．</Value>
+      <Comment>Specify the character set used in communication</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CharacterCode2LabelData</Key>
+      <Value>キャラクタセット(Storage Commitment)</Value>
+      <Comment>Character Set ( Storage Commitment)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CharacterCode2LabelExplanationData</Key>
+      <Value>キャラクタセット(Storage Commitment)を指定します．</Value>
+      <Comment>Specify character set used in communication</Comment>
+      <Link />
+      <FontSize>9</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>I-PACS</Key>
+      <Value>I-PACS</Value>
+      <Comment>I-PACS</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>I-PACS EX</Key>
+      <Value>I-PACS EX</Value>
+      <Comment>I-PACS EX</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>I-PACS QA</Key>
+      <Value>I-PACS QA</Value>
+      <Comment>I-PACS QA</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Acies</Key>
+      <Value />
+      <Comment />
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OTHER</Key>
+      <Value>他社接続</Value>
+      <Comment>OTHER</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>GeneralSetting</Key>
+      <Value>General Setting</Value>
+      <Comment>General Setting</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IPACEX</Key>
+      <Value>IPAC EX</Value>
+      <Comment>IPAC EX</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1K</Key>
+      <Value>1K</Value>
+      <Comment>1K</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2K</Key>
+      <Value>2K</Value>
+      <Comment>2K</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CR</Key>
+      <Value>CR</Value>
+      <Comment>CR</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DX</Key>
+      <Value>DX</Value>
+      <Comment>DX</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CR+MG</Key>
+      <Value>CR+MG (選択禁止)</Value>
+      <Comment>CR+MG</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>DX+MG</Key>
+      <Value>DX+MG (選択禁止)</Value>
+      <Comment>DX+MG</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CR+DX</Key>
+      <Value>CR+DX (選択禁止)</Value>
+      <Comment>CR+DX</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>CR+DX+MG</Key>
+      <Value>CR+DX+MG (選択禁止)</Value>
+      <Comment>CR+DX+MG</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>OFF</Key>
+      <Value>OFF</Value>
+      <Comment>OFF</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ON</Key>
+      <Value>ON</Value>
+      <Comment>ON</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MONOCHROME1</Key>
+      <Value>MONOCHROME1 (選択禁止)</Value>
+      <Comment>MONOCHROME1</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MONOCHROME2</Key>
+      <Value>MONOCHROME2</Value>
+      <Comment>MONOCHROME2</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>P-Val.Presentation</Key>
+      <Value>画像処理済 P値</Value>
+      <Comment>P-Val.Presentation</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Normarized</Key>
+      <Value>正規化済</Value>
+      <Comment>Normarized</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>E/F/H Processed</Key>
+      <Value>E/F/H処理済 (選択禁止)</Value>
+      <Comment>E/F/H Processed</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Corrected</Key>
+      <Value>補正処理済 (選択禁止)</Value>
+      <Comment>Corrected</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Implicit VR Little Endian</Key>
+      <Value>暗黙的VRリトルエンディアン</Value>
+      <Comment>Implicit VR Little Endian</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Explicit VR Little Endian</Key>
+      <Value>明示的VRリトルエンディアン</Value>
+      <Comment>Explicit VR Little Endian</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Explicit VR Big Endian</Key>
+      <Value>明示的VRビックエンディアン</Value>
+      <Comment>Explicit VR Big Endian</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>JPEG Lossless</Key>
+      <Value>可逆JPEG</Value>
+      <Comment>JPEG Lossless</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ASCII</Key>
+      <Value>ASCII</Value>
+      <Comment>ASCII</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ASCII\kanji\hiragana</Key>
+      <Value>ASCII\漢字\ひらがな</Value>
+      <Comment>ASCII\kanji\hiragana</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>kana \kanji\hiragana</Key>
+      <Value>ｶﾀｶﾅ\漢字\ひらがな</Value>
+      <Comment>kana \kanji\hiragana</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ASCII\kanji\kana</Key>
+      <Value>ASCII\漢字\ｶﾀｶﾅ</Value>
+      <Comment>ASCII\kanji\kana</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Latin1</Key>
+      <Value>Latin1</Value>
+      <Comment>Latin1</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Shift-JIS</Key>
+      <Value>Shift-JIS</Value>
+      <Comment>Shift-JIS</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Sprine</Key>
+      <Value>スプライン法</Value>
+      <Comment>Sprine</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Decimate/Crop</Key>
+      <Value>単純間引</Value>
+      <Comment>Decimate/Crop</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Bilinear</Key>
+      <Value>近傍平均</Value>
+      <Comment>Bilinear</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SINC</Key>
+      <Value>SINC法</Value>
+      <Comment>SINC</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>MAGNIFY</Key>
+      <Value>MAGNIFY</Value>
+      <Comment>MAGNIFY</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>SCALE TO FIT</Key>
+      <Value>SCALE TO FIT</Value>
+      <Comment>SCALE TO FIT</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>TRUE SIZE</Key>
+      <Value>TRUE SIZE</Value>
+      <Comment>TRUE SIZE</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>None</Key>
+      <Value>出力しない</Value>
+      <Comment>None</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExpName</Key>
+      <Value>撮影条件キー名称</Value>
+      <Comment>ExpName</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IppName</Key>
+      <Value>画像処理パラメータ名称</Value>
+      <Comment>IppName</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExpName(Exam Tag)</Key>
+      <Value>撮影条件キー名称(キー)</Value>
+      <Comment>ExpName(Exam Tag)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExpName(Group Name)</Key>
+      <Value>撮影条件キー名称(グループ)</Value>
+      <Comment>ExpName(Group Name)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>ExpName(BodyParts)</Key>
+      <Value>撮影条件キー名称(部位)</Value>
+      <Comment>ExpName(BodyParts)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Reading Pixel Size</Key>
+      <Value>(0018,1164) 読取解像度, (0028,0030) 読取解像度</Value>
+      <Comment>Reading Pixel Size</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Imager Pixel Spacing:Reading Pixel Size,Pixel Spacing:Output Pixel Size</Key>
+      <Value>(0018,1164) 読取解像度, (0028,0030) 出力解像度</Value>
+      <Comment>Imager Pixel Spacing:Reading Pixel Size,Pixel Spacing:Output Pixel Size</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Output Pixel Size</Key>
+      <Value>(0018,1164) 出力解像度, (0028,0030) 出力解像度</Value>
+      <Comment>Output Pixel Size</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Modified</Key>
+      <Value>標準(調整済み結果)</Value>
+      <Comment>Modified</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Auto</Key>
+      <Value>自動算出結果</Value>
+      <Comment>Auto</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>1</Key>
+      <Value>1</Value>
+      <Comment>1</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>2</Key>
+      <Value>2</Value>
+      <Comment>2</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>3</Key>
+      <Value>3</Value>
+      <Comment>3</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>4</Key>
+      <Value>4</Value>
+      <Comment>4</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>5</Key>
+      <Value>5</Value>
+      <Comment>5</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>6</Key>
+      <Value>6</Value>
+      <Comment>6</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>7</Key>
+      <Value>7</Value>
+      <Comment>7</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>8</Key>
+      <Value>8</Value>
+      <Comment>8</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>9</Key>
+      <Value>9</Value>
+      <Comment>9</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>10</Key>
+      <Value>10</Value>
+      <Comment>10</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>11</Key>
+      <Value>11</Value>
+      <Comment>11</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>12</Key>
+      <Value>12</Value>
+      <Comment>12</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>13</Key>
+      <Value>13</Value>
+      <Comment>13</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>14</Key>
+      <Value>14</Value>
+      <Comment>14</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>15</Key>
+      <Value>15</Value>
+      <Comment>15</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>16</Key>
+      <Value>16</Value>
+      <Comment>16</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>17</Key>
+      <Value>17</Value>
+      <Comment>17</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>18</Key>
+      <Value>18</Value>
+      <Comment>18</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>19</Key>
+      <Value>19</Value>
+      <Comment>19</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>20</Key>
+      <Value>20</Value>
+      <Comment>20</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>21</Key>
+      <Value>21</Value>
+      <Comment>21</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>22</Key>
+      <Value>22</Value>
+      <Comment>22</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>23</Key>
+      <Value>23</Value>
+      <Comment>23</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>24</Key>
+      <Value>24</Value>
+      <Comment>24</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>25</Key>
+      <Value>25</Value>
+      <Comment>25</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>26</Key>
+      <Value>26</Value>
+      <Comment>26</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>27</Key>
+      <Value>27</Value>
+      <Comment>27</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>28</Key>
+      <Value>28</Value>
+      <Comment>28</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>29</Key>
+      <Value>29</Value>
+      <Comment>29</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>30</Key>
+      <Value>30</Value>
+      <Comment>30</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>31</Key>
+      <Value>31</Value>
+      <Comment>31</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Retry of Storage(Inherit SOP Inst.)</Key>
+      <Value>SOPインスタンスUID引継 Storageからリトライ</Value>
+      <Comment>Retry of Storage(Inherit SOP Inst.)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Retry of Storage(Discard SOP Inst.)</Key>
+      <Value>SOPインスタンスUID引継無し Storageからリトライ</Value>
+      <Comment>Retry of Storage(Discard SOP Inst.)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Retry of Storage Commitment</Key>
+      <Value>StorageCommitmentのみリトライ</Value>
+      <Comment>Retry of Storage Commitment</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>No Retry(Outputting Queue OFF)</Key>
+      <Value>リトライしない</Value>
+      <Comment>No Retry(Outputting Queue OFF)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>Meiryo</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>IPACS EX</Key>
+      <Value>IPACS EX</Value>
+      <Comment>IPACS EX</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>P-Val.Presentation(Others)</Key>
+      <Value>画像処理済,P値(他社接続)</Value>
+      <Comment>P-Val.Presentation(Others)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Raw Data(Konica Host)</Key>
+      <Value>処理なし(ｺﾆｶ接続)</Value>
+      <Comment>Raw Data(Konica Host)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>Raw Data HS ON(Konica Host)</Key>
+      <Value>処理無し HS ON適用(ｺﾆｶ接続)</Value>
+      <Comment>Raw Data HS ON(Konica Host)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+    <LocalizeInfo>
+      <Key>D-Val.Presentation(Others)</Key>
+      <Value>画像処理済,D値(他社接続)</Value>
+      <Comment>D-Val.Presentation(Others)</Comment>
+      <Link />
+      <FontSize>10</FontSize>
+      <FontName>MS UI Gothic</FontName>
+      <MaxNumber>10</MaxNumber>
+    </LocalizeInfo>
+  </LocalizeList>
+</LocalizeDictionary>

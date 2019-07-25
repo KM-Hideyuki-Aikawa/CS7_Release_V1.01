@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0001">
+      <Title>Hata</Title>
+      <Message>Başlatma Hatası</Message>
+    </EventString>
+    <EventString Key="0002">
+      <Title>Bilgi</Title>
+      <Message>Kaynaştırma Başarılı</Message>
+    </EventString>
+    <EventString Key="0003">
+      <Title>Hata</Title>
+      <Message>Dizin Bulunamadı</Message>
+    </EventString>
+    <EventString Key="0004">
+      <Title>Hata</Title>
+      <Message>Dosya Bulunamadı</Message>
+    </EventString>
+    <EventString Key="0005">
+      <Title>Hata</Title>
+      <Message>Sentaks Hatası</Message>
+    </EventString>
+    <EventString Key="0006">
+      <Title>Hata</Title>
+      <Message>Yedekleme silmede hata gerçekleşti </Message>
+    </EventString>
+    <EventString Key="0007">
+      <Title>Hata</Title>
+      <Message>Yedekleme oluşturmada hata gerçekleşti</Message>
+    </EventString>
+    <EventString Key="0008">
+      <Title>Hata</Title>
+      <Message>Verilere erişimde hata gerçekleşti</Message>
+    </EventString>
+    <EventString Key="0009">
+      <Title>Hata</Title>
+      <Message>Kaydetmede hata gerçekleşti</Message>
+    </EventString>
+    <EventString Key="0010">
+      <Title>Hata</Title>
+      <Message>Endeks bulmada hata gerçekleşti</Message>
+    </EventString>
+    <EventString Key="0011">
+      <Title>Hata</Title>
+      <Message>Veri birleştirmede hata gerçekleşti</Message>
+    </EventString>
+    <EventString Key="0012">
+      <Title>Hata</Title>
+      <Message>Kalibrasyon verisi kopyalamada hata gerçekleşti</Message>
+    </EventString>
+    <EventString Key="0013">
+      <Title>Hata</Title>
+      <Message>İstisna gerçekleşti</Message>
+    </EventString>
+    <EventString Key="0014">
+      <Title>Hata</Title>
+      <Message>İstisna gerçekleşti</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<MonitorLUTSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MonitorLUTFilePath>..\Config\Calibration\CRT_LUT\</MonitorLUTFilePath>
+  <LUTSettingList>
+    <LUTSetting ViewID="0">
+      <DefaultMonitorSetting>
+        <MonitorName>EIZO.FlexScanT1751</MonitorName>
+        <ApplyLUT>gray_blue1.mlut</ApplyLUT>
+      </DefaultMonitorSetting>
+      <MonitorSetting>
+        <MachineName></MachineName>
+        <DisplayName></DisplayName>
+        <ApplyLUT></ApplyLUT>
+      </MonitorSetting>
+    </LUTSetting>
+  </LUTSettingList>
+</MonitorLUTSetting>

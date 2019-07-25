@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="OrderListDomain0001">
+      <Title>Error</Title>
+      <Message>DB Update Error.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0002">
+      <Title>Warning</Title>
+      <Message>Invalid value, Perform not possible.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0003">
+      <Title>Warning</Title>
+      <Message>Input is Mandatory.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0004">
+      <Title>Error</Title>
+      <Message>Perform Not Possible.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0005">
+      <Title>Patient Update Error</Title>
+      <Message>Patient Update Error.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0006">
+      <Title>Information</Title>
+      <Message>DB data got udapted, Updated Study will be displayed.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0007">
+      <Title>Error</Title>
+      <Message>Study got deleted from database, Perform operation is not possible.</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0008">
+      <Title>Confirmation</Title>
+      <Message>Same Patient ID:  {0},Patient Name: {1},Sex: {2},DOB:{3} available in Database, do you want to use the DB data?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0009">
+      <Title>Confirmation</Title>
+      <Message>Study is in progress state, Do you want to perform?</Message>
+    </EventString>
+    <EventString Key="OrderListDomain0010">
+      <Title>Warning</Title>
+      <Message>Study is Already Performed in Another Console.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

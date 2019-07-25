@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="ConsoleSystemDomain0001">
+      <Title />
+      <Message>طاقة البطارية المتبقية منخفضة. اشحن البطارية.</Message>
+    </EventString>
+    <EventString Key="ConsoleSystemDomain0003">
+      <Title />
+      <Message>لا يمكن التقاط الصور بسبب انخفاض طاقة البطارية. اشحن البطارية.</Message>
+    </EventString>
+    <EventString Key="ConsoleSystemDomain0005">
+      <Title>نجاح التسجيل</Title>
+      <Message>جهاز AeroDR التالي مسجل.اسم 
+AeroDR:‎‏&amp; {DeviceName}</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="RISOutDomainExtender0001">
+      <Title>Stato ping</Title>
+      <Message>Connesso con successo.</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0002">
+      <Title>Stato ping</Title>
+      <Message>Impossibile collegarsi.</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0003">
+      <Title />
+      <Message>Si vuole cancellare la coda selezionata?</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0004">
+      <Title>Attenzione</Title>
+      <Message>Selezionare la cosa(e) che va cancellata.</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0005">
+      <Title>Conferma</Title>
+      <Message>Si vuole cancellare la coda selezionata?</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0006">
+      <Title>Informazione</Title>
+      <Message>Cancellato con successo le code selezionate</Message>
+    </EventString>
+    <EventString Key="RISOutDomainExtender0007">
+      <Title>Errore</Title>
+      <Message>Errore nella cancellazione coda.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

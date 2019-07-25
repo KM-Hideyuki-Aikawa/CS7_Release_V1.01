@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="0101">
+      <Title />
+      <Message>Pretende alterar o tamanho do corpo, Por favor confirme?</Message>
+    </EventString>
+    <EventString Key="0102">
+      <Title />
+      <Message>Resultados de exposição aplicados a mais de um pedido. Etiquetas de exame "{EXAM_TAGS_INFO}"</Message>
+    </EventString>
+    <EventString Key="0103">
+      <Title />
+      <Message>Não foi possível encontrar Pedido correspondente para aplicar os resultados de exposição. Por favor verifique.</Message>
+    </EventString>
+    <EventString Key="0104">
+      <Title />
+      <Message>AEC para condição de exposição CR não pode LIGAR. Concorda em DESLIGAR o AEC?</Message>
+    </EventString>
+    <EventString Key="0105">
+      <Title />
+      <Message>Tamanho do paciente não pode ser alterado por alguma ordem. Por favor verifique.</Message>
+    </EventString>
+    <EventString Key="0106">
+      <Title />
+      <Message>Pretende sobrescreve o tamanho do colimador?</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>

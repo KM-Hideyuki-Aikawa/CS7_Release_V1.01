@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventStringDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventStringList>
+    <EventString Key="40001">
+      <Title>Błąd podczas tworzenia pliku kolejki</Title>
+      <Message>Nie można utworzyć pliku kolejki.</Message>
+    </EventString>
+    <EventString Key="40002">
+      <Title>Błąd kolejkowania</Title>
+      <Message>Nie można utworzyć kolejki.</Message>
+    </EventString>
+    <EventString Key="40003">
+      <Title>Kolejkowanie nie powiodło się</Title>
+      <Message>Osiągnięto wartość graniczną zliczeń ponownych prób dla kolejki.</Message>
+    </EventString>
+  </EventStringList>
+</EventStringDictionary>
